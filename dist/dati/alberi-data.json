@@ -1,0 +1,1794 @@
+{
+ "schema_version": "1.1",
+ "generato": "2026-09-24",
+ "species": [
+  {
+   "id": "fagus-sylvatica",
+   "nome_comune": "Faggio",
+   "nome_scientifico": "Fagus sylvatica",
+   "famiglia": "Fagaceae",
+   "genere": "Fagus",
+   "sinonimi": [
+    "Faggio comune"
+   ],
+   "nomi_locali": [],
+   "stato": "bozza",
+   "aggiornato": "2026-09-24",
+   "chiave": {
+    "gruppo": "latifoglia",
+    "persistenza": "caduca",
+    "foglia_tipo": "semplice",
+    "foglia_disposizione": "alterna",
+    "foglia_margine": [
+     "intero",
+     "ondulato"
+    ],
+    "foglia_forma": [
+     "ovata",
+     "ellittica"
+    ],
+    "frutto": "faggiola",
+    "corteccia_texture": [
+     "liscia"
+    ],
+    "habitat": [
+     "montano",
+     "collinare",
+     "urbano_parchi"
+    ],
+    "altitudine_m": [
+     600,
+     2000
+    ]
+   },
+   "tratti_chiave": [
+    "Corteccia grigio-argento liscia anche negli alberi vecchi",
+    "Foglia ovale a margine intero-ondulato, con ciglia sul bordo da giovane",
+    "Gemme lunghe, sottili e appuntite come piccoli sigari"
+   ],
+   "origine": {
+    "stato": "autoctona",
+    "note": ""
+   },
+   "foglie": {
+    "tipo": "semplice",
+    "disposizione": "alterna, su due file lungo i rametti orizzontali",
+    "forma": "ovata-ellittica, 5-10 cm, con apice appuntito",
+    "margine": "intero o leggermente ondulato; da giovane con sottili ciglia (peli) lungo il bordo",
+    "venatura": "pennata, con 5-9 paia di nervature parallele e diritte",
+    "colore_stagionale": {
+     "primavera_estate": "verde chiaro brillante e quasi traslucido in primavera, poi verde intenso lucido",
+     "autunno": "giallo-arancio, poi bronzo-rame"
+    },
+    "descrizione": "Foglia liscia e lucida, con nervature laterali regolari come le lische di un pesce. I giovani faggi e i rami bassi trattengono spesso in inverno le foglie secche color rame."
+   },
+   "corteccia": {
+    "colore": "grigio argento, a volte chiazzato di licheni",
+    "texture": "liscia e sottile",
+    "evoluzione_con_eta": "resta liscia per tutta la vita; con l'età compaiono piccole rugosità e cicatrici",
+    "descrizione": "È il carattere più immediato: pochi alberi adulti hanno un tronco così liscio. Le incisioni restano visibili per decenni. Essendo sottile, soffre le scottature quando un tronco a lungo in ombra viene esposto di colpo al sole."
+   },
+   "rami_e_portamento": {
+    "disposizione_rami": "alterna; rametti sottili a zig-zag",
+    "angolo_di_crescita": "rami ascendenti, poi orizzontali o leggermente penduli verso l'esterno",
+    "forma_chioma": "ampia, densa, ovoidale; in bosco fusto lungo, diritto e colonnare",
+    "silhouette_invernale": "tronco grigio e cilindrico, rametti fini e fitti con lunghe gemme appuntite ben visibili",
+    "descrizione": "La chioma fa molta ombra: sotto le faggete il sottobosco è scarso e il suolo coperto di foglie secche."
+   },
+   "gemme": {
+    "forma": "fusiformi, lunghe 1,5-3 cm, molto appuntite",
+    "colore": "bruno-rossiccio, lucide, con molte squame sovrapposte",
+    "disposizione": "alterne, nettamente divergenti dal rametto",
+    "descrizione": "Tra le gemme più facili da riconoscere in inverno: sottili e allungate come lance. Il carpino bianco le ha più corte e aderenti al rametto."
+   },
+   "fiori_e_frutti": {
+    "tipo_fiore": "pianta monoica: fiori maschili in piccoli capolini globosi penduli su lungo peduncolo; femminili a coppie dentro una cupola",
+    "periodo_fioritura": "aprile-maggio, insieme alle foglie",
+    "tipo_frutto": "faggiola: 2 (raramente 3) piccole noci triangolari bruno-lucide dentro una cupola legnosa con aculei morbidi, che si apre in 4 valve",
+    "periodo_fruttificazione": "settembre-ottobre",
+    "descrizione": "La produzione è molto irregolare: annate abbondanti si alternano a diversi anni quasi senza frutti. A terra si trovano le cupole aperte a quattro punte."
+   },
+   "dimensioni": {
+    "altezza_tipica_m": [
+     25,
+     35
+    ],
+    "altezza_max_m": 45,
+    "eta_massima_anni": [
+     250,
+     500
+    ],
+    "note": "Di solito vive 200-300 anni; nelle faggete vetuste dell'Appennino esistono esemplari di oltre 500 anni."
+   },
+   "habitat_e_distribuzione": {
+    "regioni_italia": [
+     "Alpi e Prealpi, soprattutto tra circa 600 e 1500 m (fino a circa 1700 m)",
+     "Appennino, soprattutto tra circa 900 e 1800 m (localmente fino a 2000 m)",
+     "Sicilia: Madonie, Nebrodi, Etna"
+    ],
+    "altitudine": "circa 600-2000 m a seconda della latitudine; più in basso nei versanti freschi e nei parchi",
+    "terreno_preferito": "fresco e ben drenato; non tollera ristagni né siccità prolungata; cresce sia su calcare sia su silice",
+    "descrizione": "Ama l'umidità dell'aria (nebbie, piogge frequenti) e teme le gelate tardive. Forma boschi puri, le faggete, spesso misti con abete bianco. Il faggio rosso a foglia porpora dei parchi è una sua varietà ornamentale."
+   },
+   "stagionalita": {
+    "primavera": "Foglie nuove verde chiaro, tenere e cigliate sul bordo.",
+    "estate": "Chioma densa e ombrosa; faggiole in formazione.",
+    "autunno": "Colori giallo-arancio e rame; cupole a quattro valve a terra.",
+    "inverno": "Tronco liscio grigio-argento, gemme lunghe e appuntite; giovani piante con foglie secche color rame."
+   },
+   "specie_simili": [
+    {
+     "id_specie": "carpinus-betulus",
+     "come_distinguere": "Il carpino bianco ha foglie doppiamente seghettate e pieghettate, tronco grigio ma scanalato («muscoloso»), frutti con una brattea a tre lobi e gemme più corte appoggiate al rametto."
+    }
+   ],
+   "commestibilita": {
+    "parti": "faggiole (semi)",
+    "note": "Commestibili in piccole quantità, meglio tostate. In passato se ne ricavava un olio alimentare.",
+    "avvertenze": "Crude e in grande quantità possono dare disturbi gastrointestinali."
+   },
+   "tossicita": {
+    "livello": "bassa",
+    "parti": "faggiole crude in quantità",
+    "note": "Contengono sostanze irritanti che la tostatura riduce."
+   },
+   "curiosita_e_usi": "Legno chiaro e omogeneo, facile da curvare col vapore: mobili, sedie, utensili. Ottima legna da ardere e da carbone. Diverse faggete vetuste dell'Appennino fanno parte dal 2017 del sito UNESCO delle faggete antiche e primordiali d'Europa.",
+   "immagini": [
+    {
+     "tipo": "foglia",
+     "file": "img/fagus-sylvatica-foglia.jpg",
+     "fonte": "Wikimedia Commons",
+     "autore": "Dominicus Johannes Bergsma",
+     "licenza": "CC BY-SA 3.0",
+     "url_originale": "https://commons.wikimedia.org/wiki/File:Blad_van_beuk_(Fagus_sylvatica)_02.JPG",
+     "titolo_originale": "Blad van beuk (Fagus sylvatica) 02.JPG"
+    },
+    {
+     "tipo": "corteccia",
+     "file": "img/fagus-sylvatica-corteccia.jpg",
+     "fonte": "Wikimedia Commons",
+     "autore": "Fraxinus Croat",
+     "licenza": "CC BY-SA 3.0",
+     "url_originale": "https://commons.wikimedia.org/wiki/File:Fagus_sylvatica_(bark)1.JPG",
+     "titolo_originale": "Fagus sylvatica (bark)1.JPG"
+    },
+    {
+     "tipo": "silhouette",
+     "file": "img/fagus-sylvatica-silhouette.jpg",
+     "fonte": "Wikimedia Commons",
+     "autore": "Wilhelm Zimmerling PAR",
+     "licenza": "CC BY-SA 4.0",
+     "url_originale": "https://commons.wikimedia.org/wiki/File:Ruhland,_Karl-Liebknecht-Str._15,_Nordansicht,_Blutbuche,_Winter.jpg",
+     "titolo_originale": "Ruhland, Karl-Liebknecht-Str. 15, Nordansicht, Blutbuche, Winter.jpg"
+    },
+    {
+     "tipo": "fiore_o_frutto",
+     "file": "img/fagus-sylvatica-fiore_o_frutto.jpg",
+     "fonte": "Wikimedia Commons",
+     "autore": "Dominicus Johannes Bergsma",
+     "licenza": "CC BY-SA 4.0",
+     "url_originale": "https://commons.wikimedia.org/wiki/File:Zaaddozen_van_een_beuk_(Fagus_sylvatica)_13-09-2024_(d.j.b.).jpg",
+     "titolo_originale": "Zaaddozen van een beuk (Fagus sylvatica) 13-09-2024 (d.j.b.).jpg"
+    },
+    {
+     "tipo": "gemme",
+     "file": "img/fagus-sylvatica-gemme.jpg",
+     "fonte": "Wikimedia Commons",
+     "autore": "El Grafo",
+     "licenza": "CC BY-SA 3.0",
+     "url_originale": "https://commons.wikimedia.org/wiki/File:Fagus_sylvatica_bud.jpg",
+     "titolo_originale": "Fagus sylvatica bud.jpg"
+    }
+   ],
+   "fonti": [
+    {
+     "titolo": "Fagus sylvatica – Wikipedia (it)",
+     "url": "https://it.wikipedia.org/wiki/Fagus_sylvatica"
+    },
+    {
+     "titolo": "Fagus sylvatica – Wikipedia (en)",
+     "url": "https://en.wikipedia.org/wiki/Fagus_sylvatica"
+    }
+   ]
+  },
+  {
+   "id": "quercus-robur",
+   "nome_comune": "Farnia",
+   "nome_scientifico": "Quercus robur",
+   "famiglia": "Fagaceae",
+   "genere": "Quercus",
+   "sinonimi": [
+    "Quercia comune",
+    "Quercia peduncolata"
+   ],
+   "nomi_locali": [],
+   "stato": "bozza",
+   "aggiornato": "2026-09-24",
+   "chiave": {
+    "gruppo": "latifoglia",
+    "persistenza": "caduca",
+    "foglia_tipo": "semplice",
+    "foglia_disposizione": "alterna",
+    "foglia_margine": [
+     "lobato"
+    ],
+    "foglia_forma": [
+     "obovata"
+    ],
+    "frutto": "ghianda",
+    "corteccia_texture": [
+     "fessurata",
+     "a_placche"
+    ],
+    "habitat": [
+     "planiziale",
+     "collinare",
+     "ripariale_umido",
+     "urbano_parchi"
+    ],
+    "altitudine_m": [
+     0,
+     800
+    ]
+   },
+   "tratti_chiave": [
+    "Foglia lobata quasi senza picciolo (2-7 mm)",
+    "Base della foglia con due piccole «orecchiette»",
+    "Ghiande appese a un peduncolo lungo 3-8 cm"
+   ],
+   "origine": {
+    "stato": "autoctona",
+    "note": ""
+   },
+   "foglie": {
+    "tipo": "semplice",
+    "disposizione": "alterna, addensate verso l'apice dei rametti",
+    "forma": "obovata, più larga nella metà superiore, con 4-7 paia di lobi arrotondati",
+    "margine": "lobato, con lobi arrotondati e seni poco profondi e irregolari",
+    "venatura": "pennata; alcune nervature secondarie arrivano ai seni tra i lobi, non solo alle punte",
+    "colore_stagionale": {
+     "primavera_estate": "verde scuro sopra, più chiaro e glabro sotto",
+     "autunno": "giallo-bruno poi marrone; cadono tardi, a volte a inizio inverno"
+    },
+    "descrizione": "Foglie lunghe in genere 5-12 cm, glabre anche sulla pagina inferiore. Il picciolo è cortissimo, spesso quasi invisibile, e la base della lamina forma due piccoli lobi ripiegati (orecchiette). Su uno stesso albero la forma varia molto tra foglie di luce e d'ombra."
+   },
+   "corteccia": {
+    "colore": "grigio chiaro nei giovani, poi grigio-brunastro scuro",
+    "texture": "profondamente solcata in verticale, con creste spesse e placche allungate",
+    "evoluzione_con_eta": "liscia e lucida da giovane; dopo i primi decenni si fessura e ispessisce sempre più",
+    "descrizione": "Negli alberi adulti la corteccia è spessa e segnata da solchi longitudinali regolari. Non si stacca a scaglie e non è spugnosa."
+   },
+   "rami_e_portamento": {
+    "disposizione_rami": "alterna; rami robusti, nodosi, con andamento a zig-zag",
+    "angolo_di_crescita": "branche principali ascendenti o quasi orizzontali, spesso tortuose",
+    "forma_chioma": "ampia e irregolare, globosa negli esemplari isolati; più stretta e alta in bosco",
+    "silhouette_invernale": "tronco corto e massiccio che si divide presto in grosse branche contorte; rametti fitti e angolosi",
+    "descrizione": "Da isolata forma chiome larghe quanto alte, con rami bassi molto sviluppati. In bosco sviluppa un fusto più lungo e diritto. Specie esigente di luce."
+   },
+   "gemme": {
+    "forma": "ovoidali, ottuse, piccole (pochi mm)",
+    "colore": "bruno chiaro, glabre",
+    "disposizione": "alterne, raggruppate all'apice del rametto",
+    "descrizione": "Come in tutte le querce, le gemme si affollano sulla punta dei rametti. Sono tondeggianti, con molte squame embricate e prive di peli."
+   },
+   "fiori_e_frutti": {
+    "tipo_fiore": "pianta monoica: amenti maschili penduli giallo-verdi; fiori femminili minuscoli all'apice di un lungo peduncolo",
+    "periodo_fioritura": "aprile-maggio, insieme alle prime foglie",
+    "tipo_frutto": "ghianda ovoide-allungata di 2-3,5 cm, con cupola emisferica a squame appressate, su peduncolo lungo 3-8 cm",
+    "periodo_fruttificazione": "matura nello stesso anno, settembre-ottobre",
+    "descrizione": "Le ghiande pendono a gruppi di 1-3 da un lungo peduncolo: è il carattere più affidabile per riconoscerla in autunno. La produzione varia molto da un anno all'altro, con annate di abbondanza (pasciona)."
+   },
+   "dimensioni": {
+    "altezza_tipica_m": [
+     25,
+     35
+    ],
+    "altezza_max_m": 45,
+    "eta_massima_anni": [
+     500,
+     1000
+    ],
+    "note": "Esemplari plurisecolari sono frequenti; alcune farnie monumentali europee sono stimate oltre i 1000 anni, ma le stime di età sono spesso incerte."
+   },
+   "habitat_e_distribuzione": {
+    "regioni_italia": [
+     "Nord: soprattutto Pianura Padana, fondovalle e colline prealpine",
+     "Centro: più sporadica",
+     "Sud: rara e localizzata"
+    ],
+    "altitudine": "0-800 m, per lo più sotto i 500 m",
+    "terreno_preferito": "profondo, fresco e fertile, anche argilloso; tollera falda superficiale e brevi ristagni d'acqua",
+    "descrizione": "È la quercia del bosco di pianura padano, oggi ridotto a pochi relitti (per esempio Bosco della Mesola e Bosco Fontana). Cresce spesso con carpino bianco, olmo campestre e frassini. Comune anche in parchi, filari e campagne."
+   },
+   "stagionalita": {
+    "primavera": "Foglie nuove verde-bronzo e amenti penduli (aprile-maggio).",
+    "estate": "Chioma densa verde scuro; frequenti galle tondeggianti su rami e foglie.",
+    "autunno": "Ghiande su lungo peduncolo; foglie che ingialliscono e cadono tardi.",
+    "inverno": "Gemme raggruppate in punta ai rametti, rami tortuosi; i giovani esemplari trattengono a volte foglie secche."
+   },
+   "specie_simili": [
+    {
+     "id_specie": "quercus-petraea",
+     "come_distinguere": "La rovere ha picciolo evidente (1-2,5 cm), base della foglia a cuneo senza orecchiette e ghiande quasi senza peduncolo. È l'opposto esatto della farnia."
+    },
+    {
+     "id_specie": "quercus-pubescens",
+     "come_distinguere": "La roverella ha pagina inferiore e rametti giovani pelosi, ghiande quasi sessili, e vive su versanti asciutti e soleggiati."
+    },
+    {
+     "id_specie": "quercus-cerris",
+     "come_distinguere": "Il cerro ha lobi più appuntiti, cupola «capelluta» con squame lunghe e arricciate, e sottili filamenti (stipole) attorno alle gemme."
+    }
+   ],
+   "commestibilita": {
+    "parti": "ghiande",
+    "note": "Crude sono amare e astringenti per l'alto contenuto di tannini. Tradizionalmente si rendevano edibili con lunghi ammolli o bolliture, cambiando l'acqua più volte, per poi macinarle in farina o tostarle come surrogato del caffè.",
+    "avvertenze": "Non consumarle crude o non trattate: i tannini in quantità irritano stomaco e reni."
+   },
+   "tossicita": {
+    "livello": "bassa",
+    "parti": "ghiande e foglie giovani",
+    "note": "Per l'uomo sono soprattutto amare e astringenti. In grandi quantità sono tossiche per il bestiame, in particolare equini e bovini."
+   },
+   "curiosita_e_usi": "Legno duro, pesante e durevole, usato per travi, botti, parquet e traversine. La corteccia ricca di tannini serviva a conciare le pelli e le galle a produrre inchiostro. È uno degli alberi europei che ospita più specie di insetti e altri organismi.",
+   "immagini": [
+    {
+     "tipo": "foglia",
+     "file": "img/quercus-robur-foglia.jpg",
+     "fonte": "Wikimedia Commons",
+     "autore": "Bob Harvey",
+     "licenza": "CC BY-SA 2.0",
+     "url_originale": "https://commons.wikimedia.org/wiki/File:Quercus_robur_-_Leaf_-_geograph.org.uk_-_4227261.jpg",
+     "titolo_originale": "Quercus robur - Leaf - geograph.org.uk - 4227261.jpg"
+    },
+    {
+     "tipo": "corteccia",
+     "file": "img/quercus-robur-corteccia.jpg",
+     "fonte": "Wikimedia Commons",
+     "autore": "Dominicus Johannes Bergsma",
+     "licenza": "CC BY-SA 4.0",
+     "url_originale": "https://commons.wikimedia.org/wiki/File:Herstelde_wond_van_beschadiging_veroorzaakt_door_een_landbouwwertuig._Zomereik_(Quercus_robur)._Locatie,_Natuurterrein_De_Famberhorst_01.jpg",
+     "titolo_originale": "Herstelde wond van beschadiging veroorzaakt door een landbouwwertuig. Zomereik (Quercus robur). Locatie, Natuurterrein De Famberhorst 01.jpg"
+    },
+    {
+     "tipo": "silhouette",
+     "file": "img/quercus-robur-silhouette.jpg",
+     "fonte": "Wikimedia Commons",
+     "autore": "ZarlokX",
+     "licenza": "CC BY-SA 4.0",
+     "url_originale": "https://commons.wikimedia.org/wiki/File:Ch%C3%AAne,_colza,_Jura_(horizontal).jpg",
+     "titolo_originale": "Chêne, colza, Jura (horizontal).jpg"
+    },
+    {
+     "tipo": "silhouette",
+     "file": "img/quercus-robur-silhouette-2.jpg",
+     "fonte": "Wikimedia Commons",
+     "autore": "Dominicus Johannes Bergsma",
+     "licenza": "CC BY-SA 4.0",
+     "url_originale": "https://commons.wikimedia.org/wiki/File:Solitaire_eik_(Quercus_robur)_in_een_imponerend_landschap._Locatie,_natuurgebied_Delleboersterheide_%E2%80%93_Catspoele_03.jpg",
+     "titolo_originale": "Solitaire eik (Quercus robur) in een imponerend landschap. Locatie, natuurgebied Delleboersterheide – Catspoele 03.jpg"
+    },
+    {
+     "tipo": "fiore_o_frutto",
+     "file": "img/quercus-robur-fiore_o_frutto.jpg",
+     "fonte": "Wikimedia Commons",
+     "autore": "böhringer friedrich",
+     "licenza": "CC BY-SA 3.0 at",
+     "url_originale": "https://commons.wikimedia.org/wiki/File:Acorns_of_Quercus_robur,_Eichel_der_Stieleiche_06.JPG",
+     "titolo_originale": "Acorns of Quercus robur, Eichel der Stieleiche 06.JPG"
+    },
+    {
+     "tipo": "gemme",
+     "file": "img/quercus-robur-gemme.jpg",
+     "fonte": "Wikimedia Commons",
+     "autore": "JonRichfield",
+     "licenza": "CC BY-SA 3.0",
+     "url_originale": "https://commons.wikimedia.org/wiki/File:Dormant_buds_on_twig_of_English_Oak_Quercus_robur_5523.jpg",
+     "titolo_originale": "Dormant buds on twig of English Oak Quercus robur 5523.jpg"
+    }
+   ],
+   "fonti": [
+    {
+     "titolo": "Quercus robur – Wikipedia (it)",
+     "url": "https://it.wikipedia.org/wiki/Quercus_robur"
+    },
+    {
+     "titolo": "Quercus robur – Wikipedia (en)",
+     "url": "https://en.wikipedia.org/wiki/Quercus_robur"
+    }
+   ]
+  },
+  {
+   "id": "quercus-ilex",
+   "nome_comune": "Leccio",
+   "nome_scientifico": "Quercus ilex",
+   "famiglia": "Fagaceae",
+   "genere": "Quercus",
+   "sinonimi": [
+    "Elce"
+   ],
+   "nomi_locali": [],
+   "stato": "bozza",
+   "aggiornato": "2026-09-24",
+   "chiave": {
+    "gruppo": "latifoglia",
+    "persistenza": "sempreverde",
+    "foglia_tipo": "semplice",
+    "foglia_disposizione": "alterna",
+    "foglia_margine": [
+     "intero",
+     "dentato",
+     "spinoso"
+    ],
+    "foglia_forma": [
+     "ellittica",
+     "lanceolata",
+     "ovata"
+    ],
+    "frutto": "ghianda",
+    "corteccia_texture": [
+     "fessurata",
+     "a_placche"
+    ],
+    "habitat": [
+     "mediterraneo_costiero",
+     "collinare",
+     "rupestre_arido",
+     "urbano_parchi"
+    ],
+    "altitudine_m": [
+     0,
+     1400
+    ]
+   },
+   "tratti_chiave": [
+    "Quercia sempreverde con foglie coriacee verde scuro sopra",
+    "Pagina inferiore grigio-biancastra e feltrosa",
+    "Foglie intere negli adulti, spinose sui polloni e nei giovani"
+   ],
+   "origine": {
+    "stato": "autoctona",
+    "note": "Nel Nord è spontaneo in aree a clima mite; altrove è molto piantato in parchi e viali."
+   },
+   "foglie": {
+    "tipo": "semplice",
+    "disposizione": "alterna",
+    "forma": "da ellittica a lanceolata, 3-7 cm, coriacea; molto variabile anche sulla stessa pianta",
+    "margine": "intero o dentato negli adulti; spinoso nelle foglie dei polloni e delle piante giovani",
+    "venatura": "pennata",
+    "colore_stagionale": {
+     "primavera_estate": "verde scuro lucido sopra, grigio-biancastro feltroso sotto; le foglie nuove primaverili sono grigio-argentee e pelose",
+     "autunno": "nessun cambio (sempreverde); le foglie vecchie cadono gradualmente, soprattutto tra primavera ed estate"
+    },
+    "descrizione": "Ogni foglia vive in genere 2-3 anni. Le foglie spinose dei ricacci ricordano l'agrifoglio, che però è lucido su entrambe le facce e non ha la pagina inferiore feltrosa."
+   },
+   "corteccia": {
+    "colore": "grigio scuro, quasi nerastro",
+    "texture": "dura, finemente screpolata in piccole placche quadrangolari",
+    "evoluzione_con_eta": "liscia e grigia nei giovani, poi fittamente reticolata",
+    "descrizione": "Non è mai spessa e spugnosa: questo la distingue subito dalla sughera, che ha corteccia di sughero."
+   },
+   "rami_e_portamento": {
+    "disposizione_rami": "alterna; rametti giovani grigio-tomentosi",
+    "angolo_di_crescita": "branche ascendenti e poi espanse",
+    "forma_chioma": "densa, globosa, verde molto scuro",
+    "silhouette_invernale": "invariata tutto l'anno: chioma compatta e scura, spesso con più fusti che partono dalla ceppaia",
+    "descrizione": "Nei boschi cedui si presenta con più fusti dalla stessa ceppaia. Isolato forma una chioma ampia e cupa, riconoscibile a distanza per il colore scuro."
+   },
+   "gemme": {
+    "forma": "piccole (pochi mm), ovoidali",
+    "colore": "brunastre, tomentose",
+    "disposizione": "alterne, un po' raggruppate all'apice",
+    "descrizione": "Poco appariscenti; per il riconoscimento contano molto di più foglie e corteccia."
+   },
+   "fiori_e_frutti": {
+    "tipo_fiore": "pianta monoica: amenti maschili giallo-dorati molto abbondanti; fiori femminili piccoli",
+    "periodo_fioritura": "aprile-giugno",
+    "tipo_frutto": "ghianda allungata di 1,5-3 cm, con cupola a squame grigie appressate, su peduncolo corto",
+    "periodo_fruttificazione": "matura nello stesso anno, ottobre-novembre",
+    "descrizione": "In fioritura gli amenti colorano di giallo-bronzo tutta la chioma per qualche settimana."
+   },
+   "dimensioni": {
+    "altezza_tipica_m": [
+     10,
+     20
+    ],
+    "altezza_max_m": 25,
+    "eta_massima_anni": [
+     500,
+     1000
+    ],
+    "note": "Specie longeva; esistono lecci monumentali plurisecolari, ma le età estreme sono stime."
+   },
+   "habitat_e_distribuzione": {
+    "regioni_italia": [
+     "Coste e colline di tutta l'Italia peninsulare e delle isole",
+     "Nord: Liguria, sponde dei grandi laghi prealpini (per esempio il Garda), Colli Euganei, costa triestina; molto piantato in città, parchi e viali"
+    ],
+    "altitudine": "0-600 m nel Nord; fino a circa 1000-1400 m al Sud e nelle isole",
+    "terreno_preferito": "indifferente al substrato, anche roccioso e povero; tollera la siccità, meno i ristagni d'acqua",
+    "descrizione": "Albero chiave della lecceta e della macchia mediterranea. Nel Nord vive in «isole» a clima mite. Da giovane tollera l'ombra; teme gelate intense e prolungate."
+   },
+   "stagionalita": {
+    "primavera": "Foglie nuove grigio-argentee e amenti dorati su tutta la chioma.",
+    "estate": "Chioma scura e compatta; caduta graduale delle foglie vecchie.",
+    "autunno": "Ghiande allungate che maturano tra ottobre e novembre.",
+    "inverno": "Unica quercia comune ancora verde scuro; si riconosce a distanza tra gli alberi spogli."
+   },
+   "specie_simili": [
+    {
+     "id_specie": "quercus-suber",
+     "come_distinguere": "La sughera ha corteccia spessa, chiara e spugnosa di sughero; dove è stata decorticata il tronco appare rosso-bruno."
+    }
+   ],
+   "commestibilita": {
+    "parti": "ghiande",
+    "note": "In Italia le ghiande sono in genere amare e vanno private dei tannini con ammolli o bolliture. In Spagna e Portogallo alcune popolazioni (sottospecie rotundifolia) producono ghiande dolci, mangiate anche arrostite.",
+    "avvertenze": "Non consumare crude le ghiande amare."
+   },
+   "tossicita": {
+    "livello": "bassa",
+    "parti": "ghiande",
+    "note": "Astringenti per l'uomo; tossiche per il bestiame in grandi quantità."
+   },
+   "curiosita_e_usi": "Legno durissimo e pesante, ottimo come combustibile e per il carbone. Le leccete erano pascolo tradizionale dei maiali. Sopporta bene le potature, per questo è usato per siepi e forme topiarie.",
+   "immagini": [
+    {
+     "tipo": "foglia",
+     "file": "img/quercus-ilex-foglia.jpg",
+     "fonte": "Wikimedia Commons",
+     "autore": "Krzysztof Ziarnek, Kenraiz",
+     "licenza": "CC BY-SA 4.0",
+     "url_originale": "https://commons.wikimedia.org/wiki/File:Quercus_ilex_kz07.jpg",
+     "titolo_originale": "Quercus ilex kz07.jpg"
+    },
+    {
+     "tipo": "foglia",
+     "file": "img/quercus-ilex-foglia-2.jpg",
+     "fonte": "Wikimedia Commons",
+     "autore": "Liné1",
+     "licenza": "CC BY-SA 3.0",
+     "url_originale": "https://commons.wikimedia.org/wiki/File:Quercus_ilex_leaves_02_by_Line1.jpg",
+     "titolo_originale": "Quercus ilex leaves 02 by Line1.jpg"
+    },
+    {
+     "tipo": "corteccia",
+     "file": "img/quercus-ilex-corteccia.jpg",
+     "fonte": "Wikimedia Commons",
+     "autore": "Agnieszka Kwiecień, Nova",
+     "licenza": "CC BY-SA 4.0",
+     "url_originale": "https://commons.wikimedia.org/wiki/File:Quercus_ilex_D%C4%85b_ostrolistny_2021-06-09_02.jpg",
+     "titolo_originale": "Quercus ilex Dąb ostrolistny 2021-06-09 02.jpg"
+    },
+    {
+     "tipo": "silhouette",
+     "file": "img/quercus-ilex-silhouette.jpg",
+     "fonte": "Wikimedia Commons",
+     "autore": "Basotxerri",
+     "licenza": "CC BY-SA 4.0",
+     "url_originale": "https://commons.wikimedia.org/wiki/File:Montes_de_Vitoria_-_Quercus_ilex_01.jpg",
+     "titolo_originale": "Montes de Vitoria - Quercus ilex 01.jpg"
+    },
+    {
+     "tipo": "fiore_o_frutto",
+     "file": "img/quercus-ilex-fiore_o_frutto.jpg",
+     "fonte": "Wikimedia Commons",
+     "autore": "Derek Keats from Johannesburg, South Africa",
+     "licenza": "CC BY 2.0",
+     "url_originale": "https://commons.wikimedia.org/wiki/File:Holly_Oak_(Quercus_ilex)_acorns,_April,_Sydney_Royal_Botanic_Gardens,_Australia_(16498239613).jpg",
+     "titolo_originale": "Holly Oak (Quercus ilex) acorns, April, Sydney Royal Botanic Gardens, Australia (16498239613).jpg"
+    }
+   ],
+   "fonti": [
+    {
+     "titolo": "Quercus ilex – Wikipedia (it)",
+     "url": "https://it.wikipedia.org/wiki/Quercus_ilex"
+    },
+    {
+     "titolo": "Quercus ilex – Wikipedia (en)",
+     "url": "https://en.wikipedia.org/wiki/Quercus_ilex"
+    }
+   ]
+  },
+  {
+   "id": "pinus-pinea",
+   "nome_comune": "Pino domestico",
+   "nome_scientifico": "Pinus pinea",
+   "famiglia": "Pinaceae",
+   "genere": "Pinus",
+   "sinonimi": [
+    "Pino da pinoli",
+    "Pino a ombrello"
+   ],
+   "nomi_locali": [],
+   "stato": "bozza",
+   "aggiornato": "2026-09-24",
+   "chiave": {
+    "gruppo": "conifera",
+    "persistenza": "sempreverde",
+    "foglia_tipo": "aghiforme",
+    "foglia_disposizione": "fascicolata",
+    "foglia_margine": [
+     "intero"
+    ],
+    "foglia_forma": [
+     "aghi"
+    ],
+    "frutto": "cono",
+    "corteccia_texture": [
+     "fessurata",
+     "a_placche"
+    ],
+    "habitat": [
+     "mediterraneo_costiero",
+     "urbano_parchi"
+    ],
+    "altitudine_m": [
+     0,
+     600
+    ]
+   },
+   "tratti_chiave": [
+    "Chioma appiattita «a ombrello» sopra un fusto nudo",
+    "Aghi a coppie, lunghi 10-20 cm",
+    "Pigne grandi, tondeggianti e pesanti, con pinoli dal guscio duro"
+   ],
+   "origine": {
+    "stato": "autoctona",
+    "note": "L'indigenato in Italia è discusso: molte pinete costiere sono antiche piantagioni."
+   },
+   "foglie": {
+    "tipo": "aghiforme",
+    "disposizione": "a coppie (fascetti di 2 aghi) con guaina alla base",
+    "forma": "aghi lunghi 10-20 cm, rigidi, spesso leggermente ritorti",
+    "margine": "intero, finemente ruvido al tatto",
+    "venatura": "non visibile (aghi)",
+    "colore_stagionale": {
+     "primavera_estate": "verde chiaro-medio, meno scuro di pino nero e pino marittimo",
+     "autunno": "invariato (sempreverde)"
+    },
+    "descrizione": "Gli aghi restano sulla pianta 2-3 anni. Le piantine hanno per alcuni anni aghi giovanili singoli, corti e azzurrognoli, molto diversi da quelli adulti."
+   },
+   "corteccia": {
+    "colore": "bruno-rossiccio con placche grigiastre; il fondo delle fessure è arancio-rossastro",
+    "texture": "spessa, profondamente fessurata in grandi placche piatte e allungate",
+    "evoluzione_con_eta": "più sottile e grigiastra nei giovani; le placche si allargano con l'età",
+    "descrizione": "Le placche si staccano a scaglie sottili lasciando zone più chiare. Il contrasto tra placche grigie e fessure rossastre è tipico."
+   },
+   "rami_e_portamento": {
+    "disposizione_rami": "rami in verticilli attorno al fusto",
+    "angolo_di_crescita": "branche principali ascendenti che si aprono a candelabro",
+    "forma_chioma": "a ombrello, larga e piatta negli adulti; globosa nei giovani",
+    "silhouette_invernale": "inconfondibile tutto l'anno: fusto nudo e chioma piatta a ombrello",
+    "descrizione": "Con l'età il fusto perde i rami bassi e la chioma si concentra in alto, larga e appiattita. Le radici superficiali sollevano spesso l'asfalto dei viali."
+   },
+   "gemme": {
+    "forma": "ovoidali-cilindriche, circa 1 cm",
+    "colore": "bruno-rossastre, con squame orlate di bianco e ripiegate all'indietro",
+    "disposizione": "gemma apicale circondata da gemme laterali disposte in cerchio",
+    "descrizione": "Le squame delle gemme con il margine bianco e sfrangiato sono un buon carattere per distinguerlo dagli altri pini."
+   },
+   "fiori_e_frutti": {
+    "tipo_fiore": "pianta monoica: coni maschili giallo-arancio a grappolo alla base dei getti nuovi, con molto polline; coni femminili piccoli e verdi all'apice",
+    "periodo_fioritura": "aprile-giugno",
+    "tipo_frutto": "pigna grande (8-15 cm), ovoide-globosa, pesante, bruno-rossiccia e lucida; semi grandi (pinoli) con guscio legnoso duro e ala rudimentale",
+    "periodo_fruttificazione": "matura nel terzo anno dopo la fioritura (circa 36 mesi)",
+    "descrizione": "Sullo stesso albero convivono pigne di tre età diverse. Le pigne mature si aprono con il caldo e liberano i pinoli."
+   },
+   "dimensioni": {
+    "altezza_tipica_m": [
+     15,
+     25
+    ],
+    "altezza_max_m": 30,
+    "eta_massima_anni": [
+     200,
+     300
+    ],
+    "note": "Raramente supera i 300 anni."
+   },
+   "habitat_e_distribuzione": {
+    "regioni_italia": [
+     "Coste tirreniche (Toscana, Lazio, Campania), Liguria, Sardegna, Sicilia, Puglia",
+     "Adriatico: pinete di Ravenna e Cervia e altri litorali",
+     "Nord: pinete litoranee, parchi, ville e rive dei laghi"
+    ],
+    "altitudine": "0-600 m",
+    "terreno_preferito": "sabbioso, sciolto, profondo e ben drenato; tollera suoli poveri ma non quelli compatti o argillosi",
+    "descrizione": "Ama il caldo e la luce; resiste a siccità e salsedine moderata ma soffre il freddo intenso. Le pinete costiere sono state piantate nei secoli per pinoli e legname e per consolidare le dune."
+   },
+   "stagionalita": {
+    "primavera": "Candele di getti nuovi e coni maschili gialli; nuvole di polline.",
+    "estate": "Pigne in accrescimento di diverse età; resina profumata.",
+    "autunno": "Pigne mature pronte alla raccolta (dal terzo anno).",
+    "inverno": "Chioma sempreverde a ombrello; periodo tradizionale di raccolta delle pigne chiuse."
+   },
+   "specie_simili": [
+    {
+     "id_specie": "pinus-pinaster",
+     "come_distinguere": "Il pino marittimo ha aghi più lunghi (15-25 cm), spessi e scuri, pigne coniche e appuntite che restano a lungo sui rami e chioma irregolare, non a ombrello."
+    },
+    {
+     "id_specie": "pinus-halepensis",
+     "come_distinguere": "Il pino d'Aleppo ha aghi sottili e corti (6-10 cm), pigne su un peduncolo ricurvo e corteccia grigio-argentea da giovane."
+    },
+    {
+     "id_specie": "pinus-nigra",
+     "come_distinguere": "Il pino nero ha aghi scuri e rigidi, chioma conica e cupa e pigne piccole; è un pino di collina e montagna."
+    }
+   ],
+   "commestibilita": {
+    "parti": "pinoli (semi)",
+    "note": "Si mangiano crudi o tostati. Si ricavano dalle pigne mature, che si aprono al calore; il guscio legnoso va rotto e la pellicina scura si toglie.",
+    "avvertenze": "Possibili allergie alla frutta a guscio. Non raccogliere in aree protette o private senza permesso. Attenzione alle pigne che cadono dagli alberi alti."
+   },
+   "tossicita": {
+    "livello": "nessuna_nota",
+    "parti": "",
+    "note": "Nessuna tossicità significativa nota. Sui pini fai attenzione ai nidi bianchi della processionaria: i peli dei bruchi sono molto urticanti per persone e cani."
+   },
+   "curiosita_e_usi": "Coltivato fin dall'antichità per i pinoli. La pineta di Classe, vicino a Ravenna, è citata da Dante nel Purgatorio («la pineta in su 'l lito di Chiassi»).",
+   "immagini": [
+    {
+     "tipo": "foglia",
+     "file": "img/pinus-pinea-foglia.jpg",
+     "fonte": "Wikimedia Commons",
+     "autore": "Javier martin",
+     "licenza": "Public domain",
+     "url_originale": "https://commons.wikimedia.org/wiki/File:Pinus_pinea_needles_2009-11-22_DehesaBoyaldePuertollano.jpg",
+     "titolo_originale": "Pinus pinea needles 2009-11-22 DehesaBoyaldePuertollano.jpg"
+    },
+    {
+     "tipo": "corteccia",
+     "file": "img/pinus-pinea-corteccia.jpg",
+     "fonte": "Wikimedia Commons",
+     "autore": "Zeynel Cebeci",
+     "licenza": "CC BY-SA 4.0",
+     "url_originale": "https://commons.wikimedia.org/wiki/File:Bark_details,_Pinus_pinea.jpg",
+     "titolo_originale": "Bark details, Pinus pinea.jpg"
+    },
+    {
+     "tipo": "silhouette",
+     "file": "img/pinus-pinea-silhouette.jpg",
+     "fonte": "Wikimedia Commons",
+     "autore": "daryl_mitchell from Saskatoon, Saskatchewan, Canada",
+     "licenza": "CC BY-SA 2.0",
+     "url_originale": "https://commons.wikimedia.org/wiki/File:Umbrella_Pine_(15238429225).jpg",
+     "titolo_originale": "Umbrella Pine (15238429225).jpg"
+    },
+    {
+     "tipo": "fiore_o_frutto",
+     "file": "img/pinus-pinea-fiore_o_frutto.jpg",
+     "fonte": "Wikimedia Commons",
+     "autore": "Wouter Hagens",
+     "licenza": "CC BY-SA 4.0",
+     "url_originale": "https://commons.wikimedia.org/wiki/File:Pinus_pinea_cone_A.jpg",
+     "titolo_originale": "Pinus pinea cone A.jpg"
+    }
+   ],
+   "fonti": [
+    {
+     "titolo": "Pinus pinea – Wikipedia (it)",
+     "url": "https://it.wikipedia.org/wiki/Pinus_pinea"
+    },
+    {
+     "titolo": "Pinus pinea – Wikipedia (en)",
+     "url": "https://en.wikipedia.org/wiki/Pinus_pinea"
+    }
+   ]
+  },
+  {
+   "id": "quercus-pubescens",
+   "nome_comune": "Roverella",
+   "nome_scientifico": "Quercus pubescens",
+   "famiglia": "Fagaceae",
+   "genere": "Quercus",
+   "sinonimi": [
+    "Quercia pubescente",
+    "Quercia bianca"
+   ],
+   "nomi_locali": [],
+   "stato": "bozza",
+   "aggiornato": "2026-09-24",
+   "chiave": {
+    "gruppo": "latifoglia",
+    "persistenza": "marcescente",
+    "foglia_tipo": "semplice",
+    "foglia_disposizione": "alterna",
+    "foglia_margine": [
+     "lobato"
+    ],
+    "foglia_forma": [
+     "obovata",
+     "ellittica"
+    ],
+    "frutto": "ghianda",
+    "corteccia_texture": [
+     "fessurata",
+     "a_placche"
+    ],
+    "habitat": [
+     "collinare",
+     "rupestre_arido",
+     "planiziale"
+    ],
+    "altitudine_m": [
+     0,
+     1200
+    ]
+   },
+   "tratti_chiave": [
+    "Pagina inferiore della foglia e rametti giovani coperti di peluria grigia",
+    "In inverno molte foglie secche restano attaccate ai rami",
+    "Ghiande quasi senza peduncolo; vive su versanti asciutti e soleggiati"
+   ],
+   "origine": {
+    "stato": "autoctona",
+    "note": ""
+   },
+   "foglie": {
+    "tipo": "semplice",
+    "disposizione": "alterna, addensate verso l'apice dei rametti",
+    "forma": "obovata o ellittica, molto variabile, con 4-8 paia di lobi arrotondati, a volte poco marcati",
+    "margine": "lobato-sinuato",
+    "venatura": "pennata",
+    "colore_stagionale": {
+     "primavera_estate": "verde grigiastro sopra; sotto grigio-feltrosa per la fitta peluria, più evidente nelle foglie giovani",
+     "autunno": "giallo-bruno; molte foglie secche restano sui rami per tutto l'inverno"
+    },
+    "descrizione": "Foglie lunghe in genere 5-10 cm, con picciolo di circa 5-12 mm anch'esso peloso. Passando un dito sulla pagina inferiore si sente una leggera vellutatura. Forma e pelosità cambiano molto tra un individuo e l'altro."
+   },
+   "corteccia": {
+    "colore": "grigio scuro, quasi nerastro",
+    "texture": "fittamente screpolata in piccole placche quasi quadrate",
+    "evoluzione_con_eta": "grigia e liscia nei giovani, si screpola precocemente",
+    "descrizione": "Più scura e a reticolo più fitto rispetto a farnia e rovere, le cui placche sono più allungate."
+   },
+   "rami_e_portamento": {
+    "disposizione_rami": "alterna; rametti giovani densamente pelosi e grigiastri",
+    "angolo_di_crescita": "branche irregolari, spesso sinuose e allargate",
+    "forma_chioma": "ampia, irregolare, spesso asimmetrica; negli esemplari isolati molto espansa",
+    "silhouette_invernale": "tronco corto e spesso inclinato, chioma bassa e larga ancora vestita di foglie secche bruno-rossastre",
+    "descrizione": "Albero di taglia media, spesso governato a ceduo. In inverno le chiome che conservano le foglie secche la rendono riconoscibile anche da lontano sui versanti."
+   },
+   "gemme": {
+    "forma": "ovoidali, leggermente appuntite, piccole",
+    "colore": "bruno-grigiastre",
+    "disposizione": "alterne, raggruppate all'apice del rametto",
+    "descrizione": "Gemme e rametti dell'anno sono coperti da una peluria corta e grigia: un buon indizio invernale per distinguerla da farnia e rovere, che sono glabre."
+   },
+   "fiori_e_frutti": {
+    "tipo_fiore": "pianta monoica: amenti maschili penduli; fiori femminili piccoli e poco appariscenti",
+    "periodo_fioritura": "aprile-maggio",
+    "tipo_frutto": "ghianda di 1,5-3 cm, sessile o su peduncolo molto corto; cupola con squame appressate e grigio-tomentose",
+    "periodo_fruttificazione": "matura nello stesso anno, settembre-ottobre",
+    "descrizione": "Le ghiande stanno attaccate quasi direttamente al rametto, singole o in piccoli gruppi. La cupola appare vellutata e grigia."
+   },
+   "dimensioni": {
+    "altezza_tipica_m": [
+     10,
+     20
+    ],
+    "altezza_max_m": 25,
+    "eta_massima_anni": [
+     300,
+     700
+    ],
+    "note": "Nelle campagne esistono roverelle monumentali plurisecolari; l'età è spesso stimata e incerta."
+   },
+   "habitat_e_distribuzione": {
+    "regioni_italia": [
+     "Tutta Italia, isole comprese: è la quercia più diffusa del paese",
+     "Nord: colline e versanti soleggiati delle Prealpi, Carso, colli (Euganei, Berici, Langhe, Monferrato, Oltrepò)"
+    ],
+    "altitudine": "0-1000 m; fino a 1200-1300 m sui versanti caldi del Sud",
+    "terreno_preferito": "anche povero, sassoso e calcareo; tollera bene la siccità",
+    "descrizione": "Specie amante del caldo e della luce. Forma boschi misti spesso con orniello e carpino nero, oppure resta isolata in pascoli e campi. Molti boschi sono cedui."
+   },
+   "stagionalita": {
+    "primavera": "Foglie nuove grigio-argentee e molto pelose; amenti penduli.",
+    "estate": "Chioma verde-grigia; foglie sotto vellutate.",
+    "autunno": "Ghiande quasi sessili; foglie bruno-gialle che in gran parte non cadono.",
+    "inverno": "Chioma ancora coperta di foglie secche bruno-rossastre; rametti e gemme pelosi."
+   },
+   "specie_simili": [
+    {
+     "id_specie": "quercus-petraea",
+     "come_distinguere": "La rovere da adulta ha foglie glabre sotto (o con pochi peli sulle nervature), picciolo più lungo e regolare e rametti lisci; preferisce ambienti più freschi."
+    },
+    {
+     "id_specie": "quercus-robur",
+     "come_distinguere": "La farnia ha foglie glabre e quasi senza picciolo, base con orecchiette e ghiande su un peduncolo lungo."
+    },
+    {
+     "id_specie": "quercus-cerris",
+     "come_distinguere": "Il cerro ha cupola con squame lunghe e arricciate e filamenti attorno alle gemme; foglie più ruvide al tatto e con lobi appuntiti."
+    }
+   ],
+   "commestibilita": {
+    "parti": "ghiande",
+    "note": "Come per le altre querce, le ghiande vanno private dei tannini con ammolli o bolliture ripetute; si possono poi tostare o macinare in farina.",
+    "avvertenze": "Non consumarle crude o non trattate."
+   },
+   "tossicita": {
+    "livello": "bassa",
+    "parti": "ghiande e foglie giovani",
+    "note": "Amare e astringenti per l'uomo; tossiche per il bestiame in grandi quantità."
+   },
+   "curiosita_e_usi": "È tra le piante simbionti del tartufo nero pregiato e di altri tartufi. Ottima legna da ardere, tradizionalmente ricavata dai boschi cedui. È un gruppo botanicamente complesso: forme intermedie e ibridi con altre querce sono frequenti, quindi non tutti gli esemplari corrispondono alla descrizione da manuale.",
+   "immagini": [
+    {
+     "tipo": "foglia",
+     "file": "img/quercus-pubescens-foglia.jpg",
+     "fonte": "Wikimedia Commons",
+     "autore": "Kenraiz",
+     "licenza": "Public domain",
+     "url_originale": "https://commons.wikimedia.org/wiki/File:Quercus_pubescens_leaves_kz2.jpg",
+     "titolo_originale": "Quercus pubescens leaves kz2.jpg"
+    },
+    {
+     "tipo": "corteccia",
+     "file": "img/quercus-pubescens-corteccia.jpg",
+     "fonte": "Wikimedia Commons",
+     "autore": "Stefan.lefnaer",
+     "licenza": "CC BY-SA 4.0",
+     "url_originale": "https://commons.wikimedia.org/wiki/File:Quercus_pubescens_sl32.jpg",
+     "titolo_originale": "Quercus pubescens sl32.jpg"
+    },
+    {
+     "tipo": "silhouette",
+     "file": "img/quercus-pubescens-silhouette.jpg",
+     "fonte": "Wikimedia Commons",
+     "autore": "LigaDue",
+     "licenza": "CC BY-SA 4.0",
+     "url_originale": "https://commons.wikimedia.org/wiki/File:MarmoreTerniRoverella3.jpg",
+     "titolo_originale": "MarmoreTerniRoverella3.jpg"
+    },
+    {
+     "tipo": "gemme",
+     "file": "img/quercus-pubescens-gemme.jpg",
+     "fonte": "Wikimedia Commons",
+     "autore": "Stefan.lefnaer",
+     "licenza": "CC BY-SA 4.0",
+     "url_originale": "https://commons.wikimedia.org/wiki/File:Quercus_pubescens_sl27.jpg",
+     "titolo_originale": "Quercus pubescens sl27.jpg"
+    }
+   ],
+   "fonti": [
+    {
+     "titolo": "Quercus pubescens – Wikipedia (it)",
+     "url": "https://it.wikipedia.org/wiki/Quercus_pubescens"
+    },
+    {
+     "titolo": "Quercus pubescens – Wikipedia (en)",
+     "url": "https://en.wikipedia.org/wiki/Quercus_pubescens"
+    }
+   ]
+  }
+ ],
+ "organs": [
+  {
+   "id": "organ-foglie",
+   "nome": "Foglie",
+   "descrizione_generale": "La foglia è l'organo più usato per riconoscere un albero, ma anche il più variabile: sulla stessa pianta cambiano forma e dimensione tra luce e ombra, tra rami giovani e adulti. Conviene guardare più foglie e partire dai caratteri più stabili: se è semplice o composta, come è disposta sul rametto, com'è il margine.",
+   "ordine_osservazione": [
+    "Ago, squama o lamina larga?",
+    "Semplice o composta? (dove sta la gemma: alla base della foglia, non delle foglioline)",
+    "Disposizione sul rametto: alterna, opposta, verticillata o a fascetti",
+    "Margine: intero, seghettato, dentato, lobato, spinoso",
+    "Forma generale, base e apice",
+    "Picciolo (lungo, corto, assente) e peli sulla pagina inferiore"
+   ],
+   "concetti": [
+    {
+     "termine": "lamina",
+     "definizione": "La parte larga e piatta della foglia, dove avviene la fotosintesi."
+    },
+    {
+     "termine": "picciolo",
+     "definizione": "Il «gambo» che unisce la lamina al rametto. Lunghezza e presenza sono utili: la farnia l'ha cortissimo, la rovere evidente."
+    },
+    {
+     "termine": "stipole",
+     "definizione": "Piccole appendici alla base del picciolo; in molte specie cadono presto, in altre restano (per esempio i filamenti attorno alle gemme del cerro).",
+     "alias": [
+      "stipola"
+     ]
+    },
+    {
+     "termine": "foglia semplice",
+     "definizione": "Una sola lamina per picciolo, anche se profondamente lobata (querce, faggio, aceri).",
+     "alias": [
+      "semplice"
+     ]
+    },
+    {
+     "termine": "foglia composta",
+     "definizione": "Formata da più foglioline su un asse comune. Si riconosce perché la gemma si trova solo alla base dell'intera foglia, non di ogni fogliolina (frassino, robinia, noce, ippocastano).",
+     "alias": [
+      "composta",
+      "composte"
+     ]
+    },
+    {
+     "termine": "composta pennata",
+     "definizione": "Foglioline disposte a coppie lungo un asse centrale, come le barbe di una piuma (frassino, noce, robinia)."
+    },
+    {
+     "termine": "composta palmata",
+     "definizione": "Foglioline che partono tutte dallo stesso punto, come le dita di una mano (ippocastano)."
+    },
+    {
+     "termine": "disposizione alterna",
+     "definizione": "Una foglia per nodo, alternata ai due lati o a spirale lungo il rametto. È la più comune (querce, faggio, betulla).",
+     "alias": [
+      "alterna",
+      "alterne"
+     ]
+    },
+    {
+     "termine": "disposizione opposta",
+     "definizione": "Due foglie una di fronte all'altra allo stesso nodo. Tra gli alberi comuni riguarda soprattutto aceri, frassini e ippocastano: un gruppo piccolo e quindi molto utile.",
+     "alias": [
+      "opposta",
+      "opposte"
+     ]
+    },
+    {
+     "termine": "disposizione verticillata",
+     "definizione": "Tre o più foglie allo stesso nodo, disposte in cerchio (per esempio in alcuni ginepri)."
+    },
+    {
+     "termine": "a fascetti",
+     "definizione": "Aghi raggruppati alla base in una piccola guaina: 2 nei pini più comuni, 5 nel pino cembro; a ciuffi numerosi su corti rametti nel larice e nel cedro.",
+     "alias": [
+      "fascetti"
+     ]
+    },
+    {
+     "termine": "margine intero",
+     "definizione": "Bordo liscio, senza denti (faggio, alloro, leccio adulto).",
+     "alias": [
+      "intero"
+     ]
+    },
+    {
+     "termine": "margine seghettato",
+     "definizione": "Denti piccoli e inclinati verso l'apice, come una sega (ciliegio, olmo).",
+     "alias": [
+      "seghettato",
+      "seghettata"
+     ]
+    },
+    {
+     "termine": "margine doppiamente seghettato",
+     "definizione": "Denti grandi che portano a loro volta denti più piccoli (carpino bianco, olmo, betulla).",
+     "alias": [
+      "doppiamente seghettate",
+      "doppiamente seghettato",
+      "doppiamente seghettata"
+     ]
+    },
+    {
+     "termine": "margine dentato",
+     "definizione": "Denti rivolti in fuori, non inclinati verso la punta (castagno).",
+     "alias": [
+      "dentato",
+      "dentata"
+     ]
+    },
+    {
+     "termine": "margine crenato",
+     "definizione": "Dentelli arrotondati invece che appuntiti."
+    },
+    {
+     "termine": "margine lobato",
+     "definizione": "Lamina divisa in lobi, sporgenze ampie separate da insenature (seni) (querce caducifoglie).",
+     "alias": [
+      "lobato",
+      "lobata"
+     ]
+    },
+    {
+     "termine": "venatura pennata",
+     "definizione": "Una nervatura centrale da cui partono nervature laterali, come in una piuma.",
+     "alias": [
+      "pennata"
+     ]
+    },
+    {
+     "termine": "venatura palmata",
+     "definizione": "Più nervature principali che partono dallo stesso punto alla base della lamina (aceri, platano)."
+    },
+    {
+     "termine": "base auricolata",
+     "definizione": "Base della lamina con due piccoli lobi arrotondati, come orecchiette (farnia).",
+     "alias": [
+      "orecchiette",
+      "auricolata"
+     ]
+    },
+    {
+     "termine": "foglia marcescente",
+     "definizione": "Foglia che secca in autunno ma resta attaccata al ramo fino alla primavera (roverella, giovani faggi e carpini).",
+     "alias": [
+      "marcescente",
+      "marcescenza",
+      "marcescenti"
+     ]
+    },
+    {
+     "termine": "eterofillia",
+     "definizione": "Foglie di forma diversa sulla stessa pianta. Esempio classico: il leccio, con foglie spinose sui ricacci e intere sui rami adulti."
+    },
+    {
+     "termine": "foglie di luce e d'ombra",
+     "definizione": "Le foglie esposte al sole sono in genere più piccole, spesse e a volte più incise; quelle all'ombra più grandi, sottili e intere. Per confrontare due alberi usa foglie in posizione simile."
+    },
+    {
+     "termine": "tomentosa / pubescente",
+     "definizione": "Coperta di peli: feltrosa e fitta (tomentosa) o più leggera (pubescente). Da controllare soprattutto sulla pagina inferiore.",
+     "alias": [
+      "tomentosa",
+      "tomentose",
+      "tomentosi",
+      "tomentoso",
+      "feltrosa",
+      "feltroso",
+      "pubescente",
+      "pubescenti"
+     ]
+    }
+   ],
+   "campo_comparativo_riferimento": "foglie"
+  }
+ ],
+ "landscape_signals": [
+  {
+   "id": "landscape-muschi-licheni",
+   "categoria": "indicatori_tronco_corteccia",
+   "titolo": "Muschi e licheni: umidità, luce e aria",
+   "descrizione": "Muschi e licheni sulla corteccia non danneggiano l'albero: la usano solo come appoggio. La loro distribuzione racconta però il microclima. I muschi hanno bisogno di umidità e poca luce diretta, quindi abbondano alla base dei tronchi, nei boschi chiusi e sui lati che restano più a lungo bagnati. Molti licheni sopportano meglio luce e siccità, ma sono sensibili all'inquinamento: dove l'aria è pulita compaiono anche licheni a foglia o a cespuglietto; dove è inquinata resistono quasi solo quelli a crosta. I licheni giallo-arancio si moltiplicano dove l'aria è ricca di azoto, per esempio vicino a stalle e campi concimati.",
+   "come_riconoscerlo": "Gira intorno al tronco e confronta i lati: dove c'è più muschio arriva più umidità o meno sole. Da noi è spesso il lato nord, ma non sempre: pendenza, pioggia portata dal vento e alberi vicini cambiano tutto, quindi non usare il muschio da solo come bussola. Guarda la forma dei licheni: a crosta aderente, a foglia (lembi sollevati) o a cespuglietto e filamenti (barbe verde-grigie sui rami, indizio di aria molto pulita e umida). Tanti licheni gialli a foglia indicano apporti di azoto.",
+   "immagini": []
+  },
+  {
+   "id": "landscape-vento-bandiera",
+   "categoria": "forma_e_crescita",
+   "titolo": "Alberi a bandiera: dove soffia il vento",
+   "descrizione": "Dove il vento soffia spesso dalla stessa direzione, gli alberi esposti crescono deformati. Sul lato sopravento i germogli vengono seccati, spezzati o induriti dal freddo e dal sale, mentre quelli sottovento continuano a crescere. La chioma finisce per svilupparsi da una parte sola, come una bandiera che sventola, e spesso anche il tronco si inclina nella stessa direzione.",
+   "come_riconoscerlo": "Cerca alberi isolati o ai margini: su crinali, passi, coste e campi aperti. Controlla se la chioma è sbilanciata e da che parte sono i rami più lunghi: puntano dove va il vento. Confronta più alberi vicini, perché un solo albero può essere deformato da altro (ombra di un edificio, potature). Più il fenomeno è marcato, più il vento è forte e costante. In Italia è evidente con la bora sul Carso, sulle coste esposte al maestrale e sui crinali appenninici.",
+   "immagini": []
+  }
+ ],
+ "elenco_specie": [
+  {
+   "id": "quercus-robur",
+   "nome_comune": "Farnia",
+   "nome_scientifico": "Quercus robur",
+   "gruppo": "latifoglia",
+   "lotto": 1,
+   "stato": "compilata"
+  },
+  {
+   "id": "quercus-pubescens",
+   "nome_comune": "Roverella",
+   "nome_scientifico": "Quercus pubescens",
+   "gruppo": "latifoglia",
+   "lotto": 1,
+   "stato": "compilata"
+  },
+  {
+   "id": "quercus-cerris",
+   "nome_comune": "Cerro",
+   "nome_scientifico": "Quercus cerris",
+   "gruppo": "latifoglia",
+   "lotto": 1,
+   "stato": "pianificata"
+  },
+  {
+   "id": "quercus-petraea",
+   "nome_comune": "Rovere",
+   "nome_scientifico": "Quercus petraea",
+   "gruppo": "latifoglia",
+   "lotto": 1,
+   "stato": "pianificata"
+  },
+  {
+   "id": "fagus-sylvatica",
+   "nome_comune": "Faggio",
+   "nome_scientifico": "Fagus sylvatica",
+   "gruppo": "latifoglia",
+   "lotto": 1,
+   "stato": "compilata"
+  },
+  {
+   "id": "castanea-sativa",
+   "nome_comune": "Castagno",
+   "nome_scientifico": "Castanea sativa",
+   "gruppo": "latifoglia",
+   "lotto": 1,
+   "stato": "pianificata"
+  },
+  {
+   "id": "carpinus-betulus",
+   "nome_comune": "Carpino bianco",
+   "nome_scientifico": "Carpinus betulus",
+   "gruppo": "latifoglia",
+   "lotto": 1,
+   "stato": "pianificata"
+  },
+  {
+   "id": "ostrya-carpinifolia",
+   "nome_comune": "Carpino nero",
+   "nome_scientifico": "Ostrya carpinifolia",
+   "gruppo": "latifoglia",
+   "lotto": 1,
+   "stato": "pianificata"
+  },
+  {
+   "id": "corylus-avellana",
+   "nome_comune": "Nocciolo",
+   "nome_scientifico": "Corylus avellana",
+   "gruppo": "latifoglia",
+   "lotto": 1,
+   "stato": "pianificata"
+  },
+  {
+   "id": "betula-pendula",
+   "nome_comune": "Betulla",
+   "nome_scientifico": "Betula pendula",
+   "gruppo": "latifoglia",
+   "lotto": 1,
+   "stato": "pianificata"
+  },
+  {
+   "id": "alnus-glutinosa",
+   "nome_comune": "Ontano nero",
+   "nome_scientifico": "Alnus glutinosa",
+   "gruppo": "latifoglia",
+   "lotto": 1,
+   "stato": "pianificata"
+  },
+  {
+   "id": "ulmus-minor",
+   "nome_comune": "Olmo campestre",
+   "nome_scientifico": "Ulmus minor",
+   "gruppo": "latifoglia",
+   "lotto": 2,
+   "stato": "pianificata"
+  },
+  {
+   "id": "tilia-cordata",
+   "nome_comune": "Tiglio selvatico",
+   "nome_scientifico": "Tilia cordata",
+   "gruppo": "latifoglia",
+   "lotto": 2,
+   "stato": "pianificata"
+  },
+  {
+   "id": "tilia-platyphyllos",
+   "nome_comune": "Tiglio nostrano",
+   "nome_scientifico": "Tilia platyphyllos",
+   "gruppo": "latifoglia",
+   "lotto": 2,
+   "stato": "pianificata"
+  },
+  {
+   "id": "fraxinus-excelsior",
+   "nome_comune": "Frassino maggiore",
+   "nome_scientifico": "Fraxinus excelsior",
+   "gruppo": "latifoglia",
+   "lotto": 2,
+   "stato": "pianificata"
+  },
+  {
+   "id": "fraxinus-ornus",
+   "nome_comune": "Orniello",
+   "nome_scientifico": "Fraxinus ornus",
+   "gruppo": "latifoglia",
+   "lotto": 2,
+   "stato": "pianificata"
+  },
+  {
+   "id": "acer-campestre",
+   "nome_comune": "Acero campestre",
+   "nome_scientifico": "Acer campestre",
+   "gruppo": "latifoglia",
+   "lotto": 2,
+   "stato": "pianificata"
+  },
+  {
+   "id": "acer-pseudoplatanus",
+   "nome_comune": "Acero montano",
+   "nome_scientifico": "Acer pseudoplatanus",
+   "gruppo": "latifoglia",
+   "lotto": 2,
+   "stato": "pianificata"
+  },
+  {
+   "id": "acer-platanoides",
+   "nome_comune": "Acero riccio",
+   "nome_scientifico": "Acer platanoides",
+   "gruppo": "latifoglia",
+   "lotto": 2,
+   "stato": "pianificata"
+  },
+  {
+   "id": "aesculus-hippocastanum",
+   "nome_comune": "Ippocastano",
+   "nome_scientifico": "Aesculus hippocastanum",
+   "gruppo": "latifoglia",
+   "lotto": 2,
+   "stato": "pianificata"
+  },
+  {
+   "id": "celtis-australis",
+   "nome_comune": "Bagolaro",
+   "nome_scientifico": "Celtis australis",
+   "gruppo": "latifoglia",
+   "lotto": 2,
+   "stato": "pianificata"
+  },
+  {
+   "id": "platanus-x-hispanica",
+   "nome_comune": "Platano",
+   "nome_scientifico": "Platanus × hispanica",
+   "gruppo": "latifoglia",
+   "lotto": 2,
+   "stato": "pianificata"
+  },
+  {
+   "id": "populus-alba",
+   "nome_comune": "Pioppo bianco",
+   "nome_scientifico": "Populus alba",
+   "gruppo": "latifoglia",
+   "lotto": 3,
+   "stato": "pianificata"
+  },
+  {
+   "id": "populus-nigra",
+   "nome_comune": "Pioppo nero",
+   "nome_scientifico": "Populus nigra",
+   "gruppo": "latifoglia",
+   "lotto": 3,
+   "stato": "pianificata"
+  },
+  {
+   "id": "populus-tremula",
+   "nome_comune": "Pioppo tremulo",
+   "nome_scientifico": "Populus tremula",
+   "gruppo": "latifoglia",
+   "lotto": 3,
+   "stato": "pianificata"
+  },
+  {
+   "id": "salix-alba",
+   "nome_comune": "Salice bianco",
+   "nome_scientifico": "Salix alba",
+   "gruppo": "latifoglia",
+   "lotto": 3,
+   "stato": "pianificata"
+  },
+  {
+   "id": "salix-babylonica",
+   "nome_comune": "Salice piangente",
+   "nome_scientifico": "Salix babylonica",
+   "gruppo": "latifoglia",
+   "lotto": 3,
+   "stato": "pianificata"
+  },
+  {
+   "id": "prunus-avium",
+   "nome_comune": "Ciliegio selvatico",
+   "nome_scientifico": "Prunus avium",
+   "gruppo": "latifoglia",
+   "lotto": 3,
+   "stato": "pianificata"
+  },
+  {
+   "id": "sorbus-aucuparia",
+   "nome_comune": "Sorbo degli uccellatori",
+   "nome_scientifico": "Sorbus aucuparia",
+   "gruppo": "latifoglia",
+   "lotto": 3,
+   "stato": "pianificata"
+  },
+  {
+   "id": "sorbus-domestica",
+   "nome_comune": "Sorbo domestico",
+   "nome_scientifico": "Sorbus domestica",
+   "gruppo": "latifoglia",
+   "lotto": 3,
+   "stato": "pianificata"
+  },
+  {
+   "id": "crataegus-monogyna",
+   "nome_comune": "Biancospino",
+   "nome_scientifico": "Crataegus monogyna",
+   "gruppo": "latifoglia",
+   "lotto": 3,
+   "stato": "pianificata"
+  },
+  {
+   "id": "juglans-regia",
+   "nome_comune": "Noce",
+   "nome_scientifico": "Juglans regia",
+   "gruppo": "latifoglia",
+   "lotto": 3,
+   "stato": "pianificata"
+  },
+  {
+   "id": "morus-alba",
+   "nome_comune": "Gelso bianco",
+   "nome_scientifico": "Morus alba",
+   "gruppo": "latifoglia",
+   "lotto": 3,
+   "stato": "pianificata"
+  },
+  {
+   "id": "quercus-ilex",
+   "nome_comune": "Leccio",
+   "nome_scientifico": "Quercus ilex",
+   "gruppo": "latifoglia",
+   "lotto": 4,
+   "stato": "compilata"
+  },
+  {
+   "id": "quercus-suber",
+   "nome_comune": "Sughera",
+   "nome_scientifico": "Quercus suber",
+   "gruppo": "latifoglia",
+   "lotto": 4,
+   "stato": "pianificata"
+  },
+  {
+   "id": "arbutus-unedo",
+   "nome_comune": "Corbezzolo",
+   "nome_scientifico": "Arbutus unedo",
+   "gruppo": "latifoglia",
+   "lotto": 4,
+   "stato": "pianificata"
+  },
+  {
+   "id": "laurus-nobilis",
+   "nome_comune": "Alloro",
+   "nome_scientifico": "Laurus nobilis",
+   "gruppo": "latifoglia",
+   "lotto": 4,
+   "stato": "pianificata"
+  },
+  {
+   "id": "olea-europaea",
+   "nome_comune": "Olivo",
+   "nome_scientifico": "Olea europaea",
+   "gruppo": "latifoglia",
+   "lotto": 4,
+   "stato": "pianificata"
+  },
+  {
+   "id": "ceratonia-siliqua",
+   "nome_comune": "Carrubo",
+   "nome_scientifico": "Ceratonia siliqua",
+   "gruppo": "latifoglia",
+   "lotto": 4,
+   "stato": "pianificata"
+  },
+  {
+   "id": "pinus-sylvestris",
+   "nome_comune": "Pino silvestre",
+   "nome_scientifico": "Pinus sylvestris",
+   "gruppo": "conifera",
+   "lotto": 5,
+   "stato": "pianificata"
+  },
+  {
+   "id": "pinus-nigra",
+   "nome_comune": "Pino nero",
+   "nome_scientifico": "Pinus nigra",
+   "gruppo": "conifera",
+   "lotto": 5,
+   "stato": "pianificata"
+  },
+  {
+   "id": "pinus-pinaster",
+   "nome_comune": "Pino marittimo",
+   "nome_scientifico": "Pinus pinaster",
+   "gruppo": "conifera",
+   "lotto": 5,
+   "stato": "pianificata"
+  },
+  {
+   "id": "pinus-pinea",
+   "nome_comune": "Pino domestico",
+   "nome_scientifico": "Pinus pinea",
+   "gruppo": "conifera",
+   "lotto": 5,
+   "stato": "compilata"
+  },
+  {
+   "id": "abies-alba",
+   "nome_comune": "Abete bianco",
+   "nome_scientifico": "Abies alba",
+   "gruppo": "conifera",
+   "lotto": 5,
+   "stato": "pianificata"
+  },
+  {
+   "id": "picea-abies",
+   "nome_comune": "Abete rosso",
+   "nome_scientifico": "Picea abies",
+   "gruppo": "conifera",
+   "lotto": 5,
+   "stato": "pianificata"
+  },
+  {
+   "id": "larix-decidua",
+   "nome_comune": "Larice",
+   "nome_scientifico": "Larix decidua",
+   "gruppo": "conifera",
+   "lotto": 5,
+   "stato": "pianificata"
+  },
+  {
+   "id": "cupressus-sempervirens",
+   "nome_comune": "Cipresso comune",
+   "nome_scientifico": "Cupressus sempervirens",
+   "gruppo": "conifera",
+   "lotto": 5,
+   "stato": "pianificata"
+  },
+  {
+   "id": "juniperus-communis",
+   "nome_comune": "Ginepro comune",
+   "nome_scientifico": "Juniperus communis",
+   "gruppo": "conifera",
+   "lotto": 5,
+   "stato": "pianificata"
+  },
+  {
+   "id": "taxus-baccata",
+   "nome_comune": "Tasso",
+   "nome_scientifico": "Taxus baccata",
+   "gruppo": "conifera",
+   "lotto": 5,
+   "stato": "pianificata"
+  },
+  {
+   "id": "robinia-pseudoacacia",
+   "nome_comune": "Robinia",
+   "nome_scientifico": "Robinia pseudoacacia",
+   "gruppo": "latifoglia",
+   "lotto": 6,
+   "stato": "pianificata"
+  },
+  {
+   "id": "ailanthus-altissima",
+   "nome_comune": "Ailanto",
+   "nome_scientifico": "Ailanthus altissima",
+   "gruppo": "latifoglia",
+   "lotto": 6,
+   "stato": "pianificata"
+  },
+  {
+   "id": "cercis-siliquastrum",
+   "nome_comune": "Albero di Giuda",
+   "nome_scientifico": "Cercis siliquastrum",
+   "gruppo": "latifoglia",
+   "lotto": 6,
+   "stato": "pianificata"
+  },
+  {
+   "id": "pinus-halepensis",
+   "nome_comune": "Pino d'Aleppo",
+   "nome_scientifico": "Pinus halepensis",
+   "gruppo": "conifera",
+   "lotto": 7,
+   "stato": "proposta"
+  },
+  {
+   "id": "pinus-cembra",
+   "nome_comune": "Pino cembro",
+   "nome_scientifico": "Pinus cembra",
+   "gruppo": "conifera",
+   "lotto": 7,
+   "stato": "proposta"
+  },
+  {
+   "id": "cedrus-atlantica",
+   "nome_comune": "Cedro dell'Atlante",
+   "nome_scientifico": "Cedrus atlantica",
+   "gruppo": "conifera",
+   "lotto": 7,
+   "stato": "proposta"
+  },
+  {
+   "id": "cedrus-deodara",
+   "nome_comune": "Cedro dell'Himalaya",
+   "nome_scientifico": "Cedrus deodara",
+   "gruppo": "conifera",
+   "lotto": 7,
+   "stato": "proposta"
+  },
+  {
+   "id": "acer-negundo",
+   "nome_comune": "Acero negundo",
+   "nome_scientifico": "Acer negundo",
+   "gruppo": "latifoglia",
+   "lotto": 7,
+   "stato": "proposta"
+  },
+  {
+   "id": "salix-caprea",
+   "nome_comune": "Salicone",
+   "nome_scientifico": "Salix caprea",
+   "gruppo": "latifoglia",
+   "lotto": 7,
+   "stato": "proposta"
+  },
+  {
+   "id": "fraxinus-angustifolia",
+   "nome_comune": "Frassino meridionale",
+   "nome_scientifico": "Fraxinus angustifolia",
+   "gruppo": "latifoglia",
+   "lotto": 7,
+   "stato": "proposta"
+  },
+  {
+   "id": "ulmus-glabra",
+   "nome_comune": "Olmo montano",
+   "nome_scientifico": "Ulmus glabra",
+   "gruppo": "latifoglia",
+   "lotto": 7,
+   "stato": "proposta"
+  },
+  {
+   "id": "morus-nigra",
+   "nome_comune": "Gelso nero",
+   "nome_scientifico": "Morus nigra",
+   "gruppo": "latifoglia",
+   "lotto": 7,
+   "stato": "proposta"
+  },
+  {
+   "id": "malus-sylvestris",
+   "nome_comune": "Melo selvatico",
+   "nome_scientifico": "Malus sylvestris",
+   "gruppo": "latifoglia",
+   "lotto": 7,
+   "stato": "proposta"
+  },
+  {
+   "id": "pyrus-pyraster",
+   "nome_comune": "Pero selvatico",
+   "nome_scientifico": "Pyrus pyraster",
+   "gruppo": "latifoglia",
+   "lotto": 7,
+   "stato": "proposta"
+  },
+  {
+   "id": "tamarix-gallica",
+   "nome_comune": "Tamerice",
+   "nome_scientifico": "Tamarix gallica",
+   "gruppo": "latifoglia",
+   "lotto": 7,
+   "stato": "proposta"
+  }
+ ],
+ "vocabolari": {
+  "gruppo": {
+   "latifoglia": "Latifoglia",
+   "conifera": "Conifera"
+  },
+  "persistenza": {
+   "caduca": "Caduca (perde le foglie in inverno)",
+   "marcescente": "Marcescente (foglie secche restano sui rami in inverno)",
+   "sempreverde": "Sempreverde"
+  },
+  "origine": {
+   "autoctona": "Autoctona",
+   "archeofita": "Introdotta anticamente e naturalizzata",
+   "esotica_naturalizzata": "Esotica naturalizzata",
+   "esotica_coltivata": "Esotica, solo coltivata",
+   "invasiva": "Esotica invasiva"
+  },
+  "foglia_tipo": {
+   "semplice": "Semplice",
+   "composta_pennata": "Composta pennata",
+   "composta_bipennata": "Composta bipennata",
+   "composta_palmata": "Composta palmata",
+   "aghiforme": "Ad ago",
+   "squamiforme": "A squama"
+  },
+  "foglia_disposizione": {
+   "alterna": "Alterna",
+   "opposta": "Opposta",
+   "verticillata": "Verticillata",
+   "fascicolata": "A fascetti",
+   "spiralata": "A spirale"
+  },
+  "foglia_margine": {
+   "intero": "Intero",
+   "ondulato": "Ondulato",
+   "seghettato": "Seghettato",
+   "doppiamente_seghettato": "Doppiamente seghettato",
+   "dentato": "Dentato",
+   "crenato": "Crenato",
+   "lobato": "Lobato",
+   "spinoso": "Spinoso"
+  },
+  "foglia_forma": {
+   "lineare": "Lineare",
+   "lanceolata": "Lanceolata",
+   "ellittica": "Ellittica",
+   "ovata": "Ovata",
+   "obovata": "Obovata",
+   "cordata": "Cuoriforme",
+   "orbicolare": "Tondeggiante",
+   "rombica": "Romboidale",
+   "palmata": "Palmata",
+   "aghi": "Aghi",
+   "squame": "Squame"
+  },
+  "frutto": {
+   "ghianda": "Ghianda",
+   "faggiola": "Faggiola",
+   "castagna": "Castagna (riccio)",
+   "noce": "Noce",
+   "nocula": "Nocula",
+   "samara": "Samara (frutto alato)",
+   "disamara": "Disamara (doppia ala)",
+   "cono": "Cono (pigna)",
+   "galbulo": "Galbulo (bacca delle cupressacee)",
+   "arillo": "Arillo (tasso)",
+   "drupa": "Drupa",
+   "bacca": "Bacca",
+   "pomo": "Pomo",
+   "capsula": "Capsula",
+   "legume": "Legume (baccello)",
+   "achenio": "Achenio",
+   "infruttescenza": "Infruttescenza"
+  },
+  "corteccia_texture": {
+   "liscia": "Liscia",
+   "fessurata": "Fessurata",
+   "a_placche": "A placche",
+   "squamosa": "A scaglie",
+   "desquamante": "Si stacca a chiazze",
+   "suberosa": "Sugherosa",
+   "fibrosa": "Fibrosa, a strisce",
+   "lenticelle_orizzontali": "Con linee orizzontali (lenticelle)"
+  },
+  "habitat": {
+   "planiziale": "Pianura",
+   "collinare": "Collina",
+   "montano": "Montagna",
+   "subalpino": "Alta montagna",
+   "mediterraneo_costiero": "Costa e macchia mediterranea",
+   "ripariale_umido": "Fiumi e zone umide",
+   "rupestre_arido": "Versanti aridi e rocciosi",
+   "urbano_parchi": "Città, parchi e viali"
+  },
+  "tossicita_livello": {
+   "nessuna_nota": "Nessuna tossicità significativa nota",
+   "bassa": "Bassa",
+   "moderata": "Moderata",
+   "alta": "Alta"
+  },
+  "tipo_immagine": {
+   "foglia": "Foglia",
+   "corteccia": "Corteccia",
+   "silhouette": "Portamento",
+   "fiore_o_frutto": "Fiore o frutto",
+   "gemme": "Gemme",
+   "dettaglio": "Dettaglio"
+  },
+  "categoria_paesaggio": {
+   "forma_e_crescita": "Forma e crescita",
+   "indicatori_tronco_corteccia": "Tronco e corteccia",
+   "eta_e_storia": "Età e storia",
+   "orientamento_bussola": "Orientamento"
+  }
+ },
+ "notebook": []
+}
