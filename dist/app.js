@@ -3,7 +3,7 @@
    Struttura: utilità → dati → tema → taccuino (DB) → viste → router → avvio. */
 'use strict';
 
-const APP_VERSION = '0.1.0';
+const APP_VERSION = '0.3.0';
 
 /* ---------- utilità ---------- */
 const $ = (s, r = document) => r.querySelector(s);
@@ -61,7 +61,7 @@ function preparaDati(d) {
   (d.elenco_specie || []).forEach((s) => { ELENCO[s.id] = s; });
   // glossario: termini + alias da tutti gli organi, dal più lungo al più corto
   const g = [];
-  d.organs.forEach((o) => (o.concetti || []).forEach((c) => {
+  d.organs.concat(d.landscape_signals).forEach((o) => (o.concetti || []).forEach((c) => {
     [c.termine].concat(c.alias || []).forEach((t) => g.push({ t: t.toLowerCase(), c }));
   }));
   GLOSS = g.sort((a, b) => b.t.length - a.t.length);
@@ -95,7 +95,8 @@ function glossa(testo) {
   return html;
 }
 function concetto(termine) {
-  for (const o of D.organs) for (const c of o.concetti || []) if (c.termine === termine) return { c, o };
+  for (const o of D.organs) for (const c of o.concetti || []) if (c.termine === termine) return { c, o, dove: o.nome, link: '#/organi/' + o.id };
+  for (const l of D.landscape_signals) for (const c of l.concetti || []) if (c.termine === termine) return { c, o: l, dove: 'Paesaggio', link: '#/paesaggio/' + l.id };
   return null;
 }
 
@@ -153,6 +154,36 @@ const blobURL = (b) => { const u = URL.createObjectURL(b); urlDaLiberare.push(u)
 /* ---------- viste ---------- */
 const V = {};
 
+/* "Lo sapevi che…": una frase a caso a ogni apertura, adatta alla stagione, mai uguale alla precedente */
+let CUR = null;
+function nuovaCuriosita() {
+  const stag = stagioneDi(new Date().getMonth());
+  const tutte = (D.curiosita || []).filter((c) => !c.stagione || c.stagione === stag);
+  if (!tutte.length) return null;
+  const ultima = CUR ? CUR.id : store.get('ultimaCuriosita', '');
+  const pool = tutte.length > 1 ? tutte.filter((c) => c.id !== ultima) : tutte;
+  const pesi = pool.map((c) => (c.stagione ? 3 : 1));
+  let r = Math.random() * pesi.reduce((a, b) => a + b, 0);
+  let scelta = pool[pool.length - 1];
+  for (let i = 0; i < pool.length; i++) { r -= pesi[i]; if (r <= 0) { scelta = pool[i]; break; } }
+  store.set('ultimaCuriosita', scelta.id);
+  return scelta;
+}
+const cardCuriosita = () => {
+  if (!CUR) return '';
+  const link = (CUR.specie || []).filter((id) => SP[id]).map((id) => `<a href="#/specie/${id}">${esc(SP[id].nome_comune)} →</a>`).join(' ');
+  return `<section class="card dashed" aria-labelledby="sapevi" data-curiosita>
+      <div class="row" style="justify-content:space-between"><div class="kicker" id="sapevi">Lo sapevi che…</div>
+      <button type="button" class="chip" data-altra-curiosita style="min-height:32px;padding:4px 12px">Un'altra</button></div>
+      <p style="font-family:var(--serif);font-size:18px;line-height:1.4">${esc(CUR.testo)}</p>
+      ${link ? `<div class="row" style="gap:16px;flex-wrap:wrap;font-size:15px">${link}</div>` : ''}
+    </section>`;
+};
+
+function collegaCuriosita(app) {
+  $('[data-altra-curiosita]', app).addEventListener('click', () => { CUR = nuovaCuriosita(); $('[data-curiosita]', app).outerHTML = cardCuriosita(); collegaCuriosita(app); });
+}
+
 V.home = () => {
   const now = new Date(); const stag = stagioneDi(now.getMonth());
   const conTesto = D.species.filter((s) => s.stagionalita && s.stagionalita[stag]);
@@ -171,6 +202,7 @@ V.home = () => {
       <label for="q" class="muted" style="font-size:14px">Cerca per nome comune, latino o locale</label>
       <div class="search">${ico('search')}<input id="q" type="search" autocomplete="off" placeholder="es. farnia, Quercus, elce…"></div>
     </form>
+    ${cardCuriosita()}
     <div class="tiles">
       <a class="tile" href="#/identifica">${ico('key')}<span>Identifica</span></a>
       <a class="tile" href="#/specie">${ico('leaf')}<span>Specie</span></a>
@@ -202,10 +234,11 @@ function cercaSpecie(q) {
 V.specie = (p, query) => {
   const q = query.get('q') || '';
   const filtro = query.get('f') || 'tutte';
-  const filtri = { tutte: 'Tutte', latifoglia: 'Latifoglie', conifera: 'Conifere', sempreverde: 'Sempreverdi' };
+  const filtri = { tutte: 'Tutte', latifoglia: 'Latifoglie', conifera: 'Conifere', sempreverde: 'Sempreverdi', pioniere: 'Pioniere e colonizzatrici' };
   let lista = cercaSpecie(q);
   if (filtro === 'latifoglia' || filtro === 'conifera') lista = lista.filter((s) => s.chiave.gruppo === filtro);
   if (filtro === 'sempreverde') lista = lista.filter((s) => s.chiave.persistenza === 'sempreverde');
+  if (filtro === 'pioniere') lista = lista.filter((s) => (s.chiave.ruolo_ecologico || []).some((r) => r === 'pioniera' || r === 'colonizzatrice'));
   const inArrivo = (D.elenco_specie || []).filter((e) => !SP[e.id] && e.stato !== 'proposta' && (!q || norm(e.nome_comune + ' ' + e.nome_scientifico).includes(norm(q))));
   return `${testata('Specie', true)}
   <div class="pad stack">
@@ -241,6 +274,8 @@ function sezioneSpecie(s, sez) {
         <div><dt>Fioritura</dt><dd>${esc((s.fiori_e_frutti || {}).periodo_fioritura || '—')}</dd></div>
         <div><dt>Famiglia</dt><dd>${esc(s.famiglia)}</dd></div>
         <div><dt>Frutto</dt><dd>${esc(voc('frutto', ch.frutto))}</dd></div>
+        <div><dt>Rametti</dt><dd>${ch.ramificazione ? glossa(voc('ramificazione', ch.ramificazione).split(' (')[0].toLowerCase()) : '—'}</dd></div>
+        <div><dt>Ruolo nel bosco</dt><dd>${esc((ch.ruolo_ecologico || []).map((r) => voc('ruolo_ecologico', r)).join(', ') || '—')}</dd></div>
       </dl>
       ${(s.specie_simili || []).map((x) => `<div class="card dashed"><h3>${esc(s.nome_comune)} o ${esc(nomeSpecie(x.id_specie).toLowerCase())}?</h3>
         <p class="prose" style="font-size:15px">${glossa(x.come_distinguere)}</p>
@@ -249,7 +284,7 @@ function sezioneSpecie(s, sez) {
       campi(s.foglie.colore_stagionale, [['primavera_estate', 'Colore in primavera-estate'], ['autunno', 'In autunno']]) +
       `<p class="prose">${glossa(s.foglie.descrizione)}</p>`;
     case 'corteccia': return campi(s.corteccia, [['colore', 'Colore'], ['texture', 'Superficie'], ['evoluzione_con_eta', 'Con l’età']]) + `<p class="prose">${glossa(s.corteccia.descrizione)}</p>`;
-    case 'portamento': return campi(s.rami_e_portamento, [['forma_chioma', 'Chioma'], ['disposizione_rami', 'Rami'], ['angolo_di_crescita', 'Crescita'], ['silhouette_invernale', 'Sagoma in inverno']]) + `<p class="prose">${glossa(s.rami_e_portamento.descrizione)}</p>`;
+    case 'portamento': return (ch.ramificazione ? `<div class="card plain"><div class="kicker">Ramificazione · ${esc(voc('ramificazione', ch.ramificazione).split(' (')[0])}</div><p class="prose" style="font-size:15px">${glossa(s.rami_e_portamento.ramificazione || voc('ramificazione', ch.ramificazione))}</p></div>` : '') + campi(s.rami_e_portamento, [['forma_chioma', 'Chioma'], ['disposizione_rami', 'Rami'], ['angolo_di_crescita', 'Crescita'], ['silhouette_invernale', 'Sagoma in inverno']]) + `<p class="prose">${glossa(s.rami_e_portamento.descrizione)}</p>`;
     case 'gemme': return campi(s.gemme, [['forma', 'Forma'], ['colore', 'Colore'], ['disposizione', 'Disposizione']]) + `<p class="prose">${glossa(s.gemme.descrizione)}</p>`;
     case 'frutti': return campi(s.fiori_e_frutti, [['tipo_fiore', 'Fiori'], ['periodo_fioritura', 'Fioritura'], ['tipo_frutto', 'Frutto'], ['periodo_fruttificazione', 'Maturazione']]) + `<p class="prose">${glossa(s.fiori_e_frutti.descrizione)}</p>`;
     case 'habitat': { const h = s.habitat_e_distribuzione; return `
@@ -260,7 +295,9 @@ function sezioneSpecie(s, sez) {
         <div><dt>Terreno</dt><dd>${glossa(h.terreno_preferito)}</dd></div>
         <div><dt>Dimensioni</dt><dd>${dim.altezza_tipica_m ? `alta in genere ${dim.altezza_tipica_m.join('–')} m${dim.altezza_max_m ? ', fino a ' + dim.altezza_max_m + ' m' : ''}` : ''}${dim.eta_massima_anni ? `; età massima ${[].concat(dim.eta_massima_anni).join('–')} anni` : ''}${dim.note ? '. ' + esc(dim.note) : ''}</dd></div>
         <div><dt>Origine</dt><dd>${esc(voc('origine', s.origine.stato))}${s.origine.note ? ' — ' + esc(s.origine.note) : ''}</dd></div>
-      </dl><p class="prose">${glossa(h.descrizione)}</p>`; }
+      </dl><p class="prose">${glossa(h.descrizione)}</p>
+      ${s.ecologia ? `<div class="card plain"><div class="kicker">Ecologia · ${esc((ch.ruolo_ecologico || []).map((r) => voc('ruolo_ecologico', r)).join(', '))}</div>
+        <p style="font-size:15px"><b>Luce:</b> ${esc(voc('luce', ch.luce))}</p><p class="prose" style="font-size:15px">${glossa(s.ecologia.descrizione)}</p></div>` : ''}`; }
     case 'stagioni': return `<dl class="facts" style="grid-template-columns:1fr">${['primavera', 'estate', 'autunno', 'inverno'].map((k) =>
       `<div><dt>${k}</dt><dd>${glossa(s.stagionalita[k] || '—')}</dd></div>`).join('')}</dl>`;
     case 'usi': { const c = s.commestibilita, t = s.tossicita; return `
@@ -291,6 +328,7 @@ V.scheda = ([id, sez = 'riconosci']) => {
     <div class="chips" style="padding-top:8px">
       <span class="chip tag">${esc(voc('persistenza', s.chiave.persistenza).split(' (')[0])}</span>
       <span class="chip tag">${esc(voc('origine', s.origine.stato))}</span>
+      ${(s.chiave.ruolo_ecologico || []).filter((r) => r === 'pioniera' || r === 'colonizzatrice').map((r) => `<span class="chip tag neutral">${esc(voc('ruolo_ecologico', r))}</span>`).join('')}
       ${s.tossicita.livello === 'moderata' || s.tossicita.livello === 'alta' ? `<span class="chip tag" style="border-color:var(--warn);color:var(--warn)">Tossica</span>` : ''}
     </div>
   </div>
@@ -357,7 +395,7 @@ V.organi = () => `${testata('Organi')}
   <div class="list">${ORGANI_PREVISTI.map(([id, n]) => { const o = D.organs.find((x) => x.id === id);
     return o ? `<a class="item" href="#/organi/${id}"><span class="t"><b>${esc(o.nome)}</b><i>${(o.concetti || []).length} concetti</i></span><span class="chev">›</span></a>`
       : `<div class="item off"><span class="t"><b>${n}</b><i>in arrivo</i></span></div>`; }).join('')}</div></div>`;
-const CAMPO_SINTESI = { foglie: (s) => `${s.foglie.forma}; margine ${s.foglie.margine}.`, corteccia: (s) => s.corteccia.texture, rami_e_portamento: (s) => s.rami_e_portamento.forma_chioma, gemme: (s) => s.gemme.forma };
+const CAMPO_SINTESI = { foglie: (s) => `${s.foglie.forma}; margine ${s.foglie.margine}.`, corteccia: (s) => s.corteccia.texture, rami_e_portamento: (s) => `${voc('ramificazione', s.chiave.ramificazione).split(' (')[0]}. ${s.rami_e_portamento.ramificazione || s.rami_e_portamento.forma_chioma}`, gemme: (s) => s.gemme.forma };
 V.organo = ([id]) => {
   const o = D.organs.find((x) => x.id === id); if (!o) return `${testata('Organi')}<p class="empty">Sezione in arrivo.</p>`;
   const campo = o.campo_comparativo_riferimento; const sint = CAMPO_SINTESI[campo];
@@ -412,6 +450,7 @@ V.segnale = ([id]) => {
   <div class="pad stack" style="gap:16px"><h1 style="font-size:28px">${esc(l.titolo)}</h1>
   <p class="prose">${glossa(l.descrizione)}</p>
   <div class="card"><div class="kicker">Come riconoscerlo</div><p class="prose" style="font-size:15px">${glossa(l.come_riconoscerlo)}</p></div>
+  ${(l.concetti || []).length ? `<section class="stack"><h2>Parole chiave</h2><dl class="facts" style="grid-template-columns:1fr">${l.concetti.map((c) => `<div><dt>${esc(c.termine)}</dt><dd>${esc(c.definizione)}</dd></div>`).join('')}</dl></section>` : ''}
   ${(l.immagini || []).map((im) => `<figure style="margin:0"><img src="${esc(imgSrc(im.file))}" alt="" style="width:100%;border-radius:12px"><figcaption class="muted" style="font-size:12px">${esc(im.autore)} · ${esc(im.licenza)}</figcaption></figure>`).join('')}
   <div class="space"></div></div>`;
 };
@@ -542,6 +581,8 @@ async function vai() {
 /* ---------- eventi dopo ogni render ---------- */
 function dopoRender(path, query) {
   const app = $('#app');
+  const altra = $('[data-altra-curiosita]', app);
+  if (altra) collegaCuriosita(app);
   const cerca = $('[data-cerca]', app);
   if (cerca) cerca.addEventListener('submit', (e) => { e.preventDefault(); location.hash = '#/specie?q=' + encodeURIComponent($('#q').value); });
   const cs = $('[data-cerca-specie]', app);
@@ -639,7 +680,7 @@ document.addEventListener('click', (e) => {
   const rep = e.target.closest('a[data-replace]');
   if (rep) { e.preventDefault(); location.replace(rep.getAttribute('href')); return; }
   const gl = e.target.closest('[data-gl]');
-  if (gl) { const r = concetto(gl.dataset.gl); if (r) apriFoglio(`<div class="kicker">${esc(r.o.nome)} · glossario</div><h2>${esc(r.c.termine)}</h2><p class="prose">${esc(r.c.definizione)}</p><button class="btn ghost small" data-chiudi>Chiudi</button>`); return; }
+  if (gl) { const r = concetto(gl.dataset.gl); if (r) apriFoglio(`<div class="kicker">${esc(r.dove)} · glossario</div><h2>${esc(r.c.termine)}</h2><p class="prose">${esc(r.c.definizione)}</p><div class="row" style="gap:16px"><button class="btn ghost small" data-chiudi>Chiudi</button><a href="${r.link}" data-chiudi>Approfondisci →</a></div>`); return; }
   const v = e.target.closest('[data-view]');
   if (v) { const s = SP[location.hash.split('/')[2]]; const im = s && s.immagini[+v.dataset.view]; if (im) apriVisore(im); return; }
 });
@@ -665,6 +706,7 @@ async function avvio() {
   try { preparaDati(await caricaDati()); } catch (e) {
     $('#app').innerHTML = `<p class="empty">Impossibile caricare i dati (${esc(e.message)}).</p>`; return;
   }
+  CUR = nuovaCuriosita();
   window.addEventListener('hashchange', vai);
   vai();
   if ('serviceWorker' in navigator && window.isSecureContext && !window.__DATA__) {
