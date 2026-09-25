@@ -1,0 +1,209 @@
+{
+  "id": "quercus-suber",
+  "nome_comune": "Sughera",
+  "nome_scientifico": "Quercus suber",
+  "famiglia": "Fagaceae",
+  "genere": "Quercus",
+  "sinonimi": [
+    "Quercia da sughero",
+    "Sughero"
+  ],
+  "nomi_locali": [],
+  "stato": "bozza",
+  "aggiornato": "2026-09-25",
+  "chiave": {
+    "gruppo": "latifoglia",
+    "persistenza": "sempreverde",
+    "foglia_tipo": "semplice",
+    "foglia_disposizione": "alterna",
+    "foglia_margine": [
+      "dentato",
+      "intero"
+    ],
+    "foglia_forma": [
+      "ovata",
+      "ellittica"
+    ],
+    "frutto": "ghianda",
+    "corteccia_texture": [
+      "suberosa",
+      "fessurata"
+    ],
+    "habitat": [
+      "mediterraneo_costiero",
+      "collinare"
+    ],
+    "altitudine_m": [
+      0,
+      800
+    ],
+    "ramificazione": "monopodiale",
+    "ruolo_ecologico": [
+      "non_accertato"
+    ],
+    "luce": "eliofila"
+  },
+  "tratti_chiave": [
+    "Corteccia spessissima di sughero, chiara, morbida e spugnosa al tatto",
+    "Dove il sughero è stato tolto, il tronco appare rosso-bruno liscio (poi scurisce)",
+    "Foglie sempreverdi coriacee, verde scuro sopra e grigio-feltrose sotto, con piccoli denti"
+  ],
+  "origine": {
+    "stato": "autoctona",
+    "note": "Spontanea soprattutto in Sardegna, Sicilia e sul versante tirrenico dalla Toscana alla Calabria; al Nord solo piantata."
+  },
+  "foglie": {
+    "tipo": "semplice",
+    "disposizione": "alterna",
+    "forma": "ovata-ellittica, 3-7 cm, un po' convessa",
+    "margine": "con piccoli denti appuntiti o quasi intero",
+    "venatura": "pennata",
+    "colore_stagionale": {
+      "primavera_estate": "verde scuro e opaco sopra, grigio-biancastra e feltrosa sotto",
+      "autunno": "resta verde (sempreverde); le foglie vecchie cadono dopo 1-2 anni"
+    },
+    "descrizione": "Molto simili a quelle del leccio: per distinguerli la cosa più sicura è la corteccia."
+  },
+  "corteccia": {
+    "colore": "grigio chiaro o grigio-giallastro; rosso-bruno dove è stata decorticata",
+    "texture": "suberosa: spessa diversi centimetri, profondamente fessurata, elastica sotto il dito",
+    "evoluzione_con_eta": "il sughero si riforma dopo la decortica e si può raccogliere di nuovo dopo circa 9-12 anni",
+    "descrizione": "Nessun altro albero italiano ha una corteccia così: premendo con il pollice si sente cedere. Nei boschi sfruttati si vedono i tronchi 'nudi' fino a due-tre metri, a volte con una cifra dipinta che ricorda l'anno della raccolta."
+  },
+  "rami_e_portamento": {
+    "disposizione_rami": "alterna; rami robusti e tortuosi",
+    "angolo_di_crescita": "branche aperte, spesso inclinate",
+    "forma_chioma": "ampia, irregolare, piuttosto rada",
+    "silhouette_invernale": "sempreverde: d'inverno cambia poco; chioma rada e grigio-verde su tronco corto e grosso",
+    "descrizione": "Nelle sugherete i tronchi sono radi e ben illuminati, spesso con pascolo sotto.",
+    "ramificazione": "Rametti con gemma terminale vera circondata da altre gemme, come nelle altre querce (monopodiali)."
+  },
+  "gemme": {
+    "forma": "piccole, ovoidali",
+    "colore": "brune, pelose",
+    "disposizione": "alterne, raggruppate all'apice dei rametti",
+    "descrizione": "Poco appariscenti; le stipole persistono a lungo attorno alle gemme."
+  },
+  "fiori_e_frutti": {
+    "tipo_fiore": "fiori maschili in amenti gialli penduli, femminili piccoli e poco visibili sulla stessa pianta",
+    "periodo_fioritura": "aprile-maggio (a volte una seconda fioritura in autunno)",
+    "tipo_frutto": "ghianda di 2-4,5 cm in cupola con squame allungate, un po' arruffate verso il bordo",
+    "periodo_fruttificazione": "ottobre-gennaio; in parte al primo anno, in parte al secondo",
+    "descrizione": "La cupola ha squame più lunghe e sporgenti di quella del leccio."
+  },
+  "dimensioni": {
+    "altezza_tipica_m": [
+      8,
+      15
+    ],
+    "altezza_max_m": 20,
+    "eta_massima_anni": null,
+    "note": "Età massima non accertata; vive a lungo (stima indicativa: diversi secoli). La decortica ripetuta non la uccide se fatta correttamente."
+  },
+  "habitat_e_distribuzione": {
+    "regioni_italia": [
+      "Sardegna (grandi sugherete in Gallura)",
+      "Sicilia, Toscana, Lazio, Campania, Calabria, Puglia",
+      "Nord: assente allo stato spontaneo, solo piantata"
+    ],
+    "altitudine": "0-800 m (più in alto in Sardegna e Sicilia)",
+    "terreno_preferito": "acido, sabbioso o granitico; evita il calcare",
+    "descrizione": "Forma sugherete e boschi misti con leccio e roverella, spesso pascolati; ama il clima mediterraneo con inverni miti e un po' di umidità."
+  },
+  "ecologia": {
+    "descrizione": "Specie di luce, legata ai suoli acidi. Grazie al sughero, che isola dal calore, sopravvive agli incendi meglio di quasi tutti gli altri alberi e ributta dai rami dopo il fuoco. Ruolo nella successione: dato non accertato."
+  },
+  "stagionalita": {
+    "primavera": "Amenti gialli e foglie nuove chiare.",
+    "estate": "Tronchi decorticati rosso-arancio, molto evidenti in estate (la decortica si fa tra maggio e agosto).",
+    "autunno": "Ghiande mature.",
+    "inverno": "Sempreverde: chioma grigio-verde, corteccia di sughero."
+  },
+  "specie_simili": [
+    {
+      "id_specie": "quercus-ilex",
+      "come_distinguere": "Il leccio ha corteccia sottile, dura e scura, fessurata in piccole placche; foglie molto simili."
+    },
+    {
+      "id_specie": "quercus-cerris",
+      "come_distinguere": "Il cerro ha foglie caduche e profondamente lobate e corteccia dura, con fessure arancioni."
+    }
+  ],
+  "commestibilita": {
+    "parti": "ghiande",
+    "note": "Le ghiande servivano soprattutto per nutrire i maiali al pascolo; per l'uomo, come quelle delle altre querce, vanno private dei tannini con ammolli e bolliture.",
+    "avvertenze": "Non mangiarle crude in quantità: sono astringenti."
+  },
+  "tossicita": {
+    "livello": "bassa",
+    "parti": "ghiande",
+    "note": "Ricche di tannini: astringenti per l'uomo, dannose per il bestiame solo in grandi quantità."
+  },
+  "curiosita_e_usi": "Dal sughero si fanno tappi, pannelli isolanti e pavimenti. La prima decortica dà un sughero irregolare (sugherone), buono solo per isolanti; i tappi si ricavano dalle raccolte successive. Il sughero non si rigenera se durante la raccolta si ferisce lo strato vivo sottostante.",
+  "immagini": [
+    {
+      "tipo": "silhouette",
+      "file": "img/quercus-suber-silhouette.jpg",
+      "fonte": "Wikimedia Commons",
+      "autore": "Kent Wang from London, United Kingdom",
+      "licenza": "CC BY-SA 2.0",
+      "url_originale": "https://commons.wikimedia.org/wiki/File:Cork_oak_(28864190188).jpg",
+      "titolo_originale": "Cork oak (28864190188).jpg"
+    },
+    {
+      "tipo": "silhouette",
+      "file": "img/quercus-suber-silhouette-2.jpg",
+      "fonte": "Wikimedia Commons",
+      "autore": "Hannes Grobe",
+      "licenza": "CC BY-SA 4.0",
+      "url_originale": "https://commons.wikimedia.org/wiki/File:Quercus_suber_algarve.jpg",
+      "titolo_originale": "Quercus suber algarve.jpg"
+    },
+    {
+      "tipo": "foglia",
+      "file": "img/quercus-suber-foglia.jpg",
+      "fonte": "Wikimedia Commons",
+      "autore": "Madrone HeHeHe",
+      "licenza": "CC0",
+      "url_originale": "https://commons.wikimedia.org/wiki/File:Quercus_suber_leaves.jpg",
+      "titolo_originale": "Quercus suber leaves.jpg"
+    },
+    {
+      "tipo": "corteccia",
+      "file": "img/quercus-suber-corteccia.jpg",
+      "fonte": "Wikimedia Commons",
+      "autore": "gailhampshire from Cradley, Malvern, U.K",
+      "licenza": "CC BY 2.0",
+      "url_originale": "https://commons.wikimedia.org/wiki/File:Bark_of_cork_oak_(25206354297).jpg",
+      "titolo_originale": "Bark of cork oak (25206354297).jpg"
+    },
+    {
+      "tipo": "corteccia",
+      "file": "img/quercus-suber-corteccia-2.jpg",
+      "fonte": "Wikimedia Commons",
+      "autore": "User:Sallyofmayflower",
+      "licenza": "CC BY 3.0",
+      "url_originale": "https://commons.wikimedia.org/wiki/File:1-Arraiolos-0050.jpg",
+      "titolo_originale": "1-Arraiolos-0050.jpg"
+    },
+    {
+      "tipo": "fiore_o_frutto",
+      "file": "img/quercus-suber-fiore_o_frutto.jpg",
+      "fonte": "Wikimedia Commons",
+      "autore": "Krzysztof Ziarnek, Kenraiz",
+      "licenza": "CC BY-SA 4.0",
+      "url_originale": "https://commons.wikimedia.org/wiki/File:Quercus_suber_kz06.jpg",
+      "titolo_originale": "Quercus suber kz06.jpg"
+    }
+  ],
+  "fonti": [
+    {
+      "titolo": "Quercus suber – Wikipedia (it)",
+      "url": "https://it.wikipedia.org/wiki/Quercus_suber"
+    },
+    {
+      "titolo": "Quercus suber – Wikipedia (en)",
+      "url": "https://en.wikipedia.org/wiki/Quercus_suber"
+    }
+  ]
+}

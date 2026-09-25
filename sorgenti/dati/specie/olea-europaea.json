@@ -1,0 +1,190 @@
+{
+  "id": "olea-europaea",
+  "nome_comune": "Olivo",
+  "nome_scientifico": "Olea europaea",
+  "famiglia": "Oleaceae",
+  "genere": "Olea",
+  "sinonimi": [
+    "Ulivo"
+  ],
+  "nomi_locali": [],
+  "stato": "bozza",
+  "aggiornato": "2026-09-25",
+  "chiave": {
+    "gruppo": "latifoglia",
+    "persistenza": "sempreverde",
+    "foglia_tipo": "semplice",
+    "foglia_disposizione": "opposta",
+    "foglia_margine": [
+      "intero"
+    ],
+    "foglia_forma": [
+      "lanceolata",
+      "lineare"
+    ],
+    "frutto": "drupa",
+    "corteccia_texture": [
+      "liscia",
+      "fessurata"
+    ],
+    "habitat": [
+      "mediterraneo_costiero",
+      "collinare",
+      "rupestre_arido"
+    ],
+    "altitudine_m": [
+      0,
+      800
+    ],
+    "ramificazione": "non_accertata",
+    "ruolo_ecologico": [
+      "non_accertato"
+    ],
+    "luce": "eliofila"
+  },
+  "tratti_chiave": [
+    "Foglie opposte, strette e lanceolate, verde-grigio sopra e argentee sotto",
+    "Tronco grigio, contorto e spesso cavo negli esemplari vecchi",
+    "Olive: drupe verdi, poi nero-violacee, in autunno"
+  ],
+  "origine": {
+    "stato": "autoctona",
+    "note": "La forma selvatica (olivastro) è spontanea nella macchia mediterranea; l'olivo coltivato deriva da essa ed è diffuso dall'uomo da millenni."
+  },
+  "foglie": {
+    "tipo": "semplice",
+    "disposizione": "opposta",
+    "forma": "lanceolata o quasi lineare, 3-8 cm, stretta",
+    "margine": "intero, un po' ripiegato verso il basso",
+    "venatura": "pennata, poco visibile tranne la nervatura centrale",
+    "colore_stagionale": {
+      "primavera_estate": "verde-grigio scuro sopra, argentea sotto per minuscoli peli a scaglia",
+      "autunno": "resta verde (sempreverde)"
+    },
+    "descrizione": "Nell'olivastro selvatico le foglie sono più piccole e più tonde, e i rami giovani sono spesso spinosi."
+  },
+  "corteccia": {
+    "colore": "grigio",
+    "texture": "liscia da giovane, poi fessurata e rugosa",
+    "evoluzione_con_eta": "il tronco dei vecchi olivi diventa contorto, a costoloni, spesso cavo o diviso in più parti",
+    "descrizione": "La forma del tronco dipende molto dalla potatura e dall'età: negli esemplari monumentali è una scultura."
+  },
+  "rami_e_portamento": {
+    "disposizione_rami": "opposta",
+    "angolo_di_crescita": "rami spesso aperti, a volte ricadenti",
+    "forma_chioma": "ampia, arrotondata, grigio-argentea; negli uliveti tenuta bassa e 'a vaso' con la potatura",
+    "silhouette_invernale": "sempreverde; da lontano la chioma luccica di argento quando c'è vento",
+    "descrizione": "Allo stato selvatico è un arbusto o piccolo albero denso e spinoso.",
+    "ramificazione": "Tipo di ramificazione: dato non accertato."
+  },
+  "gemme": {
+    "forma": "piccolissime",
+    "colore": "verde-grigiastre",
+    "disposizione": "opposte, all'ascella delle foglie",
+    "descrizione": "Quasi invisibili: in inverno l'olivo si riconosce dalle foglie, non dalle gemme."
+  },
+  "fiori_e_frutti": {
+    "tipo_fiore": "fiori piccoli bianco-crema, profumati, in grappoli all'ascella delle foglie ('mignola')",
+    "periodo_fioritura": "maggio-giugno",
+    "tipo_frutto": "drupa (oliva) ovoidale di 1-3 cm, verde poi nero-violacea",
+    "periodo_fruttificazione": "ottobre-dicembre",
+    "descrizione": "Solo una piccola parte dei fiori diventa oliva."
+  },
+  "dimensioni": {
+    "altezza_tipica_m": [
+      5,
+      10
+    ],
+    "altezza_max_m": 20,
+    "eta_massima_anni": null,
+    "note": "Può superare i mille anni: diversi olivi monumentali italiani sono datati a molti secoli. Le età più alte citate (2000-3000 anni) sono stime difficili da verificare, perché il tronco si svuota."
+  },
+  "habitat_e_distribuzione": {
+    "regioni_italia": [
+      "Coltivato in quasi tutta Italia a clima mite",
+      "Nord: Liguria, laghi prealpini (Garda, Iseo, Como), colli e zone riparate fino al Carso",
+      "Olivastro spontaneo nella macchia del Centro-Sud e delle isole"
+    ],
+    "altitudine": "0-800 m circa; al Nord di solito sotto i 500 m",
+    "terreno_preferito": "ben drenato, anche povero, sassoso e calcareo; teme i ristagni e il gelo forte",
+    "descrizione": "La sua presenza al Nord segnala un clima mite: attorno ai grandi laghi l'acqua mitiga gli inverni."
+  },
+  "ecologia": {
+    "descrizione": "Pianta di luce e di clima mite, molto resistente alla siccità. Ruolo nella successione: dato non accertato (è soprattutto coltivato)."
+  },
+  "stagionalita": {
+    "primavera": "Foglie nuove più chiare; boccioli fiorali.",
+    "estate": "Fioritura bianca (maggio-giugno), poi piccole olive verdi.",
+    "autunno": "Olive che cambiano colore; raccolta.",
+    "inverno": "Sempreverde; chioma argentea."
+  },
+  "specie_simili": [
+    {
+      "id_specie": "laurus-nobilis",
+      "come_distinguere": "L'alloro ha foglie alterne, più larghe, verdi lucide sotto e profumate."
+    },
+    {
+      "id_specie": "salix-alba",
+      "come_distinguere": "Il salice bianco ha foglie argentee ma alterne, seghettate e che cadono in inverno; vive lungo i fiumi."
+    }
+  ],
+  "commestibilita": {
+    "parti": "frutti (solo lavorati)",
+    "note": "Le olive crude sono amarissime: si mangiano dopo averle 'addolcite' in acqua, salamoia o con altri trattamenti. Dalla spremitura si ottiene l'olio.",
+    "avvertenze": "Non mangiare olive crude appena colte: non sono tossiche, ma immangiabili."
+  },
+  "tossicita": {
+    "livello": "nessuna_nota",
+    "parti": "",
+    "note": "Nessuna tossicità nota; il polline può causare allergie in primavera."
+  },
+  "curiosita_e_usi": "È uno dei primi alberi coltivati dall'uomo nel Mediterraneo. Un ramoscello d'olivo è simbolo di pace. Il legno, duro e venato, è pregiato per piccoli oggetti e taglieri.",
+  "immagini": [
+    {
+      "tipo": "silhouette",
+      "file": "img/olea-europaea-silhouette.jpg",
+      "fonte": "Wikimedia Commons",
+      "autore": "Palauenc05",
+      "licenza": "CC BY-SA 4.0",
+      "url_originale": "https://commons.wikimedia.org/wiki/File:Lun_olive_tree_1600_years.jpg",
+      "titolo_originale": "Lun olive tree 1600 years.jpg"
+    },
+    {
+      "tipo": "foglia",
+      "file": "img/olea-europaea-foglia.jpg",
+      "fonte": "Wikimedia Commons",
+      "autore": "sconosciuto",
+      "licenza": "CC BY-SA 3.0",
+      "url_originale": "https://commons.wikimedia.org/wiki/File:Olea_europaea_subsp_europaea_Leafs.jpg",
+      "titolo_originale": "Olea europaea subsp europaea Leafs.jpg"
+    },
+    {
+      "tipo": "fiore_o_frutto",
+      "file": "img/olea-europaea-fiore_o_frutto.jpg",
+      "fonte": "Wikimedia Commons",
+      "autore": "Gandalf",
+      "licenza": "Public domain",
+      "url_originale": "https://commons.wikimedia.org/wiki/File:Bl%C3%BChender_Olivenbaum.jpg",
+      "titolo_originale": "Blühender Olivenbaum.jpg"
+    },
+    {
+      "tipo": "corteccia",
+      "file": "img/olea-europaea-corteccia.jpg",
+      "fonte": "Wikimedia Commons",
+      "autore": "Vera Buhl",
+      "licenza": "CC BY-SA 3.0",
+      "url_originale": "https://commons.wikimedia.org/wiki/File:2008-03-02_(3)_Olive_Tree,_Olivenbaum,_Olea_europaea.JPG",
+      "titolo_originale": "2008-03-02 (3) Olive Tree, Olivenbaum, Olea europaea.JPG"
+    }
+  ],
+  "fonti": [
+    {
+      "titolo": "Olea europaea – Wikipedia (it)",
+      "url": "https://it.wikipedia.org/wiki/Olea_europaea"
+    },
+    {
+      "titolo": "Olea europaea – Wikipedia (en)",
+      "url": "https://en.wikipedia.org/wiki/Olea_europaea"
+    }
+  ]
+}

@@ -131,6 +131,10 @@
     {
       "id_specie": "quercus-robur",
       "come_distinguere": "La farnia ha foglia quasi senza picciolo con base a orecchiette, lobi arrotondati e ghiande su un lungo peduncolo."
+    },
+    {
+      "id_specie": "quercus-suber",
+      "come_distinguere": "La sughera è sempreverde, con foglie piccole e dentate e corteccia spessa e spugnosa di sughero."
     }
   ],
   "commestibilita": {

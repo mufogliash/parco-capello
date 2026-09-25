@@ -1,0 +1,197 @@
+{
+  "id": "arbutus-unedo",
+  "nome_comune": "Corbezzolo",
+  "nome_scientifico": "Arbutus unedo",
+  "famiglia": "Ericaceae",
+  "genere": "Arbutus",
+  "sinonimi": [
+    "Albatro"
+  ],
+  "nomi_locali": [],
+  "stato": "bozza",
+  "aggiornato": "2026-09-25",
+  "chiave": {
+    "gruppo": "latifoglia",
+    "persistenza": "sempreverde",
+    "foglia_tipo": "semplice",
+    "foglia_disposizione": "alterna",
+    "foglia_margine": [
+      "seghettato"
+    ],
+    "foglia_forma": [
+      "ellittica",
+      "lanceolata"
+    ],
+    "frutto": "bacca",
+    "corteccia_texture": [
+      "desquamante",
+      "fessurata"
+    ],
+    "habitat": [
+      "mediterraneo_costiero",
+      "collinare"
+    ],
+    "altitudine_m": [
+      0,
+      800
+    ],
+    "ramificazione": "non_accertata",
+    "ruolo_ecologico": [
+      "non_accertato"
+    ],
+    "luce": "eliofila"
+  },
+  "tratti_chiave": [
+    "In autunno porta insieme fiori bianchi a campanella e frutti rossi rotondi e granulosi",
+    "Foglie sempreverdi lucide, seghettate, con picciolo rossastro",
+    "Corteccia rosso-bruna che si stacca in sottili scaglie; rametti giovani rossi"
+  ],
+  "origine": {
+    "stato": "autoctona",
+    "note": "Spontaneo nella macchia mediterranea; al Nord soprattutto in Liguria, altrove piantato nei giardini."
+  },
+  "foglie": {
+    "tipo": "semplice",
+    "disposizione": "alterna, addensata verso l'apice dei rametti",
+    "forma": "ellittico-lanceolata, 5-10 cm",
+    "margine": "seghettato",
+    "venatura": "pennata",
+    "colore_stagionale": {
+      "primavera_estate": "verde scuro lucido sopra, più chiara sotto; picciolo corto e rossastro",
+      "autunno": "resta verde (sempreverde)"
+    },
+    "descrizione": ""
+  },
+  "corteccia": {
+    "colore": "rosso-bruno",
+    "texture": "sottile; si sfalda in scaglie e strisce sottili, lasciando sotto zone più chiare",
+    "evoluzione_con_eta": "sui tronchi vecchi diventa grigio-bruna e fessurata",
+    "descrizione": "I rametti dell'anno sono rossi e un po' pelosi."
+  },
+  "rami_e_portamento": {
+    "disposizione_rami": "alterna; molti fusti dalla base",
+    "angolo_di_crescita": "ascendenti",
+    "forma_chioma": "densa, tondeggiante",
+    "silhouette_invernale": "sempreverde; di solito arbusto con più fusti, a volte piccolo albero",
+    "descrizione": "Dopo il taglio o il fuoco ributta vigorosamente dalla ceppaia, per questo spesso ha più fusti.",
+    "ramificazione": "Tipo di ramificazione: dato non accertato."
+  },
+  "gemme": {
+    "forma": "piccole",
+    "colore": "verdi o rossastre",
+    "disposizione": "alterne",
+    "descrizione": "Poco visibili, protette da poche squame."
+  },
+  "fiori_e_frutti": {
+    "tipo_fiore": "fiori a campanella (a orciolo) bianco-crema, a volte rosati, in grappoli penduli",
+    "periodo_fioritura": "ottobre-gennaio",
+    "tipo_frutto": "bacca sferica di 1,5-2 cm con superficie granulosa, da gialla ad arancio a rosso vivo",
+    "periodo_fruttificazione": "ottobre-dicembre, dell'anno dopo la fioritura",
+    "descrizione": "I frutti impiegano circa un anno a maturare: per questo in autunno si vedono sullo stesso ramo i fiori nuovi e i frutti rossi dell'anno prima."
+  },
+  "dimensioni": {
+    "altezza_tipica_m": [
+      2,
+      8
+    ],
+    "altezza_max_m": 12,
+    "eta_massima_anni": null,
+    "note": "Età massima non accertata."
+  },
+  "habitat_e_distribuzione": {
+    "regioni_italia": [
+      "Coste tirreniche e isole, Liguria, parte dell'Adriatico meridionale",
+      "Nord: soprattutto Liguria; qua e là coltivato"
+    ],
+    "altitudine": "0-800 m",
+    "terreno_preferito": "acido o neutro, anche povero e sassoso; poco adatto al calcare",
+    "descrizione": "Tipico della macchia mediterranea con erica, lentisco e leccio."
+  },
+  "ecologia": {
+    "descrizione": "Resiste bene alla siccità e al fuoco: dopo un incendio ributta dalla ceppaia ed è tra i primi a ricoprire il terreno. Ruolo preciso nella successione: dato non accertato."
+  },
+  "stagionalita": {
+    "primavera": "Foglie nuove più chiare; frutti ormai caduti.",
+    "estate": "Frutti ancora verdi o gialli.",
+    "autunno": "Fiori bianchi e frutti rossi insieme: il momento più facile per riconoscerlo.",
+    "inverno": "Sempreverde; a inizio inverno ancora fiori e frutti."
+  },
+  "specie_simili": [
+    {
+      "id_specie": "quercus-ilex",
+      "come_distinguere": "Il leccio ha foglie grigio-feltrose sotto, corteccia scura a placche e ghiande invece di bacche rosse."
+    },
+    {
+      "id_specie": "laurus-nobilis",
+      "come_distinguere": "L'alloro ha foglie a margine intero, spesso ondulato, profumate se stropicciate, e bacche nere."
+    }
+  ],
+  "commestibilita": {
+    "parti": "frutti maturi",
+    "note": "Polpa dolce e un po' farinosa, con tanti piccoli semi: si mangiano freschi o in marmellate, gelatine e liquori.",
+    "avvertenze": "Mangiarne molti può dare disturbi intestinali; i frutti troppo maturi possono fermentare sulla pianta."
+  },
+  "tossicita": {
+    "livello": "nessuna_nota",
+    "parti": "",
+    "note": "Nessuna tossicità nota per l'uso normale dei frutti."
+  },
+  "curiosita_e_usi": "Il nome unedo è spiegato con il latino unum edo, 'ne mangio uno solo', attribuito a Plinio. Con foglie verdi, fiori bianchi e frutti rossi insieme fu preso come simbolo del tricolore nel Risorgimento. Dai fiori le api producono un miele amaro, tipico della Sardegna.",
+  "immagini": [
+    {
+      "tipo": "silhouette",
+      "file": "img/arbutus-unedo-silhouette.jpg",
+      "fonte": "Wikimedia Commons",
+      "autore": "jxandreani",
+      "licenza": "CC BY 2.0",
+      "url_originale": "https://commons.wikimedia.org/wiki/File:Arbutus_unedo_Corsica.jpg",
+      "titolo_originale": "Arbutus unedo Corsica.jpg"
+    },
+    {
+      "tipo": "foglia",
+      "file": "img/arbutus-unedo-foglia.jpg",
+      "fonte": "Wikimedia Commons",
+      "autore": "Oktoober",
+      "licenza": "CC BY-SA 4.0",
+      "url_originale": "https://commons.wikimedia.org/wiki/File:Arboretum-Trsteno-maasikapuu3.jpg",
+      "titolo_originale": "Arboretum-Trsteno-maasikapuu3.jpg"
+    },
+    {
+      "tipo": "fiore_o_frutto",
+      "file": "img/arbutus-unedo-fiore_o_frutto.jpg",
+      "fonte": "Wikimedia Commons",
+      "autore": "Wendy Cutler from Vancouver, Canada",
+      "licenza": "CC BY 2.0",
+      "url_originale": "https://commons.wikimedia.org/wiki/File:Arbutus_unedo_off_Bayshore_Drive_at_Coal_Harbour.jpg",
+      "titolo_originale": "Arbutus unedo off Bayshore Drive at Coal Harbour.jpg"
+    },
+    {
+      "tipo": "fiore_o_frutto",
+      "file": "img/arbutus-unedo-fiore_o_frutto-2.jpg",
+      "fonte": "Wikimedia Commons",
+      "autore": "muffinn from Worcester, UK",
+      "licenza": "CC BY 2.0",
+      "url_originale": "https://commons.wikimedia.org/wiki/File:Ameixial_-_strawberry_tree_Arbutus_unedo_flowers_(13531867643).jpg",
+      "titolo_originale": "Ameixial - strawberry tree Arbutus unedo flowers (13531867643).jpg"
+    },
+    {
+      "tipo": "corteccia",
+      "file": "img/arbutus-unedo-corteccia.jpg",
+      "fonte": "Wikimedia Commons",
+      "autore": "Didier Descouens",
+      "licenza": "CC BY-SA 4.0",
+      "url_originale": "https://commons.wikimedia.org/wiki/File:(MHNT)_Arbutus_unedo_(bark)_.jpg",
+      "titolo_originale": "(MHNT) Arbutus unedo (bark) .jpg"
+    }
+  ],
+  "fonti": [
+    {
+      "titolo": "Arbutus unedo – Wikipedia (it)",
+      "url": "https://it.wikipedia.org/wiki/Arbutus_unedo"
+    },
+    {
+      "titolo": "Arbutus unedo – Wikipedia (en)",
+      "url": "https://en.wikipedia.org/wiki/Arbutus_unedo"
+    }
+  ]
+}

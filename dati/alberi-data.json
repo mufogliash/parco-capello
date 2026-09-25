@@ -612,6 +612,204 @@
    ]
   },
   {
+   "id": "laurus-nobilis",
+   "nome_comune": "Alloro",
+   "nome_scientifico": "Laurus nobilis",
+   "famiglia": "Lauraceae",
+   "genere": "Laurus",
+   "sinonimi": [
+    "Lauro"
+   ],
+   "nomi_locali": [],
+   "stato": "bozza",
+   "aggiornato": "2026-09-25",
+   "chiave": {
+    "gruppo": "latifoglia",
+    "persistenza": "sempreverde",
+    "foglia_tipo": "semplice",
+    "foglia_disposizione": "alterna",
+    "foglia_margine": [
+     "intero",
+     "ondulato"
+    ],
+    "foglia_forma": [
+     "lanceolata",
+     "ellittica"
+    ],
+    "frutto": "drupa",
+    "corteccia_texture": [
+     "liscia"
+    ],
+    "habitat": [
+     "mediterraneo_costiero",
+     "collinare",
+     "urbano_parchi"
+    ],
+    "altitudine_m": [
+     0,
+     800
+    ],
+    "ramificazione": "non_accertata",
+    "ruolo_ecologico": [
+     "non_accertato"
+    ],
+    "luce": "semisciafila"
+   },
+   "tratti_chiave": [
+    "Foglie sempreverdi coriacee che, stropicciate, profumano di alloro da cucina",
+    "Margine della foglia intero, spesso un po' ondulato",
+    "Corteccia liscia, grigio scuro; piante maschili e femminili separate, con piccole bacche nere su quelle femminili"
+   ],
+   "origine": {
+    "stato": "autoctona",
+    "note": "Spontaneo in boschi freschi e valloni della fascia mediterranea; coltivato ovunque, al Nord anche inselvatichito vicino a laghi e costa."
+   },
+   "foglie": {
+    "tipo": "semplice",
+    "disposizione": "alterna",
+    "forma": "lanceolata-ellittica, 5-10 cm, appuntita",
+    "margine": "intero, spesso ondulato",
+    "venatura": "pennata; controluce si vedono piccoli punti traslucidi (ghiandole dell'olio)",
+    "colore_stagionale": {
+     "primavera_estate": "verde scuro lucido sopra, più chiara sotto",
+     "autunno": "resta verde (sempreverde)"
+    },
+    "descrizione": "Il profumo delle foglie stropicciate è la prova più sicura."
+   },
+   "corteccia": {
+    "colore": "grigio scuro o nerastro",
+    "texture": "liscia",
+    "evoluzione_con_eta": "resta liscia anche nei fusti vecchi",
+    "descrizione": ""
+   },
+   "rami_e_portamento": {
+    "disposizione_rami": "alterna; molti polloni dalla base",
+    "angolo_di_crescita": "ascendenti",
+    "forma_chioma": "densa, conica o ovale",
+    "silhouette_invernale": "sempreverde, fitto, spesso a cespuglio con più fusti",
+    "descrizione": "Pollona molto dalla base e forma facilmente boschetti; sopporta bene la potatura, per questo è usato nelle siepi.",
+    "ramificazione": "Tipo di ramificazione: dato non accertato."
+   },
+   "gemme": {
+    "forma": "piccole, appuntite",
+    "colore": "verdi o rossastre",
+    "disposizione": "alterne",
+    "descrizione": "In inverno si vedono già i boccioli fiorali, tondeggianti, all'ascella delle foglie."
+   },
+   "fiori_e_frutti": {
+    "tipo_fiore": "fiori piccoli giallo-verdastri in ombrelline all'ascella delle foglie; piante maschili e femminili separate (dioico)",
+    "periodo_fioritura": "marzo-aprile",
+    "tipo_frutto": "drupa ovoidale di 1-1,5 cm, nera e lucida a maturità (solo sulle piante femminili)",
+    "periodo_fruttificazione": "ottobre-novembre",
+    "descrizione": ""
+   },
+   "dimensioni": {
+    "altezza_tipica_m": [
+     5,
+     10
+    ],
+    "altezza_max_m": 18,
+    "eta_massima_anni": null,
+    "note": "Età massima non accertata."
+   },
+   "habitat_e_distribuzione": {
+    "regioni_italia": [
+     "Tutta Italia costiera e collinare; al Nord soprattutto Liguria e laghi prealpini",
+     "Coltivato ovunque in parchi, giardini e siepi"
+    ],
+    "altitudine": "0-800 m",
+    "terreno_preferito": "fresco, meglio se non troppo secco; tollera il calcare",
+    "descrizione": "Allo stato spontaneo cerca valloni ombrosi e umidi, dove forma piccoli boschi (laureti)."
+   },
+   "ecologia": {
+    "descrizione": "Da giovane tollera bene l'ombra. È un resto delle antiche foreste di lauracee che coprivano l'Europa in climi più caldi e umidi. Ruolo nella successione: dato non accertato."
+   },
+   "stagionalita": {
+    "primavera": "Piccoli fiori giallo-verdi (marzo-aprile).",
+    "estate": "Bacche verdi sulle piante femminili.",
+    "autunno": "Bacche nere lucide.",
+    "inverno": "Sempreverde; boccioli fiorali già visibili."
+   },
+   "specie_simili": [
+    {
+     "id_specie": "arbutus-unedo",
+     "come_distinguere": "Il corbezzolo ha foglie seghettate, non profumate, corteccia rossastra che si sfalda e frutti rossi granulosi."
+    },
+    {
+     "id_specie": "olea-europaea",
+     "come_distinguere": "L'olivo ha foglie opposte, strette, argentee sotto, e corteccia grigia fessurata."
+    }
+   ],
+   "commestibilita": {
+    "parti": "foglie (come aromatica); bacche per liquori",
+    "note": "Le foglie, fresche o secche, insaporiscono sughi, carni, legumi e castagne; si tolgono prima di servire. Con le bacche si prepara il liquore laurino.",
+    "avvertenze": "ATTENZIONE: non confonderlo con il lauroceraso (foglie seghettate, odore di mandorla amara se stropicciate) e con l'oleandro (foglie strette, spesso a gruppi di tre): sono velenosi. Non ingerire le foglie intere."
+   },
+   "tossicita": {
+    "livello": "bassa",
+    "parti": "foglie intere, olio essenziale",
+    "note": "Le foglie intere non si mangiano (dure e taglienti); l'olio essenziale concentrato può irritare."
+   },
+   "curiosita_e_usi": "Con i rami di alloro si incoronavano poeti e vincitori: da qui 'laurea' e 'laureato'. Il nome nobilis ricorda proprio questo uso.",
+   "immagini": [
+    {
+     "tipo": "silhouette",
+     "file": "img/laurus-nobilis-silhouette.jpg",
+     "fonte": "Wikimedia Commons",
+     "autore": "The wub",
+     "licenza": "CC BY-SA 4.0",
+     "url_originale": "https://commons.wikimedia.org/wiki/File:Bay_tree,_South_Zeal,_Devon.jpg",
+     "titolo_originale": "Bay tree, South Zeal, Devon.jpg"
+    },
+    {
+     "tipo": "foglia",
+     "file": "img/laurus-nobilis-foglia.jpg",
+     "fonte": "Wikimedia Commons",
+     "autore": "Forest and Kim Starr",
+     "licenza": "CC BY 3.0 us",
+     "url_originale": "https://commons.wikimedia.org/wiki/File:Starr-071024-0195-Laurus_nobilis-leaves-Enchanting_Floral_Gardens_of_Kula-Maui_(24867859296).jpg",
+     "titolo_originale": "Starr-071024-0195-Laurus nobilis-leaves-Enchanting Floral Gardens of Kula-Maui (24867859296).jpg"
+    },
+    {
+     "tipo": "fiore_o_frutto",
+     "file": "img/laurus-nobilis-fiore_o_frutto.jpg",
+     "fonte": "Wikimedia Commons",
+     "autore": "Photoexpo",
+     "licenza": "CC BY-SA 4.0",
+     "url_originale": "https://commons.wikimedia.org/wiki/File:Laurel_flower.jpg",
+     "titolo_originale": "Laurel flower.jpg"
+    },
+    {
+     "tipo": "corteccia",
+     "file": "img/laurus-nobilis-corteccia.jpg",
+     "fonte": "Wikimedia Commons",
+     "autore": "Oktoober",
+     "licenza": "CC BY-SA 4.0",
+     "url_originale": "https://commons.wikimedia.org/wiki/File:Arboretum-Trsteno-loorber1.jpg",
+     "titolo_originale": "Arboretum-Trsteno-loorber1.jpg"
+    },
+    {
+     "tipo": "gemme",
+     "file": "img/laurus-nobilis-gemme.jpg",
+     "fonte": "Wikimedia Commons",
+     "autore": "Forest and Kim Starr",
+     "licenza": "CC BY 3.0 us",
+     "url_originale": "https://commons.wikimedia.org/wiki/File:Starr-150811-0527-Laurus_nobilis-leaves_buds-Enchanting_Floral_Gardens_of_Kula-Maui_(24927959119).jpg",
+     "titolo_originale": "Starr-150811-0527-Laurus nobilis-leaves buds-Enchanting Floral Gardens of Kula-Maui (24927959119).jpg"
+    }
+   ],
+   "fonti": [
+    {
+     "titolo": "Laurus nobilis – Wikipedia (it)",
+     "url": "https://it.wikipedia.org/wiki/Laurus_nobilis"
+    },
+    {
+     "titolo": "Laurus nobilis – Wikipedia (en)",
+     "url": "https://en.wikipedia.org/wiki/Laurus_nobilis"
+    }
+   ]
+  },
+  {
    "id": "celtis-australis",
    "nome_comune": "Bagolaro",
    "nome_scientifico": "Celtis australis",
@@ -1610,6 +1808,198 @@
    ]
   },
   {
+   "id": "ceratonia-siliqua",
+   "nome_comune": "Carrubo",
+   "nome_scientifico": "Ceratonia siliqua",
+   "famiglia": "Fabaceae",
+   "genere": "Ceratonia",
+   "sinonimi": [],
+   "nomi_locali": [],
+   "stato": "bozza",
+   "aggiornato": "2026-09-25",
+   "chiave": {
+    "gruppo": "latifoglia",
+    "persistenza": "sempreverde",
+    "foglia_tipo": "composta_pennata",
+    "foglia_disposizione": "alterna",
+    "foglia_margine": [
+     "intero",
+     "ondulato"
+    ],
+    "foglia_forma": [
+     "orbicolare",
+     "obovata"
+    ],
+    "frutto": "legume",
+    "corteccia_texture": [
+     "liscia",
+     "fessurata"
+    ],
+    "habitat": [
+     "mediterraneo_costiero",
+     "rupestre_arido"
+    ],
+    "altitudine_m": [
+     0,
+     500
+    ],
+    "ramificazione": "non_accertata",
+    "ruolo_ecologico": [
+     "non_accertato"
+    ],
+    "luce": "eliofila"
+   },
+   "tratti_chiave": [
+    "Foglie composte da 2-5 paia di foglioline tonde, coriacee e lucide, senza fogliolina terminale",
+    "Carrube: grandi baccelli bruno scuro lunghi 10-25 cm",
+    "Piccoli fiori rossastri che spuntano direttamente sui rami vecchi e sul tronco"
+   ],
+   "origine": {
+    "stato": "archeofita",
+    "note": "Diffuso dall'uomo nel Mediterraneo in epoca antica; oggi in Italia è naturalizzato soprattutto in Sicilia, Puglia e Sardegna."
+   },
+   "foglie": {
+    "tipo": "composta pennata (paripennata: senza fogliolina terminale)",
+    "disposizione": "alterna",
+    "forma": "10-20 cm, con 2-5 paia di foglioline ovali o quasi rotonde di 3-5 cm, spesso con una piccola rientranza in punta",
+    "margine": "intero, a volte leggermente ondulato",
+    "venatura": "pennata",
+    "colore_stagionale": {
+     "primavera_estate": "verde scuro lucido sopra, più chiaro sotto; molto coriacee",
+     "autunno": "resta verde (sempreverde)"
+    },
+    "descrizione": ""
+   },
+   "corteccia": {
+    "colore": "grigio-bruno",
+    "texture": "liscia da giovane, poi rugosa e fessurata",
+    "evoluzione_con_eta": "il tronco diventa grosso, spesso contorto e cavo",
+    "descrizione": ""
+   },
+   "rami_e_portamento": {
+    "disposizione_rami": "alterna",
+    "angolo_di_crescita": "rami aperti e spesso ricadenti",
+    "forma_chioma": "molto ampia, densa, tondeggiante, verde scuro",
+    "silhouette_invernale": "sempreverde; tronco corto e chioma larga che fa un'ombra fittissima",
+    "descrizione": "Nelle campagne del Sud si trova isolato ai margini dei campi o lungo i muri a secco.",
+    "ramificazione": "Tipo di ramificazione: dato non accertato."
+   },
+   "gemme": {
+    "forma": "piccole",
+    "colore": "bruno-rossastre",
+    "disposizione": "alterne",
+    "descrizione": "Poco visibili."
+   },
+   "fiori_e_frutti": {
+    "tipo_fiore": "fiori piccoli senza petali, rossastri o verdastri, in brevi grappoli su rami vecchi e tronco; di solito piante maschili e femminili separate",
+    "periodo_fioritura": "agosto-novembre",
+    "tipo_frutto": "legume (carruba) di 10-25 cm, appiattito, coriaceo, prima verde poi bruno scuro",
+    "periodo_fruttificazione": "agosto-settembre dell'anno dopo la fioritura",
+    "descrizione": "Le carrube maturano in circa un anno: a fine estate sullo stesso albero ci sono i fiori nuovi e i frutti che stanno maturando."
+   },
+   "dimensioni": {
+    "altezza_tipica_m": [
+     5,
+     10
+    ],
+    "altezza_max_m": 15,
+    "eta_massima_anni": null,
+    "note": "Età massima non accertata; vive diversi secoli (stima indicativa)."
+   },
+   "habitat_e_distribuzione": {
+    "regioni_italia": [
+     "Sicilia (soprattutto altopiano ibleo), Puglia, Sardegna, Calabria",
+     "Nord: assente, tranne qualche esemplare piantato in luoghi riparati della Liguria"
+    ],
+    "altitudine": "0-500 m",
+    "terreno_preferito": "calcareo, anche povero e sassoso; resiste molto alla siccità, teme il gelo",
+    "descrizione": "Albero delle campagne più calde e secche, spesso su terreni rocciosi."
+   },
+   "ecologia": {
+    "descrizione": "Molto resistente alla siccità e al caldo, ma sensibile al gelo: dove cresce spontaneo indica un clima molto mite. Ruolo nella successione: dato non accertato."
+   },
+   "stagionalita": {
+    "primavera": "Foglie nuove; carrube ancora verdi.",
+    "estate": "Carrube che diventano brune; inizia la fioritura.",
+    "autunno": "Fiori rossastri su rami e tronco.",
+    "inverno": "Sempreverde; ombra densa."
+   },
+   "specie_simili": [
+    {
+     "id_specie": "cercis-siliquastrum",
+     "come_distinguere": "L'albero di Giuda ha anche lui baccelli, ma foglie semplici tonde e caduche e fiori rosa vivo in primavera, prima delle foglie."
+    }
+   ],
+   "commestibilita": {
+    "parti": "frutti (polpa dei baccelli maturi)",
+    "note": "La polpa delle carrube secche è dolce: si mastica così, o si macina in farina usata al posto del cacao in dolci e bevande. Dai semi si ricava una farina addensante molto usata nell'industria alimentare.",
+    "avvertenze": "I semi sono durissimi: non vanno masticati."
+   },
+   "tossicita": {
+    "livello": "nessuna_nota",
+    "parti": "",
+    "note": "Nessuna tossicità nota."
+   },
+   "curiosita_e_usi": "Si racconta che i semi di carrubo, tutti uguali, servissero a pesare le pietre preziose e che da qui venga la parola 'carato'. La parola deriva davvero dal nome greco del carrubo, ma le misure moderne mostrano che i semi non sono più uniformi di quelli di altre piante. Le carrube erano cibo per animali da lavoro e, nei periodi di fame, anche per le persone.",
+   "immagini": [
+    {
+     "tipo": "silhouette",
+     "file": "img/ceratonia-siliqua-silhouette.jpg",
+     "fonte": "Wikimedia Commons",
+     "autore": "sconosciuto",
+     "licenza": "CC BY-SA 3.0",
+     "url_originale": "https://commons.wikimedia.org/wiki/File:Ceratonia_siliqua,_total.jpg",
+     "titolo_originale": "Ceratonia siliqua, total.jpg"
+    },
+    {
+     "tipo": "foglia",
+     "file": "img/ceratonia-siliqua-foglia.jpg",
+     "fonte": "Wikimedia Commons",
+     "autore": "Frank Vincentz",
+     "licenza": "CC BY-SA 3.0",
+     "url_originale": "https://commons.wikimedia.org/wiki/File:Ceratonia_siliqua_02_ies.jpg",
+     "titolo_originale": "Ceratonia siliqua 02 ies.jpg"
+    },
+    {
+     "tipo": "fiore_o_frutto",
+     "file": "img/ceratonia-siliqua-fiore_o_frutto.jpg",
+     "fonte": "Wikimedia Commons",
+     "autore": "Nevit Dilmen ( talk )",
+     "licenza": "CC BY-SA 3.0",
+     "url_originale": "https://commons.wikimedia.org/wiki/File:Ceratonia_siliqua_Keciboynuzu_1370984_Nevit.jpg",
+     "titolo_originale": "Ceratonia siliqua Keciboynuzu 1370984 Nevit.jpg"
+    },
+    {
+     "tipo": "fiore_o_frutto",
+     "file": "img/ceratonia-siliqua-fiore_o_frutto-2.jpg",
+     "fonte": "Wikimedia Commons",
+     "autore": "Seminsky",
+     "licenza": "Public domain",
+     "url_originale": "https://commons.wikimedia.org/wiki/File:Blooming_carob_tree.jpg",
+     "titolo_originale": "Blooming carob tree.jpg"
+    },
+    {
+     "tipo": "corteccia",
+     "file": "img/ceratonia-siliqua-corteccia.jpg",
+     "fonte": "Wikimedia Commons",
+     "autore": "Димитър Найденов / Dimìtar Nàydenov",
+     "licenza": "CC BY-SA 4.0",
+     "url_originale": "https://commons.wikimedia.org/wiki/File:%D0%94%D0%B8%D0%B2_%D1%80%D0%BE%D0%B6%D0%BA%D0%BE%D0%B2_%E2%80%93_%D1%81%D1%82%D1%8A%D0%B1%D0%BB%D0%BE_2.jpg",
+     "titolo_originale": "Див рожков – стъбло 2.jpg"
+    }
+   ],
+   "fonti": [
+    {
+     "titolo": "Ceratonia siliqua – Wikipedia (it)",
+     "url": "https://it.wikipedia.org/wiki/Ceratonia_siliqua"
+    },
+    {
+     "titolo": "Ceratonia siliqua – Wikipedia (en)",
+     "url": "https://en.wikipedia.org/wiki/Ceratonia_siliqua"
+    }
+   ]
+  },
+  {
    "id": "castanea-sativa",
    "nome_comune": "Castagno",
    "nome_scientifico": "Castanea sativa",
@@ -1938,6 +2328,10 @@
     {
      "id_specie": "quercus-robur",
      "come_distinguere": "La farnia ha foglia quasi senza picciolo con base a orecchiette, lobi arrotondati e ghiande su un lungo peduncolo."
+    },
+    {
+     "id_specie": "quercus-suber",
+     "come_distinguere": "La sughera è sempreverde, con foglie piccole e dentate e corteccia spessa e spugnosa di sughero."
     }
    ],
    "commestibilita": {
@@ -2206,6 +2600,203 @@
     {
      "titolo": "Prunus avium – Wikipedia (en)",
      "url": "https://en.wikipedia.org/wiki/Prunus_avium"
+    }
+   ]
+  },
+  {
+   "id": "arbutus-unedo",
+   "nome_comune": "Corbezzolo",
+   "nome_scientifico": "Arbutus unedo",
+   "famiglia": "Ericaceae",
+   "genere": "Arbutus",
+   "sinonimi": [
+    "Albatro"
+   ],
+   "nomi_locali": [],
+   "stato": "bozza",
+   "aggiornato": "2026-09-25",
+   "chiave": {
+    "gruppo": "latifoglia",
+    "persistenza": "sempreverde",
+    "foglia_tipo": "semplice",
+    "foglia_disposizione": "alterna",
+    "foglia_margine": [
+     "seghettato"
+    ],
+    "foglia_forma": [
+     "ellittica",
+     "lanceolata"
+    ],
+    "frutto": "bacca",
+    "corteccia_texture": [
+     "desquamante",
+     "fessurata"
+    ],
+    "habitat": [
+     "mediterraneo_costiero",
+     "collinare"
+    ],
+    "altitudine_m": [
+     0,
+     800
+    ],
+    "ramificazione": "non_accertata",
+    "ruolo_ecologico": [
+     "non_accertato"
+    ],
+    "luce": "eliofila"
+   },
+   "tratti_chiave": [
+    "In autunno porta insieme fiori bianchi a campanella e frutti rossi rotondi e granulosi",
+    "Foglie sempreverdi lucide, seghettate, con picciolo rossastro",
+    "Corteccia rosso-bruna che si stacca in sottili scaglie; rametti giovani rossi"
+   ],
+   "origine": {
+    "stato": "autoctona",
+    "note": "Spontaneo nella macchia mediterranea; al Nord soprattutto in Liguria, altrove piantato nei giardini."
+   },
+   "foglie": {
+    "tipo": "semplice",
+    "disposizione": "alterna, addensata verso l'apice dei rametti",
+    "forma": "ellittico-lanceolata, 5-10 cm",
+    "margine": "seghettato",
+    "venatura": "pennata",
+    "colore_stagionale": {
+     "primavera_estate": "verde scuro lucido sopra, più chiara sotto; picciolo corto e rossastro",
+     "autunno": "resta verde (sempreverde)"
+    },
+    "descrizione": ""
+   },
+   "corteccia": {
+    "colore": "rosso-bruno",
+    "texture": "sottile; si sfalda in scaglie e strisce sottili, lasciando sotto zone più chiare",
+    "evoluzione_con_eta": "sui tronchi vecchi diventa grigio-bruna e fessurata",
+    "descrizione": "I rametti dell'anno sono rossi e un po' pelosi."
+   },
+   "rami_e_portamento": {
+    "disposizione_rami": "alterna; molti fusti dalla base",
+    "angolo_di_crescita": "ascendenti",
+    "forma_chioma": "densa, tondeggiante",
+    "silhouette_invernale": "sempreverde; di solito arbusto con più fusti, a volte piccolo albero",
+    "descrizione": "Dopo il taglio o il fuoco ributta vigorosamente dalla ceppaia, per questo spesso ha più fusti.",
+    "ramificazione": "Tipo di ramificazione: dato non accertato."
+   },
+   "gemme": {
+    "forma": "piccole",
+    "colore": "verdi o rossastre",
+    "disposizione": "alterne",
+    "descrizione": "Poco visibili, protette da poche squame."
+   },
+   "fiori_e_frutti": {
+    "tipo_fiore": "fiori a campanella (a orciolo) bianco-crema, a volte rosati, in grappoli penduli",
+    "periodo_fioritura": "ottobre-gennaio",
+    "tipo_frutto": "bacca sferica di 1,5-2 cm con superficie granulosa, da gialla ad arancio a rosso vivo",
+    "periodo_fruttificazione": "ottobre-dicembre, dell'anno dopo la fioritura",
+    "descrizione": "I frutti impiegano circa un anno a maturare: per questo in autunno si vedono sullo stesso ramo i fiori nuovi e i frutti rossi dell'anno prima."
+   },
+   "dimensioni": {
+    "altezza_tipica_m": [
+     2,
+     8
+    ],
+    "altezza_max_m": 12,
+    "eta_massima_anni": null,
+    "note": "Età massima non accertata."
+   },
+   "habitat_e_distribuzione": {
+    "regioni_italia": [
+     "Coste tirreniche e isole, Liguria, parte dell'Adriatico meridionale",
+     "Nord: soprattutto Liguria; qua e là coltivato"
+    ],
+    "altitudine": "0-800 m",
+    "terreno_preferito": "acido o neutro, anche povero e sassoso; poco adatto al calcare",
+    "descrizione": "Tipico della macchia mediterranea con erica, lentisco e leccio."
+   },
+   "ecologia": {
+    "descrizione": "Resiste bene alla siccità e al fuoco: dopo un incendio ributta dalla ceppaia ed è tra i primi a ricoprire il terreno. Ruolo preciso nella successione: dato non accertato."
+   },
+   "stagionalita": {
+    "primavera": "Foglie nuove più chiare; frutti ormai caduti.",
+    "estate": "Frutti ancora verdi o gialli.",
+    "autunno": "Fiori bianchi e frutti rossi insieme: il momento più facile per riconoscerlo.",
+    "inverno": "Sempreverde; a inizio inverno ancora fiori e frutti."
+   },
+   "specie_simili": [
+    {
+     "id_specie": "quercus-ilex",
+     "come_distinguere": "Il leccio ha foglie grigio-feltrose sotto, corteccia scura a placche e ghiande invece di bacche rosse."
+    },
+    {
+     "id_specie": "laurus-nobilis",
+     "come_distinguere": "L'alloro ha foglie a margine intero, spesso ondulato, profumate se stropicciate, e bacche nere."
+    }
+   ],
+   "commestibilita": {
+    "parti": "frutti maturi",
+    "note": "Polpa dolce e un po' farinosa, con tanti piccoli semi: si mangiano freschi o in marmellate, gelatine e liquori.",
+    "avvertenze": "Mangiarne molti può dare disturbi intestinali; i frutti troppo maturi possono fermentare sulla pianta."
+   },
+   "tossicita": {
+    "livello": "nessuna_nota",
+    "parti": "",
+    "note": "Nessuna tossicità nota per l'uso normale dei frutti."
+   },
+   "curiosita_e_usi": "Il nome unedo è spiegato con il latino unum edo, 'ne mangio uno solo', attribuito a Plinio. Con foglie verdi, fiori bianchi e frutti rossi insieme fu preso come simbolo del tricolore nel Risorgimento. Dai fiori le api producono un miele amaro, tipico della Sardegna.",
+   "immagini": [
+    {
+     "tipo": "silhouette",
+     "file": "img/arbutus-unedo-silhouette.jpg",
+     "fonte": "Wikimedia Commons",
+     "autore": "jxandreani",
+     "licenza": "CC BY 2.0",
+     "url_originale": "https://commons.wikimedia.org/wiki/File:Arbutus_unedo_Corsica.jpg",
+     "titolo_originale": "Arbutus unedo Corsica.jpg"
+    },
+    {
+     "tipo": "foglia",
+     "file": "img/arbutus-unedo-foglia.jpg",
+     "fonte": "Wikimedia Commons",
+     "autore": "Oktoober",
+     "licenza": "CC BY-SA 4.0",
+     "url_originale": "https://commons.wikimedia.org/wiki/File:Arboretum-Trsteno-maasikapuu3.jpg",
+     "titolo_originale": "Arboretum-Trsteno-maasikapuu3.jpg"
+    },
+    {
+     "tipo": "fiore_o_frutto",
+     "file": "img/arbutus-unedo-fiore_o_frutto.jpg",
+     "fonte": "Wikimedia Commons",
+     "autore": "Wendy Cutler from Vancouver, Canada",
+     "licenza": "CC BY 2.0",
+     "url_originale": "https://commons.wikimedia.org/wiki/File:Arbutus_unedo_off_Bayshore_Drive_at_Coal_Harbour.jpg",
+     "titolo_originale": "Arbutus unedo off Bayshore Drive at Coal Harbour.jpg"
+    },
+    {
+     "tipo": "fiore_o_frutto",
+     "file": "img/arbutus-unedo-fiore_o_frutto-2.jpg",
+     "fonte": "Wikimedia Commons",
+     "autore": "muffinn from Worcester, UK",
+     "licenza": "CC BY 2.0",
+     "url_originale": "https://commons.wikimedia.org/wiki/File:Ameixial_-_strawberry_tree_Arbutus_unedo_flowers_(13531867643).jpg",
+     "titolo_originale": "Ameixial - strawberry tree Arbutus unedo flowers (13531867643).jpg"
+    },
+    {
+     "tipo": "corteccia",
+     "file": "img/arbutus-unedo-corteccia.jpg",
+     "fonte": "Wikimedia Commons",
+     "autore": "Didier Descouens",
+     "licenza": "CC BY-SA 4.0",
+     "url_originale": "https://commons.wikimedia.org/wiki/File:(MHNT)_Arbutus_unedo_(bark)_.jpg",
+     "titolo_originale": "(MHNT) Arbutus unedo (bark) .jpg"
+    }
+   ],
+   "fonti": [
+    {
+     "titolo": "Arbutus unedo – Wikipedia (it)",
+     "url": "https://it.wikipedia.org/wiki/Arbutus_unedo"
+    },
+    {
+     "titolo": "Arbutus unedo – Wikipedia (en)",
+     "url": "https://en.wikipedia.org/wiki/Arbutus_unedo"
     }
    ]
   },
@@ -3339,6 +3930,10 @@
     {
      "id_specie": "quercus-suber",
      "come_distinguere": "La sughera ha corteccia spessa, chiara e spugnosa di sughero; dove è stata decorticata il tronco appare rosso-bruno."
+    },
+    {
+     "id_specie": "arbutus-unedo",
+     "come_distinguere": "Il corbezzolo ha foglie lucide, verdi anche sotto e seghettate, corteccia rossastra che si sfalda e frutti rossi granulosi."
     }
    ],
    "commestibilita": {
@@ -3811,6 +4406,196 @@
     {
      "titolo": "Juglans regia – Wikipedia (en)",
      "url": "https://en.wikipedia.org/wiki/Juglans_regia"
+    }
+   ]
+  },
+  {
+   "id": "olea-europaea",
+   "nome_comune": "Olivo",
+   "nome_scientifico": "Olea europaea",
+   "famiglia": "Oleaceae",
+   "genere": "Olea",
+   "sinonimi": [
+    "Ulivo"
+   ],
+   "nomi_locali": [],
+   "stato": "bozza",
+   "aggiornato": "2026-09-25",
+   "chiave": {
+    "gruppo": "latifoglia",
+    "persistenza": "sempreverde",
+    "foglia_tipo": "semplice",
+    "foglia_disposizione": "opposta",
+    "foglia_margine": [
+     "intero"
+    ],
+    "foglia_forma": [
+     "lanceolata",
+     "lineare"
+    ],
+    "frutto": "drupa",
+    "corteccia_texture": [
+     "liscia",
+     "fessurata"
+    ],
+    "habitat": [
+     "mediterraneo_costiero",
+     "collinare",
+     "rupestre_arido"
+    ],
+    "altitudine_m": [
+     0,
+     800
+    ],
+    "ramificazione": "non_accertata",
+    "ruolo_ecologico": [
+     "non_accertato"
+    ],
+    "luce": "eliofila"
+   },
+   "tratti_chiave": [
+    "Foglie opposte, strette e lanceolate, verde-grigio sopra e argentee sotto",
+    "Tronco grigio, contorto e spesso cavo negli esemplari vecchi",
+    "Olive: drupe verdi, poi nero-violacee, in autunno"
+   ],
+   "origine": {
+    "stato": "autoctona",
+    "note": "La forma selvatica (olivastro) è spontanea nella macchia mediterranea; l'olivo coltivato deriva da essa ed è diffuso dall'uomo da millenni."
+   },
+   "foglie": {
+    "tipo": "semplice",
+    "disposizione": "opposta",
+    "forma": "lanceolata o quasi lineare, 3-8 cm, stretta",
+    "margine": "intero, un po' ripiegato verso il basso",
+    "venatura": "pennata, poco visibile tranne la nervatura centrale",
+    "colore_stagionale": {
+     "primavera_estate": "verde-grigio scuro sopra, argentea sotto per minuscoli peli a scaglia",
+     "autunno": "resta verde (sempreverde)"
+    },
+    "descrizione": "Nell'olivastro selvatico le foglie sono più piccole e più tonde, e i rami giovani sono spesso spinosi."
+   },
+   "corteccia": {
+    "colore": "grigio",
+    "texture": "liscia da giovane, poi fessurata e rugosa",
+    "evoluzione_con_eta": "il tronco dei vecchi olivi diventa contorto, a costoloni, spesso cavo o diviso in più parti",
+    "descrizione": "La forma del tronco dipende molto dalla potatura e dall'età: negli esemplari monumentali è una scultura."
+   },
+   "rami_e_portamento": {
+    "disposizione_rami": "opposta",
+    "angolo_di_crescita": "rami spesso aperti, a volte ricadenti",
+    "forma_chioma": "ampia, arrotondata, grigio-argentea; negli uliveti tenuta bassa e 'a vaso' con la potatura",
+    "silhouette_invernale": "sempreverde; da lontano la chioma luccica di argento quando c'è vento",
+    "descrizione": "Allo stato selvatico è un arbusto o piccolo albero denso e spinoso.",
+    "ramificazione": "Tipo di ramificazione: dato non accertato."
+   },
+   "gemme": {
+    "forma": "piccolissime",
+    "colore": "verde-grigiastre",
+    "disposizione": "opposte, all'ascella delle foglie",
+    "descrizione": "Quasi invisibili: in inverno l'olivo si riconosce dalle foglie, non dalle gemme."
+   },
+   "fiori_e_frutti": {
+    "tipo_fiore": "fiori piccoli bianco-crema, profumati, in grappoli all'ascella delle foglie ('mignola')",
+    "periodo_fioritura": "maggio-giugno",
+    "tipo_frutto": "drupa (oliva) ovoidale di 1-3 cm, verde poi nero-violacea",
+    "periodo_fruttificazione": "ottobre-dicembre",
+    "descrizione": "Solo una piccola parte dei fiori diventa oliva."
+   },
+   "dimensioni": {
+    "altezza_tipica_m": [
+     5,
+     10
+    ],
+    "altezza_max_m": 20,
+    "eta_massima_anni": null,
+    "note": "Può superare i mille anni: diversi olivi monumentali italiani sono datati a molti secoli. Le età più alte citate (2000-3000 anni) sono stime difficili da verificare, perché il tronco si svuota."
+   },
+   "habitat_e_distribuzione": {
+    "regioni_italia": [
+     "Coltivato in quasi tutta Italia a clima mite",
+     "Nord: Liguria, laghi prealpini (Garda, Iseo, Como), colli e zone riparate fino al Carso",
+     "Olivastro spontaneo nella macchia del Centro-Sud e delle isole"
+    ],
+    "altitudine": "0-800 m circa; al Nord di solito sotto i 500 m",
+    "terreno_preferito": "ben drenato, anche povero, sassoso e calcareo; teme i ristagni e il gelo forte",
+    "descrizione": "La sua presenza al Nord segnala un clima mite: attorno ai grandi laghi l'acqua mitiga gli inverni."
+   },
+   "ecologia": {
+    "descrizione": "Pianta di luce e di clima mite, molto resistente alla siccità. Ruolo nella successione: dato non accertato (è soprattutto coltivato)."
+   },
+   "stagionalita": {
+    "primavera": "Foglie nuove più chiare; boccioli fiorali.",
+    "estate": "Fioritura bianca (maggio-giugno), poi piccole olive verdi.",
+    "autunno": "Olive che cambiano colore; raccolta.",
+    "inverno": "Sempreverde; chioma argentea."
+   },
+   "specie_simili": [
+    {
+     "id_specie": "laurus-nobilis",
+     "come_distinguere": "L'alloro ha foglie alterne, più larghe, verdi lucide sotto e profumate."
+    },
+    {
+     "id_specie": "salix-alba",
+     "come_distinguere": "Il salice bianco ha foglie argentee ma alterne, seghettate e che cadono in inverno; vive lungo i fiumi."
+    }
+   ],
+   "commestibilita": {
+    "parti": "frutti (solo lavorati)",
+    "note": "Le olive crude sono amarissime: si mangiano dopo averle 'addolcite' in acqua, salamoia o con altri trattamenti. Dalla spremitura si ottiene l'olio.",
+    "avvertenze": "Non mangiare olive crude appena colte: non sono tossiche, ma immangiabili."
+   },
+   "tossicita": {
+    "livello": "nessuna_nota",
+    "parti": "",
+    "note": "Nessuna tossicità nota; il polline può causare allergie in primavera."
+   },
+   "curiosita_e_usi": "È uno dei primi alberi coltivati dall'uomo nel Mediterraneo. Un ramoscello d'olivo è simbolo di pace. Il legno, duro e venato, è pregiato per piccoli oggetti e taglieri.",
+   "immagini": [
+    {
+     "tipo": "silhouette",
+     "file": "img/olea-europaea-silhouette.jpg",
+     "fonte": "Wikimedia Commons",
+     "autore": "Palauenc05",
+     "licenza": "CC BY-SA 4.0",
+     "url_originale": "https://commons.wikimedia.org/wiki/File:Lun_olive_tree_1600_years.jpg",
+     "titolo_originale": "Lun olive tree 1600 years.jpg"
+    },
+    {
+     "tipo": "foglia",
+     "file": "img/olea-europaea-foglia.jpg",
+     "fonte": "Wikimedia Commons",
+     "autore": "sconosciuto",
+     "licenza": "CC BY-SA 3.0",
+     "url_originale": "https://commons.wikimedia.org/wiki/File:Olea_europaea_subsp_europaea_Leafs.jpg",
+     "titolo_originale": "Olea europaea subsp europaea Leafs.jpg"
+    },
+    {
+     "tipo": "fiore_o_frutto",
+     "file": "img/olea-europaea-fiore_o_frutto.jpg",
+     "fonte": "Wikimedia Commons",
+     "autore": "Gandalf",
+     "licenza": "Public domain",
+     "url_originale": "https://commons.wikimedia.org/wiki/File:Bl%C3%BChender_Olivenbaum.jpg",
+     "titolo_originale": "Blühender Olivenbaum.jpg"
+    },
+    {
+     "tipo": "corteccia",
+     "file": "img/olea-europaea-corteccia.jpg",
+     "fonte": "Wikimedia Commons",
+     "autore": "Vera Buhl",
+     "licenza": "CC BY-SA 3.0",
+     "url_originale": "https://commons.wikimedia.org/wiki/File:2008-03-02_(3)_Olive_Tree,_Olivenbaum,_Olea_europaea.JPG",
+     "titolo_originale": "2008-03-02 (3) Olive Tree, Olivenbaum, Olea europaea.JPG"
+    }
+   ],
+   "fonti": [
+    {
+     "titolo": "Olea europaea – Wikipedia (it)",
+     "url": "https://it.wikipedia.org/wiki/Olea_europaea"
+    },
+    {
+     "titolo": "Olea europaea – Wikipedia (en)",
+     "url": "https://en.wikipedia.org/wiki/Olea_europaea"
     }
    ]
   },
@@ -5948,6 +6733,10 @@
     {
      "id_specie": "populus-alba",
      "come_distinguere": "Il pioppo bianco ha foglie lobate o ovali, bianche e feltrose sotto, e corteccia chiara con rombi scuri."
+    },
+    {
+     "id_specie": "olea-europaea",
+     "come_distinguere": "L'olivo ha foglie argentee sotto ma opposte, a margine intero e sempreverdi; vive in luoghi asciutti, non lungo i fiumi."
     }
    ],
    "commestibilita": {
@@ -6623,6 +7412,215 @@
     {
      "titolo": "Sorbus domestica – Wikipedia (en)",
      "url": "https://en.wikipedia.org/wiki/Sorbus_domestica"
+    }
+   ]
+  },
+  {
+   "id": "quercus-suber",
+   "nome_comune": "Sughera",
+   "nome_scientifico": "Quercus suber",
+   "famiglia": "Fagaceae",
+   "genere": "Quercus",
+   "sinonimi": [
+    "Quercia da sughero",
+    "Sughero"
+   ],
+   "nomi_locali": [],
+   "stato": "bozza",
+   "aggiornato": "2026-09-25",
+   "chiave": {
+    "gruppo": "latifoglia",
+    "persistenza": "sempreverde",
+    "foglia_tipo": "semplice",
+    "foglia_disposizione": "alterna",
+    "foglia_margine": [
+     "dentato",
+     "intero"
+    ],
+    "foglia_forma": [
+     "ovata",
+     "ellittica"
+    ],
+    "frutto": "ghianda",
+    "corteccia_texture": [
+     "suberosa",
+     "fessurata"
+    ],
+    "habitat": [
+     "mediterraneo_costiero",
+     "collinare"
+    ],
+    "altitudine_m": [
+     0,
+     800
+    ],
+    "ramificazione": "monopodiale",
+    "ruolo_ecologico": [
+     "non_accertato"
+    ],
+    "luce": "eliofila"
+   },
+   "tratti_chiave": [
+    "Corteccia spessissima di sughero, chiara, morbida e spugnosa al tatto",
+    "Dove il sughero è stato tolto, il tronco appare rosso-bruno liscio (poi scurisce)",
+    "Foglie sempreverdi coriacee, verde scuro sopra e grigio-feltrose sotto, con piccoli denti"
+   ],
+   "origine": {
+    "stato": "autoctona",
+    "note": "Spontanea soprattutto in Sardegna, Sicilia e sul versante tirrenico dalla Toscana alla Calabria; al Nord solo piantata."
+   },
+   "foglie": {
+    "tipo": "semplice",
+    "disposizione": "alterna",
+    "forma": "ovata-ellittica, 3-7 cm, un po' convessa",
+    "margine": "con piccoli denti appuntiti o quasi intero",
+    "venatura": "pennata",
+    "colore_stagionale": {
+     "primavera_estate": "verde scuro e opaco sopra, grigio-biancastra e feltrosa sotto",
+     "autunno": "resta verde (sempreverde); le foglie vecchie cadono dopo 1-2 anni"
+    },
+    "descrizione": "Molto simili a quelle del leccio: per distinguerli la cosa più sicura è la corteccia."
+   },
+   "corteccia": {
+    "colore": "grigio chiaro o grigio-giallastro; rosso-bruno dove è stata decorticata",
+    "texture": "suberosa: spessa diversi centimetri, profondamente fessurata, elastica sotto il dito",
+    "evoluzione_con_eta": "il sughero si riforma dopo la decortica e si può raccogliere di nuovo dopo circa 9-12 anni",
+    "descrizione": "Nessun altro albero italiano ha una corteccia così: premendo con il pollice si sente cedere. Nei boschi sfruttati si vedono i tronchi 'nudi' fino a due-tre metri, a volte con una cifra dipinta che ricorda l'anno della raccolta."
+   },
+   "rami_e_portamento": {
+    "disposizione_rami": "alterna; rami robusti e tortuosi",
+    "angolo_di_crescita": "branche aperte, spesso inclinate",
+    "forma_chioma": "ampia, irregolare, piuttosto rada",
+    "silhouette_invernale": "sempreverde: d'inverno cambia poco; chioma rada e grigio-verde su tronco corto e grosso",
+    "descrizione": "Nelle sugherete i tronchi sono radi e ben illuminati, spesso con pascolo sotto.",
+    "ramificazione": "Rametti con gemma terminale vera circondata da altre gemme, come nelle altre querce (monopodiali)."
+   },
+   "gemme": {
+    "forma": "piccole, ovoidali",
+    "colore": "brune, pelose",
+    "disposizione": "alterne, raggruppate all'apice dei rametti",
+    "descrizione": "Poco appariscenti; le stipole persistono a lungo attorno alle gemme."
+   },
+   "fiori_e_frutti": {
+    "tipo_fiore": "fiori maschili in amenti gialli penduli, femminili piccoli e poco visibili sulla stessa pianta",
+    "periodo_fioritura": "aprile-maggio (a volte una seconda fioritura in autunno)",
+    "tipo_frutto": "ghianda di 2-4,5 cm in cupola con squame allungate, un po' arruffate verso il bordo",
+    "periodo_fruttificazione": "ottobre-gennaio; in parte al primo anno, in parte al secondo",
+    "descrizione": "La cupola ha squame più lunghe e sporgenti di quella del leccio."
+   },
+   "dimensioni": {
+    "altezza_tipica_m": [
+     8,
+     15
+    ],
+    "altezza_max_m": 20,
+    "eta_massima_anni": null,
+    "note": "Età massima non accertata; vive a lungo (stima indicativa: diversi secoli). La decortica ripetuta non la uccide se fatta correttamente."
+   },
+   "habitat_e_distribuzione": {
+    "regioni_italia": [
+     "Sardegna (grandi sugherete in Gallura)",
+     "Sicilia, Toscana, Lazio, Campania, Calabria, Puglia",
+     "Nord: assente allo stato spontaneo, solo piantata"
+    ],
+    "altitudine": "0-800 m (più in alto in Sardegna e Sicilia)",
+    "terreno_preferito": "acido, sabbioso o granitico; evita il calcare",
+    "descrizione": "Forma sugherete e boschi misti con leccio e roverella, spesso pascolati; ama il clima mediterraneo con inverni miti e un po' di umidità."
+   },
+   "ecologia": {
+    "descrizione": "Specie di luce, legata ai suoli acidi. Grazie al sughero, che isola dal calore, sopravvive agli incendi meglio di quasi tutti gli altri alberi e ributta dai rami dopo il fuoco. Ruolo nella successione: dato non accertato."
+   },
+   "stagionalita": {
+    "primavera": "Amenti gialli e foglie nuove chiare.",
+    "estate": "Tronchi decorticati rosso-arancio, molto evidenti in estate (la decortica si fa tra maggio e agosto).",
+    "autunno": "Ghiande mature.",
+    "inverno": "Sempreverde: chioma grigio-verde, corteccia di sughero."
+   },
+   "specie_simili": [
+    {
+     "id_specie": "quercus-ilex",
+     "come_distinguere": "Il leccio ha corteccia sottile, dura e scura, fessurata in piccole placche; foglie molto simili."
+    },
+    {
+     "id_specie": "quercus-cerris",
+     "come_distinguere": "Il cerro ha foglie caduche e profondamente lobate e corteccia dura, con fessure arancioni."
+    }
+   ],
+   "commestibilita": {
+    "parti": "ghiande",
+    "note": "Le ghiande servivano soprattutto per nutrire i maiali al pascolo; per l'uomo, come quelle delle altre querce, vanno private dei tannini con ammolli e bolliture.",
+    "avvertenze": "Non mangiarle crude in quantità: sono astringenti."
+   },
+   "tossicita": {
+    "livello": "bassa",
+    "parti": "ghiande",
+    "note": "Ricche di tannini: astringenti per l'uomo, dannose per il bestiame solo in grandi quantità."
+   },
+   "curiosita_e_usi": "Dal sughero si fanno tappi, pannelli isolanti e pavimenti. La prima decortica dà un sughero irregolare (sugherone), buono solo per isolanti; i tappi si ricavano dalle raccolte successive. Il sughero non si rigenera se durante la raccolta si ferisce lo strato vivo sottostante.",
+   "immagini": [
+    {
+     "tipo": "silhouette",
+     "file": "img/quercus-suber-silhouette.jpg",
+     "fonte": "Wikimedia Commons",
+     "autore": "Kent Wang from London, United Kingdom",
+     "licenza": "CC BY-SA 2.0",
+     "url_originale": "https://commons.wikimedia.org/wiki/File:Cork_oak_(28864190188).jpg",
+     "titolo_originale": "Cork oak (28864190188).jpg"
+    },
+    {
+     "tipo": "silhouette",
+     "file": "img/quercus-suber-silhouette-2.jpg",
+     "fonte": "Wikimedia Commons",
+     "autore": "Hannes Grobe",
+     "licenza": "CC BY-SA 4.0",
+     "url_originale": "https://commons.wikimedia.org/wiki/File:Quercus_suber_algarve.jpg",
+     "titolo_originale": "Quercus suber algarve.jpg"
+    },
+    {
+     "tipo": "foglia",
+     "file": "img/quercus-suber-foglia.jpg",
+     "fonte": "Wikimedia Commons",
+     "autore": "Madrone HeHeHe",
+     "licenza": "CC0",
+     "url_originale": "https://commons.wikimedia.org/wiki/File:Quercus_suber_leaves.jpg",
+     "titolo_originale": "Quercus suber leaves.jpg"
+    },
+    {
+     "tipo": "fiore_o_frutto",
+     "file": "img/quercus-suber-fiore_o_frutto.jpg",
+     "fonte": "Wikimedia Commons",
+     "autore": "Krzysztof Ziarnek, Kenraiz",
+     "licenza": "CC BY-SA 4.0",
+     "url_originale": "https://commons.wikimedia.org/wiki/File:Quercus_suber_kz06.jpg",
+     "titolo_originale": "Quercus suber kz06.jpg"
+    },
+    {
+     "tipo": "corteccia",
+     "file": "img/quercus-suber-corteccia.jpg",
+     "fonte": "Wikimedia Commons",
+     "autore": "gailhampshire from Cradley, Malvern, U.K",
+     "licenza": "CC BY 2.0",
+     "url_originale": "https://commons.wikimedia.org/wiki/File:Bark_of_cork_oak_(25206354297).jpg",
+     "titolo_originale": "Bark of cork oak (25206354297).jpg"
+    },
+    {
+     "tipo": "corteccia",
+     "file": "img/quercus-suber-corteccia-2.jpg",
+     "fonte": "Wikimedia Commons",
+     "autore": "User:Sallyofmayflower",
+     "licenza": "CC BY 3.0",
+     "url_originale": "https://commons.wikimedia.org/wiki/File:1-Arraiolos-0050.jpg",
+     "titolo_originale": "1-Arraiolos-0050.jpg"
+    }
+   ],
+   "fonti": [
+    {
+     "titolo": "Quercus suber – Wikipedia (it)",
+     "url": "https://it.wikipedia.org/wiki/Quercus_suber"
+    },
+    {
+     "titolo": "Quercus suber – Wikipedia (en)",
+     "url": "https://en.wikipedia.org/wiki/Quercus_suber"
     }
    ]
   },
@@ -7742,6 +8740,51 @@
    "specie": [
     "crataegus-monogyna"
    ]
+  },
+  {
+   "id": "c062",
+   "testo": "Il sughero è fatto di cellule morte piene d'aria: per questo è leggero, galleggia e isola dal calore. Protegge la sughera anche dagli incendi.",
+   "specie": [
+    "quercus-suber"
+   ]
+  },
+  {
+   "id": "c063",
+   "testo": "Sui tronchi di sughera decorticati a volte c'è dipinta una cifra: in Portogallo, per esempio, è l'ultima cifra dell'anno della raccolta, per sapere quando tornare (dopo circa 9-12 anni).",
+   "specie": [
+    "quercus-suber"
+   ],
+   "stagione": "estate"
+  },
+  {
+   "id": "c064",
+   "testo": "Il corbezzolo fiorisce in autunno, mentre sui rami maturano i frutti dell'anno prima: fiori bianchi e frutti rossi sullo stesso ramo.",
+   "specie": [
+    "arbutus-unedo"
+   ],
+   "stagione": "autunno"
+  },
+  {
+   "id": "c065",
+   "testo": "L'alloro ha piante maschili e piante femminili: solo le femminili fanno le bacche nere.",
+   "specie": [
+    "laurus-nobilis"
+   ]
+  },
+  {
+   "id": "c066",
+   "testo": "Al Nord gli olivi crescono attorno ai grandi laghi prealpini: la massa d'acqua rende gli inverni più miti.",
+   "specie": [
+    "olea-europaea"
+   ]
+  },
+  {
+   "id": "c067",
+   "testo": "I fiori del carrubo spuntano direttamente sui rami vecchi e perfino sul tronco, come succede nel cacao.",
+   "specie": [
+    "ceratonia-siliqua"
+   ],
+   "stagione": "autunno"
   }
  ],
  "elenco_specie": [
@@ -8023,7 +9066,7 @@
    "nome_scientifico": "Quercus suber",
    "gruppo": "latifoglia",
    "lotto": 4,
-   "stato": "pianificata"
+   "stato": "compilata"
   },
   {
    "id": "arbutus-unedo",
@@ -8031,7 +9074,7 @@
    "nome_scientifico": "Arbutus unedo",
    "gruppo": "latifoglia",
    "lotto": 4,
-   "stato": "pianificata"
+   "stato": "compilata"
   },
   {
    "id": "laurus-nobilis",
@@ -8039,7 +9082,7 @@
    "nome_scientifico": "Laurus nobilis",
    "gruppo": "latifoglia",
    "lotto": 4,
-   "stato": "pianificata"
+   "stato": "compilata"
   },
   {
    "id": "olea-europaea",
@@ -8047,7 +9090,7 @@
    "nome_scientifico": "Olea europaea",
    "gruppo": "latifoglia",
    "lotto": 4,
-   "stato": "pianificata"
+   "stato": "compilata"
   },
   {
    "id": "ceratonia-siliqua",
@@ -8055,7 +9098,7 @@
    "nome_scientifico": "Ceratonia siliqua",
    "gruppo": "latifoglia",
    "lotto": 4,
-   "stato": "pianificata"
+   "stato": "compilata"
   },
   {
    "id": "pinus-sylvestris",

@@ -3,7 +3,7 @@
    Struttura: utilità → dati → tema → taccuino (DB) → viste → router → avvio. */
 'use strict';
 
-const APP_VERSION = '0.6.0';
+const APP_VERSION = '0.7.0';
 
 /* ---------- utilità ---------- */
 const $ = (s, r = document) => r.querySelector(s);

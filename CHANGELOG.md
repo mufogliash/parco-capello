@@ -15,18 +15,34 @@ Versioni: terza cifra = correzioni; seconda = funzioni o lotti nuovi; prima = ca
 - Lotto 3 — ramificazione: biancospino. Ruolo nel bosco: salice piangente, sorbo domestico, noce, gelso bianco.
   Età massima: pioppo bianco, pioppo nero, salice bianco, salice piangente, ciliegio, sorbo domestico,
   biancospino, noce, gelso bianco.
+- Lotto 4 — ramificazione: corbezzolo, alloro, olivo, carrubo. Ruolo nel bosco: tutte e 5 (sughera, corbezzolo, alloro,
+  olivo, carrubo). Età massima: sughera, corbezzolo, alloro, carrubo; olivo (le età millenarie sono stime).
 
 
-- [ ] **Passaggio all'indirizzo corto:** esportare il backup del Taccuino, installare l'app da
-      https://mufogliash.github.io/parco-capello/ e disinstallare la vecchia (quella con /dist/).
 - [ ] Foto mancanti: gemme del pino domestico; foglia del noce; corteccia del salice bianco; gemme del gelso bianco.
+      Lotto 4: ghiande della sughera, olive mature, gemme di corbezzolo, olivo e carrubo.
       Portamento estivo di pioppo tremolo e ciliegio (le candidate erano cultivar, altre specie o foto invernali).
 - [ ] Foto fornite dall'utente (v0.4.1): indicare autore/fonte e licenza, soprattutto se il repository resta pubblico.
-- [ ] Fase 2: lotti 4 → 6, poi le aggiunte proposte (lotto 7). Lotti 1, 2 e 3 fatti.
+- [ ] Fase 2: lotti 5 e 6, poi le aggiunte proposte (lotto 7). Lotti 1-4 fatti.
+- [ ] Da valutare per il lotto 7: lauroceraso e oleandro, velenosi e facili da confondere con l'alloro.
 - [ ] Fase 3: organi corteccia, rami, radici, gemme, portamento; altri 8-10 segnali del paesaggio; disegni del glossario.
 - [ ] Da valutare dopo il test: modalità inverno nell'identificazione (gemme e sagome), confronto dalla sezione Organi.
 
 ---
+
+## 0.7.0 · 2026-09-25 · Lotto 4 (sempreverdi mediterranee)
+
+- **5 nuove schede (bozza):** sughera, corbezzolo, alloro, olivo, carrubo. Totale 40 specie.
+  Il leccio, già presente, completa il lotto.
+- **6 curiosità** in più (totale 67).
+- Alloro: avvertenza su lauroceraso e oleandro, velenosi e simili a prima vista.
+- Specie simili collegate nei due sensi: leccio ↔ corbezzolo, cerro ↔ sughera, salice bianco ↔ olivo.
+- `elenco-specie.json`: le specie con scheda ora risultano "compilata" (prima restavano "pianificata").
+- **25 foto** per le 5 specie, con il portamento come prima foto; per la sughera anche un tronco appena
+  decorticato (rosso) e il dettaglio del sughero. Scartate: alloro potato a palla, olivi di cultivar o di un'altra
+  sottospecie (olivo africano), illustrazioni antiche.
+- Nessuna foto utile per le foto mancanti del lotto 3: la nuova ricerca ha ritrovato le stesse candidate scartate.
+- Registro: tolta dalla lista "Da fare" la reinstallazione dall'indirizzo corto (fatta).
 
 ## 0.6.0 · 2026-09-25 · Lotto 3
 

@@ -1,526 +1,526 @@
 {
- "_nota": "Elenco di tutte le specie previste. stato: compilata (scheda in dati/specie/), pianificata, proposta. lotto = ordine di lavoro.",
- "lotti": {
-  "1": "Querce, faggio, castagno, carpini, betulacee",
-  "2": "Olmi, tigli, frassini, aceri, ippocastano, bagolaro, platano",
-  "3": "Pioppi, salici, rosacee, noce, gelso",
-  "4": "Sempreverdi mediterranee",
-  "5": "Conifere",
-  "6": "Esotiche e invasive",
-  "7": "Aggiunte proposte dopo il test"
- },
- "specie": [
-  {
-   "id": "quercus-robur",
-   "nome_comune": "Farnia",
-   "nome_scientifico": "Quercus robur",
-   "gruppo": "latifoglia",
-   "lotto": 1,
-   "stato": "compilata"
+  "_nota": "Elenco di tutte le specie previste. stato: compilata (scheda in dati/specie/), pianificata, proposta. lotto = ordine di lavoro.",
+  "lotti": {
+    "1": "Querce, faggio, castagno, carpini, betulacee",
+    "2": "Olmi, tigli, frassini, aceri, ippocastano, bagolaro, platano",
+    "3": "Pioppi, salici, rosacee, noce, gelso",
+    "4": "Sempreverdi mediterranee",
+    "5": "Conifere",
+    "6": "Esotiche e invasive",
+    "7": "Aggiunte proposte dopo il test"
   },
-  {
-   "id": "quercus-pubescens",
-   "nome_comune": "Roverella",
-   "nome_scientifico": "Quercus pubescens",
-   "gruppo": "latifoglia",
-   "lotto": 1,
-   "stato": "compilata"
-  },
-  {
-   "id": "quercus-cerris",
-   "nome_comune": "Cerro",
-   "nome_scientifico": "Quercus cerris",
-   "gruppo": "latifoglia",
-   "lotto": 1,
-   "stato": "pianificata"
-  },
-  {
-   "id": "quercus-petraea",
-   "nome_comune": "Rovere",
-   "nome_scientifico": "Quercus petraea",
-   "gruppo": "latifoglia",
-   "lotto": 1,
-   "stato": "pianificata"
-  },
-  {
-   "id": "fagus-sylvatica",
-   "nome_comune": "Faggio",
-   "nome_scientifico": "Fagus sylvatica",
-   "gruppo": "latifoglia",
-   "lotto": 1,
-   "stato": "compilata"
-  },
-  {
-   "id": "castanea-sativa",
-   "nome_comune": "Castagno",
-   "nome_scientifico": "Castanea sativa",
-   "gruppo": "latifoglia",
-   "lotto": 1,
-   "stato": "pianificata"
-  },
-  {
-   "id": "carpinus-betulus",
-   "nome_comune": "Carpino bianco",
-   "nome_scientifico": "Carpinus betulus",
-   "gruppo": "latifoglia",
-   "lotto": 1,
-   "stato": "pianificata"
-  },
-  {
-   "id": "ostrya-carpinifolia",
-   "nome_comune": "Carpino nero",
-   "nome_scientifico": "Ostrya carpinifolia",
-   "gruppo": "latifoglia",
-   "lotto": 1,
-   "stato": "pianificata"
-  },
-  {
-   "id": "corylus-avellana",
-   "nome_comune": "Nocciolo",
-   "nome_scientifico": "Corylus avellana",
-   "gruppo": "latifoglia",
-   "lotto": 1,
-   "stato": "pianificata"
-  },
-  {
-   "id": "betula-pendula",
-   "nome_comune": "Betulla",
-   "nome_scientifico": "Betula pendula",
-   "gruppo": "latifoglia",
-   "lotto": 1,
-   "stato": "pianificata"
-  },
-  {
-   "id": "alnus-glutinosa",
-   "nome_comune": "Ontano nero",
-   "nome_scientifico": "Alnus glutinosa",
-   "gruppo": "latifoglia",
-   "lotto": 1,
-   "stato": "pianificata"
-  },
-  {
-   "id": "ulmus-minor",
-   "nome_comune": "Olmo campestre",
-   "nome_scientifico": "Ulmus minor",
-   "gruppo": "latifoglia",
-   "lotto": 2,
-   "stato": "pianificata"
-  },
-  {
-   "id": "tilia-cordata",
-   "nome_comune": "Tiglio selvatico",
-   "nome_scientifico": "Tilia cordata",
-   "gruppo": "latifoglia",
-   "lotto": 2,
-   "stato": "pianificata"
-  },
-  {
-   "id": "tilia-platyphyllos",
-   "nome_comune": "Tiglio nostrano",
-   "nome_scientifico": "Tilia platyphyllos",
-   "gruppo": "latifoglia",
-   "lotto": 2,
-   "stato": "pianificata"
-  },
-  {
-   "id": "fraxinus-excelsior",
-   "nome_comune": "Frassino maggiore",
-   "nome_scientifico": "Fraxinus excelsior",
-   "gruppo": "latifoglia",
-   "lotto": 2,
-   "stato": "pianificata"
-  },
-  {
-   "id": "fraxinus-ornus",
-   "nome_comune": "Orniello",
-   "nome_scientifico": "Fraxinus ornus",
-   "gruppo": "latifoglia",
-   "lotto": 2,
-   "stato": "pianificata"
-  },
-  {
-   "id": "acer-campestre",
-   "nome_comune": "Acero campestre",
-   "nome_scientifico": "Acer campestre",
-   "gruppo": "latifoglia",
-   "lotto": 2,
-   "stato": "pianificata"
-  },
-  {
-   "id": "acer-pseudoplatanus",
-   "nome_comune": "Acero montano",
-   "nome_scientifico": "Acer pseudoplatanus",
-   "gruppo": "latifoglia",
-   "lotto": 2,
-   "stato": "pianificata"
-  },
-  {
-   "id": "acer-platanoides",
-   "nome_comune": "Acero riccio",
-   "nome_scientifico": "Acer platanoides",
-   "gruppo": "latifoglia",
-   "lotto": 2,
-   "stato": "pianificata"
-  },
-  {
-   "id": "aesculus-hippocastanum",
-   "nome_comune": "Ippocastano",
-   "nome_scientifico": "Aesculus hippocastanum",
-   "gruppo": "latifoglia",
-   "lotto": 2,
-   "stato": "pianificata"
-  },
-  {
-   "id": "celtis-australis",
-   "nome_comune": "Bagolaro",
-   "nome_scientifico": "Celtis australis",
-   "gruppo": "latifoglia",
-   "lotto": 2,
-   "stato": "pianificata"
-  },
-  {
-   "id": "platanus-x-hispanica",
-   "nome_comune": "Platano",
-   "nome_scientifico": "Platanus × hispanica",
-   "gruppo": "latifoglia",
-   "lotto": 2,
-   "stato": "pianificata"
-  },
-  {
-   "id": "populus-alba",
-   "nome_comune": "Pioppo bianco",
-   "nome_scientifico": "Populus alba",
-   "gruppo": "latifoglia",
-   "lotto": 3,
-   "stato": "pianificata"
-  },
-  {
-   "id": "populus-nigra",
-   "nome_comune": "Pioppo nero",
-   "nome_scientifico": "Populus nigra",
-   "gruppo": "latifoglia",
-   "lotto": 3,
-   "stato": "pianificata"
-  },
-  {
-   "id": "populus-tremula",
-   "nome_comune": "Pioppo tremulo",
-   "nome_scientifico": "Populus tremula",
-   "gruppo": "latifoglia",
-   "lotto": 3,
-   "stato": "pianificata"
-  },
-  {
-   "id": "salix-alba",
-   "nome_comune": "Salice bianco",
-   "nome_scientifico": "Salix alba",
-   "gruppo": "latifoglia",
-   "lotto": 3,
-   "stato": "pianificata"
-  },
-  {
-   "id": "salix-babylonica",
-   "nome_comune": "Salice piangente",
-   "nome_scientifico": "Salix babylonica",
-   "gruppo": "latifoglia",
-   "lotto": 3,
-   "stato": "pianificata"
-  },
-  {
-   "id": "prunus-avium",
-   "nome_comune": "Ciliegio selvatico",
-   "nome_scientifico": "Prunus avium",
-   "gruppo": "latifoglia",
-   "lotto": 3,
-   "stato": "pianificata"
-  },
-  {
-   "id": "sorbus-aucuparia",
-   "nome_comune": "Sorbo degli uccellatori",
-   "nome_scientifico": "Sorbus aucuparia",
-   "gruppo": "latifoglia",
-   "lotto": 3,
-   "stato": "pianificata"
-  },
-  {
-   "id": "sorbus-domestica",
-   "nome_comune": "Sorbo domestico",
-   "nome_scientifico": "Sorbus domestica",
-   "gruppo": "latifoglia",
-   "lotto": 3,
-   "stato": "pianificata"
-  },
-  {
-   "id": "crataegus-monogyna",
-   "nome_comune": "Biancospino",
-   "nome_scientifico": "Crataegus monogyna",
-   "gruppo": "latifoglia",
-   "lotto": 3,
-   "stato": "pianificata"
-  },
-  {
-   "id": "juglans-regia",
-   "nome_comune": "Noce",
-   "nome_scientifico": "Juglans regia",
-   "gruppo": "latifoglia",
-   "lotto": 3,
-   "stato": "pianificata"
-  },
-  {
-   "id": "morus-alba",
-   "nome_comune": "Gelso bianco",
-   "nome_scientifico": "Morus alba",
-   "gruppo": "latifoglia",
-   "lotto": 3,
-   "stato": "pianificata"
-  },
-  {
-   "id": "quercus-ilex",
-   "nome_comune": "Leccio",
-   "nome_scientifico": "Quercus ilex",
-   "gruppo": "latifoglia",
-   "lotto": 4,
-   "stato": "compilata"
-  },
-  {
-   "id": "quercus-suber",
-   "nome_comune": "Sughera",
-   "nome_scientifico": "Quercus suber",
-   "gruppo": "latifoglia",
-   "lotto": 4,
-   "stato": "pianificata"
-  },
-  {
-   "id": "arbutus-unedo",
-   "nome_comune": "Corbezzolo",
-   "nome_scientifico": "Arbutus unedo",
-   "gruppo": "latifoglia",
-   "lotto": 4,
-   "stato": "pianificata"
-  },
-  {
-   "id": "laurus-nobilis",
-   "nome_comune": "Alloro",
-   "nome_scientifico": "Laurus nobilis",
-   "gruppo": "latifoglia",
-   "lotto": 4,
-   "stato": "pianificata"
-  },
-  {
-   "id": "olea-europaea",
-   "nome_comune": "Olivo",
-   "nome_scientifico": "Olea europaea",
-   "gruppo": "latifoglia",
-   "lotto": 4,
-   "stato": "pianificata"
-  },
-  {
-   "id": "ceratonia-siliqua",
-   "nome_comune": "Carrubo",
-   "nome_scientifico": "Ceratonia siliqua",
-   "gruppo": "latifoglia",
-   "lotto": 4,
-   "stato": "pianificata"
-  },
-  {
-   "id": "pinus-sylvestris",
-   "nome_comune": "Pino silvestre",
-   "nome_scientifico": "Pinus sylvestris",
-   "gruppo": "conifera",
-   "lotto": 5,
-   "stato": "pianificata"
-  },
-  {
-   "id": "pinus-nigra",
-   "nome_comune": "Pino nero",
-   "nome_scientifico": "Pinus nigra",
-   "gruppo": "conifera",
-   "lotto": 5,
-   "stato": "pianificata"
-  },
-  {
-   "id": "pinus-pinaster",
-   "nome_comune": "Pino marittimo",
-   "nome_scientifico": "Pinus pinaster",
-   "gruppo": "conifera",
-   "lotto": 5,
-   "stato": "pianificata"
-  },
-  {
-   "id": "pinus-pinea",
-   "nome_comune": "Pino domestico",
-   "nome_scientifico": "Pinus pinea",
-   "gruppo": "conifera",
-   "lotto": 5,
-   "stato": "compilata"
-  },
-  {
-   "id": "abies-alba",
-   "nome_comune": "Abete bianco",
-   "nome_scientifico": "Abies alba",
-   "gruppo": "conifera",
-   "lotto": 5,
-   "stato": "pianificata"
-  },
-  {
-   "id": "picea-abies",
-   "nome_comune": "Abete rosso",
-   "nome_scientifico": "Picea abies",
-   "gruppo": "conifera",
-   "lotto": 5,
-   "stato": "pianificata"
-  },
-  {
-   "id": "larix-decidua",
-   "nome_comune": "Larice",
-   "nome_scientifico": "Larix decidua",
-   "gruppo": "conifera",
-   "lotto": 5,
-   "stato": "pianificata"
-  },
-  {
-   "id": "cupressus-sempervirens",
-   "nome_comune": "Cipresso comune",
-   "nome_scientifico": "Cupressus sempervirens",
-   "gruppo": "conifera",
-   "lotto": 5,
-   "stato": "pianificata"
-  },
-  {
-   "id": "juniperus-communis",
-   "nome_comune": "Ginepro comune",
-   "nome_scientifico": "Juniperus communis",
-   "gruppo": "conifera",
-   "lotto": 5,
-   "stato": "pianificata"
-  },
-  {
-   "id": "taxus-baccata",
-   "nome_comune": "Tasso",
-   "nome_scientifico": "Taxus baccata",
-   "gruppo": "conifera",
-   "lotto": 5,
-   "stato": "pianificata"
-  },
-  {
-   "id": "robinia-pseudoacacia",
-   "nome_comune": "Robinia",
-   "nome_scientifico": "Robinia pseudoacacia",
-   "gruppo": "latifoglia",
-   "lotto": 6,
-   "stato": "pianificata"
-  },
-  {
-   "id": "ailanthus-altissima",
-   "nome_comune": "Ailanto",
-   "nome_scientifico": "Ailanthus altissima",
-   "gruppo": "latifoglia",
-   "lotto": 6,
-   "stato": "pianificata"
-  },
-  {
-   "id": "cercis-siliquastrum",
-   "nome_comune": "Albero di Giuda",
-   "nome_scientifico": "Cercis siliquastrum",
-   "gruppo": "latifoglia",
-   "lotto": 6,
-   "stato": "pianificata"
-  },
-  {
-   "id": "pinus-halepensis",
-   "nome_comune": "Pino d'Aleppo",
-   "nome_scientifico": "Pinus halepensis",
-   "gruppo": "conifera",
-   "lotto": 7,
-   "stato": "proposta"
-  },
-  {
-   "id": "pinus-cembra",
-   "nome_comune": "Pino cembro",
-   "nome_scientifico": "Pinus cembra",
-   "gruppo": "conifera",
-   "lotto": 7,
-   "stato": "proposta"
-  },
-  {
-   "id": "cedrus-atlantica",
-   "nome_comune": "Cedro dell'Atlante",
-   "nome_scientifico": "Cedrus atlantica",
-   "gruppo": "conifera",
-   "lotto": 7,
-   "stato": "proposta"
-  },
-  {
-   "id": "cedrus-deodara",
-   "nome_comune": "Cedro dell'Himalaya",
-   "nome_scientifico": "Cedrus deodara",
-   "gruppo": "conifera",
-   "lotto": 7,
-   "stato": "proposta"
-  },
-  {
-   "id": "acer-negundo",
-   "nome_comune": "Acero negundo",
-   "nome_scientifico": "Acer negundo",
-   "gruppo": "latifoglia",
-   "lotto": 7,
-   "stato": "proposta"
-  },
-  {
-   "id": "salix-caprea",
-   "nome_comune": "Salicone",
-   "nome_scientifico": "Salix caprea",
-   "gruppo": "latifoglia",
-   "lotto": 7,
-   "stato": "proposta"
-  },
-  {
-   "id": "fraxinus-angustifolia",
-   "nome_comune": "Frassino meridionale",
-   "nome_scientifico": "Fraxinus angustifolia",
-   "gruppo": "latifoglia",
-   "lotto": 7,
-   "stato": "proposta"
-  },
-  {
-   "id": "ulmus-glabra",
-   "nome_comune": "Olmo montano",
-   "nome_scientifico": "Ulmus glabra",
-   "gruppo": "latifoglia",
-   "lotto": 7,
-   "stato": "proposta"
-  },
-  {
-   "id": "morus-nigra",
-   "nome_comune": "Gelso nero",
-   "nome_scientifico": "Morus nigra",
-   "gruppo": "latifoglia",
-   "lotto": 7,
-   "stato": "proposta"
-  },
-  {
-   "id": "malus-sylvestris",
-   "nome_comune": "Melo selvatico",
-   "nome_scientifico": "Malus sylvestris",
-   "gruppo": "latifoglia",
-   "lotto": 7,
-   "stato": "proposta"
-  },
-  {
-   "id": "pyrus-pyraster",
-   "nome_comune": "Pero selvatico",
-   "nome_scientifico": "Pyrus pyraster",
-   "gruppo": "latifoglia",
-   "lotto": 7,
-   "stato": "proposta"
-  },
-  {
-   "id": "tamarix-gallica",
-   "nome_comune": "Tamerice",
-   "nome_scientifico": "Tamarix gallica",
-   "gruppo": "latifoglia",
-   "lotto": 7,
-   "stato": "proposta"
-  }
- ]
+  "specie": [
+    {
+      "id": "quercus-robur",
+      "nome_comune": "Farnia",
+      "nome_scientifico": "Quercus robur",
+      "gruppo": "latifoglia",
+      "lotto": 1,
+      "stato": "compilata"
+    },
+    {
+      "id": "quercus-pubescens",
+      "nome_comune": "Roverella",
+      "nome_scientifico": "Quercus pubescens",
+      "gruppo": "latifoglia",
+      "lotto": 1,
+      "stato": "compilata"
+    },
+    {
+      "id": "quercus-cerris",
+      "nome_comune": "Cerro",
+      "nome_scientifico": "Quercus cerris",
+      "gruppo": "latifoglia",
+      "lotto": 1,
+      "stato": "compilata"
+    },
+    {
+      "id": "quercus-petraea",
+      "nome_comune": "Rovere",
+      "nome_scientifico": "Quercus petraea",
+      "gruppo": "latifoglia",
+      "lotto": 1,
+      "stato": "compilata"
+    },
+    {
+      "id": "fagus-sylvatica",
+      "nome_comune": "Faggio",
+      "nome_scientifico": "Fagus sylvatica",
+      "gruppo": "latifoglia",
+      "lotto": 1,
+      "stato": "compilata"
+    },
+    {
+      "id": "castanea-sativa",
+      "nome_comune": "Castagno",
+      "nome_scientifico": "Castanea sativa",
+      "gruppo": "latifoglia",
+      "lotto": 1,
+      "stato": "compilata"
+    },
+    {
+      "id": "carpinus-betulus",
+      "nome_comune": "Carpino bianco",
+      "nome_scientifico": "Carpinus betulus",
+      "gruppo": "latifoglia",
+      "lotto": 1,
+      "stato": "compilata"
+    },
+    {
+      "id": "ostrya-carpinifolia",
+      "nome_comune": "Carpino nero",
+      "nome_scientifico": "Ostrya carpinifolia",
+      "gruppo": "latifoglia",
+      "lotto": 1,
+      "stato": "compilata"
+    },
+    {
+      "id": "corylus-avellana",
+      "nome_comune": "Nocciolo",
+      "nome_scientifico": "Corylus avellana",
+      "gruppo": "latifoglia",
+      "lotto": 1,
+      "stato": "compilata"
+    },
+    {
+      "id": "betula-pendula",
+      "nome_comune": "Betulla",
+      "nome_scientifico": "Betula pendula",
+      "gruppo": "latifoglia",
+      "lotto": 1,
+      "stato": "compilata"
+    },
+    {
+      "id": "alnus-glutinosa",
+      "nome_comune": "Ontano nero",
+      "nome_scientifico": "Alnus glutinosa",
+      "gruppo": "latifoglia",
+      "lotto": 1,
+      "stato": "compilata"
+    },
+    {
+      "id": "ulmus-minor",
+      "nome_comune": "Olmo campestre",
+      "nome_scientifico": "Ulmus minor",
+      "gruppo": "latifoglia",
+      "lotto": 2,
+      "stato": "compilata"
+    },
+    {
+      "id": "tilia-cordata",
+      "nome_comune": "Tiglio selvatico",
+      "nome_scientifico": "Tilia cordata",
+      "gruppo": "latifoglia",
+      "lotto": 2,
+      "stato": "compilata"
+    },
+    {
+      "id": "tilia-platyphyllos",
+      "nome_comune": "Tiglio nostrano",
+      "nome_scientifico": "Tilia platyphyllos",
+      "gruppo": "latifoglia",
+      "lotto": 2,
+      "stato": "compilata"
+    },
+    {
+      "id": "fraxinus-excelsior",
+      "nome_comune": "Frassino maggiore",
+      "nome_scientifico": "Fraxinus excelsior",
+      "gruppo": "latifoglia",
+      "lotto": 2,
+      "stato": "compilata"
+    },
+    {
+      "id": "fraxinus-ornus",
+      "nome_comune": "Orniello",
+      "nome_scientifico": "Fraxinus ornus",
+      "gruppo": "latifoglia",
+      "lotto": 2,
+      "stato": "compilata"
+    },
+    {
+      "id": "acer-campestre",
+      "nome_comune": "Acero campestre",
+      "nome_scientifico": "Acer campestre",
+      "gruppo": "latifoglia",
+      "lotto": 2,
+      "stato": "compilata"
+    },
+    {
+      "id": "acer-pseudoplatanus",
+      "nome_comune": "Acero montano",
+      "nome_scientifico": "Acer pseudoplatanus",
+      "gruppo": "latifoglia",
+      "lotto": 2,
+      "stato": "compilata"
+    },
+    {
+      "id": "acer-platanoides",
+      "nome_comune": "Acero riccio",
+      "nome_scientifico": "Acer platanoides",
+      "gruppo": "latifoglia",
+      "lotto": 2,
+      "stato": "compilata"
+    },
+    {
+      "id": "aesculus-hippocastanum",
+      "nome_comune": "Ippocastano",
+      "nome_scientifico": "Aesculus hippocastanum",
+      "gruppo": "latifoglia",
+      "lotto": 2,
+      "stato": "compilata"
+    },
+    {
+      "id": "celtis-australis",
+      "nome_comune": "Bagolaro",
+      "nome_scientifico": "Celtis australis",
+      "gruppo": "latifoglia",
+      "lotto": 2,
+      "stato": "compilata"
+    },
+    {
+      "id": "platanus-x-hispanica",
+      "nome_comune": "Platano",
+      "nome_scientifico": "Platanus × hispanica",
+      "gruppo": "latifoglia",
+      "lotto": 2,
+      "stato": "compilata"
+    },
+    {
+      "id": "populus-alba",
+      "nome_comune": "Pioppo bianco",
+      "nome_scientifico": "Populus alba",
+      "gruppo": "latifoglia",
+      "lotto": 3,
+      "stato": "compilata"
+    },
+    {
+      "id": "populus-nigra",
+      "nome_comune": "Pioppo nero",
+      "nome_scientifico": "Populus nigra",
+      "gruppo": "latifoglia",
+      "lotto": 3,
+      "stato": "compilata"
+    },
+    {
+      "id": "populus-tremula",
+      "nome_comune": "Pioppo tremulo",
+      "nome_scientifico": "Populus tremula",
+      "gruppo": "latifoglia",
+      "lotto": 3,
+      "stato": "compilata"
+    },
+    {
+      "id": "salix-alba",
+      "nome_comune": "Salice bianco",
+      "nome_scientifico": "Salix alba",
+      "gruppo": "latifoglia",
+      "lotto": 3,
+      "stato": "compilata"
+    },
+    {
+      "id": "salix-babylonica",
+      "nome_comune": "Salice piangente",
+      "nome_scientifico": "Salix babylonica",
+      "gruppo": "latifoglia",
+      "lotto": 3,
+      "stato": "compilata"
+    },
+    {
+      "id": "prunus-avium",
+      "nome_comune": "Ciliegio selvatico",
+      "nome_scientifico": "Prunus avium",
+      "gruppo": "latifoglia",
+      "lotto": 3,
+      "stato": "compilata"
+    },
+    {
+      "id": "sorbus-aucuparia",
+      "nome_comune": "Sorbo degli uccellatori",
+      "nome_scientifico": "Sorbus aucuparia",
+      "gruppo": "latifoglia",
+      "lotto": 3,
+      "stato": "compilata"
+    },
+    {
+      "id": "sorbus-domestica",
+      "nome_comune": "Sorbo domestico",
+      "nome_scientifico": "Sorbus domestica",
+      "gruppo": "latifoglia",
+      "lotto": 3,
+      "stato": "compilata"
+    },
+    {
+      "id": "crataegus-monogyna",
+      "nome_comune": "Biancospino",
+      "nome_scientifico": "Crataegus monogyna",
+      "gruppo": "latifoglia",
+      "lotto": 3,
+      "stato": "compilata"
+    },
+    {
+      "id": "juglans-regia",
+      "nome_comune": "Noce",
+      "nome_scientifico": "Juglans regia",
+      "gruppo": "latifoglia",
+      "lotto": 3,
+      "stato": "compilata"
+    },
+    {
+      "id": "morus-alba",
+      "nome_comune": "Gelso bianco",
+      "nome_scientifico": "Morus alba",
+      "gruppo": "latifoglia",
+      "lotto": 3,
+      "stato": "compilata"
+    },
+    {
+      "id": "quercus-ilex",
+      "nome_comune": "Leccio",
+      "nome_scientifico": "Quercus ilex",
+      "gruppo": "latifoglia",
+      "lotto": 4,
+      "stato": "compilata"
+    },
+    {
+      "id": "quercus-suber",
+      "nome_comune": "Sughera",
+      "nome_scientifico": "Quercus suber",
+      "gruppo": "latifoglia",
+      "lotto": 4,
+      "stato": "compilata"
+    },
+    {
+      "id": "arbutus-unedo",
+      "nome_comune": "Corbezzolo",
+      "nome_scientifico": "Arbutus unedo",
+      "gruppo": "latifoglia",
+      "lotto": 4,
+      "stato": "compilata"
+    },
+    {
+      "id": "laurus-nobilis",
+      "nome_comune": "Alloro",
+      "nome_scientifico": "Laurus nobilis",
+      "gruppo": "latifoglia",
+      "lotto": 4,
+      "stato": "compilata"
+    },
+    {
+      "id": "olea-europaea",
+      "nome_comune": "Olivo",
+      "nome_scientifico": "Olea europaea",
+      "gruppo": "latifoglia",
+      "lotto": 4,
+      "stato": "compilata"
+    },
+    {
+      "id": "ceratonia-siliqua",
+      "nome_comune": "Carrubo",
+      "nome_scientifico": "Ceratonia siliqua",
+      "gruppo": "latifoglia",
+      "lotto": 4,
+      "stato": "compilata"
+    },
+    {
+      "id": "pinus-sylvestris",
+      "nome_comune": "Pino silvestre",
+      "nome_scientifico": "Pinus sylvestris",
+      "gruppo": "conifera",
+      "lotto": 5,
+      "stato": "pianificata"
+    },
+    {
+      "id": "pinus-nigra",
+      "nome_comune": "Pino nero",
+      "nome_scientifico": "Pinus nigra",
+      "gruppo": "conifera",
+      "lotto": 5,
+      "stato": "pianificata"
+    },
+    {
+      "id": "pinus-pinaster",
+      "nome_comune": "Pino marittimo",
+      "nome_scientifico": "Pinus pinaster",
+      "gruppo": "conifera",
+      "lotto": 5,
+      "stato": "pianificata"
+    },
+    {
+      "id": "pinus-pinea",
+      "nome_comune": "Pino domestico",
+      "nome_scientifico": "Pinus pinea",
+      "gruppo": "conifera",
+      "lotto": 5,
+      "stato": "compilata"
+    },
+    {
+      "id": "abies-alba",
+      "nome_comune": "Abete bianco",
+      "nome_scientifico": "Abies alba",
+      "gruppo": "conifera",
+      "lotto": 5,
+      "stato": "pianificata"
+    },
+    {
+      "id": "picea-abies",
+      "nome_comune": "Abete rosso",
+      "nome_scientifico": "Picea abies",
+      "gruppo": "conifera",
+      "lotto": 5,
+      "stato": "pianificata"
+    },
+    {
+      "id": "larix-decidua",
+      "nome_comune": "Larice",
+      "nome_scientifico": "Larix decidua",
+      "gruppo": "conifera",
+      "lotto": 5,
+      "stato": "pianificata"
+    },
+    {
+      "id": "cupressus-sempervirens",
+      "nome_comune": "Cipresso comune",
+      "nome_scientifico": "Cupressus sempervirens",
+      "gruppo": "conifera",
+      "lotto": 5,
+      "stato": "pianificata"
+    },
+    {
+      "id": "juniperus-communis",
+      "nome_comune": "Ginepro comune",
+      "nome_scientifico": "Juniperus communis",
+      "gruppo": "conifera",
+      "lotto": 5,
+      "stato": "pianificata"
+    },
+    {
+      "id": "taxus-baccata",
+      "nome_comune": "Tasso",
+      "nome_scientifico": "Taxus baccata",
+      "gruppo": "conifera",
+      "lotto": 5,
+      "stato": "pianificata"
+    },
+    {
+      "id": "robinia-pseudoacacia",
+      "nome_comune": "Robinia",
+      "nome_scientifico": "Robinia pseudoacacia",
+      "gruppo": "latifoglia",
+      "lotto": 6,
+      "stato": "pianificata"
+    },
+    {
+      "id": "ailanthus-altissima",
+      "nome_comune": "Ailanto",
+      "nome_scientifico": "Ailanthus altissima",
+      "gruppo": "latifoglia",
+      "lotto": 6,
+      "stato": "pianificata"
+    },
+    {
+      "id": "cercis-siliquastrum",
+      "nome_comune": "Albero di Giuda",
+      "nome_scientifico": "Cercis siliquastrum",
+      "gruppo": "latifoglia",
+      "lotto": 6,
+      "stato": "pianificata"
+    },
+    {
+      "id": "pinus-halepensis",
+      "nome_comune": "Pino d'Aleppo",
+      "nome_scientifico": "Pinus halepensis",
+      "gruppo": "conifera",
+      "lotto": 7,
+      "stato": "proposta"
+    },
+    {
+      "id": "pinus-cembra",
+      "nome_comune": "Pino cembro",
+      "nome_scientifico": "Pinus cembra",
+      "gruppo": "conifera",
+      "lotto": 7,
+      "stato": "proposta"
+    },
+    {
+      "id": "cedrus-atlantica",
+      "nome_comune": "Cedro dell'Atlante",
+      "nome_scientifico": "Cedrus atlantica",
+      "gruppo": "conifera",
+      "lotto": 7,
+      "stato": "proposta"
+    },
+    {
+      "id": "cedrus-deodara",
+      "nome_comune": "Cedro dell'Himalaya",
+      "nome_scientifico": "Cedrus deodara",
+      "gruppo": "conifera",
+      "lotto": 7,
+      "stato": "proposta"
+    },
+    {
+      "id": "acer-negundo",
+      "nome_comune": "Acero negundo",
+      "nome_scientifico": "Acer negundo",
+      "gruppo": "latifoglia",
+      "lotto": 7,
+      "stato": "proposta"
+    },
+    {
+      "id": "salix-caprea",
+      "nome_comune": "Salicone",
+      "nome_scientifico": "Salix caprea",
+      "gruppo": "latifoglia",
+      "lotto": 7,
+      "stato": "proposta"
+    },
+    {
+      "id": "fraxinus-angustifolia",
+      "nome_comune": "Frassino meridionale",
+      "nome_scientifico": "Fraxinus angustifolia",
+      "gruppo": "latifoglia",
+      "lotto": 7,
+      "stato": "proposta"
+    },
+    {
+      "id": "ulmus-glabra",
+      "nome_comune": "Olmo montano",
+      "nome_scientifico": "Ulmus glabra",
+      "gruppo": "latifoglia",
+      "lotto": 7,
+      "stato": "proposta"
+    },
+    {
+      "id": "morus-nigra",
+      "nome_comune": "Gelso nero",
+      "nome_scientifico": "Morus nigra",
+      "gruppo": "latifoglia",
+      "lotto": 7,
+      "stato": "proposta"
+    },
+    {
+      "id": "malus-sylvestris",
+      "nome_comune": "Melo selvatico",
+      "nome_scientifico": "Malus sylvestris",
+      "gruppo": "latifoglia",
+      "lotto": 7,
+      "stato": "proposta"
+    },
+    {
+      "id": "pyrus-pyraster",
+      "nome_comune": "Pero selvatico",
+      "nome_scientifico": "Pyrus pyraster",
+      "gruppo": "latifoglia",
+      "lotto": 7,
+      "stato": "proposta"
+    },
+    {
+      "id": "tamarix-gallica",
+      "nome_comune": "Tamerice",
+      "nome_scientifico": "Tamarix gallica",
+      "gruppo": "latifoglia",
+      "lotto": 7,
+      "stato": "proposta"
+    }
+  ]
 }

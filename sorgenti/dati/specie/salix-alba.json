@@ -127,6 +127,10 @@
     {
       "id_specie": "populus-alba",
       "come_distinguere": "Il pioppo bianco ha foglie lobate o ovali, bianche e feltrose sotto, e corteccia chiara con rombi scuri."
+    },
+    {
+      "id_specie": "olea-europaea",
+      "come_distinguere": "L'olivo ha foglie argentee sotto ma opposte, a margine intero e sempreverdi; vive in luoghi asciutti, non lungo i fiumi."
     }
   ],
   "commestibilita": {

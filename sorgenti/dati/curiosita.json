@@ -383,6 +383,51 @@
       "specie": [
         "crataegus-monogyna"
       ]
+    },
+    {
+      "id": "c062",
+      "testo": "Il sughero è fatto di cellule morte piene d'aria: per questo è leggero, galleggia e isola dal calore. Protegge la sughera anche dagli incendi.",
+      "specie": [
+        "quercus-suber"
+      ]
+    },
+    {
+      "id": "c063",
+      "testo": "Sui tronchi di sughera decorticati a volte c'è dipinta una cifra: in Portogallo, per esempio, è l'ultima cifra dell'anno della raccolta, per sapere quando tornare (dopo circa 9-12 anni).",
+      "specie": [
+        "quercus-suber"
+      ],
+      "stagione": "estate"
+    },
+    {
+      "id": "c064",
+      "testo": "Il corbezzolo fiorisce in autunno, mentre sui rami maturano i frutti dell'anno prima: fiori bianchi e frutti rossi sullo stesso ramo.",
+      "specie": [
+        "arbutus-unedo"
+      ],
+      "stagione": "autunno"
+    },
+    {
+      "id": "c065",
+      "testo": "L'alloro ha piante maschili e piante femminili: solo le femminili fanno le bacche nere.",
+      "specie": [
+        "laurus-nobilis"
+      ]
+    },
+    {
+      "id": "c066",
+      "testo": "Al Nord gli olivi crescono attorno ai grandi laghi prealpini: la massa d'acqua rende gli inverni più miti.",
+      "specie": [
+        "olea-europaea"
+      ]
+    },
+    {
+      "id": "c067",
+      "testo": "I fiori del carrubo spuntano direttamente sui rami vecchi e perfino sul tronco, come succede nel cacao.",
+      "specie": [
+        "ceratonia-siliqua"
+      ],
+      "stagione": "autunno"
     }
   ]
 }

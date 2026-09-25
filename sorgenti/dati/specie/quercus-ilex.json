@@ -128,6 +128,10 @@
     {
       "id_specie": "quercus-suber",
       "come_distinguere": "La sughera ha corteccia spessa, chiara e spugnosa di sughero; dove è stata decorticata il tronco appare rosso-bruno."
+    },
+    {
+      "id_specie": "arbutus-unedo",
+      "come_distinguere": "Il corbezzolo ha foglie lucide, verdi anche sotto e seghettate, corteccia rossastra che si sfalda e frutti rossi granulosi."
     }
   ],
   "commestibilita": {

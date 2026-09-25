@@ -1,0 +1,192 @@
+{
+  "id": "ceratonia-siliqua",
+  "nome_comune": "Carrubo",
+  "nome_scientifico": "Ceratonia siliqua",
+  "famiglia": "Fabaceae",
+  "genere": "Ceratonia",
+  "sinonimi": [],
+  "nomi_locali": [],
+  "stato": "bozza",
+  "aggiornato": "2026-09-25",
+  "chiave": {
+    "gruppo": "latifoglia",
+    "persistenza": "sempreverde",
+    "foglia_tipo": "composta_pennata",
+    "foglia_disposizione": "alterna",
+    "foglia_margine": [
+      "intero",
+      "ondulato"
+    ],
+    "foglia_forma": [
+      "orbicolare",
+      "obovata"
+    ],
+    "frutto": "legume",
+    "corteccia_texture": [
+      "liscia",
+      "fessurata"
+    ],
+    "habitat": [
+      "mediterraneo_costiero",
+      "rupestre_arido"
+    ],
+    "altitudine_m": [
+      0,
+      500
+    ],
+    "ramificazione": "non_accertata",
+    "ruolo_ecologico": [
+      "non_accertato"
+    ],
+    "luce": "eliofila"
+  },
+  "tratti_chiave": [
+    "Foglie composte da 2-5 paia di foglioline tonde, coriacee e lucide, senza fogliolina terminale",
+    "Carrube: grandi baccelli bruno scuro lunghi 10-25 cm",
+    "Piccoli fiori rossastri che spuntano direttamente sui rami vecchi e sul tronco"
+  ],
+  "origine": {
+    "stato": "archeofita",
+    "note": "Diffuso dall'uomo nel Mediterraneo in epoca antica; oggi in Italia è naturalizzato soprattutto in Sicilia, Puglia e Sardegna."
+  },
+  "foglie": {
+    "tipo": "composta pennata (paripennata: senza fogliolina terminale)",
+    "disposizione": "alterna",
+    "forma": "10-20 cm, con 2-5 paia di foglioline ovali o quasi rotonde di 3-5 cm, spesso con una piccola rientranza in punta",
+    "margine": "intero, a volte leggermente ondulato",
+    "venatura": "pennata",
+    "colore_stagionale": {
+      "primavera_estate": "verde scuro lucido sopra, più chiaro sotto; molto coriacee",
+      "autunno": "resta verde (sempreverde)"
+    },
+    "descrizione": ""
+  },
+  "corteccia": {
+    "colore": "grigio-bruno",
+    "texture": "liscia da giovane, poi rugosa e fessurata",
+    "evoluzione_con_eta": "il tronco diventa grosso, spesso contorto e cavo",
+    "descrizione": ""
+  },
+  "rami_e_portamento": {
+    "disposizione_rami": "alterna",
+    "angolo_di_crescita": "rami aperti e spesso ricadenti",
+    "forma_chioma": "molto ampia, densa, tondeggiante, verde scuro",
+    "silhouette_invernale": "sempreverde; tronco corto e chioma larga che fa un'ombra fittissima",
+    "descrizione": "Nelle campagne del Sud si trova isolato ai margini dei campi o lungo i muri a secco.",
+    "ramificazione": "Tipo di ramificazione: dato non accertato."
+  },
+  "gemme": {
+    "forma": "piccole",
+    "colore": "bruno-rossastre",
+    "disposizione": "alterne",
+    "descrizione": "Poco visibili."
+  },
+  "fiori_e_frutti": {
+    "tipo_fiore": "fiori piccoli senza petali, rossastri o verdastri, in brevi grappoli su rami vecchi e tronco; di solito piante maschili e femminili separate",
+    "periodo_fioritura": "agosto-novembre",
+    "tipo_frutto": "legume (carruba) di 10-25 cm, appiattito, coriaceo, prima verde poi bruno scuro",
+    "periodo_fruttificazione": "agosto-settembre dell'anno dopo la fioritura",
+    "descrizione": "Le carrube maturano in circa un anno: a fine estate sullo stesso albero ci sono i fiori nuovi e i frutti che stanno maturando."
+  },
+  "dimensioni": {
+    "altezza_tipica_m": [
+      5,
+      10
+    ],
+    "altezza_max_m": 15,
+    "eta_massima_anni": null,
+    "note": "Età massima non accertata; vive diversi secoli (stima indicativa)."
+  },
+  "habitat_e_distribuzione": {
+    "regioni_italia": [
+      "Sicilia (soprattutto altopiano ibleo), Puglia, Sardegna, Calabria",
+      "Nord: assente, tranne qualche esemplare piantato in luoghi riparati della Liguria"
+    ],
+    "altitudine": "0-500 m",
+    "terreno_preferito": "calcareo, anche povero e sassoso; resiste molto alla siccità, teme il gelo",
+    "descrizione": "Albero delle campagne più calde e secche, spesso su terreni rocciosi."
+  },
+  "ecologia": {
+    "descrizione": "Molto resistente alla siccità e al caldo, ma sensibile al gelo: dove cresce spontaneo indica un clima molto mite. Ruolo nella successione: dato non accertato."
+  },
+  "stagionalita": {
+    "primavera": "Foglie nuove; carrube ancora verdi.",
+    "estate": "Carrube che diventano brune; inizia la fioritura.",
+    "autunno": "Fiori rossastri su rami e tronco.",
+    "inverno": "Sempreverde; ombra densa."
+  },
+  "specie_simili": [
+    {
+      "id_specie": "cercis-siliquastrum",
+      "come_distinguere": "L'albero di Giuda ha anche lui baccelli, ma foglie semplici tonde e caduche e fiori rosa vivo in primavera, prima delle foglie."
+    }
+  ],
+  "commestibilita": {
+    "parti": "frutti (polpa dei baccelli maturi)",
+    "note": "La polpa delle carrube secche è dolce: si mastica così, o si macina in farina usata al posto del cacao in dolci e bevande. Dai semi si ricava una farina addensante molto usata nell'industria alimentare.",
+    "avvertenze": "I semi sono durissimi: non vanno masticati."
+  },
+  "tossicita": {
+    "livello": "nessuna_nota",
+    "parti": "",
+    "note": "Nessuna tossicità nota."
+  },
+  "curiosita_e_usi": "Si racconta che i semi di carrubo, tutti uguali, servissero a pesare le pietre preziose e che da qui venga la parola 'carato'. La parola deriva davvero dal nome greco del carrubo, ma le misure moderne mostrano che i semi non sono più uniformi di quelli di altre piante. Le carrube erano cibo per animali da lavoro e, nei periodi di fame, anche per le persone.",
+  "immagini": [
+    {
+      "tipo": "silhouette",
+      "file": "img/ceratonia-siliqua-silhouette.jpg",
+      "fonte": "Wikimedia Commons",
+      "autore": "sconosciuto",
+      "licenza": "CC BY-SA 3.0",
+      "url_originale": "https://commons.wikimedia.org/wiki/File:Ceratonia_siliqua,_total.jpg",
+      "titolo_originale": "Ceratonia siliqua, total.jpg"
+    },
+    {
+      "tipo": "foglia",
+      "file": "img/ceratonia-siliqua-foglia.jpg",
+      "fonte": "Wikimedia Commons",
+      "autore": "Frank Vincentz",
+      "licenza": "CC BY-SA 3.0",
+      "url_originale": "https://commons.wikimedia.org/wiki/File:Ceratonia_siliqua_02_ies.jpg",
+      "titolo_originale": "Ceratonia siliqua 02 ies.jpg"
+    },
+    {
+      "tipo": "fiore_o_frutto",
+      "file": "img/ceratonia-siliqua-fiore_o_frutto.jpg",
+      "fonte": "Wikimedia Commons",
+      "autore": "Nevit Dilmen ( talk )",
+      "licenza": "CC BY-SA 3.0",
+      "url_originale": "https://commons.wikimedia.org/wiki/File:Ceratonia_siliqua_Keciboynuzu_1370984_Nevit.jpg",
+      "titolo_originale": "Ceratonia siliqua Keciboynuzu 1370984 Nevit.jpg"
+    },
+    {
+      "tipo": "fiore_o_frutto",
+      "file": "img/ceratonia-siliqua-fiore_o_frutto-2.jpg",
+      "fonte": "Wikimedia Commons",
+      "autore": "Seminsky",
+      "licenza": "Public domain",
+      "url_originale": "https://commons.wikimedia.org/wiki/File:Blooming_carob_tree.jpg",
+      "titolo_originale": "Blooming carob tree.jpg"
+    },
+    {
+      "tipo": "corteccia",
+      "file": "img/ceratonia-siliqua-corteccia.jpg",
+      "fonte": "Wikimedia Commons",
+      "autore": "Димитър Найденов / Dimìtar Nàydenov",
+      "licenza": "CC BY-SA 4.0",
+      "url_originale": "https://commons.wikimedia.org/wiki/File:%D0%94%D0%B8%D0%B2_%D1%80%D0%BE%D0%B6%D0%BA%D0%BE%D0%B2_%E2%80%93_%D1%81%D1%82%D1%8A%D0%B1%D0%BB%D0%BE_2.jpg",
+      "titolo_originale": "Див рожков – стъбло 2.jpg"
+    }
+  ],
+  "fonti": [
+    {
+      "titolo": "Ceratonia siliqua – Wikipedia (it)",
+      "url": "https://it.wikipedia.org/wiki/Ceratonia_siliqua"
+    },
+    {
+      "titolo": "Ceratonia siliqua – Wikipedia (en)",
+      "url": "https://en.wikipedia.org/wiki/Ceratonia_siliqua"
+    }
+  ]
+}

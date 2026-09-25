@@ -1,0 +1,198 @@
+{
+  "id": "laurus-nobilis",
+  "nome_comune": "Alloro",
+  "nome_scientifico": "Laurus nobilis",
+  "famiglia": "Lauraceae",
+  "genere": "Laurus",
+  "sinonimi": [
+    "Lauro"
+  ],
+  "nomi_locali": [],
+  "stato": "bozza",
+  "aggiornato": "2026-09-25",
+  "chiave": {
+    "gruppo": "latifoglia",
+    "persistenza": "sempreverde",
+    "foglia_tipo": "semplice",
+    "foglia_disposizione": "alterna",
+    "foglia_margine": [
+      "intero",
+      "ondulato"
+    ],
+    "foglia_forma": [
+      "lanceolata",
+      "ellittica"
+    ],
+    "frutto": "drupa",
+    "corteccia_texture": [
+      "liscia"
+    ],
+    "habitat": [
+      "mediterraneo_costiero",
+      "collinare",
+      "urbano_parchi"
+    ],
+    "altitudine_m": [
+      0,
+      800
+    ],
+    "ramificazione": "non_accertata",
+    "ruolo_ecologico": [
+      "non_accertato"
+    ],
+    "luce": "semisciafila"
+  },
+  "tratti_chiave": [
+    "Foglie sempreverdi coriacee che, stropicciate, profumano di alloro da cucina",
+    "Margine della foglia intero, spesso un po' ondulato",
+    "Corteccia liscia, grigio scuro; piante maschili e femminili separate, con piccole bacche nere su quelle femminili"
+  ],
+  "origine": {
+    "stato": "autoctona",
+    "note": "Spontaneo in boschi freschi e valloni della fascia mediterranea; coltivato ovunque, al Nord anche inselvatichito vicino a laghi e costa."
+  },
+  "foglie": {
+    "tipo": "semplice",
+    "disposizione": "alterna",
+    "forma": "lanceolata-ellittica, 5-10 cm, appuntita",
+    "margine": "intero, spesso ondulato",
+    "venatura": "pennata; controluce si vedono piccoli punti traslucidi (ghiandole dell'olio)",
+    "colore_stagionale": {
+      "primavera_estate": "verde scuro lucido sopra, più chiara sotto",
+      "autunno": "resta verde (sempreverde)"
+    },
+    "descrizione": "Il profumo delle foglie stropicciate è la prova più sicura."
+  },
+  "corteccia": {
+    "colore": "grigio scuro o nerastro",
+    "texture": "liscia",
+    "evoluzione_con_eta": "resta liscia anche nei fusti vecchi",
+    "descrizione": ""
+  },
+  "rami_e_portamento": {
+    "disposizione_rami": "alterna; molti polloni dalla base",
+    "angolo_di_crescita": "ascendenti",
+    "forma_chioma": "densa, conica o ovale",
+    "silhouette_invernale": "sempreverde, fitto, spesso a cespuglio con più fusti",
+    "descrizione": "Pollona molto dalla base e forma facilmente boschetti; sopporta bene la potatura, per questo è usato nelle siepi.",
+    "ramificazione": "Tipo di ramificazione: dato non accertato."
+  },
+  "gemme": {
+    "forma": "piccole, appuntite",
+    "colore": "verdi o rossastre",
+    "disposizione": "alterne",
+    "descrizione": "In inverno si vedono già i boccioli fiorali, tondeggianti, all'ascella delle foglie."
+  },
+  "fiori_e_frutti": {
+    "tipo_fiore": "fiori piccoli giallo-verdastri in ombrelline all'ascella delle foglie; piante maschili e femminili separate (dioico)",
+    "periodo_fioritura": "marzo-aprile",
+    "tipo_frutto": "drupa ovoidale di 1-1,5 cm, nera e lucida a maturità (solo sulle piante femminili)",
+    "periodo_fruttificazione": "ottobre-novembre",
+    "descrizione": ""
+  },
+  "dimensioni": {
+    "altezza_tipica_m": [
+      5,
+      10
+    ],
+    "altezza_max_m": 18,
+    "eta_massima_anni": null,
+    "note": "Età massima non accertata."
+  },
+  "habitat_e_distribuzione": {
+    "regioni_italia": [
+      "Tutta Italia costiera e collinare; al Nord soprattutto Liguria e laghi prealpini",
+      "Coltivato ovunque in parchi, giardini e siepi"
+    ],
+    "altitudine": "0-800 m",
+    "terreno_preferito": "fresco, meglio se non troppo secco; tollera il calcare",
+    "descrizione": "Allo stato spontaneo cerca valloni ombrosi e umidi, dove forma piccoli boschi (laureti)."
+  },
+  "ecologia": {
+    "descrizione": "Da giovane tollera bene l'ombra. È un resto delle antiche foreste di lauracee che coprivano l'Europa in climi più caldi e umidi. Ruolo nella successione: dato non accertato."
+  },
+  "stagionalita": {
+    "primavera": "Piccoli fiori giallo-verdi (marzo-aprile).",
+    "estate": "Bacche verdi sulle piante femminili.",
+    "autunno": "Bacche nere lucide.",
+    "inverno": "Sempreverde; boccioli fiorali già visibili."
+  },
+  "specie_simili": [
+    {
+      "id_specie": "arbutus-unedo",
+      "come_distinguere": "Il corbezzolo ha foglie seghettate, non profumate, corteccia rossastra che si sfalda e frutti rossi granulosi."
+    },
+    {
+      "id_specie": "olea-europaea",
+      "come_distinguere": "L'olivo ha foglie opposte, strette, argentee sotto, e corteccia grigia fessurata."
+    }
+  ],
+  "commestibilita": {
+    "parti": "foglie (come aromatica); bacche per liquori",
+    "note": "Le foglie, fresche o secche, insaporiscono sughi, carni, legumi e castagne; si tolgono prima di servire. Con le bacche si prepara il liquore laurino.",
+    "avvertenze": "ATTENZIONE: non confonderlo con il lauroceraso (foglie seghettate, odore di mandorla amara se stropicciate) e con l'oleandro (foglie strette, spesso a gruppi di tre): sono velenosi. Non ingerire le foglie intere."
+  },
+  "tossicita": {
+    "livello": "bassa",
+    "parti": "foglie intere, olio essenziale",
+    "note": "Le foglie intere non si mangiano (dure e taglienti); l'olio essenziale concentrato può irritare."
+  },
+  "curiosita_e_usi": "Con i rami di alloro si incoronavano poeti e vincitori: da qui 'laurea' e 'laureato'. Il nome nobilis ricorda proprio questo uso.",
+  "immagini": [
+    {
+      "tipo": "silhouette",
+      "file": "img/laurus-nobilis-silhouette.jpg",
+      "fonte": "Wikimedia Commons",
+      "autore": "The wub",
+      "licenza": "CC BY-SA 4.0",
+      "url_originale": "https://commons.wikimedia.org/wiki/File:Bay_tree,_South_Zeal,_Devon.jpg",
+      "titolo_originale": "Bay tree, South Zeal, Devon.jpg"
+    },
+    {
+      "tipo": "foglia",
+      "file": "img/laurus-nobilis-foglia.jpg",
+      "fonte": "Wikimedia Commons",
+      "autore": "Forest and Kim Starr",
+      "licenza": "CC BY 3.0 us",
+      "url_originale": "https://commons.wikimedia.org/wiki/File:Starr-071024-0195-Laurus_nobilis-leaves-Enchanting_Floral_Gardens_of_Kula-Maui_(24867859296).jpg",
+      "titolo_originale": "Starr-071024-0195-Laurus nobilis-leaves-Enchanting Floral Gardens of Kula-Maui (24867859296).jpg"
+    },
+    {
+      "tipo": "fiore_o_frutto",
+      "file": "img/laurus-nobilis-fiore_o_frutto.jpg",
+      "fonte": "Wikimedia Commons",
+      "autore": "Photoexpo",
+      "licenza": "CC BY-SA 4.0",
+      "url_originale": "https://commons.wikimedia.org/wiki/File:Laurel_flower.jpg",
+      "titolo_originale": "Laurel flower.jpg"
+    },
+    {
+      "tipo": "corteccia",
+      "file": "img/laurus-nobilis-corteccia.jpg",
+      "fonte": "Wikimedia Commons",
+      "autore": "Oktoober",
+      "licenza": "CC BY-SA 4.0",
+      "url_originale": "https://commons.wikimedia.org/wiki/File:Arboretum-Trsteno-loorber1.jpg",
+      "titolo_originale": "Arboretum-Trsteno-loorber1.jpg"
+    },
+    {
+      "tipo": "gemme",
+      "file": "img/laurus-nobilis-gemme.jpg",
+      "fonte": "Wikimedia Commons",
+      "autore": "Forest and Kim Starr",
+      "licenza": "CC BY 3.0 us",
+      "url_originale": "https://commons.wikimedia.org/wiki/File:Starr-150811-0527-Laurus_nobilis-leaves_buds-Enchanting_Floral_Gardens_of_Kula-Maui_(24927959119).jpg",
+      "titolo_originale": "Starr-150811-0527-Laurus nobilis-leaves buds-Enchanting Floral Gardens of Kula-Maui (24927959119).jpg"
+    }
+  ],
+  "fonti": [
+    {
+      "titolo": "Laurus nobilis – Wikipedia (it)",
+      "url": "https://it.wikipedia.org/wiki/Laurus_nobilis"
+    },
+    {
+      "titolo": "Laurus nobilis – Wikipedia (en)",
+      "url": "https://en.wikipedia.org/wiki/Laurus_nobilis"
+    }
+  ]
+}

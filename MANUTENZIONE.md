@@ -126,6 +126,9 @@ Personal access tokens → Fine-grained tokens*, solo il repository `parco-capel
 **A mano (riserva):** `python3 strumenti/build.py`, poi carica su GitHub, **nella radice** del repository, il
 contenuto delle cartelle `da_caricare/` una alla volta e in ordine (max 100 file per volta; `sw.js` per ultimo).
 
+**Prima di ogni pubblicazione** aggiorna `CHANGELOG.md`: una nuova voce con la versione e, nella lista "Da fare",
+togli ciò che è stato fatto e aggiungi ciò che resta in sospeso.
+
 Dopo la pubblicazione: apri l'app sul telefono con la rete; si aggiorna da sola e mostra "App aggiornata".
 Prima di aggiornamenti grossi fai **Esporta backup** dal Taccuino.
 
