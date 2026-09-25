@@ -19,16 +19,24 @@ Versioni: terza cifra = correzioni; seconda = funzioni o lotti nuovi; prima = ca
   olivo, carrubo). Età massima: sughera, corbezzolo, alloro, carrubo; olivo (le età millenarie sono stime).
 
 
-- [ ] Foto mancanti: gemme del pino domestico; foglia del noce; corteccia del salice bianco; gemme del gelso bianco.
-      Lotto 4: ghiande della sughera, olive mature, gemme di corbezzolo, olivo e carrubo.
+- [ ] Foto mancanti: gemme del pino domestico; gemme del gelso bianco.
+      Lotto 4: gemme di corbezzolo, olivo e carrubo.
       Portamento estivo di pioppo tremolo e ciliegio (le candidate erano cultivar, altre specie o foto invernali).
-- [ ] Foto fornite dall'utente (v0.4.1): indicare autore/fonte e licenza, soprattutto se il repository resta pubblico.
+- [ ] Foto fornite dall'utente (v0.4.1, v0.7.1): indicare la fonte delle 8 foto della v0.4.1; foglia del noce e corteccia
+      del salice bianco (v0.7.1) sono foto dell'utente.
 - [ ] Fase 2: lotti 5 e 6, poi le aggiunte proposte (lotto 7). Lotti 1-4 fatti.
 - [ ] Da valutare per il lotto 7: lauroceraso e oleandro, velenosi e facili da confondere con l'alloro.
 - [ ] Fase 3: organi corteccia, rami, radici, gemme, portamento; altri 8-10 segnali del paesaggio; disegni del glossario.
 - [ ] Da valutare dopo il test: modalità inverno nell'identificazione (gemme e sagome), confronto dalla sezione Organi.
 
 ---
+
+## 0.7.1 · 2026-09-25 · Foto aggiunte
+
+- Foto dell'utente: foglia del noce, corteccia del salice bianco.
+- Da Commons (scelte dall'utente): ghiande della sughera, olive mature.
+- Script foto: in `immagini-ricerca.json` si può indicare un file preciso di Commons (`"file": ["File:Nome.jpg"]`),
+  che viene scaricato con autore e licenza senza fare ricerche.
 
 ## 0.7.0 · 2026-09-25 · Lotto 4 (sempreverdi mediterranee)
 

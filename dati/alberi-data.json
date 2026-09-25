@@ -4361,6 +4361,15 @@
      "titolo_originale": "Noyer centenaire en automne.JPG"
     },
     {
+     "tipo": "foglia",
+     "file": "img/juglans-regia-foglia-utente.jpg",
+     "fonte": "Foto fornita dall'utente",
+     "autore": "non indicato",
+     "licenza": "da verificare (uso personale)",
+     "url_originale": "",
+     "titolo_originale": ""
+    },
+    {
      "tipo": "fiore_o_frutto",
      "file": "img/juglans-regia-fiore_o_frutto.jpg",
      "fonte": "Wikimedia Commons",
@@ -4577,6 +4586,15 @@
      "licenza": "Public domain",
      "url_originale": "https://commons.wikimedia.org/wiki/File:Bl%C3%BChender_Olivenbaum.jpg",
      "titolo_originale": "Blühender Olivenbaum.jpg"
+    },
+    {
+     "tipo": "fiore_o_frutto",
+     "file": "img/olea-europaea-fiore_o_frutto-2.jpg",
+     "fonte": "Wikimedia Commons",
+     "autore": "Ввласенко",
+     "licenza": "CC BY-SA 3.0",
+     "url_originale": "https://commons.wikimedia.org/wiki/File:Air_Olive_1.JPG",
+     "titolo_originale": "Air Olive 1.JPG"
     },
     {
      "tipo": "corteccia",
@@ -6788,6 +6806,15 @@
      "titolo_originale": "Бяла върба – плодове 3.jpg"
     },
     {
+     "tipo": "corteccia",
+     "file": "img/salix-alba-corteccia-utente.jpg",
+     "fonte": "Foto fornita dall'utente",
+     "autore": "non indicato",
+     "licenza": "da verificare (uso personale)",
+     "url_originale": "",
+     "titolo_originale": ""
+    },
+    {
      "tipo": "gemme",
      "file": "img/salix-alba-gemme.jpg",
      "fonte": "Wikimedia Commons",
@@ -7593,6 +7620,15 @@
      "licenza": "CC BY-SA 4.0",
      "url_originale": "https://commons.wikimedia.org/wiki/File:Quercus_suber_kz06.jpg",
      "titolo_originale": "Quercus suber kz06.jpg"
+    },
+    {
+     "tipo": "fiore_o_frutto",
+     "file": "img/quercus-suber-fiore_o_frutto-2.jpg",
+     "fonte": "Wikimedia Commons",
+     "autore": "non indicato",
+     "licenza": "CC BY-SA 3.0",
+     "url_originale": "https://commons.wikimedia.org/wiki/File:Quercus_suber_g3.jpg",
+     "titolo_originale": "Quercus suber g3.jpg"
     },
     {
      "tipo": "corteccia",

@@ -1,5 +1,5 @@
 /* Service worker: rende l'app utilizzabile offline.
-   build.py sostituisce 8c10273c98 e [
+   build.py sostituisce e7aeb01b45 e [
  "./",
  "app.js",
  "dati/alberi-data.json",
@@ -95,6 +95,7 @@
  "img/fraxinus-ornus-silhouette.jpg",
  "img/juglans-regia-corteccia.jpg",
  "img/juglans-regia-fiore_o_frutto.jpg",
+ "img/juglans-regia-foglia-utente.jpg",
  "img/juglans-regia-gemme.jpg",
  "img/juglans-regia-silhouette-2.jpg",
  "img/juglans-regia-silhouette.jpg",
@@ -108,6 +109,7 @@
  "img/morus-alba-foglia.jpg",
  "img/morus-alba-silhouette.jpg",
  "img/olea-europaea-corteccia.jpg",
+ "img/olea-europaea-fiore_o_frutto-2.jpg",
  "img/olea-europaea-fiore_o_frutto.jpg",
  "img/olea-europaea-foglia.jpg",
  "img/olea-europaea-silhouette.jpg",
@@ -173,10 +175,12 @@
  "img/quercus-robur-silhouette.jpg",
  "img/quercus-suber-corteccia-2.jpg",
  "img/quercus-suber-corteccia.jpg",
+ "img/quercus-suber-fiore_o_frutto-2.jpg",
  "img/quercus-suber-fiore_o_frutto.jpg",
  "img/quercus-suber-foglia.jpg",
  "img/quercus-suber-silhouette-2.jpg",
  "img/quercus-suber-silhouette.jpg",
+ "img/salix-alba-corteccia-utente.jpg",
  "img/salix-alba-fiore_o_frutto.jpg",
  "img/salix-alba-foglia-2.jpg",
  "img/salix-alba-foglia.jpg",
@@ -218,7 +222,7 @@
  "manifest.webmanifest",
  "style.css"
 ] a ogni build: una nuova versione = una nuova cache. */
-const CACHE = 'parco-capello-8c10273c98';
+const CACHE = 'parco-capello-e7aeb01b45';
 const FILES = [
  "./",
  "app.js",
@@ -315,6 +319,7 @@ const FILES = [
  "img/fraxinus-ornus-silhouette.jpg",
  "img/juglans-regia-corteccia.jpg",
  "img/juglans-regia-fiore_o_frutto.jpg",
+ "img/juglans-regia-foglia-utente.jpg",
  "img/juglans-regia-gemme.jpg",
  "img/juglans-regia-silhouette-2.jpg",
  "img/juglans-regia-silhouette.jpg",
@@ -328,6 +333,7 @@ const FILES = [
  "img/morus-alba-foglia.jpg",
  "img/morus-alba-silhouette.jpg",
  "img/olea-europaea-corteccia.jpg",
+ "img/olea-europaea-fiore_o_frutto-2.jpg",
  "img/olea-europaea-fiore_o_frutto.jpg",
  "img/olea-europaea-foglia.jpg",
  "img/olea-europaea-silhouette.jpg",
@@ -393,10 +399,12 @@ const FILES = [
  "img/quercus-robur-silhouette.jpg",
  "img/quercus-suber-corteccia-2.jpg",
  "img/quercus-suber-corteccia.jpg",
+ "img/quercus-suber-fiore_o_frutto-2.jpg",
  "img/quercus-suber-fiore_o_frutto.jpg",
  "img/quercus-suber-foglia.jpg",
  "img/quercus-suber-silhouette-2.jpg",
  "img/quercus-suber-silhouette.jpg",
+ "img/salix-alba-corteccia-utente.jpg",
  "img/salix-alba-fiore_o_frutto.jpg",
  "img/salix-alba-foglia-2.jpg",
  "img/salix-alba-foglia.jpg",

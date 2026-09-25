@@ -57,7 +57,9 @@ Regola d'oro: **si modificano solo `dati/` (contenuti), `img/` (foto) e `src/` (
    galleria è automatico: portamento, foglia, fiore/frutto, corteccia, gemme, dettagli. Le miniature dell'elenco
    usano la foglia.
    Per le foto CC BY e CC BY-SA autore e licenza sono obbligatori: l'app li mostra sotto la foto e in Impostazioni.
-5. **Foto trovate a mano:** il modo migliore è mandare a Claude il link della **pagina del file su Commons**
+5. **Foto precise di Commons:** in `immagini-ricerca.json` scrivi `{"id": "quercus-suber", "tipi": ["fiore_o_frutto"], "file": ["File:Quercus suber g3.jpg"]}`
+   e lancia lo script: scarica solo quel file, con autore e licenza.
+6. **Foto trovate a mano:** il modo migliore è mandare a Claude il link della **pagina del file su Commons**
    (`https://commons.wikimedia.org/wiki/File:…`), così autore e licenza sono sicuri.
 
 Peso indicativo: ~150 KB a foto. 64 specie × 5 foto ≈ 50 MB, che il Pixel gestisce senza problemi.

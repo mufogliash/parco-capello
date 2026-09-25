@@ -45,11 +45,12 @@ foreach ($e in $elenco.specie) { $latino[$e.id] = ($e.nome_scientifico -replace 
 $TUTTI = @('silhouette', 'foglia', 'corteccia', 'fiore_o_frutto', 'gemme')
 $lista = @()
 foreach ($voce in $cfg.specie) {
-  if ($voce -is [string]) { $lista += [pscustomobject]@{ id = $voce; tipi = $TUTTI } }
+  if ($voce -is [string]) { $lista += [pscustomobject]@{ id = $voce; tipi = $TUTTI; file = @() } }
   else {
     $t = $TUTTI
     if ($voce.tipi) { $t = @($voce.tipi) }
-    $lista += [pscustomobject]@{ id = $voce.id; tipi = $t }
+    $f = @(); if ($voce.file) { $f = @($voce.file) }
+    $lista += [pscustomobject]@{ id = $voce.id; tipi = $t; file = $f }
   }
 }
 if ($Solo.Count -gt 0) { $lista = @($lista | Where-Object { $Solo -contains $_.id }) }
@@ -233,8 +234,14 @@ foreach ($sp in $lista) {
     if ($p -and ($sp.tipi -contains 'silhouette')) { [void]$candidati.Add([pscustomobject]@{ titolo = $p.file; tipo = 'silhouette'; origine = $p.origine }) }
   }
 
+  # file indicati a mano: {"id": "...", "tipi": ["foglia"], "file": ["File:Nome.jpg"]} -> niente ricerca
+  if ($sp.file.Count -gt 0) {
+    foreach ($f in $sp.file) { [void]$candidati.Add([pscustomobject]@{ titolo = ($f -replace '_', ' '); tipo = $sp.tipi[0]; origine = 'scelta' }) }
+    $sp.tipi = @()
+  }
+
   $catPerTipo = @{}
-  try {
+  if ($sp.tipi.Count -gt 0) { try {
     $sub = Sottocategorie ('Category:' + $L)
     $extra = @()
     foreach ($c in $sub) {
@@ -248,7 +255,7 @@ foreach ($sp in $lista) {
         if ($catPerTipo[$t].Count -lt 2) { $catPerTipo[$t] += $c }
       }
     }
-  } catch { Write-Warning ("  categorie non disponibili: {0}" -f $_.Exception.Message) }
+  } catch { Write-Warning ("  categorie non disponibili: {0}" -f $_.Exception.Message) } }
 
   $SENZA = 'tree -bark -leaf -leaves -flower -flowers -fruit -fruits -bud -buds -winter -herbarium'
   foreach ($tipo in $sp.tipi) {
@@ -285,7 +292,7 @@ foreach ($sp in $lista) {
   foreach ($c in $candidati) {
     if ($script:interrotto) { break }
     if ($gia.ContainsKey($c.titolo) -or -not $info.ContainsKey($c.titolo)) { continue }
-    $conta = $c.tipo; if ($c.origine -like 'wikipedia-*') { $conta = 'wikipedia' }   # le foto principali di Wikipedia non tolgono posto
+    $conta = $c.tipo; if ($c.origine -like 'wikipedia-*' -or $c.origine -eq 'scelta') { $conta = 'wikipedia' }   # le foto principali di Wikipedia non tolgono posto
     if (-not $presi.ContainsKey($conta)) { $presi[$conta] = 0 }
     $limite = $PerTipo; if ($conta -eq 'silhouette') { $limite = $PerTipo * 2 }   # piu scelta per il portamento
     if ($presi[$conta] -ge $limite) { continue }
