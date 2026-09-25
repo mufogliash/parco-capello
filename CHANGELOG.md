@@ -12,17 +12,32 @@ Versioni: terza cifra = correzioni; seconda = funzioni o lotti nuovi; prima = ca
 - Età massima: olmo campestre, orniello, acero campestre, ippocastano, bagolaro, platano.
 - Età solo stimate ("stima indicativa"): tigli, frassino maggiore, acero montano, acero riccio.
 - Ruolo nel bosco: ippocastano e platano (specie coltivate).
+- Lotto 3 — ramificazione: biancospino. Ruolo nel bosco: salice piangente, sorbo domestico, noce, gelso bianco.
+  Età massima: pioppo bianco, pioppo nero, salice bianco, salice piangente, ciliegio, sorbo domestico,
+  biancospino, noce, gelso bianco.
 
 
 - [ ] **Passaggio all'indirizzo corto:** esportare il backup del Taccuino, installare l'app da
       https://mufogliash.github.io/parco-capello/ e disinstallare la vecchia (quella con /dist/).
-- [ ] Foto mancanti: portamento estivo dell'olmo campestre (c'è solo quello invernale); gemme di leccio e pino domestico.
+- [ ] Foto mancanti: gemme del pino domestico; foglia del noce; corteccia del salice bianco; gemme del gelso bianco.
+      Portamento estivo di pioppo tremolo e ciliegio (le candidate erano cultivar, altre specie o foto invernali).
 - [ ] Foto fornite dall'utente (v0.4.1): indicare autore/fonte e licenza, soprattutto se il repository resta pubblico.
-- [ ] Fase 2: lotti 3 → 6, poi le aggiunte proposte (lotto 7). Lotti 1 e 2 fatti.
+- [ ] Fase 2: lotti 4 → 6, poi le aggiunte proposte (lotto 7). Lotti 1, 2 e 3 fatti.
 - [ ] Fase 3: organi corteccia, rami, radici, gemme, portamento; altri 8-10 segnali del paesaggio; disegni del glossario.
 - [ ] Da valutare dopo il test: modalità inverno nell'identificazione (gemme e sagome), confronto dalla sezione Organi.
 
 ---
+
+## 0.6.0 · 2026-09-25 · Lotto 3
+
+- **11 nuove schede (bozza):** pioppo bianco, pioppo nero, pioppo tremolo, salice bianco, salice piangente, ciliegio,
+  sorbo degli uccellatori, sorbo domestico, biancospino, noce, gelso bianco. Totale 35 specie.
+- **11 curiosità** in più (totale 61).
+- **Foto nuove** per le 11 specie, più le gemme del leccio e il portamento estivo dell'olmo campestre (un grande olmo in Romania, in piena estate).
+  Scartate: gelso 'Fruitless' (cultivar), piantine appena nate spacciate per frutti, tronchi caduti, foto di pioppi non
+  identificati o di altre specie (una "corteccia di pioppo nero" era di pioppo tremolo).
+- **Script foto:** corretto un errore per cui la foto principale di Wikipedia veniva scartata se il nome del file
+  conteneva spazi (quasi sempre); per il portamento ora fa anche una ricerca mirata e tiene fino a 6 candidate.
 
 ## 0.5.0 · 2026-09-25 · Pubblicazione con git, foto in ordine
 

@@ -1,0 +1,197 @@
+{
+  "id": "crataegus-monogyna",
+  "nome_comune": "Biancospino",
+  "nome_scientifico": "Crataegus monogyna",
+  "famiglia": "Rosaceae",
+  "genere": "Crataegus",
+  "sinonimi": [
+    "Biancospino comune",
+    "Azzeruolo selvatico"
+  ],
+  "nomi_locali": [],
+  "stato": "bozza",
+  "aggiornato": "2026-09-25",
+  "chiave": {
+    "gruppo": "latifoglia",
+    "persistenza": "caduca",
+    "foglia_tipo": "semplice",
+    "foglia_disposizione": "alterna",
+    "foglia_margine": [
+      "lobato"
+    ],
+    "foglia_forma": [
+      "obovata"
+    ],
+    "frutto": "pomo",
+    "corteccia_texture": [
+      "liscia",
+      "squamosa"
+    ],
+    "habitat": [
+      "planiziale",
+      "collinare",
+      "montano"
+    ],
+    "altitudine_m": [
+      0,
+      1500
+    ],
+    "ramificazione": "non_accertata",
+    "ruolo_ecologico": [
+      "colonizzatrice"
+    ],
+    "luce": "eliofila"
+  },
+  "tratti_chiave": [
+    "Arbusto o piccolo albero con rami spinosi (spine dritte di 1-2 cm)",
+    "Foglia piccola profondamente incisa in 3-7 lobi",
+    "A maggio coperto di fiori bianchi; in autunno piccoli frutti rossi con un solo nocciolo"
+  ],
+  "origine": {
+    "stato": "autoctona",
+    "note": ""
+  },
+  "foglie": {
+    "tipo": "semplice",
+    "disposizione": "alterna, a ciuffi sui rametti corti",
+    "forma": "obovata, 2-5 cm, profondamente divisa in 3-7 lobi",
+    "margine": "lobato, con lobi dentati in punta",
+    "venatura": "pennata",
+    "colore_stagionale": {
+      "primavera_estate": "verde scuro lucido sopra, più chiara sotto",
+      "autunno": "giallo-arancio o rossastro"
+    },
+    "descrizione": ""
+  },
+  "corteccia": {
+    "colore": "grigio-bruno",
+    "texture": "liscia da giovane, poi screpolata in piccole scaglie",
+    "evoluzione_con_eta": "i tronchi vecchi si fessurano e diventano spesso contorti",
+    "descrizione": ""
+  },
+  "rami_e_portamento": {
+    "disposizione_rami": "alterna; rami fitti, intricati e spinosi",
+    "angolo_di_crescita": "rami ascendenti e poi arcuati",
+    "forma_chioma": "densa e irregolare",
+    "silhouette_invernale": "cespuglio intricato e spinoso o piccolo albero dal tronco contorto",
+    "descrizione": "Pianta tipica delle siepi campestri, perché i rami spinosi le rendono impenetrabili.",
+    "ramificazione": "Dato non accertato: le fonti consultate non permettono di dire con sicurezza se i rametti siano monopodiali o simpodiali."
+  },
+  "gemme": {
+    "forma": "piccole, tondeggianti",
+    "colore": "bruno-rossastre, lucide",
+    "disposizione": "alterne; spesso accanto a una spina",
+    "descrizione": ""
+  },
+  "fiori_e_frutti": {
+    "tipo_fiore": "fiori bianchi a 5 petali, profumati, in corimbi; un solo stilo al centro",
+    "periodo_fioritura": "aprile-maggio",
+    "tipo_frutto": "piccolo pomo rosso scuro di circa 1 cm con un solo nocciolo",
+    "periodo_fruttificazione": "settembre-ottobre",
+    "descrizione": "Il nome monogyna indica il solo stilo nel fiore e il solo nocciolo nel frutto."
+  },
+  "dimensioni": {
+    "altezza_tipica_m": [
+      3,
+      8
+    ],
+    "altezza_max_m": 12,
+    "eta_massima_anni": null,
+    "note": "Età massima non accertata; è considerato longevo e si citano biancospini plurisecolari."
+  },
+  "habitat_e_distribuzione": {
+    "regioni_italia": [
+      "Tutta Italia, in siepi, margini, boschi radi, pascoli"
+    ],
+    "altitudine": "0-1500 m",
+    "terreno_preferito": "si adatta a quasi tutti i suoli, anche poveri e calcarei",
+    "descrizione": "Una delle piante più comuni delle siepi e dei margini dei boschi."
+  },
+  "ecologia": {
+    "descrizione": "Invade pascoli e prati abbandonati insieme a prugnolo e rosa canina; i suoi cespugli spinosi proteggono le giovani piantine di querce e altri alberi dal morso degli animali."
+  },
+  "stagionalita": {
+    "primavera": "Fioritura bianca e profumata (aprile-maggio).",
+    "estate": "Frutti verdi che diventano rossi.",
+    "autunno": "Siepi punteggiate di frutti rossi, cibo per gli uccelli.",
+    "inverno": "Rami spinosi e intricati; frutti rossi che restano sui rami."
+  },
+  "specie_simili": [],
+  "commestibilita": {
+    "parti": "frutti",
+    "note": "I frutti maturi sono commestibili, farinosi e poco saporiti; si usano per marmellate e gelatine.",
+    "avvertenze": "Non ingerire i noccioli. Fiori e foglie sono usati in erboristeria per il cuore: non usarli se assumi farmaci per il cuore senza parere del medico."
+  },
+  "tossicita": {
+    "livello": "bassa",
+    "parti": "semi",
+    "note": "I semi contengono piccole quantità di sostanze cianogeniche; innocui se non masticati in quantità."
+  },
+  "curiosita_e_usi": "Esiste anche il biancospino selvatico (Crataegus laevigata), con foglie meno incise, 2-3 stili e 2-3 noccioli; le due specie si ibridano. Il legno durissimo serviva per manici e bastoni.",
+  "immagini": [
+    {
+      "tipo": "foglia",
+      "file": "img/crataegus-monogyna-foglia.jpg",
+      "fonte": "Wikimedia Commons",
+      "autore": "Hladac",
+      "licenza": "CC BY-SA 4.0",
+      "url_originale": "https://commons.wikimedia.org/wiki/File:(ms)_Crataegus_monogyna_2.jpg",
+      "titolo_originale": "(ms) Crataegus monogyna 2.jpg"
+    },
+    {
+      "tipo": "corteccia",
+      "file": "img/crataegus-monogyna-corteccia.jpg",
+      "fonte": "Wikimedia Commons",
+      "autore": "AnRo0002",
+      "licenza": "CC0",
+      "url_originale": "https://commons.wikimedia.org/wiki/File:20140216Weissdorn_Neulussheim2.jpg",
+      "titolo_originale": "20140216Weissdorn Neulussheim2.jpg"
+    },
+    {
+      "tipo": "fiore_o_frutto",
+      "file": "img/crataegus-monogyna-fiore_o_frutto.jpg",
+      "fonte": "Wikimedia Commons",
+      "autore": "Didier Descouens",
+      "licenza": "CC BY-SA 4.0",
+      "url_originale": "https://commons.wikimedia.org/wiki/File:(MHNT)_Crataegus_monogyna_-_flowers_and_buds.jpg",
+      "titolo_originale": "(MHNT) Crataegus monogyna - flowers and buds.jpg"
+    },
+    {
+      "tipo": "gemme",
+      "file": "img/crataegus-monogyna-gemme.jpg",
+      "fonte": "Wikimedia Commons",
+      "autore": "AnRo0002",
+      "licenza": "CC0",
+      "url_originale": "https://commons.wikimedia.org/wiki/File:20140216Crataegus_monogyna3.jpg",
+      "titolo_originale": "20140216Crataegus monogyna3.jpg"
+    },
+    {
+      "tipo": "silhouette",
+      "file": "img/crataegus-monogyna-silhouette.jpg",
+      "fonte": "Wikimedia Commons",
+      "autore": "Roger Smith",
+      "licenza": "CC BY-SA 2.0",
+      "url_originale": "https://commons.wikimedia.org/wiki/File:Lone_hawthorn_-_geograph.org.uk_-_1386386.jpg",
+      "titolo_originale": "Lone hawthorn - geograph.org.uk - 1386386.jpg"
+    },
+    {
+      "tipo": "fiore_o_frutto",
+      "file": "img/crataegus-monogyna-fiore_o_frutto-2.jpg",
+      "fonte": "Wikimedia Commons",
+      "autore": "Elstro",
+      "licenza": "CC BY 3.0",
+      "url_originale": "https://commons.wikimedia.org/wiki/File:Hawthorn_fruit.JPG",
+      "titolo_originale": "Hawthorn fruit.JPG"
+    }
+  ],
+  "fonti": [
+    {
+      "titolo": "Crataegus monogyna – Wikipedia (it)",
+      "url": "https://it.wikipedia.org/wiki/Crataegus_monogyna"
+    },
+    {
+      "titolo": "Crataegus monogyna – Wikipedia (en)",
+      "url": "https://en.wikipedia.org/wiki/Crataegus_monogyna"
+    }
+  ]
+}

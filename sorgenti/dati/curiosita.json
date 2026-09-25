@@ -300,6 +300,89 @@
         "tilia-platyphyllos"
       ],
       "stagione": "autunno"
+    },
+    {
+      "id": "c051",
+      "testo": "Il «cotone» che vola a maggio e giugno non è polline: sono i semi di pioppi e salici, ciascuno con un ciuffo di peli che lo fa viaggiare col vento.",
+      "specie": [
+        "populus-alba",
+        "populus-nigra",
+        "salix-alba"
+      ],
+      "stagione": "primavera"
+    },
+    {
+      "id": "c052",
+      "testo": "Il pioppo tremulo trema al minimo soffio perché il picciolo delle foglie è appiattito di lato: la foglia ruota come una banderuola.",
+      "specie": [
+        "populus-tremula"
+      ]
+    },
+    {
+      "id": "c053",
+      "testo": "Un boschetto di pioppi tremuli può essere un unico individuo: le piante nascono dalle radici di una sola madre e sono geneticamente identiche.",
+      "specie": [
+        "populus-tremula"
+      ]
+    },
+    {
+      "id": "c054",
+      "testo": "Il pioppo cipressino, colonnare, dei filari padani è un clone maschile del pioppo nero, moltiplicato per talea da secoli.",
+      "specie": [
+        "populus-nigra"
+      ]
+    },
+    {
+      "id": "c055",
+      "testo": "Dalla salicina della corteccia del salice si è arrivati, nell'Ottocento, all'acido acetilsalicilico, cioè l'aspirina.",
+      "specie": [
+        "salix-alba"
+      ]
+    },
+    {
+      "id": "c056",
+      "testo": "Il ciliegio selvatico ha due piccole ghiandole rosse sul picciolo: producono nettare per attirare le formiche, che difendono le foglie dagli insetti.",
+      "specie": [
+        "prunus-avium"
+      ]
+    },
+    {
+      "id": "c057",
+      "testo": "Tagliando per il lungo un rametto di noce si vede il midollo diviso in tante piccole camere, come una scala: un segno unico per riconoscerlo d'inverno.",
+      "specie": [
+        "juglans-regia"
+      ],
+      "stagione": "inverno"
+    },
+    {
+      "id": "c058",
+      "testo": "«Col tempo e con la paglia maturano le sorbe»: le sorbe si raccolgono dure e diventano dolci solo dopo settimane sulla paglia.",
+      "specie": [
+        "sorbus-domestica"
+      ],
+      "stagione": "autunno"
+    },
+    {
+      "id": "c059",
+      "testo": "Le bacche del sorbo degli uccellatori erano usate come esca per catturare gli uccelli: da qui il nome aucuparia, da aucupium, uccellagione.",
+      "specie": [
+        "sorbus-aucuparia"
+      ],
+      "stagione": "autunno"
+    },
+    {
+      "id": "c060",
+      "testo": "I filari di gelsi capitozzati ai bordi dei campi padani sono ciò che resta dell'allevamento dei bachi da seta, che si nutrono solo delle loro foglie.",
+      "specie": [
+        "morus-alba"
+      ]
+    },
+    {
+      "id": "c061",
+      "testo": "Le siepi di biancospino e rovo fanno da «nursery» del bosco: tra le spine le giovani querce crescono protette dal morso di caprioli e animali al pascolo.",
+      "specie": [
+        "crataegus-monogyna"
+      ]
     }
   ]
 }

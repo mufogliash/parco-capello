@@ -1,23 +1,4 @@
 {
   "_nota": "Elenco delle specie per cui cercare foto candidate. Basta l'id (il nome scientifico viene preso da dati/elenco-specie.json). Per cercare solo alcuni tipi: {\"id\": \"ulmus-minor\", \"tipi\": [\"silhouette\"]}. Tipi: silhouette, foglia, corteccia, fiore_o_frutto, gemme. Quando le foto sono state scelte, svuota l'elenco.",
-  "specie": [
-    {
-      "id": "ulmus-minor",
-      "tipi": [
-        "silhouette"
-      ]
-    },
-    {
-      "id": "quercus-ilex",
-      "tipi": [
-        "gemme"
-      ]
-    },
-    {
-      "id": "pinus-pinea",
-      "tipi": [
-        "gemme"
-      ]
-    }
-  ]
+  "specie": []
 }

@@ -1017,6 +1017,203 @@
    ]
   },
   {
+   "id": "crataegus-monogyna",
+   "nome_comune": "Biancospino",
+   "nome_scientifico": "Crataegus monogyna",
+   "famiglia": "Rosaceae",
+   "genere": "Crataegus",
+   "sinonimi": [
+    "Biancospino comune",
+    "Azzeruolo selvatico"
+   ],
+   "nomi_locali": [],
+   "stato": "bozza",
+   "aggiornato": "2026-09-25",
+   "chiave": {
+    "gruppo": "latifoglia",
+    "persistenza": "caduca",
+    "foglia_tipo": "semplice",
+    "foglia_disposizione": "alterna",
+    "foglia_margine": [
+     "lobato"
+    ],
+    "foglia_forma": [
+     "obovata"
+    ],
+    "frutto": "pomo",
+    "corteccia_texture": [
+     "liscia",
+     "squamosa"
+    ],
+    "habitat": [
+     "planiziale",
+     "collinare",
+     "montano"
+    ],
+    "altitudine_m": [
+     0,
+     1500
+    ],
+    "ramificazione": "non_accertata",
+    "ruolo_ecologico": [
+     "colonizzatrice"
+    ],
+    "luce": "eliofila"
+   },
+   "tratti_chiave": [
+    "Arbusto o piccolo albero con rami spinosi (spine dritte di 1-2 cm)",
+    "Foglia piccola profondamente incisa in 3-7 lobi",
+    "A maggio coperto di fiori bianchi; in autunno piccoli frutti rossi con un solo nocciolo"
+   ],
+   "origine": {
+    "stato": "autoctona",
+    "note": ""
+   },
+   "foglie": {
+    "tipo": "semplice",
+    "disposizione": "alterna, a ciuffi sui rametti corti",
+    "forma": "obovata, 2-5 cm, profondamente divisa in 3-7 lobi",
+    "margine": "lobato, con lobi dentati in punta",
+    "venatura": "pennata",
+    "colore_stagionale": {
+     "primavera_estate": "verde scuro lucido sopra, più chiara sotto",
+     "autunno": "giallo-arancio o rossastro"
+    },
+    "descrizione": ""
+   },
+   "corteccia": {
+    "colore": "grigio-bruno",
+    "texture": "liscia da giovane, poi screpolata in piccole scaglie",
+    "evoluzione_con_eta": "i tronchi vecchi si fessurano e diventano spesso contorti",
+    "descrizione": ""
+   },
+   "rami_e_portamento": {
+    "disposizione_rami": "alterna; rami fitti, intricati e spinosi",
+    "angolo_di_crescita": "rami ascendenti e poi arcuati",
+    "forma_chioma": "densa e irregolare",
+    "silhouette_invernale": "cespuglio intricato e spinoso o piccolo albero dal tronco contorto",
+    "descrizione": "Pianta tipica delle siepi campestri, perché i rami spinosi le rendono impenetrabili.",
+    "ramificazione": "Dato non accertato: le fonti consultate non permettono di dire con sicurezza se i rametti siano monopodiali o simpodiali."
+   },
+   "gemme": {
+    "forma": "piccole, tondeggianti",
+    "colore": "bruno-rossastre, lucide",
+    "disposizione": "alterne; spesso accanto a una spina",
+    "descrizione": ""
+   },
+   "fiori_e_frutti": {
+    "tipo_fiore": "fiori bianchi a 5 petali, profumati, in corimbi; un solo stilo al centro",
+    "periodo_fioritura": "aprile-maggio",
+    "tipo_frutto": "piccolo pomo rosso scuro di circa 1 cm con un solo nocciolo",
+    "periodo_fruttificazione": "settembre-ottobre",
+    "descrizione": "Il nome monogyna indica il solo stilo nel fiore e il solo nocciolo nel frutto."
+   },
+   "dimensioni": {
+    "altezza_tipica_m": [
+     3,
+     8
+    ],
+    "altezza_max_m": 12,
+    "eta_massima_anni": null,
+    "note": "Età massima non accertata; è considerato longevo e si citano biancospini plurisecolari."
+   },
+   "habitat_e_distribuzione": {
+    "regioni_italia": [
+     "Tutta Italia, in siepi, margini, boschi radi, pascoli"
+    ],
+    "altitudine": "0-1500 m",
+    "terreno_preferito": "si adatta a quasi tutti i suoli, anche poveri e calcarei",
+    "descrizione": "Una delle piante più comuni delle siepi e dei margini dei boschi."
+   },
+   "ecologia": {
+    "descrizione": "Invade pascoli e prati abbandonati insieme a prugnolo e rosa canina; i suoi cespugli spinosi proteggono le giovani piantine di querce e altri alberi dal morso degli animali."
+   },
+   "stagionalita": {
+    "primavera": "Fioritura bianca e profumata (aprile-maggio).",
+    "estate": "Frutti verdi che diventano rossi.",
+    "autunno": "Siepi punteggiate di frutti rossi, cibo per gli uccelli.",
+    "inverno": "Rami spinosi e intricati; frutti rossi che restano sui rami."
+   },
+   "specie_simili": [],
+   "commestibilita": {
+    "parti": "frutti",
+    "note": "I frutti maturi sono commestibili, farinosi e poco saporiti; si usano per marmellate e gelatine.",
+    "avvertenze": "Non ingerire i noccioli. Fiori e foglie sono usati in erboristeria per il cuore: non usarli se assumi farmaci per il cuore senza parere del medico."
+   },
+   "tossicita": {
+    "livello": "bassa",
+    "parti": "semi",
+    "note": "I semi contengono piccole quantità di sostanze cianogeniche; innocui se non masticati in quantità."
+   },
+   "curiosita_e_usi": "Esiste anche il biancospino selvatico (Crataegus laevigata), con foglie meno incise, 2-3 stili e 2-3 noccioli; le due specie si ibridano. Il legno durissimo serviva per manici e bastoni.",
+   "immagini": [
+    {
+     "tipo": "silhouette",
+     "file": "img/crataegus-monogyna-silhouette.jpg",
+     "fonte": "Wikimedia Commons",
+     "autore": "Roger Smith",
+     "licenza": "CC BY-SA 2.0",
+     "url_originale": "https://commons.wikimedia.org/wiki/File:Lone_hawthorn_-_geograph.org.uk_-_1386386.jpg",
+     "titolo_originale": "Lone hawthorn - geograph.org.uk - 1386386.jpg"
+    },
+    {
+     "tipo": "foglia",
+     "file": "img/crataegus-monogyna-foglia.jpg",
+     "fonte": "Wikimedia Commons",
+     "autore": "Hladac",
+     "licenza": "CC BY-SA 4.0",
+     "url_originale": "https://commons.wikimedia.org/wiki/File:(ms)_Crataegus_monogyna_2.jpg",
+     "titolo_originale": "(ms) Crataegus monogyna 2.jpg"
+    },
+    {
+     "tipo": "fiore_o_frutto",
+     "file": "img/crataegus-monogyna-fiore_o_frutto.jpg",
+     "fonte": "Wikimedia Commons",
+     "autore": "Didier Descouens",
+     "licenza": "CC BY-SA 4.0",
+     "url_originale": "https://commons.wikimedia.org/wiki/File:(MHNT)_Crataegus_monogyna_-_flowers_and_buds.jpg",
+     "titolo_originale": "(MHNT) Crataegus monogyna - flowers and buds.jpg"
+    },
+    {
+     "tipo": "fiore_o_frutto",
+     "file": "img/crataegus-monogyna-fiore_o_frutto-2.jpg",
+     "fonte": "Wikimedia Commons",
+     "autore": "Elstro",
+     "licenza": "CC BY 3.0",
+     "url_originale": "https://commons.wikimedia.org/wiki/File:Hawthorn_fruit.JPG",
+     "titolo_originale": "Hawthorn fruit.JPG"
+    },
+    {
+     "tipo": "corteccia",
+     "file": "img/crataegus-monogyna-corteccia.jpg",
+     "fonte": "Wikimedia Commons",
+     "autore": "AnRo0002",
+     "licenza": "CC0",
+     "url_originale": "https://commons.wikimedia.org/wiki/File:20140216Weissdorn_Neulussheim2.jpg",
+     "titolo_originale": "20140216Weissdorn Neulussheim2.jpg"
+    },
+    {
+     "tipo": "gemme",
+     "file": "img/crataegus-monogyna-gemme.jpg",
+     "fonte": "Wikimedia Commons",
+     "autore": "AnRo0002",
+     "licenza": "CC0",
+     "url_originale": "https://commons.wikimedia.org/wiki/File:20140216Crataegus_monogyna3.jpg",
+     "titolo_originale": "20140216Crataegus monogyna3.jpg"
+    }
+   ],
+   "fonti": [
+    {
+     "titolo": "Crataegus monogyna – Wikipedia (it)",
+     "url": "https://it.wikipedia.org/wiki/Crataegus_monogyna"
+    },
+    {
+     "titolo": "Crataegus monogyna – Wikipedia (en)",
+     "url": "https://en.wikipedia.org/wiki/Crataegus_monogyna"
+    }
+   ]
+  },
+  {
    "id": "carpinus-betulus",
    "nome_comune": "Carpino bianco",
    "nome_scientifico": "Carpinus betulus",
@@ -1813,6 +2010,206 @@
    ]
   },
   {
+   "id": "prunus-avium",
+   "nome_comune": "Ciliegio selvatico",
+   "nome_scientifico": "Prunus avium",
+   "famiglia": "Rosaceae",
+   "genere": "Prunus",
+   "sinonimi": [
+    "Ciliegio",
+    "Visciolo (impropriamente)"
+   ],
+   "nomi_locali": [],
+   "stato": "bozza",
+   "aggiornato": "2026-09-25",
+   "chiave": {
+    "gruppo": "latifoglia",
+    "persistenza": "caduca",
+    "foglia_tipo": "semplice",
+    "foglia_disposizione": "alterna",
+    "foglia_margine": [
+     "seghettato",
+     "doppiamente_seghettato"
+    ],
+    "foglia_forma": [
+     "obovata",
+     "ellittica"
+    ],
+    "frutto": "drupa",
+    "corteccia_texture": [
+     "liscia",
+     "lenticelle_orizzontali",
+     "desquamante"
+    ],
+    "habitat": [
+     "collinare",
+     "montano",
+     "planiziale"
+    ],
+    "altitudine_m": [
+     0,
+     1500
+    ],
+    "ramificazione": "monopodiale",
+    "ruolo_ecologico": [
+     "colonizzatrice"
+    ],
+    "luce": "semisciafila"
+   },
+   "tratti_chiave": [
+    "Corteccia bruno-rossastra lucida, con linee orizzontali, che si stacca a strisce ad anello",
+    "Due piccole ghiandole rosse sul picciolo, subito sotto la foglia",
+    "Fiori bianchi in mazzetti ad aprile, spesso prima delle foglie; piccole ciliegie rosso scuro a giugno"
+   ],
+   "origine": {
+    "stato": "autoctona",
+    "note": ""
+   },
+   "foglie": {
+    "tipo": "semplice",
+    "disposizione": "alterna, spesso a ciuffi sui rametti corti",
+    "forma": "obovata-ellittica, 7-15 cm, con punta breve",
+    "margine": "seghettato o doppiamente seghettato, a denti arrotondati",
+    "venatura": "pennata",
+    "colore_stagionale": {
+     "primavera_estate": "verde opaco, un po' rugosa, leggermente pelosa sotto sulle nervature; picciolo con 2 ghiandole rossastre",
+     "autunno": "giallo, arancio e rosso vivo"
+    },
+    "descrizione": "Le due ghiandole sul picciolo (nettàri extrafiorali) attirano le formiche, che difendono la pianta dagli insetti che mangiano le foglie."
+   },
+   "corteccia": {
+    "colore": "bruno-rossastro o grigio-violaceo, lucido",
+    "texture": "liscia, con lenticelle allungate in orizzontale; si stacca in strisce sottili che girano attorno al tronco",
+    "evoluzione_con_eta": "sui tronchi vecchi diventa più scura e fessurata alla base",
+    "descrizione": "Una delle cortecce più facili da riconoscere: lucida, a bande orizzontali, come nastro arrotolato."
+   },
+   "rami_e_portamento": {
+    "disposizione_rami": "alterna; rami in palchi abbastanza regolari; rametti corti (brachiblasti) fitti di cicatrici",
+    "angolo_di_crescita": "branche ascendenti",
+    "forma_chioma": "ovale-conica da giovane, poi tondeggiante",
+    "silhouette_invernale": "fusto diritto e lucido con rami in palchi; rametti corti con ciuffi di gemme",
+    "descrizione": "In bosco forma fusti alti e diritti, apprezzati per il legno.",
+    "ramificazione": "Rametti con gemma terminale vera (monopodiali) e rametti corti che portano fiori e foglie."
+   },
+   "gemme": {
+    "forma": "ovoidali, appuntite",
+    "colore": "bruno-rossastre, lucide",
+    "disposizione": "alterne; a ciuffi all'apice dei rametti corti",
+    "descrizione": "Le gemme a fiore, più grosse e tondeggianti, si riconoscono già in inverno."
+   },
+   "fiori_e_frutti": {
+    "tipo_fiore": "fiori bianchi a 5 petali, 2-3 cm, in ombrelle di 2-6 su lunghi peduncoli",
+    "periodo_fioritura": "aprile, prima o insieme alle foglie",
+    "tipo_frutto": "drupa (ciliegia) di circa 1 cm, rosso scuro o nerastra, su lungo peduncolo",
+    "periodo_fruttificazione": "giugno",
+    "descrizione": "Le ciliegie selvatiche sono piccole e un po' amarognole; gli uccelli le mangiano e ne disperdono i noccioli."
+   },
+   "dimensioni": {
+    "altezza_tipica_m": [
+     15,
+     25
+    ],
+    "altezza_max_m": 30,
+    "eta_massima_anni": null,
+    "note": "Età massima non accertata; in genere vive circa 100 anni."
+   },
+   "habitat_e_distribuzione": {
+    "regioni_italia": [
+     "Tutta Italia, in boschi misti di latifoglie di collina e bassa montagna, margini e siepi"
+    ],
+    "altitudine": "0-1500 m",
+    "terreno_preferito": "fresco, profondo e fertile; evita i ristagni",
+    "descrizione": "Sparso nei boschi di querce, carpini, castagni e faggi, raramente in gruppi."
+   },
+   "ecologia": {
+    "descrizione": "Tollera un po' d'ombra da giovane; gli uccelli ne portano i semi in radure, siepi e margini, dove si insedia facilmente."
+   },
+   "stagionalita": {
+    "primavera": "Fioritura bianca ad aprile, spesso prima delle foglie.",
+    "estate": "Ciliegie rosso scuro a giugno.",
+    "autunno": "Foglie giallo-arancio-rosse tra le più vivaci.",
+    "inverno": "Corteccia lucida a bande orizzontali; ciuffi di gemme sui rametti corti."
+   },
+   "specie_simili": [
+    {
+     "id_specie": "pyrus-pyraster",
+     "come_distinguere": "Il pero selvatico ha corteccia grigia fessurata a piccole placche, rami spesso spinosi e frutti a pera."
+    },
+    {
+     "id_specie": "malus-sylvestris",
+     "come_distinguere": "Il melo selvatico ha corteccia grigio-bruna a scaglie, fiori bianco-rosati e piccole mele."
+    }
+   ],
+   "commestibilita": {
+    "parti": "frutti (ciliegie)",
+    "note": "Le ciliegie selvatiche si mangiano crude, in marmellata o per liquori; sono più piccole e aspre di quelle coltivate.",
+    "avvertenze": "Non masticare né ingerire i noccioli: il seme contiene sostanze che liberano cianuro."
+   },
+   "tossicita": {
+    "livello": "bassa",
+    "parti": "semi (dentro il nocciolo), foglie appassite, corteccia",
+    "note": "Contengono glicosidi cianogenici: pericolosi solo se ingeriti in quantità; le foglie appassite sono tossiche per il bestiame."
+   },
+   "curiosita_e_usi": "Il legno di ciliegio, rosato e compatto, è tra i più pregiati per mobili e strumenti. È il capostipite delle ciliegie dolci coltivate. Dalla corteccia cola spesso una gomma ambrata.",
+   "immagini": [
+    {
+     "tipo": "foglia",
+     "file": "img/prunus-avium-foglia.jpg",
+     "fonte": "Wikimedia Commons",
+     "autore": "Jerzy Opioła",
+     "licenza": "CC BY-SA 4.0",
+     "url_originale": "https://commons.wikimedia.org/wiki/File:Blumeriella_jaapi_a1_(2).jpg",
+     "titolo_originale": "Blumeriella jaapi a1 (2).jpg"
+    },
+    {
+     "tipo": "fiore_o_frutto",
+     "file": "img/prunus-avium-fiore_o_frutto.jpg",
+     "fonte": "Wikimedia Commons",
+     "autore": "AnRo0002",
+     "licenza": "CC0",
+     "url_originale": "https://commons.wikimedia.org/wiki/File:20260308Prunus_avium4.jpg",
+     "titolo_originale": "20260308Prunus avium4.jpg"
+    },
+    {
+     "tipo": "fiore_o_frutto",
+     "file": "img/prunus-avium-fiore_o_frutto-2.jpg",
+     "fonte": "Wikimedia Commons",
+     "autore": "MPF",
+     "licenza": "CC BY 2.5",
+     "url_originale": "https://commons.wikimedia.org/wiki/File:Prunus_avium_fruit.jpg",
+     "titolo_originale": "Prunus avium fruit.jpg"
+    },
+    {
+     "tipo": "corteccia",
+     "file": "img/prunus-avium-corteccia.jpg",
+     "fonte": "Wikimedia Commons",
+     "autore": "AnRo0002",
+     "licenza": "CC0",
+     "url_originale": "https://commons.wikimedia.org/wiki/File:20200619Prunus_avium3.jpg",
+     "titolo_originale": "20200619Prunus avium3.jpg"
+    },
+    {
+     "tipo": "gemme",
+     "file": "img/prunus-avium-gemme.jpg",
+     "fonte": "Wikimedia Commons",
+     "autore": "AnRo0002",
+     "licenza": "CC0",
+     "url_originale": "https://commons.wikimedia.org/wiki/File:20140318Prunus_avium2.jpg",
+     "titolo_originale": "20140318Prunus avium2.jpg"
+    }
+   ],
+   "fonti": [
+    {
+     "titolo": "Prunus avium – Wikipedia (it)",
+     "url": "https://it.wikipedia.org/wiki/Prunus_avium"
+    },
+    {
+     "titolo": "Prunus avium – Wikipedia (en)",
+     "url": "https://en.wikipedia.org/wiki/Prunus_avium"
+    }
+   ]
+  },
+  {
    "id": "fagus-sylvatica",
    "nome_comune": "Faggio",
    "nome_scientifico": "Fagus sylvatica",
@@ -2357,6 +2754,14 @@
     {
      "id_specie": "sorbus-aucuparia",
      "come_distinguere": "Il sorbo degli uccellatori ha foglie composte simili ma alterne, fiori bianchi e bacche rosse."
+    },
+    {
+     "id_specie": "juglans-regia",
+     "come_distinguere": "Il noce ha foglie composte alterne con foglioline a margine intero, profumate, e gemme grigio-scure vellutate."
+    },
+    {
+     "id_specie": "sorbus-domestica",
+     "come_distinguere": "Il sorbo domestico ha foglie composte alterne, gemme verdi appiccicose e frutti a piccola pera."
     }
    ],
    "commestibilita": {
@@ -2424,6 +2829,192 @@
     {
      "titolo": "Fraxinus excelsior – Wikipedia (en)",
      "url": "https://en.wikipedia.org/wiki/Fraxinus_excelsior"
+    }
+   ]
+  },
+  {
+   "id": "morus-alba",
+   "nome_comune": "Gelso bianco",
+   "nome_scientifico": "Morus alba",
+   "famiglia": "Moraceae",
+   "genere": "Morus",
+   "sinonimi": [
+    "Moro",
+    "Moro bianco"
+   ],
+   "nomi_locali": [],
+   "stato": "bozza",
+   "aggiornato": "2026-09-25",
+   "chiave": {
+    "gruppo": "latifoglia",
+    "persistenza": "caduca",
+    "foglia_tipo": "semplice",
+    "foglia_disposizione": "alterna",
+    "foglia_margine": [
+     "seghettato",
+     "lobato"
+    ],
+    "foglia_forma": [
+     "cordata",
+     "ovata"
+    ],
+    "frutto": "infruttescenza",
+    "corteccia_texture": [
+     "fessurata"
+    ],
+    "habitat": [
+     "planiziale",
+     "collinare",
+     "urbano_parchi"
+    ],
+    "altitudine_m": [
+     0,
+     800
+    ],
+    "ramificazione": "simpodiale",
+    "ruolo_ecologico": [
+     "non_accertato"
+    ],
+    "luce": "eliofila"
+   },
+   "tratti_chiave": [
+    "Foglie molto variabili sulla stessa pianta: intere a cuore o profondamente lobate",
+    "Foglia liscia e lucida sopra (nel gelso nero è ruvida)",
+    "More bianche, rosa o viola a inizio estate; dai rametti spezzati esce un lattice bianco"
+   ],
+   "origine": {
+    "stato": "esotica_naturalizzata",
+    "note": "Originario della Cina; introdotto in Italia nel Quattrocento per allevare i bachi da seta."
+   },
+   "foglie": {
+    "tipo": "semplice",
+    "disposizione": "alterna",
+    "forma": "ovata o a cuore, 6-18 cm, intera o con 2-5 lobi anche sulla stessa pianta",
+    "margine": "seghettato, a denti arrotondati",
+    "venatura": "palmato-pennata",
+    "colore_stagionale": {
+     "primavera_estate": "verde chiaro, liscia e lucida sopra, un po' pelosa solo sulle nervature sotto",
+     "autunno": "giallo vivo"
+    },
+    "descrizione": "Le foglie lobate sono più frequenti sui polloni e sulle piante giovani."
+   },
+   "corteccia": {
+    "colore": "grigio-bruno, con sfumature arancio nelle fessure",
+    "texture": "fessurata in creste intrecciate",
+    "evoluzione_con_eta": "i tronchi dei gelsi capitozzati sono corti, grossi e nodosi",
+    "descrizione": ""
+   },
+   "rami_e_portamento": {
+    "disposizione_rami": "alterna; rametti grigio-bruni",
+    "angolo_di_crescita": "rami aperti",
+    "forma_chioma": "tondeggiante e ampia",
+    "silhouette_invernale": "nelle campagne spesso capitozzato: tronco corto con una testa di rami diritti",
+    "descrizione": "I filari di gelsi capitozzati ai bordi dei campi sono un segno del paesaggio padano legato alla seta.",
+    "ramificazione": "Rametti simpodiali: manca la gemma terminale vera."
+   },
+   "gemme": {
+    "forma": "piccole, triangolari",
+    "colore": "bruno-rossastre",
+    "disposizione": "alterne",
+    "descrizione": ""
+   },
+   "fiori_e_frutti": {
+    "tipo_fiore": "pianta di solito dioica o monoica; piccoli amenti verdastri",
+    "periodo_fioritura": "aprile-maggio",
+    "tipo_frutto": "infruttescenza (mora) di 1-2 cm, bianca, rosa o viola scuro",
+    "periodo_fruttificazione": "giugno-luglio",
+    "descrizione": "Nonostante il nome, le more del gelso bianco possono essere anche viola scuro: il nome viene dalle gemme e dai frutti chiari delle piante coltivate."
+   },
+   "dimensioni": {
+    "altezza_tipica_m": [
+     8,
+     15
+    ],
+    "altezza_max_m": 20,
+    "eta_massima_anni": null,
+    "note": "Età massima non accertata."
+   },
+   "habitat_e_distribuzione": {
+    "regioni_italia": [
+     "Tutta Italia in campagna, filari, argini, cortili; inselvatichito in incolti e lungo i fiumi",
+     "Nord: frequente nella Pianura Padana, un tempo coltivato ovunque per la seta"
+    ],
+    "altitudine": "0-800 m",
+    "terreno_preferito": "si adatta a molti suoli; tollera siccità e ambiente urbano",
+    "descrizione": "Oggi i vecchi gelsi sono in gran parte abbandonati; nuove piante nascono dai semi portati dagli uccelli."
+   },
+   "ecologia": {
+    "descrizione": "Specie esotica naturalizzata: ruolo nella successione non accertato. Si diffonde grazie agli uccelli in incolti e margini."
+   },
+   "stagionalita": {
+    "primavera": "Foglie nuove verde chiaro; piccoli amenti.",
+    "estate": "More mature a giugno-luglio.",
+    "autunno": "Foglie giallo vivo.",
+    "inverno": "Filari capitozzati; rametti con lattice."
+   },
+   "specie_simili": [
+    {
+     "id_specie": "morus-nigra",
+     "come_distinguere": "Il gelso nero ha foglie ruvide sopra e pelose sotto, picciolo corto e more nero-violacee acidule che macchiano molto."
+    }
+   ],
+   "commestibilita": {
+    "parti": "more",
+    "note": "Le more mature si mangiano crude o in marmellata; quelle bianche sono dolcissime e poco acide.",
+    "avvertenze": "Le more acerbe e il lattice possono dare disturbi allo stomaco e irritare la pelle."
+   },
+   "tossicita": {
+    "livello": "bassa",
+    "parti": "frutti acerbi, lattice",
+    "note": "Possono causare disturbi gastrointestinali; il polline è molto allergenico in primavera."
+   },
+   "curiosita_e_usi": "Con le sue foglie si nutrono i bachi da seta: in Pianura Padana ogni cascina aveva i suoi filari di gelsi. Il gelso è detto anche moro, da cui il cognome e molti toponimi.",
+   "immagini": [
+    {
+     "tipo": "silhouette",
+     "file": "img/morus-alba-silhouette.jpg",
+     "fonte": "Wikimedia Commons",
+     "autore": "Alena Hroncová",
+     "licenza": "CC BY-SA 4.0",
+     "url_originale": "https://commons.wikimedia.org/wiki/File:2015_Mulberry_tree_in_Senica_SK.jpg",
+     "titolo_originale": "2015 Mulberry tree in Senica SK.jpg"
+    },
+    {
+     "tipo": "foglia",
+     "file": "img/morus-alba-foglia.jpg",
+     "fonte": "Wikimedia Commons",
+     "autore": "Michał J",
+     "licenza": "CC BY-SA 4.0",
+     "url_originale": "https://commons.wikimedia.org/wiki/File:Atlas_roslin_pl_Morwa_bia%C5%82a_6868_7423.jpg",
+     "titolo_originale": "Atlas roslin pl Morwa biała 6868 7423.jpg"
+    },
+    {
+     "tipo": "fiore_o_frutto",
+     "file": "img/morus-alba-fiore_o_frutto.jpg",
+     "fonte": "Wikimedia Commons",
+     "autore": "Schurdl",
+     "licenza": "CC BY-SA 4.0",
+     "url_originale": "https://commons.wikimedia.org/wiki/File:Morus_alba_8622.jpg",
+     "titolo_originale": "Morus alba 8622.jpg"
+    },
+    {
+     "tipo": "corteccia",
+     "file": "img/morus-alba-corteccia.jpg",
+     "fonte": "Wikimedia Commons",
+     "autore": "Andre Abrahami",
+     "licenza": "CC BY-SA 2.5",
+     "url_originale": "https://commons.wikimedia.org/wiki/File:Morus_alba_bark.jpg",
+     "titolo_originale": "Morus alba bark.jpg"
+    }
+   ],
+   "fonti": [
+    {
+     "titolo": "Morus alba – Wikipedia (it)",
+     "url": "https://it.wikipedia.org/wiki/Morus_alba"
+    },
+    {
+     "titolo": "Morus alba – Wikipedia (en)",
+     "url": "https://en.wikipedia.org/wiki/Morus_alba"
     }
    ]
   },
@@ -2806,6 +3397,15 @@
      "licenza": "CC BY-SA 4.0",
      "url_originale": "https://commons.wikimedia.org/wiki/File:Quercus_ilex_D%C4%85b_ostrolistny_2021-06-09_02.jpg",
      "titolo_originale": "Quercus ilex Dąb ostrolistny 2021-06-09 02.jpg"
+    },
+    {
+     "tipo": "gemme",
+     "file": "img/quercus-ilex-gemme.jpg",
+     "fonte": "Wikimedia Commons",
+     "autore": "Vojtěch Zavadil",
+     "licenza": "CC BY-SA 3.0",
+     "url_originale": "https://commons.wikimedia.org/wiki/File:3164-Quercus_ilex-Arb.Brno-9.12.JPG",
+     "titolo_originale": "3164-Quercus ilex-Arb.Brno-9.12.JPG"
     }
    ],
    "fonti": [
@@ -3018,6 +3618,203 @@
    ]
   },
   {
+   "id": "juglans-regia",
+   "nome_comune": "Noce",
+   "nome_scientifico": "Juglans regia",
+   "famiglia": "Juglandaceae",
+   "genere": "Juglans",
+   "sinonimi": [
+    "Noce comune"
+   ],
+   "nomi_locali": [],
+   "stato": "bozza",
+   "aggiornato": "2026-09-25",
+   "chiave": {
+    "gruppo": "latifoglia",
+    "persistenza": "caduca",
+    "foglia_tipo": "composta_pennata",
+    "foglia_disposizione": "alterna",
+    "foglia_margine": [
+     "intero"
+    ],
+    "foglia_forma": [
+     "ellittica"
+    ],
+    "frutto": "noce",
+    "corteccia_texture": [
+     "liscia",
+     "fessurata"
+    ],
+    "habitat": [
+     "planiziale",
+     "collinare",
+     "urbano_parchi"
+    ],
+    "altitudine_m": [
+     0,
+     1200
+    ],
+    "ramificazione": "monopodiale",
+    "ruolo_ecologico": [
+     "non_accertato"
+    ],
+    "luce": "eliofila"
+   },
+   "tratti_chiave": [
+    "Foglie alterne composte da 5-9 foglioline a margine intero, profumate se strofinate",
+    "Midollo dei rametti diviso in camere (visibile tagliando il rametto per il lungo)",
+    "Frutto verde (mallo) che contiene la noce"
+   ],
+   "origine": {
+    "stato": "archeofita",
+    "note": "Originario dall'Asia centrale ai Balcani; coltivato in Italia dall'antichità e oggi naturalizzato."
+   },
+   "foglie": {
+    "tipo": "composta pennata",
+    "disposizione": "alterna",
+    "forma": "20-40 cm, con 5-9 foglioline ellittiche, la terminale più grande",
+    "margine": "intero",
+    "venatura": "pennata in ogni fogliolina",
+    "colore_stagionale": {
+     "primavera_estate": "verde scuro, glabra, con profumo aromatico se strofinata",
+     "autunno": "giallo-bruno, cadono presto"
+    },
+    "descrizione": "Le foglie contengono juglone, una sostanza che ostacola la crescita di molte piante sotto la chioma."
+   },
+   "corteccia": {
+    "colore": "grigio argento",
+    "texture": "liscia da giovane, poi profondamente fessurata in creste",
+    "evoluzione_con_eta": "con l'età si scurisce e si solca sempre di più",
+    "descrizione": ""
+   },
+   "rami_e_portamento": {
+    "disposizione_rami": "alterna; rametti robusti, verde-bruni, con grandi cicatrici fogliari",
+    "angolo_di_crescita": "branche robuste e aperte",
+    "forma_chioma": "ampia e tondeggiante",
+    "silhouette_invernale": "tronco grigio e chioma larga di rami grossi e radi",
+    "descrizione": "Tagliando un rametto per il lungo si vede il midollo diviso in piccole camere: un carattere unico tra gli alberi comuni.",
+    "ramificazione": "Rametti con gemma terminale vera (monopodiali)."
+   },
+   "gemme": {
+    "forma": "tondeggianti, con poche squame",
+    "colore": "grigio scuro o nerastre, vellutate",
+    "disposizione": "alterne; sopra la cicatrice fogliare a forma di scudo",
+    "descrizione": ""
+   },
+   "fiori_e_frutti": {
+    "tipo_fiore": "pianta monoica: amenti maschili penduli verdastri; fiori femminili piccoli in gruppetti all'apice dei rametti",
+    "periodo_fioritura": "aprile-maggio",
+    "tipo_frutto": "drupa verde (mallo) di 4-5 cm che contiene la noce legnosa",
+    "periodo_fruttificazione": "settembre-ottobre",
+    "descrizione": "Il mallo verde annerisce a maturità e si stacca; toccato macchia la pelle di bruno per giorni."
+   },
+   "dimensioni": {
+    "altezza_tipica_m": [
+     15,
+     25
+    ],
+    "altezza_max_m": 30,
+    "eta_massima_anni": null,
+    "note": "Età massima non accertata; noci di 150-200 anni sono documentati."
+   },
+   "habitat_e_distribuzione": {
+    "regioni_italia": [
+     "Tutta Italia, coltivato e naturalizzato in campagna, margini, boschi di forra"
+    ],
+    "altitudine": "0-1000 m, coltivato fino a circa 1200 m",
+    "terreno_preferito": "profondo, fresco e fertile",
+    "descrizione": "Molto comune vicino a cascine e coltivi; si trova anche nei boschi, dove lo portano cornacchie e scoiattoli."
+   },
+   "ecologia": {
+    "descrizione": "Specie coltivata e naturalizzata: da noi non ha un ruolo definito nella successione. Ama la luce e teme le gelate tardive."
+   },
+   "stagionalita": {
+    "primavera": "Foglie nuove bronzee e amenti penduli (aprile-maggio).",
+    "estate": "Noci verdi nel mallo.",
+    "autunno": "Raccolta delle noci; foglie che cadono presto.",
+    "inverno": "Rami grossi e radi, gemme scure vellutate, corteccia grigia."
+   },
+   "specie_simili": [
+    {
+     "id_specie": "fraxinus-excelsior",
+     "come_distinguere": "Il frassino maggiore ha foglie composte opposte con foglioline seghettate e gemme nere."
+    },
+    {
+     "id_specie": "ailanthus-altissima",
+     "come_distinguere": "L'ailanto ha foglie molto più lunghe con 13-25 foglioline, ognuna con 1-2 dentini ghiandolari alla base, e odore sgradevole."
+    }
+   ],
+   "commestibilita": {
+    "parti": "noci",
+    "note": "Le noci si mangiano fresche o secche; con i frutti acerbi si prepara il nocino.",
+    "avvertenze": "Possibile allergia alla frutta a guscio, anche grave. Il mallo macchia la pelle: usa i guanti."
+   },
+   "tossicita": {
+    "livello": "bassa",
+    "parti": "mallo, foglie",
+    "note": "Contengono juglone, irritante per la pelle; per l'uomo non ci sono rischi seri con le noci mature."
+   },
+   "curiosita_e_usi": "Il legno di noce, bruno e venato, è tra i più pregiati per mobili e calci di fucile. Il nocino si prepara tradizionalmente con noci raccolte verso la fine di giugno.",
+   "immagini": [
+    {
+     "tipo": "silhouette",
+     "file": "img/juglans-regia-silhouette-2.jpg",
+     "fonte": "Wikimedia Commons",
+     "autore": "Thesupermat",
+     "licenza": "CC BY-SA 3.0",
+     "url_originale": "https://commons.wikimedia.org/wiki/File:Noyer_centenaire_en_automne.JPG",
+     "titolo_originale": "Noyer centenaire en automne.JPG"
+    },
+    {
+     "tipo": "fiore_o_frutto",
+     "file": "img/juglans-regia-fiore_o_frutto.jpg",
+     "fonte": "Wikimedia Commons",
+     "autore": "AnRo0002",
+     "licenza": "CC0",
+     "url_originale": "https://commons.wikimedia.org/wiki/File:20160430Juglans_regia3.jpg",
+     "titolo_originale": "20160430Juglans regia3.jpg"
+    },
+    {
+     "tipo": "corteccia",
+     "file": "img/juglans-regia-corteccia.jpg",
+     "fonte": "Wikimedia Commons",
+     "autore": "AnRo0002",
+     "licenza": "CC0",
+     "url_originale": "https://commons.wikimedia.org/wiki/File:20130428Juglans_regia1.jpg",
+     "titolo_originale": "20130428Juglans regia1.jpg"
+    },
+    {
+     "tipo": "gemme",
+     "file": "img/juglans-regia-gemme.jpg",
+     "fonte": "Wikimedia Commons",
+     "autore": "AnRo0002",
+     "licenza": "CC0",
+     "url_originale": "https://commons.wikimedia.org/wiki/File:20181117Juglans_regia4.jpg",
+     "titolo_originale": "20181117Juglans regia4.jpg"
+    },
+    {
+     "tipo": "silhouette",
+     "file": "img/juglans-regia-silhouette.jpg",
+     "fonte": "Wikimedia Commons",
+     "autore": "AnRo0002",
+     "licenza": "CC0",
+     "url_originale": "https://commons.wikimedia.org/wiki/File:20140212Juglans_regia_Walldorf1.jpg",
+     "titolo_originale": "20140212Juglans regia Walldorf1.jpg",
+     "stagione": "inverno"
+    }
+   ],
+   "fonti": [
+    {
+     "titolo": "Juglans regia – Wikipedia (it)",
+     "url": "https://it.wikipedia.org/wiki/Juglans_regia"
+    },
+    {
+     "titolo": "Juglans regia – Wikipedia (en)",
+     "url": "https://en.wikipedia.org/wiki/Juglans_regia"
+    }
+   ]
+  },
+  {
    "id": "ulmus-minor",
    "nome_comune": "Olmo campestre",
    "nome_scientifico": "Ulmus minor",
@@ -3161,6 +3958,15 @@
    },
    "curiosita_e_usi": "Il legno è resistente all'umidità e difficile da spaccare: mozzi di ruote, chiglie, condutture. Nella piantata padana gli olmi facevano da tutori vivi per le viti.",
    "immagini": [
+    {
+     "tipo": "silhouette",
+     "file": "img/ulmus-minor-silhouette-2.jpg",
+     "fonte": "Wikimedia Commons",
+     "autore": "Romanian Environmental Partnership Foundation",
+     "licenza": "CC BY-SA 4.0",
+     "url_originale": "https://commons.wikimedia.org/wiki/File:2012_The_Elm_Tree_from_C%C4%83peni_(K%C3%B6pec)_RO.jpg",
+     "titolo_originale": "2012 The Elm Tree from Căpeni (Köpec) RO.jpg"
+    },
     {
      "tipo": "foglia",
      "file": "img/ulmus-minor-foglia.jpg",
@@ -3802,6 +4608,620 @@
    ]
   },
   {
+   "id": "populus-alba",
+   "nome_comune": "Pioppo bianco",
+   "nome_scientifico": "Populus alba",
+   "famiglia": "Salicaceae",
+   "genere": "Populus",
+   "sinonimi": [
+    "Gattice",
+    "Albero bianco"
+   ],
+   "nomi_locali": [],
+   "stato": "bozza",
+   "aggiornato": "2026-09-25",
+   "chiave": {
+    "gruppo": "latifoglia",
+    "persistenza": "caduca",
+    "foglia_tipo": "semplice",
+    "foglia_disposizione": "alterna",
+    "foglia_margine": [
+     "lobato",
+     "dentato"
+    ],
+    "foglia_forma": [
+     "palmata",
+     "ovata"
+    ],
+    "frutto": "capsula",
+    "corteccia_texture": [
+     "liscia",
+     "fessurata"
+    ],
+    "habitat": [
+     "planiziale",
+     "ripariale_umido",
+     "mediterraneo_costiero",
+     "urbano_parchi"
+    ],
+    "altitudine_m": [
+     0,
+     800
+    ],
+    "ramificazione": "monopodiale",
+    "ruolo_ecologico": [
+     "pioniera"
+    ],
+    "luce": "eliofila"
+   },
+   "tratti_chiave": [
+    "Pagina inferiore della foglia bianca e feltrosa: al vento la chioma luccica di bianco",
+    "Foglie dei rami lunghi con 3-5 lobi, come un piccolo acero; quelle dei rami corti ovali e dentate",
+    "Corteccia biancastra con segni scuri a rombo; base del tronco scura e fessurata"
+   ],
+   "origine": {
+    "stato": "autoctona",
+    "note": ""
+   },
+   "foglie": {
+    "tipo": "semplice",
+    "disposizione": "alterna",
+    "forma": "molto variabile: sui getti vigorosi palmata a 3-5 lobi (6-12 cm), sui rametti corti ovata o tondeggiante",
+    "margine": "lobato sui getti lunghi, irregolarmente dentato sui rametti corti",
+    "venatura": "palmata sui getti lunghi, pennata sulle foglie piccole",
+    "colore_stagionale": {
+     "primavera_estate": "verde scuro sopra, bianca e feltrosa sotto",
+     "autunno": "giallo pallido"
+    },
+    "descrizione": "Il contrasto tra le due facce è il carattere più evidente: con il vento la chioma alterna verde e bianco. Anche i rametti giovani e il picciolo sono coperti di feltro bianco."
+   },
+   "corteccia": {
+    "colore": "bianco-grigiastro, a volte verdastro",
+    "texture": "liscia, segnata da lenticelle scure a forma di rombo o losanga",
+    "evoluzione_con_eta": "con l'età la base del tronco diventa nera e profondamente fessurata, mentre la parte alta resta chiara",
+    "descrizione": "Da lontano il tronco chiaro può ricordare la betulla, ma il bianco è più grigio e i segni scuri sono rombi, non strisce orizzontali."
+   },
+   "rami_e_portamento": {
+    "disposizione_rami": "alterna; rametti giovani bianco-feltrosi",
+    "angolo_di_crescita": "branche robuste, ascendenti e poi aperte",
+    "forma_chioma": "ampia, irregolare, spesso inclinata",
+    "silhouette_invernale": "tronco chiaro in alto e scuro alla base; chioma larga e irregolare; spesso circondato da polloni",
+    "descrizione": "Emette moltissimi polloni dalle radici e forma boschetti di piante collegate tra loro.",
+    "ramificazione": "Rametti con gemma terminale vera (monopodiali)."
+   },
+   "gemme": {
+    "forma": "ovoidali, piccole",
+    "colore": "brune, coperte di feltro bianco",
+    "disposizione": "alterne",
+    "descrizione": "Le gemme pelose e bianche lo distinguono dal pioppo nero, che le ha glabre, lucide e appiccicose."
+   },
+   "fiori_e_frutti": {
+    "tipo_fiore": "pianta dioica: amenti penduli, rossastri i maschili e verdi i femminili, su alberi diversi",
+    "periodo_fioritura": "febbraio-marzo, prima delle foglie",
+    "tipo_frutto": "capsula che si apre e libera semi minuti avvolti da un fitto cotone bianco",
+    "periodo_fruttificazione": "maggio-giugno",
+    "descrizione": "Il «cotone» dei pioppi è formato dai peli attaccati ai semi: li porta lontano il vento e si accumula a terra come neve."
+   },
+   "dimensioni": {
+    "altezza_tipica_m": [
+     20,
+     30
+    ],
+    "altezza_max_m": 35,
+    "eta_massima_anni": null,
+    "note": "Età massima non accertata; come gli altri pioppi cresce in fretta e vive meno di querce e tigli."
+   },
+   "habitat_e_distribuzione": {
+    "regioni_italia": [
+     "Tutta Italia, soprattutto lungo fiumi e in pianura",
+     "Nord: golene e argini della Pianura Padana, coste adriatiche; molto piantato"
+    ],
+    "altitudine": "0-800 m",
+    "terreno_preferito": "fresco, profondo, anche sabbioso; tollera l'aridità estiva e un po' di salsedine meglio degli altri pioppi",
+    "descrizione": "Tipico dei boschi ripariali di pianura con salice bianco e pioppo nero; piantato anche per consolidare dune e scarpate."
+   },
+   "ecologia": {
+    "descrizione": "Pioniera di piena luce: colonizza sponde, greti e terreni smossi, anche grazie ai polloni radicali che formano colonie estese."
+   },
+   "stagionalita": {
+    "primavera": "Amenti penduli a fine inverno; a maggio il cotone dei semi.",
+    "estate": "Chioma che luccica di bianco al vento.",
+    "autunno": "Foglie giallo pallido.",
+    "inverno": "Tronco chiaro con rombi scuri; rametti e gemme feltrosi e bianchi."
+   },
+   "specie_simili": [
+    {
+     "id_specie": "populus-tremula",
+     "come_distinguere": "Il pioppo tremulo ha foglie tondeggianti verdi su entrambe le facce, con picciolo appiattito, e cresce soprattutto in collina e montagna."
+    },
+    {
+     "id_specie": "populus-nigra",
+     "come_distinguere": "Il pioppo nero ha foglie triangolari verdi e lucide su entrambe le facce e corteccia scura e fessurata."
+    },
+    {
+     "id_specie": "betula-pendula",
+     "come_distinguere": "La betulla ha corteccia bianca con strisce orizzontali, foglia romboidale doppiamente seghettata e verde sotto, rametti penduli."
+    },
+    {
+     "id_specie": "salix-alba",
+     "come_distinguere": "Il salice bianco ha foglie strette e lanceolate, argentee su entrambe le facce, e corteccia grigia fessurata."
+    }
+   ],
+   "commestibilita": {
+    "parti": "",
+    "note": "",
+    "avvertenze": ""
+   },
+   "tossicita": {
+    "livello": "nessuna_nota",
+    "parti": "",
+    "note": "Nessuna tossicità nota. Il polline di fine inverno è allergenico; il cotone dei semi è fastidioso ma non allergenico."
+   },
+   "curiosita_e_usi": "Legno leggero e tenero, usato per imballaggi, compensati e carta. Esiste un ibrido naturale con il pioppo tremulo, il pioppo grigio (Populus × canescens), con caratteri intermedi e pagina inferiore grigia.",
+   "immagini": [
+    {
+     "tipo": "silhouette",
+     "file": "img/populus-alba-silhouette.jpg",
+     "fonte": "Wikimedia Commons",
+     "autore": "AnRo0002",
+     "licenza": "CC0",
+     "url_originale": "https://commons.wikimedia.org/wiki/File:20150519Populus_alba1.jpg",
+     "titolo_originale": "20150519Populus alba1.jpg"
+    },
+    {
+     "tipo": "foglia",
+     "file": "img/populus-alba-foglia.jpg",
+     "fonte": "Wikimedia Commons",
+     "autore": "AnRo0002",
+     "licenza": "CC0",
+     "url_originale": "https://commons.wikimedia.org/wiki/File:20160727Populus_alba2.jpg",
+     "titolo_originale": "20160727Populus alba2.jpg"
+    },
+    {
+     "tipo": "fiore_o_frutto",
+     "file": "img/populus-alba-fiore_o_frutto.jpg",
+     "fonte": "Wikimedia Commons",
+     "autore": "AnRo0002",
+     "licenza": "CC0",
+     "url_originale": "https://commons.wikimedia.org/wiki/File:20190319_Populus_alba_4.jpg",
+     "titolo_originale": "20190319 Populus alba 4.jpg"
+    },
+    {
+     "tipo": "corteccia",
+     "file": "img/populus-alba-corteccia.jpg",
+     "fonte": "Wikimedia Commons",
+     "autore": "Joanna Boisse",
+     "licenza": "CC BY-SA 4.0",
+     "url_originale": "https://commons.wikimedia.org/wiki/File:Atlas_roslin_pl_Topola_bia%C5%82a_7518_7635.jpg",
+     "titolo_originale": "Atlas roslin pl Topola biała 7518 7635.jpg"
+    },
+    {
+     "tipo": "gemme",
+     "file": "img/populus-alba-gemme.jpg",
+     "fonte": "Wikimedia Commons",
+     "autore": "Stefan.lefnaer",
+     "licenza": "CC BY-SA 4.0",
+     "url_originale": "https://commons.wikimedia.org/wiki/File:Populus_alba_sl17.jpg",
+     "titolo_originale": "Populus alba sl17.jpg"
+    },
+    {
+     "tipo": "silhouette",
+     "file": "img/populus-alba-silhouette-2.jpg",
+     "fonte": "Wikimedia Commons",
+     "autore": "AnRo0002",
+     "licenza": "CC0",
+     "url_originale": "https://commons.wikimedia.org/wiki/File:20190319_Populus_alba_1.jpg",
+     "titolo_originale": "20190319 Populus alba 1.jpg",
+     "stagione": "inverno"
+    }
+   ],
+   "fonti": [
+    {
+     "titolo": "Populus alba – Wikipedia (it)",
+     "url": "https://it.wikipedia.org/wiki/Populus_alba"
+    },
+    {
+     "titolo": "Populus alba – Wikipedia (en)",
+     "url": "https://en.wikipedia.org/wiki/Populus_alba"
+    }
+   ]
+  },
+  {
+   "id": "populus-nigra",
+   "nome_comune": "Pioppo nero",
+   "nome_scientifico": "Populus nigra",
+   "famiglia": "Salicaceae",
+   "genere": "Populus",
+   "sinonimi": [
+    "Pioppo nostrano"
+   ],
+   "nomi_locali": [],
+   "stato": "bozza",
+   "aggiornato": "2026-09-25",
+   "chiave": {
+    "gruppo": "latifoglia",
+    "persistenza": "caduca",
+    "foglia_tipo": "semplice",
+    "foglia_disposizione": "alterna",
+    "foglia_margine": [
+     "crenato",
+     "seghettato"
+    ],
+    "foglia_forma": [
+     "rombica",
+     "ovata"
+    ],
+    "frutto": "capsula",
+    "corteccia_texture": [
+     "fessurata"
+    ],
+    "habitat": [
+     "planiziale",
+     "ripariale_umido",
+     "collinare",
+     "urbano_parchi"
+    ],
+    "altitudine_m": [
+     0,
+     1200
+    ],
+    "ramificazione": "monopodiale",
+    "ruolo_ecologico": [
+     "pioniera"
+    ],
+    "luce": "eliofila"
+   },
+   "tratti_chiave": [
+    "Foglia triangolare o romboidale, verde lucida su entrambe le facce, con picciolo appiattito",
+    "Corteccia grigio scuro profondamente solcata, tronco spesso con grosse escrescenze (nodi)",
+    "La forma «cipressina» (var. italica) è il pioppo colonnare dei filari padani"
+   ],
+   "origine": {
+    "stato": "autoctona",
+    "note": "Molti pioppi dei pioppeti sono ibridi coltivati (Populus × canadensis), difficili da distinguere."
+   },
+   "foglie": {
+    "tipo": "semplice",
+    "disposizione": "alterna",
+    "forma": "triangolare-romboidale, 5-10 cm, con punta allungata e base a cuneo o troncata",
+    "margine": "crenato-seghettato, con dentini arrotondati, senza ciglia",
+    "venatura": "pennata",
+    "colore_stagionale": {
+     "primavera_estate": "verde lucido su entrambe le facce; picciolo appiattito lateralmente che fa muovere la foglia",
+     "autunno": "giallo"
+    },
+    "descrizione": "Le foglie del pioppo ibrido dei pioppeti sono più grandi e hanno il margine con ciglia: è uno dei pochi dettagli per separarli, e non sempre è sicuro."
+   },
+   "corteccia": {
+    "colore": "grigio scuro, quasi nera",
+    "texture": "profondamente solcata in creste irregolari; tronco spesso con grossi bitorzoli",
+    "evoluzione_con_eta": "liscia e grigia da giovane, poi sempre più scura e fessurata",
+    "descrizione": "I bitorzoli sul tronco (ipertrofie) sono tipici degli esemplari selvatici e danno un aspetto nodoso."
+   },
+   "rami_e_portamento": {
+    "disposizione_rami": "alterna; rametti giallo-bruni lucidi",
+    "angolo_di_crescita": "branche principali grosse e arcuate; nella var. italica tutte erette",
+    "forma_chioma": "ampia e irregolare; colonnare nel pioppo cipressino",
+    "silhouette_invernale": "tronco scuro e nodoso con grandi branche arcuate; nel cipressino una sagoma a fuso inconfondibile",
+    "descrizione": "Il pioppo cipressino è un clone maschile, moltiplicato per talea e piantato lungo strade e canali.",
+    "ramificazione": "Rametti con gemma terminale vera (monopodiali)."
+   },
+   "gemme": {
+    "forma": "coniche, appuntite, allungate",
+    "colore": "bruno-rossastre, lucide e appiccicose, profumate di resina",
+    "disposizione": "alterne, le laterali ricurve verso il rametto",
+    "descrizione": "Le gemme appiccicose producono una resina profumata, raccolta dalle api (propoli)."
+   },
+   "fiori_e_frutti": {
+    "tipo_fiore": "pianta dioica: amenti maschili rosso scuro, femminili verdi, su alberi diversi",
+    "periodo_fioritura": "marzo-aprile, prima delle foglie",
+    "tipo_frutto": "capsula che libera semi con cotone bianco",
+    "periodo_fruttificazione": "maggio-giugno",
+    "descrizione": "In primavera a terra si trovano gli amenti maschili rossi caduti, come piccoli bruchi."
+   },
+   "dimensioni": {
+    "altezza_tipica_m": [
+     20,
+     30
+    ],
+    "altezza_max_m": 35,
+    "eta_massima_anni": null,
+    "note": "Età massima non accertata; alcuni pioppi neri monumentali sono stimati di diversi secoli, ma la specie è in genere di vita breve."
+   },
+   "habitat_e_distribuzione": {
+    "regioni_italia": [
+     "Tutta Italia lungo fiumi e torrenti",
+     "Nord: greti e golene di Po, Ticino, Adige e affluenti; pioppo cipressino in filari di pianura"
+    ],
+    "altitudine": "0-1000 m, localmente fino a 1200 m",
+    "terreno_preferito": "fresco e umido, anche ghiaioso o sabbioso lungo i corsi d'acqua",
+    "descrizione": "Albero delle rive e dei greti; i boschi naturali di pioppo nero sono diventati rari per bonifiche e coltivazioni."
+   },
+   "ecologia": {
+    "descrizione": "Pioniera tipica dei greti: vuole piena luce e colonizza le ghiaie e le sabbie lasciate dalle piene."
+   },
+   "stagionalita": {
+    "primavera": "Amenti rossi caduti a terra; foglie nuove bronzee e profumate.",
+    "estate": "Foglie lucide in movimento; cotone dei semi a maggio-giugno.",
+    "autunno": "Giallo dei filari lungo i canali.",
+    "inverno": "Gemme appiccicose e profumate; tronchi scuri e nodosi."
+   },
+   "specie_simili": [
+    {
+     "id_specie": "populus-alba",
+     "come_distinguere": "Il pioppo bianco ha foglie bianche e feltrose sotto, spesso lobate, e corteccia chiara."
+    },
+    {
+     "id_specie": "populus-tremula",
+     "come_distinguere": "Il pioppo tremulo ha foglie tondeggianti a denti larghi e corteccia grigio-verde liscia."
+    }
+   ],
+   "commestibilita": {
+    "parti": "",
+    "note": "",
+    "avvertenze": ""
+   },
+   "tossicita": {
+    "livello": "nessuna_nota",
+    "parti": "",
+    "note": "Nessuna tossicità nota. Polline allergenico a fine inverno."
+   },
+   "curiosita_e_usi": "Il pioppo cipressino è uno degli alberi simbolo del paesaggio padano. Dalle gemme si ricavava un unguento (unguento populeo). Legno tenero e leggero, per cassette, fiammiferi e carta.",
+   "immagini": [
+    {
+     "tipo": "silhouette",
+     "file": "img/populus-nigra-silhouette.jpg",
+     "fonte": "Wikimedia Commons",
+     "autore": "Kenraiz",
+     "licenza": "CC BY-SA 3.0",
+     "url_originale": "https://commons.wikimedia.org/wiki/File:Populus_nigra_kz1.jpg",
+     "titolo_originale": "Populus nigra kz1.jpg"
+    },
+    {
+     "tipo": "foglia",
+     "file": "img/populus-nigra-foglia.jpg",
+     "fonte": "Wikimedia Commons",
+     "autore": "Slimguy",
+     "licenza": "CC BY 4.0",
+     "url_originale": "https://commons.wikimedia.org/wiki/File:2021_10_20_Populus_nigra.jpg",
+     "titolo_originale": "2021 10 20 Populus nigra.jpg"
+    },
+    {
+     "tipo": "fiore_o_frutto",
+     "file": "img/populus-nigra-fiore_o_frutto.jpg",
+     "fonte": "Wikimedia Commons",
+     "autore": "Bodow",
+     "licenza": "CC BY-SA 4.0",
+     "url_originale": "https://commons.wikimedia.org/wiki/File:2015-4-13-Schwarzpappel-_544-k.jpg",
+     "titolo_originale": "2015-4-13-Schwarzpappel- 544-k.jpg"
+    },
+    {
+     "tipo": "corteccia",
+     "file": "img/populus-nigra-corteccia.jpg",
+     "fonte": "Wikimedia Commons",
+     "autore": "Bybbisch94",
+     "licenza": "CC BY 4.0",
+     "url_originale": "https://commons.wikimedia.org/wiki/File:20240128.Babisnauer_Pappel.-021.jpg",
+     "titolo_originale": "20240128.Babisnauer Pappel.-021.jpg"
+    },
+    {
+     "tipo": "gemme",
+     "file": "img/populus-nigra-gemme.jpg",
+     "fonte": "Wikimedia Commons",
+     "autore": "Ayotte, Gilles, 1948-",
+     "licenza": "CC BY-SA 4.0",
+     "url_originale": "https://commons.wikimedia.org/wiki/File:Populus_nigra_15-p.bot-popu.nigra-02.jpg",
+     "titolo_originale": "Populus nigra 15-p.bot-popu.nigra-02.jpg"
+    }
+   ],
+   "fonti": [
+    {
+     "titolo": "Populus nigra – Wikipedia (it)",
+     "url": "https://it.wikipedia.org/wiki/Populus_nigra"
+    },
+    {
+     "titolo": "Populus nigra – Wikipedia (en)",
+     "url": "https://en.wikipedia.org/wiki/Populus_nigra"
+    }
+   ]
+  },
+  {
+   "id": "populus-tremula",
+   "nome_comune": "Pioppo tremulo",
+   "nome_scientifico": "Populus tremula",
+   "famiglia": "Salicaceae",
+   "genere": "Populus",
+   "sinonimi": [
+    "Tremolo"
+   ],
+   "nomi_locali": [],
+   "stato": "bozza",
+   "aggiornato": "2026-09-25",
+   "chiave": {
+    "gruppo": "latifoglia",
+    "persistenza": "caduca",
+    "foglia_tipo": "semplice",
+    "foglia_disposizione": "alterna",
+    "foglia_margine": [
+     "crenato",
+     "dentato"
+    ],
+    "foglia_forma": [
+     "orbicolare"
+    ],
+    "frutto": "capsula",
+    "corteccia_texture": [
+     "liscia",
+     "fessurata"
+    ],
+    "habitat": [
+     "collinare",
+     "montano",
+     "subalpino"
+    ],
+    "altitudine_m": [
+     0,
+     2000
+    ],
+    "ramificazione": "monopodiale",
+    "ruolo_ecologico": [
+     "pioniera"
+    ],
+    "luce": "eliofila"
+   },
+   "tratti_chiave": [
+    "Foglia tondeggiante con denti larghi e arrotondati",
+    "Picciolo appiattito: al minimo vento tutta la chioma trema e fruscia",
+    "Corteccia grigio-verdastra liscia con lenticelle scure a rombo"
+   ],
+   "origine": {
+    "stato": "autoctona",
+    "note": ""
+   },
+   "foglie": {
+    "tipo": "semplice",
+    "disposizione": "alterna",
+    "forma": "tondeggiante, 3-7 cm, con punta breve; più grande e triangolare sui polloni",
+    "margine": "crenato-dentato, con denti larghi e ricurvi",
+    "venatura": "pennata",
+    "colore_stagionale": {
+     "primavera_estate": "verde scuro sopra, grigio-verde sotto, glabra",
+     "autunno": "giallo oro, a volte arancio o rossastro"
+    },
+    "descrizione": "Il picciolo lungo e schiacciato di lato fa ruotare la foglia a ogni soffio: è il carattere più facile da notare sul campo."
+   },
+   "corteccia": {
+    "colore": "grigio-verdastro o grigio chiaro",
+    "texture": "liscia, con lenticelle scure a forma di rombo",
+    "evoluzione_con_eta": "alla base dei tronchi vecchi diventa scura e fessurata",
+    "descrizione": "Sui tronchi giovani le lenticelle a rombo sono ben visibili, simili a quelle del pioppo bianco."
+   },
+   "rami_e_portamento": {
+    "disposizione_rami": "alterna; rametti bruno-lucidi",
+    "angolo_di_crescita": "rami ascendenti",
+    "forma_chioma": "stretta e leggera",
+    "silhouette_invernale": "fusti sottili e chiari, spesso in gruppi di piante della stessa altezza",
+    "descrizione": "Si propaga soprattutto con polloni radicali: un gruppo di tremuli è spesso un unico individuo clonale.",
+    "ramificazione": "Rametti con gemma terminale vera (monopodiali)."
+   },
+   "gemme": {
+    "forma": "coniche, appuntite",
+    "colore": "bruno-rossastre, lucide, appena appiccicose",
+    "disposizione": "alterne",
+    "descrizione": ""
+   },
+   "fiori_e_frutti": {
+    "tipo_fiore": "pianta dioica: amenti grigi e lanosi, penduli",
+    "periodo_fioritura": "marzo-aprile, prima delle foglie",
+    "tipo_frutto": "capsula con semi cotonosi",
+    "periodo_fruttificazione": "maggio-giugno",
+    "descrizione": "Gli amenti grigio-argentei e pelosi, lunghi fino a 10 cm, pendono dai rami spogli a fine inverno."
+   },
+   "dimensioni": {
+    "altezza_tipica_m": [
+     10,
+     20
+    ],
+    "altezza_max_m": 30,
+    "eta_massima_anni": [
+     80,
+     120
+    ],
+    "note": "Di vita breve; i singoli fusti raramente superano i 100 anni, mentre la colonia clonale può durare molto più a lungo."
+   },
+   "habitat_e_distribuzione": {
+    "regioni_italia": [
+     "Nord: Alpi, Prealpi e Appennino settentrionale, in radure, margini, frane e boschi di neoformazione",
+     "Centro-Sud: montagne, più sporadico"
+    ],
+    "altitudine": "da pochi metri fino a circa 2000 m sulle Alpi",
+    "terreno_preferito": "si adatta a molti suoli, anche poveri e acidi",
+    "descrizione": "Si trova ai margini dei boschi, lungo le strade di montagna, su frane e aree percorse da incendi, spesso insieme a betulla e salicone."
+   },
+   "ecologia": {
+    "descrizione": "Pioniera tipica: vuole piena luce, cresce in fretta e occupa radure, frane e boschi tagliati; viene poi sostituito da specie più longeve."
+   },
+   "stagionalita": {
+    "primavera": "Amenti grigi e lanosi prima delle foglie.",
+    "estate": "Chioma che trema e fruscia al vento.",
+    "autunno": "Giallo oro tra i più vivaci della montagna.",
+    "inverno": "Tronchi chiari con rombi scuri, spesso in gruppi."
+   },
+   "specie_simili": [
+    {
+     "id_specie": "populus-alba",
+     "come_distinguere": "Il pioppo bianco ha foglie bianche e feltrose sotto, spesso lobate, e vive soprattutto in pianura lungo i fiumi."
+    },
+    {
+     "id_specie": "populus-nigra",
+     "come_distinguere": "Il pioppo nero ha foglie triangolari appuntite e corteccia scura profondamente solcata."
+    },
+    {
+     "id_specie": "betula-pendula",
+     "come_distinguere": "La betulla ha corteccia bianca con strisce orizzontali, foglie romboidali doppiamente seghettate e rametti penduli."
+    }
+   ],
+   "commestibilita": {
+    "parti": "",
+    "note": "",
+    "avvertenze": ""
+   },
+   "tossicita": {
+    "livello": "nessuna_nota",
+    "parti": "",
+    "note": "Nessuna tossicità nota."
+   },
+   "curiosita_e_usi": "Il nome scientifico tremula e quello italiano vengono dal tremolio delle foglie. Legno tenero e leggero, usato per fiammiferi e carta; la corteccia è appetita da caprioli e cervi.",
+   "immagini": [
+    {
+     "tipo": "foglia",
+     "file": "img/populus-tremula-foglia.jpg",
+     "fonte": "Wikimedia Commons",
+     "autore": "AnRo0002",
+     "licenza": "CC0",
+     "url_originale": "https://commons.wikimedia.org/wiki/File:20130716Zitterpappel_Schwetzinger_Hardt4.jpg",
+     "titolo_originale": "20130716Zitterpappel Schwetzinger Hardt4.jpg"
+    },
+    {
+     "tipo": "fiore_o_frutto",
+     "file": "img/populus-tremula-fiore_o_frutto.jpg",
+     "fonte": "Wikimedia Commons",
+     "autore": "AnRo0002",
+     "licenza": "CC0",
+     "url_originale": "https://commons.wikimedia.org/wiki/File:20160129Populus_tremula2.jpg",
+     "titolo_originale": "20160129Populus tremula2.jpg"
+    },
+    {
+     "tipo": "corteccia",
+     "file": "img/populus-tremula-corteccia.jpg",
+     "fonte": "Wikimedia Commons",
+     "autore": "AnRo0002",
+     "licenza": "CC0",
+     "url_originale": "https://commons.wikimedia.org/wiki/File:20140207Populus_tremula1.jpg",
+     "titolo_originale": "20140207Populus tremula1.jpg"
+    },
+    {
+     "tipo": "gemme",
+     "file": "img/populus-tremula-gemme.jpg",
+     "fonte": "Wikimedia Commons",
+     "autore": "Stefan.lefnaer",
+     "licenza": "CC BY-SA 4.0",
+     "url_originale": "https://commons.wikimedia.org/wiki/File:Populus_tremula_sl3.jpg",
+     "titolo_originale": "Populus tremula sl3.jpg"
+    }
+   ],
+   "fonti": [
+    {
+     "titolo": "Populus tremula – Wikipedia (it)",
+     "url": "https://it.wikipedia.org/wiki/Populus_tremula"
+    },
+    {
+     "titolo": "Populus tremula – Wikipedia (en)",
+     "url": "https://en.wikipedia.org/wiki/Populus_tremula"
+    }
+   ]
+  },
+  {
    "id": "platanus-x-hispanica",
    "nome_comune": "Platano",
    "nome_scientifico": "Platanus × hispanica",
@@ -4396,6 +5816,813 @@
     {
      "titolo": "Quercus pubescens – Wikipedia (en)",
      "url": "https://en.wikipedia.org/wiki/Quercus_pubescens"
+    }
+   ]
+  },
+  {
+   "id": "salix-alba",
+   "nome_comune": "Salice bianco",
+   "nome_scientifico": "Salix alba",
+   "famiglia": "Salicaceae",
+   "genere": "Salix",
+   "sinonimi": [
+    "Salcio"
+   ],
+   "nomi_locali": [],
+   "stato": "bozza",
+   "aggiornato": "2026-09-25",
+   "chiave": {
+    "gruppo": "latifoglia",
+    "persistenza": "caduca",
+    "foglia_tipo": "semplice",
+    "foglia_disposizione": "alterna",
+    "foglia_margine": [
+     "seghettato"
+    ],
+    "foglia_forma": [
+     "lanceolata"
+    ],
+    "frutto": "capsula",
+    "corteccia_texture": [
+     "fessurata"
+    ],
+    "habitat": [
+     "planiziale",
+     "ripariale_umido",
+     "collinare"
+    ],
+    "altitudine_m": [
+     0,
+     1000
+    ],
+    "ramificazione": "simpodiale",
+    "ruolo_ecologico": [
+     "pioniera"
+    ],
+    "luce": "eliofila"
+   },
+   "tratti_chiave": [
+    "Foglie strette e lanceolate, argentee e sericee soprattutto sotto: da lontano la chioma è grigio-argento",
+    "Albero delle rive, spesso capitozzato con una «testa» da cui partono molti rami diritti",
+    "Gemme appiattite contro il rametto, coperte da un'unica squama a cappuccio"
+   ],
+   "origine": {
+    "stato": "autoctona",
+    "note": ""
+   },
+   "foglie": {
+    "tipo": "semplice",
+    "disposizione": "alterna",
+    "forma": "lanceolata, stretta, 5-10 cm, con punta lunga",
+    "margine": "finemente seghettato",
+    "venatura": "pennata",
+    "colore_stagionale": {
+     "primavera_estate": "verde-grigia sopra, argentea e sericea sotto per peli fitti e appressati",
+     "autunno": "giallo pallido"
+    },
+    "descrizione": "I peli argentei danno alla chioma il colore grigio-argento che si riconosce a distanza lungo i fiumi."
+   },
+   "corteccia": {
+    "colore": "grigio",
+    "texture": "fessurata in creste intrecciate a rete",
+    "evoluzione_con_eta": "liscia e grigio-verde solo nei rami giovani; il tronco si fessura presto",
+    "descrizione": "Nei salici capitozzati il tronco è corto e grosso, spesso cavo, con una «testa» da cui partono i rami."
+   },
+   "rami_e_portamento": {
+    "disposizione_rami": "alterna; rametti flessibili, giallo-olivastri o bruni",
+    "angolo_di_crescita": "rami ascendenti",
+    "forma_chioma": "ampia e leggera, grigio-argento",
+    "silhouette_invernale": "tronco inclinato o capitozzato, con ciuffo di rami diritti; rametti sottili e flessibili",
+    "descrizione": "La capitozzatura (taglio periodico dei rami) serviva a produrre vimini e pali: dà ai salici la forma a «testa».",
+    "ramificazione": "Rametti simpodiali: manca la gemma terminale vera."
+   },
+   "gemme": {
+    "forma": "appiattite, allungate",
+    "colore": "giallastre o bruno-rossicce, pelose",
+    "disposizione": "alterne, appressate al rametto",
+    "descrizione": "Come in tutti i salici, ogni gemma è avvolta da un'unica squama a cappuccio."
+   },
+   "fiori_e_frutti": {
+    "tipo_fiore": "pianta dioica: amenti eretti o arcuati, gialli i maschili e verdi i femminili",
+    "periodo_fioritura": "aprile, insieme alle foglie",
+    "tipo_frutto": "capsula che libera semi cotonosi",
+    "periodo_fruttificazione": "maggio-giugno",
+    "descrizione": "I fiori sono impollinati anche dagli insetti: a primavera gli amenti sono visitati dalle api."
+   },
+   "dimensioni": {
+    "altezza_tipica_m": [
+     10,
+     20
+    ],
+    "altezza_max_m": 25,
+    "eta_massima_anni": null,
+    "note": "Età massima non accertata; i salici capitozzati possono vivere a lungo grazie ai tagli periodici."
+   },
+   "habitat_e_distribuzione": {
+    "regioni_italia": [
+     "Tutta Italia lungo fiumi, canali, fossi e laghi",
+     "Nord: comunissimo nella Pianura Padana e nelle valli"
+    ],
+    "altitudine": "0-1000 m",
+    "terreno_preferito": "umido, anche inondato periodicamente; sabbia, limo e ghiaia",
+    "descrizione": "L'albero dei fiumi di pianura, con pioppo bianco, pioppo nero e ontano nero; tollera le piene."
+   },
+   "ecologia": {
+    "descrizione": "Pioniera delle rive: vuole piena luce, colonizza i depositi lasciati dalle piene e ricaccia facilmente anche da rami spezzati."
+   },
+   "stagionalita": {
+    "primavera": "Amenti con le foglie nuove (aprile).",
+    "estate": "Chioma grigio-argento lungo l'acqua.",
+    "autunno": "Foglie giallo pallido.",
+    "inverno": "Salici capitozzati con rametti gialli o bruni."
+   },
+   "specie_simili": [
+    {
+     "id_specie": "salix-babylonica",
+     "come_distinguere": "Il salice piangente ha rami lunghissimi ricadenti fino a terra e foglie verdi, non argentee; è piantato vicino all'acqua nei parchi."
+    },
+    {
+     "id_specie": "salix-caprea",
+     "come_distinguere": "Il salicone ha foglie larghe ellittiche, grigio-feltrose sotto, e vistosi amenti argentei a fine inverno; vive ai margini dei boschi."
+    },
+    {
+     "id_specie": "populus-alba",
+     "come_distinguere": "Il pioppo bianco ha foglie lobate o ovali, bianche e feltrose sotto, e corteccia chiara con rombi scuri."
+    }
+   ],
+   "commestibilita": {
+    "parti": "",
+    "note": "",
+    "avvertenze": ""
+   },
+   "tossicita": {
+    "livello": "nessuna_nota",
+    "parti": "",
+    "note": "Nessuna tossicità significativa nota. La corteccia contiene salicina, da cui deriva storicamente l'acido acetilsalicilico (aspirina)."
+   },
+   "curiosita_e_usi": "La varietà vitellina, con rametti arancio vivo, era coltivata per legare le viti. Dalla salicina della corteccia si arrivò, nell'Ottocento, all'aspirina.",
+   "immagini": [
+    {
+     "tipo": "silhouette",
+     "file": "img/salix-alba-silhouette-2.jpg",
+     "fonte": "Wikimedia Commons",
+     "autore": "Willow",
+     "licenza": "CC BY-SA 2.5",
+     "url_originale": "https://commons.wikimedia.org/wiki/File:Salix_alba_004.jpg",
+     "titolo_originale": "Salix alba 004.jpg"
+    },
+    {
+     "tipo": "foglia",
+     "file": "img/salix-alba-foglia.jpg",
+     "fonte": "Wikimedia Commons",
+     "autore": "AnRo0002",
+     "licenza": "CC0",
+     "url_originale": "https://commons.wikimedia.org/wiki/File:20130628Salix_alba.jpg",
+     "titolo_originale": "20130628Salix alba.jpg"
+    },
+    {
+     "tipo": "foglia",
+     "file": "img/salix-alba-foglia-2.jpg",
+     "fonte": "Wikimedia Commons",
+     "autore": "MPF",
+     "licenza": "CC BY-SA 3.0",
+     "url_originale": "https://commons.wikimedia.org/wiki/File:Salix_alba_leaves.jpg",
+     "titolo_originale": "Salix alba leaves.jpg"
+    },
+    {
+     "tipo": "fiore_o_frutto",
+     "file": "img/salix-alba-fiore_o_frutto.jpg",
+     "fonte": "Wikimedia Commons",
+     "autore": "Димитър Найденов / Dimìtar Nàydenov",
+     "licenza": "CC BY-SA 4.0",
+     "url_originale": "https://commons.wikimedia.org/wiki/File:%D0%91%D1%8F%D0%BB%D0%B0_%D0%B2%D1%8A%D1%80%D0%B1%D0%B0_%E2%80%93_%D0%BF%D0%BB%D0%BE%D0%B4%D0%BE%D0%B2%D0%B5_3.jpg",
+     "titolo_originale": "Бяла върба – плодове 3.jpg"
+    },
+    {
+     "tipo": "gemme",
+     "file": "img/salix-alba-gemme.jpg",
+     "fonte": "Wikimedia Commons",
+     "autore": "AnRo0002",
+     "licenza": "CC0",
+     "url_originale": "https://commons.wikimedia.org/wiki/File:20140303Salix_alba2.jpg",
+     "titolo_originale": "20140303Salix alba2.jpg"
+    },
+    {
+     "tipo": "silhouette",
+     "file": "img/salix-alba-silhouette.jpg",
+     "fonte": "Wikimedia Commons",
+     "autore": "Achim Lammerts (Syntaxys)",
+     "licenza": "CC BY-SA 4.0",
+     "url_originale": "https://commons.wikimedia.org/wiki/File:2026-03-06_Alte_Silberweide_im_Auwald_bei_Neupotz_(D500-97216M)_by_Achim_Lammerts.jpg",
+     "titolo_originale": "2026-03-06 Alte Silberweide im Auwald bei Neupotz (D500-97216M) by Achim Lammerts.jpg",
+     "stagione": "inverno"
+    }
+   ],
+   "fonti": [
+    {
+     "titolo": "Salix alba – Wikipedia (it)",
+     "url": "https://it.wikipedia.org/wiki/Salix_alba"
+    },
+    {
+     "titolo": "Salix alba – Wikipedia (en)",
+     "url": "https://en.wikipedia.org/wiki/Salix_alba"
+    }
+   ]
+  },
+  {
+   "id": "salix-babylonica",
+   "nome_comune": "Salice piangente",
+   "nome_scientifico": "Salix babylonica",
+   "famiglia": "Salicaceae",
+   "genere": "Salix",
+   "sinonimi": [
+    "Salice di Babilonia"
+   ],
+   "nomi_locali": [],
+   "stato": "bozza",
+   "aggiornato": "2026-09-25",
+   "chiave": {
+    "gruppo": "latifoglia",
+    "persistenza": "caduca",
+    "foglia_tipo": "semplice",
+    "foglia_disposizione": "alterna",
+    "foglia_margine": [
+     "seghettato"
+    ],
+    "foglia_forma": [
+     "lanceolata",
+     "lineare"
+    ],
+    "frutto": "capsula",
+    "corteccia_texture": [
+     "fessurata"
+    ],
+    "habitat": [
+     "urbano_parchi",
+     "ripariale_umido"
+    ],
+    "altitudine_m": [
+     0,
+     800
+    ],
+    "ramificazione": "simpodiale",
+    "ruolo_ecologico": [
+     "non_accertato"
+    ],
+    "luce": "eliofila"
+   },
+   "tratti_chiave": [
+    "Rami lunghissimi e sottili che ricadono fino a terra",
+    "Foglie strette e lunghe, verdi (non argentee)",
+    "Quasi sempre in parchi e giardini, vicino a laghetti e corsi d'acqua"
+   ],
+   "origine": {
+    "stato": "esotica_coltivata",
+    "note": "Originario della Cina, nonostante il nome. Molti salici piangenti coltivati sono ibridi (per esempio Salix × sepulcralis, con rametti dorati)."
+   },
+   "foglie": {
+    "tipo": "semplice",
+    "disposizione": "alterna",
+    "forma": "lineare-lanceolata, 8-15 cm, molto stretta e appuntita",
+    "margine": "finemente seghettato",
+    "venatura": "pennata",
+    "colore_stagionale": {
+     "primavera_estate": "verde chiaro sopra, verde-grigiastro sotto, quasi glabra",
+     "autunno": "giallo; tra gli ultimi alberi a perdere le foglie"
+    },
+    "descrizione": "Le foglie spuntano presto in primavera e cadono tardi: la chioma resta verde per molti mesi."
+   },
+   "corteccia": {
+    "colore": "grigio-bruno",
+    "texture": "fessurata in creste",
+    "evoluzione_con_eta": "si fessura presto",
+    "descrizione": ""
+   },
+   "rami_e_portamento": {
+    "disposizione_rami": "alterna; rametti lunghi, sottili, penduli, verdi, bruni o dorati",
+    "angolo_di_crescita": "branche principali ascendenti, rametti ricadenti",
+    "forma_chioma": "ampia, a cascata",
+    "silhouette_invernale": "sagoma a cascata inconfondibile, con i rametti che sfiorano il suolo o l'acqua",
+    "descrizione": "È una delle sagome più riconoscibili dei parchi.",
+    "ramificazione": "Rametti simpodiali: manca la gemma terminale vera."
+   },
+   "gemme": {
+    "forma": "piccole, appressate",
+    "colore": "bruno-verdastre",
+    "disposizione": "alterne",
+    "descrizione": "Come negli altri salici, una sola squama a cappuccio."
+   },
+   "fiori_e_frutti": {
+    "tipo_fiore": "amenti sottili, verdognoli",
+    "periodo_fioritura": "aprile, con le foglie",
+    "tipo_frutto": "capsula",
+    "periodo_fruttificazione": "maggio-giugno",
+    "descrizione": "Nei parchi si vedono soprattutto piante femminili o ibridi sterili: i semi sono poco comuni."
+   },
+   "dimensioni": {
+    "altezza_tipica_m": [
+     8,
+     15
+    ],
+    "altezza_max_m": 20,
+    "eta_massima_anni": null,
+    "note": "Età massima non accertata; è considerato un albero di vita breve."
+   },
+   "habitat_e_distribuzione": {
+    "regioni_italia": [
+     "Tutta Italia in parchi, giardini, rive di laghetti e canali; non si inselvatichisce facilmente"
+    ],
+    "altitudine": "0-800 m",
+    "terreno_preferito": "umido e profondo",
+    "descrizione": "Albero ornamentale legato all'acqua; soffre la siccità prolungata."
+   },
+   "ecologia": {
+    "descrizione": "Specie esotica coltivata: in Italia non ha un ruolo definito nei boschi."
+   },
+   "stagionalita": {
+    "primavera": "Foglie nuove molto precoci, verde chiaro.",
+    "estate": "Cascata verde vicino all'acqua.",
+    "autunno": "Foglie gialle che cadono tardi.",
+    "inverno": "Rametti penduli, a volte dorati."
+   },
+   "specie_simili": [
+    {
+     "id_specie": "salix-alba",
+     "come_distinguere": "Il salice bianco ha rami ascendenti, non ricadenti fino a terra, e foglie argentee e sericee sotto."
+    }
+   ],
+   "commestibilita": {
+    "parti": "",
+    "note": "",
+    "avvertenze": ""
+   },
+   "tossicita": {
+    "livello": "nessuna_nota",
+    "parti": "",
+    "note": "Nessuna tossicità significativa nota."
+   },
+   "curiosita_e_usi": "Il nome babylonica viene da un errore di Linneo, che lo identificò con i salici del Salmo 137 («Sui fiumi di Babilonia»), che erano probabilmente pioppi dell'Eufrate.",
+   "immagini": [
+    {
+     "tipo": "silhouette",
+     "file": "img/salix-babylonica-silhouette.jpg",
+     "fonte": "Wikimedia Commons",
+     "autore": "Didier Descouens",
+     "licenza": "CC BY-SA 4.0",
+     "url_originale": "https://commons.wikimedia.org/wiki/File:(MHNT)_Salix_babylonica_-_Les_Martels,_Giroussens_Tarn.jpg",
+     "titolo_originale": "(MHNT) Salix babylonica - Les Martels, Giroussens Tarn.jpg"
+    },
+    {
+     "tipo": "foglia",
+     "file": "img/salix-babylonica-foglia.jpg",
+     "fonte": "Wikimedia Commons",
+     "autore": "John Tann from Sydney, Australia",
+     "licenza": "CC BY 2.0",
+     "url_originale": "https://commons.wikimedia.org/wiki/File:Weeping_Willow_(3211417383).jpg",
+     "titolo_originale": "Weeping Willow (3211417383).jpg"
+    },
+    {
+     "tipo": "fiore_o_frutto",
+     "file": "img/salix-babylonica-fiore_o_frutto.jpg",
+     "fonte": "Wikimedia Commons",
+     "autore": "Didier Descouens",
+     "licenza": "CC BY-SA 4.0",
+     "url_originale": "https://commons.wikimedia.org/wiki/File:(MHNT)_Salix_babylonica_(Feuilles_et_inflorescences)_-_Les_Martels,_Giroussens_Tarn.jpg",
+     "titolo_originale": "(MHNT) Salix babylonica (Feuilles et inflorescences) - Les Martels, Giroussens Tarn.jpg"
+    },
+    {
+     "tipo": "corteccia",
+     "file": "img/salix-babylonica-corteccia.jpg",
+     "fonte": "Wikimedia Commons",
+     "autore": "Famartin",
+     "licenza": "CC BY-SA 4.0",
+     "url_originale": "https://commons.wikimedia.org/wiki/File:2021-03-04_11_13_38_Weeping_Willow_bark_along_a_walking_path_in_the_Franklin_Glen_section_of_Chantilly,_Fairfax_County,_Virginia.jpg",
+     "titolo_originale": "2021-03-04 11 13 38 Weeping Willow bark along a walking path in the Franklin Glen section of Chantilly, Fairfax County, Virginia.jpg"
+    },
+    {
+     "tipo": "gemme",
+     "file": "img/salix-babylonica-gemme.jpg",
+     "fonte": "Wikimedia Commons",
+     "autore": "Threecharlie",
+     "licenza": "CC BY-SA 4.0",
+     "url_originale": "https://commons.wikimedia.org/wiki/File:Gemma_di_salice_piangente,_parco_della_Cittadella_Socio_Sanitaria_(Rovigo)_01.jpg",
+     "titolo_originale": "Gemma di salice piangente, parco della Cittadella Socio Sanitaria (Rovigo) 01.jpg"
+    }
+   ],
+   "fonti": [
+    {
+     "titolo": "Salix babylonica – Wikipedia (it)",
+     "url": "https://it.wikipedia.org/wiki/Salix_babylonica"
+    },
+    {
+     "titolo": "Salix babylonica – Wikipedia (en)",
+     "url": "https://en.wikipedia.org/wiki/Salix_babylonica"
+    }
+   ]
+  },
+  {
+   "id": "sorbus-aucuparia",
+   "nome_comune": "Sorbo degli uccellatori",
+   "nome_scientifico": "Sorbus aucuparia",
+   "famiglia": "Rosaceae",
+   "genere": "Sorbus",
+   "sinonimi": [
+    "Sorbo selvatico"
+   ],
+   "nomi_locali": [],
+   "stato": "bozza",
+   "aggiornato": "2026-09-25",
+   "chiave": {
+    "gruppo": "latifoglia",
+    "persistenza": "caduca",
+    "foglia_tipo": "composta_pennata",
+    "foglia_disposizione": "alterna",
+    "foglia_margine": [
+     "seghettato"
+    ],
+    "foglia_forma": [
+     "lanceolata"
+    ],
+    "frutto": "pomo",
+    "corteccia_texture": [
+     "liscia",
+     "lenticelle_orizzontali"
+    ],
+    "habitat": [
+     "montano",
+     "subalpino",
+     "collinare"
+    ],
+    "altitudine_m": [
+     200,
+     2200
+    ],
+    "ramificazione": "monopodiale",
+    "ruolo_ecologico": [
+     "pioniera"
+    ],
+    "luce": "eliofila"
+   },
+   "tratti_chiave": [
+    "Foglie alterne composte da 9-15 foglioline seghettate",
+    "Grappoli di bacche arancio-rosse da fine estate",
+    "Gemme scure, violacee e pelose; corteccia grigia liscia e lucida"
+   ],
+   "origine": {
+    "stato": "autoctona",
+    "note": ""
+   },
+   "foglie": {
+    "tipo": "composta pennata",
+    "disposizione": "alterna",
+    "forma": "10-20 cm, con 9-15 foglioline lanceolate di 3-6 cm",
+    "margine": "seghettato quasi fino alla base di ogni fogliolina",
+    "venatura": "pennata in ogni fogliolina",
+    "colore_stagionale": {
+     "primavera_estate": "verde opaco sopra, grigio-verde sotto",
+     "autunno": "giallo, arancio e rosso"
+    },
+    "descrizione": "A colpo d'occhio ricorda il frassino, che però ha le foglie opposte."
+   },
+   "corteccia": {
+    "colore": "grigio argento o grigio-bruno, lucido",
+    "texture": "liscia, con lenticelle orizzontali",
+    "evoluzione_con_eta": "resta liscia a lungo; solo alla base dei tronchi vecchi si screpola",
+    "descrizione": ""
+   },
+   "rami_e_portamento": {
+    "disposizione_rami": "alterna; rametti grigi con lenticelle",
+    "angolo_di_crescita": "rami ascendenti",
+    "forma_chioma": "ovale, leggera",
+    "silhouette_invernale": "piccolo albero dalla chioma rada, con grosse gemme scure all'apice dei rametti",
+    "descrizione": "Spesso isolato su pascoli e margini, dove gli uccelli ne hanno lasciato i semi.",
+    "ramificazione": "Rametti con gemma terminale vera (monopodiali)."
+   },
+   "gemme": {
+    "forma": "coniche, grandi (1-1,5 cm), un po' ricurve",
+    "colore": "violaceo scuro, coperte di peli grigi soprattutto in punta",
+    "disposizione": "alterne",
+    "descrizione": "Gemme scure e pelose: la differenza più rapida dal sorbo domestico, che le ha verdi, lucide e appiccicose."
+   },
+   "fiori_e_frutti": {
+    "tipo_fiore": "fiori bianchi a 5 petali in grandi corimbi piatti, dall'odore un po' sgradevole",
+    "periodo_fioritura": "maggio-giugno",
+    "tipo_frutto": "pomo tondeggiante di 0,8-1 cm, arancio o rosso corallo, in grappoli",
+    "periodo_fruttificazione": "agosto-ottobre",
+    "descrizione": "Le bacche restano a lungo sui rami e sono un cibo prezioso per tordi e altri uccelli."
+   },
+   "dimensioni": {
+    "altezza_tipica_m": [
+     5,
+     15
+    ],
+    "altezza_max_m": 20,
+    "eta_massima_anni": [
+     80,
+     120
+    ],
+    "note": "Di vita relativamente breve, di rado oltre i 100-120 anni."
+   },
+   "habitat_e_distribuzione": {
+    "regioni_italia": [
+     "Nord: Alpi, Prealpi e Appennino settentrionale, dai boschi di faggio e abete fino al limite degli alberi",
+     "Centro-Sud: montagne, più sporadico"
+    ],
+    "altitudine": "circa 200-2200 m, soprattutto in montagna",
+    "terreno_preferito": "povero e acido, anche sassoso; tollera il freddo e il vento",
+    "descrizione": "Frequente in lariceti, peccete, faggete, radure e pascoli di montagna; uno degli ultimi alberi verso l'alta quota."
+   },
+   "ecologia": {
+    "descrizione": "Pioniera di luce: arriva per prima in radure, frane e pascoli abbandonati di montagna, grazie agli uccelli che ne mangiano i frutti."
+   },
+   "stagionalita": {
+    "primavera": "Foglie nuove e fioritura bianca (maggio-giugno).",
+    "estate": "Grappoli di bacche arancio-rosse da agosto.",
+    "autunno": "Foglie gialle e rosse; bacche in abbondanza.",
+    "inverno": "Gemme violacee pelose; corteccia grigia liscia."
+   },
+   "specie_simili": [
+    {
+     "id_specie": "sorbus-domestica",
+     "come_distinguere": "Il sorbo domestico ha gemme verdi e appiccicose, corteccia ruvida e fessurata, frutti più grandi (2-3 cm) a forma di piccola pera o mela."
+    },
+    {
+     "id_specie": "fraxinus-excelsior",
+     "come_distinguere": "Il frassino maggiore ha foglie composte simili ma opposte, gemme nere e frutti alati."
+    }
+   ],
+   "commestibilita": {
+    "parti": "frutti (solo cotti)",
+    "note": "Le bacche crude sono amare e irritanti; cotte perdono queste sostanze e si usano per marmellate e gelatine, spesso con altra frutta.",
+    "avvertenze": "Non mangiarle crude o in quantità: contengono acido parasorbico, che irrita lo stomaco."
+   },
+   "tossicita": {
+    "livello": "bassa",
+    "parti": "bacche crude",
+    "note": "Irritanti per lo stomaco se crude; la cottura le rende innocue."
+   },
+   "curiosita_e_usi": "Il nome aucuparia viene dal latino aucupium, l'uccellagione: le bacche erano usate come esca per catturare gli uccelli. In molte tradizioni alpine è considerato un albero protettivo.",
+   "immagini": [
+    {
+     "tipo": "silhouette",
+     "file": "img/sorbus-aucuparia-silhouette.jpg",
+     "fonte": "Wikimedia Commons",
+     "autore": "Velela",
+     "licenza": "CC BY-SA 2.5",
+     "url_originale": "https://commons.wikimedia.org/wiki/File:Sorbus_aucuparia_on_Y_Garn.jpg",
+     "titolo_originale": "Sorbus aucuparia on Y Garn.jpg"
+    },
+    {
+     "tipo": "silhouette",
+     "file": "img/sorbus-aucuparia-silhouette-2.jpg",
+     "fonte": "Wikimedia Commons",
+     "autore": "böhringer friedrich",
+     "licenza": "CC BY-SA 2.5",
+     "url_originale": "https://commons.wikimedia.org/wiki/File:Annalperau_Alpe_1.JPG",
+     "titolo_originale": "Annalperau Alpe 1.JPG"
+    },
+    {
+     "tipo": "foglia",
+     "file": "img/sorbus-aucuparia-foglia.jpg",
+     "fonte": "Wikimedia Commons",
+     "autore": "Dmitry Makeev",
+     "licenza": "CC BY-SA 4.0",
+     "url_originale": "https://commons.wikimedia.org/wiki/File:2020_year._Herbarium._Sorbus_aucuparia._img-001.jpg",
+     "titolo_originale": "2020 year. Herbarium. Sorbus aucuparia. img-001.jpg"
+    },
+    {
+     "tipo": "fiore_o_frutto",
+     "file": "img/sorbus-aucuparia-fiore_o_frutto.jpg",
+     "fonte": "Wikimedia Commons",
+     "autore": "Hladac",
+     "licenza": "CC BY-SA 4.0",
+     "url_originale": "https://commons.wikimedia.org/wiki/File:(ms)_Sorbus_aucuparia_2.jpg",
+     "titolo_originale": "(ms) Sorbus aucuparia 2.jpg"
+    },
+    {
+     "tipo": "corteccia",
+     "file": "img/sorbus-aucuparia-corteccia.jpg",
+     "fonte": "Wikimedia Commons",
+     "autore": "Rosser1954",
+     "licenza": "CC BY 4.0",
+     "url_originale": "https://commons.wikimedia.org/wiki/File:Lenticels_on_Rowan_bark,_Chapeltoun,_North_Ayrshire.jpg",
+     "titolo_originale": "Lenticels on Rowan bark, Chapeltoun, North Ayrshire.jpg"
+    },
+    {
+     "tipo": "gemme",
+     "file": "img/sorbus-aucuparia-gemme.jpg",
+     "fonte": "Wikimedia Commons",
+     "autore": "Jan David Reitschläger",
+     "licenza": "CC BY-SA 4.0",
+     "url_originale": "https://commons.wikimedia.org/wiki/File:Jerab_RA7.jpg",
+     "titolo_originale": "Jerab RA7.jpg"
+    }
+   ],
+   "fonti": [
+    {
+     "titolo": "Sorbus aucuparia – Wikipedia (it)",
+     "url": "https://it.wikipedia.org/wiki/Sorbus_aucuparia"
+    },
+    {
+     "titolo": "Sorbus aucuparia – Wikipedia (en)",
+     "url": "https://en.wikipedia.org/wiki/Sorbus_aucuparia"
+    }
+   ]
+  },
+  {
+   "id": "sorbus-domestica",
+   "nome_comune": "Sorbo domestico",
+   "nome_scientifico": "Sorbus domestica",
+   "famiglia": "Rosaceae",
+   "genere": "Sorbus",
+   "sinonimi": [
+    "Sorbo comune"
+   ],
+   "nomi_locali": [],
+   "stato": "bozza",
+   "aggiornato": "2026-09-25",
+   "chiave": {
+    "gruppo": "latifoglia",
+    "persistenza": "caduca",
+    "foglia_tipo": "composta_pennata",
+    "foglia_disposizione": "alterna",
+    "foglia_margine": [
+     "seghettato"
+    ],
+    "foglia_forma": [
+     "lanceolata"
+    ],
+    "frutto": "pomo",
+    "corteccia_texture": [
+     "a_placche",
+     "fessurata"
+    ],
+    "habitat": [
+     "collinare",
+     "planiziale",
+     "rupestre_arido"
+    ],
+    "altitudine_m": [
+     0,
+     1100
+    ],
+    "ramificazione": "monopodiale",
+    "ruolo_ecologico": [
+     "non_accertato"
+    ],
+    "luce": "eliofila"
+   },
+   "tratti_chiave": [
+    "Foglie alterne composte da 11-21 foglioline, seghettate solo nella metà superiore",
+    "Gemme verdi, lucide e appiccicose",
+    "Frutti a forma di piccola pera o mela (2-3 cm), mangiabili solo dopo l'ammezzimento"
+   ],
+   "origine": {
+    "stato": "autoctona",
+    "note": "Spontaneo ma raro in natura; un tempo molto coltivato vicino alle case e ai campi."
+   },
+   "foglie": {
+    "tipo": "composta pennata",
+    "disposizione": "alterna",
+    "forma": "15-25 cm, con 11-21 foglioline lanceolate",
+    "margine": "seghettato soprattutto nella metà superiore delle foglioline",
+    "venatura": "pennata in ogni fogliolina",
+    "colore_stagionale": {
+     "primavera_estate": "verde sopra, grigio-pelosa sotto da giovane",
+     "autunno": "giallo-arancio o rossastro"
+    },
+    "descrizione": ""
+   },
+   "corteccia": {
+    "colore": "bruno-grigiastro",
+    "texture": "ruvida, fessurata in piccole placche rettangolari",
+    "evoluzione_con_eta": "si fessura presto, simile al pero",
+    "descrizione": "La corteccia a scaglie rettangolari è molto diversa da quella liscia del sorbo degli uccellatori."
+   },
+   "rami_e_portamento": {
+    "disposizione_rami": "alterna",
+    "angolo_di_crescita": "rami ascendenti",
+    "forma_chioma": "ampia, tondeggiante",
+    "silhouette_invernale": "albero di taglia media con chioma arrotondata e gemme verdi lucide",
+    "descrizione": "Cresce lentamente; gli esemplari isolati nei campi possono essere molto vecchi.",
+    "ramificazione": "Rametti con gemma terminale vera (monopodiali)."
+   },
+   "gemme": {
+    "forma": "ovoidali, appuntite",
+    "colore": "verdi, lucide, glabre e appiccicose",
+    "disposizione": "alterne",
+    "descrizione": ""
+   },
+   "fiori_e_frutti": {
+    "tipo_fiore": "fiori bianchi a 5 petali in corimbi",
+    "periodo_fioritura": "maggio",
+    "tipo_frutto": "pomo di 2-3 cm, a forma di pera o di mela, giallo-verde con guancia rossa",
+    "periodo_fruttificazione": "settembre-ottobre; si raccoglie acerbo e si lascia maturare",
+    "descrizione": "Le sorbe si raccolgono dure e si lasciano ammezzire sulla paglia finché diventano morbide, brune e dolci."
+   },
+   "dimensioni": {
+    "altezza_tipica_m": [
+     10,
+     20
+    ],
+    "altezza_max_m": 25,
+    "eta_massima_anni": null,
+    "note": "Età massima non accertata; si citano esemplari plurisecolari, ma le stime sono incerte."
+   },
+   "habitat_e_distribuzione": {
+    "regioni_italia": [
+     "Tutta Italia, sparso in boschi caldi di roverella, siepi, vecchi coltivi",
+     "Nord: colline e Prealpi, soprattutto su calcare"
+    ],
+    "altitudine": "0-1000 m, localmente fino a 1100 m",
+    "terreno_preferito": "calcareo e asciutto; tollera la siccità",
+    "descrizione": "Raro allo stato selvatico, più frequente vicino a vecchie cascine e poderi."
+   },
+   "ecologia": {
+    "descrizione": "Ruolo nella successione non accertato. Specie di luce e calore, sparsa nei boschi di roverella e nelle siepi."
+   },
+   "stagionalita": {
+    "primavera": "Fioritura bianca (maggio).",
+    "estate": "Frutti verdi che si colorano di rosso.",
+    "autunno": "Raccolta delle sorbe; foglie giallo-arancio.",
+    "inverno": "Gemme verdi lucide e appiccicose; corteccia a scaglie."
+   },
+   "specie_simili": [
+    {
+     "id_specie": "sorbus-aucuparia",
+     "come_distinguere": "Il sorbo degli uccellatori ha gemme scure e pelose, corteccia liscia e bacche piccole arancio-rosse in grappoli."
+    },
+    {
+     "id_specie": "fraxinus-excelsior",
+     "come_distinguere": "Il frassino maggiore ha foglie composte opposte, gemme nere e frutti alati."
+    }
+   ],
+   "commestibilita": {
+    "parti": "frutti ammezziti",
+    "note": "Le sorbe sono commestibili solo dopo l'ammezzimento: diventano morbide, dolci e un po' vinose.",
+    "avvertenze": "Acerbe sono molto astringenti e indigeste."
+   },
+   "tossicita": {
+    "livello": "nessuna_nota",
+    "parti": "",
+    "note": "Nessuna tossicità significativa nota."
+   },
+   "curiosita_e_usi": "Il legno, durissimo e fine, era usato per ingranaggi, viti dei torchi e strumenti. Il proverbio «col tempo e con la paglia maturano le sorbe» viene proprio dall'ammezzimento.",
+   "immagini": [
+    {
+     "tipo": "silhouette",
+     "file": "img/sorbus-domestica-silhouette.jpg",
+     "fonte": "Wikimedia Commons",
+     "autore": "Friedrich Haag",
+     "licenza": "CC BY-SA 4.0",
+     "url_originale": "https://commons.wikimedia.org/wiki/File:073_2015_05_25_Speierling_s%C3%BCdlich_von_Meckenheim_(Wiki_Loves_Earth_2015).jpg",
+     "titolo_originale": "073 2015 05 25 Speierling südlich von Meckenheim (Wiki Loves Earth 2015).jpg"
+    },
+    {
+     "tipo": "foglia",
+     "file": "img/sorbus-domestica-foglia.jpg",
+     "fonte": "Wikimedia Commons",
+     "autore": "G.Bernetti/EUFORGEN",
+     "licenza": "CC BY-SA 4.0",
+     "url_originale": "https://commons.wikimedia.org/wiki/File:Sorbus_domestica_leaf_illustration.jpg",
+     "titolo_originale": "Sorbus domestica leaf illustration.jpg"
+    },
+    {
+     "tipo": "fiore_o_frutto",
+     "file": "img/sorbus-domestica-fiore_o_frutto.jpg",
+     "fonte": "Wikimedia Commons",
+     "autore": "BotBln",
+     "licenza": "CC BY-SA 3.0",
+     "url_originale": "https://commons.wikimedia.org/wiki/File:Sorbus_domestica_FruitsLeaves_BotGardBln0906a.JPG",
+     "titolo_originale": "Sorbus domestica FruitsLeaves BotGardBln0906a.JPG"
+    },
+    {
+     "tipo": "corteccia",
+     "file": "img/sorbus-domestica-corteccia.jpg",
+     "fonte": "Wikimedia Commons",
+     "autore": "Haeferl",
+     "licenza": "CC BY-SA 3.0 at",
+     "url_originale": "https://commons.wikimedia.org/wiki/File:Forchtenstein_-_Naturdenkmal_MA-017_-_Speierling_-_Rinde.jpg",
+     "titolo_originale": "Forchtenstein - Naturdenkmal MA-017 - Speierling - Rinde.jpg"
+    },
+    {
+     "tipo": "gemme",
+     "file": "img/sorbus-domestica-gemme.jpg",
+     "fonte": "Wikimedia Commons",
+     "autore": "Jiròni B.",
+     "licenza": "CC0",
+     "url_originale": "https://commons.wikimedia.org/wiki/File:Cormier_-_bourgeon_1.jpg",
+     "titolo_originale": "Cormier - bourgeon 1.jpg"
+    }
+   ],
+   "fonti": [
+    {
+     "titolo": "Sorbus domestica – Wikipedia (it)",
+     "url": "https://it.wikipedia.org/wiki/Sorbus_domestica"
+    },
+    {
+     "titolo": "Sorbus domestica – Wikipedia (en)",
+     "url": "https://en.wikipedia.org/wiki/Sorbus_domestica"
     }
    ]
   },
@@ -5432,6 +7659,89 @@
     "tilia-platyphyllos"
    ],
    "stagione": "autunno"
+  },
+  {
+   "id": "c051",
+   "testo": "Il «cotone» che vola a maggio e giugno non è polline: sono i semi di pioppi e salici, ciascuno con un ciuffo di peli che lo fa viaggiare col vento.",
+   "specie": [
+    "populus-alba",
+    "populus-nigra",
+    "salix-alba"
+   ],
+   "stagione": "primavera"
+  },
+  {
+   "id": "c052",
+   "testo": "Il pioppo tremulo trema al minimo soffio perché il picciolo delle foglie è appiattito di lato: la foglia ruota come una banderuola.",
+   "specie": [
+    "populus-tremula"
+   ]
+  },
+  {
+   "id": "c053",
+   "testo": "Un boschetto di pioppi tremuli può essere un unico individuo: le piante nascono dalle radici di una sola madre e sono geneticamente identiche.",
+   "specie": [
+    "populus-tremula"
+   ]
+  },
+  {
+   "id": "c054",
+   "testo": "Il pioppo cipressino, colonnare, dei filari padani è un clone maschile del pioppo nero, moltiplicato per talea da secoli.",
+   "specie": [
+    "populus-nigra"
+   ]
+  },
+  {
+   "id": "c055",
+   "testo": "Dalla salicina della corteccia del salice si è arrivati, nell'Ottocento, all'acido acetilsalicilico, cioè l'aspirina.",
+   "specie": [
+    "salix-alba"
+   ]
+  },
+  {
+   "id": "c056",
+   "testo": "Il ciliegio selvatico ha due piccole ghiandole rosse sul picciolo: producono nettare per attirare le formiche, che difendono le foglie dagli insetti.",
+   "specie": [
+    "prunus-avium"
+   ]
+  },
+  {
+   "id": "c057",
+   "testo": "Tagliando per il lungo un rametto di noce si vede il midollo diviso in tante piccole camere, come una scala: un segno unico per riconoscerlo d'inverno.",
+   "specie": [
+    "juglans-regia"
+   ],
+   "stagione": "inverno"
+  },
+  {
+   "id": "c058",
+   "testo": "«Col tempo e con la paglia maturano le sorbe»: le sorbe si raccolgono dure e diventano dolci solo dopo settimane sulla paglia.",
+   "specie": [
+    "sorbus-domestica"
+   ],
+   "stagione": "autunno"
+  },
+  {
+   "id": "c059",
+   "testo": "Le bacche del sorbo degli uccellatori erano usate come esca per catturare gli uccelli: da qui il nome aucuparia, da aucupium, uccellagione.",
+   "specie": [
+    "sorbus-aucuparia"
+   ],
+   "stagione": "autunno"
+  },
+  {
+   "id": "c060",
+   "testo": "I filari di gelsi capitozzati ai bordi dei campi padani sono ciò che resta dell'allevamento dei bachi da seta, che si nutrono solo delle loro foglie.",
+   "specie": [
+    "morus-alba"
+   ]
+  },
+  {
+   "id": "c061",
+   "testo": "Le siepi di biancospino e rovo fanno da «nursery» del bosco: tra le spine le giovani querce crescono protette dal morso di caprioli e animali al pascolo.",
+   "specie": [
+    "crataegus-monogyna"
+   ]
   }
  ],
  "elenco_specie": [
@@ -5617,7 +7927,7 @@
    "nome_scientifico": "Populus alba",
    "gruppo": "latifoglia",
    "lotto": 3,
-   "stato": "pianificata"
+   "stato": "compilata"
   },
   {
    "id": "populus-nigra",
@@ -5625,7 +7935,7 @@
    "nome_scientifico": "Populus nigra",
    "gruppo": "latifoglia",
    "lotto": 3,
-   "stato": "pianificata"
+   "stato": "compilata"
   },
   {
    "id": "populus-tremula",
@@ -5633,7 +7943,7 @@
    "nome_scientifico": "Populus tremula",
    "gruppo": "latifoglia",
    "lotto": 3,
-   "stato": "pianificata"
+   "stato": "compilata"
   },
   {
    "id": "salix-alba",
@@ -5641,7 +7951,7 @@
    "nome_scientifico": "Salix alba",
    "gruppo": "latifoglia",
    "lotto": 3,
-   "stato": "pianificata"
+   "stato": "compilata"
   },
   {
    "id": "salix-babylonica",
@@ -5649,7 +7959,7 @@
    "nome_scientifico": "Salix babylonica",
    "gruppo": "latifoglia",
    "lotto": 3,
-   "stato": "pianificata"
+   "stato": "compilata"
   },
   {
    "id": "prunus-avium",
@@ -5657,7 +7967,7 @@
    "nome_scientifico": "Prunus avium",
    "gruppo": "latifoglia",
    "lotto": 3,
-   "stato": "pianificata"
+   "stato": "compilata"
   },
   {
    "id": "sorbus-aucuparia",
@@ -5665,7 +7975,7 @@
    "nome_scientifico": "Sorbus aucuparia",
    "gruppo": "latifoglia",
    "lotto": 3,
-   "stato": "pianificata"
+   "stato": "compilata"
   },
   {
    "id": "sorbus-domestica",
@@ -5673,7 +7983,7 @@
    "nome_scientifico": "Sorbus domestica",
    "gruppo": "latifoglia",
    "lotto": 3,
-   "stato": "pianificata"
+   "stato": "compilata"
   },
   {
    "id": "crataegus-monogyna",
@@ -5681,7 +7991,7 @@
    "nome_scientifico": "Crataegus monogyna",
    "gruppo": "latifoglia",
    "lotto": 3,
-   "stato": "pianificata"
+   "stato": "compilata"
   },
   {
    "id": "juglans-regia",
@@ -5689,7 +7999,7 @@
    "nome_scientifico": "Juglans regia",
    "gruppo": "latifoglia",
    "lotto": 3,
-   "stato": "pianificata"
+   "stato": "compilata"
   },
   {
    "id": "morus-alba",
@@ -5697,7 +8007,7 @@
    "nome_scientifico": "Morus alba",
    "gruppo": "latifoglia",
    "lotto": 3,
-   "stato": "pianificata"
+   "stato": "compilata"
   },
   {
    "id": "quercus-ilex",

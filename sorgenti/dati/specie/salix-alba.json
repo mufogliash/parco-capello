@@ -1,0 +1,210 @@
+{
+  "id": "salix-alba",
+  "nome_comune": "Salice bianco",
+  "nome_scientifico": "Salix alba",
+  "famiglia": "Salicaceae",
+  "genere": "Salix",
+  "sinonimi": [
+    "Salcio"
+  ],
+  "nomi_locali": [],
+  "stato": "bozza",
+  "aggiornato": "2026-09-25",
+  "chiave": {
+    "gruppo": "latifoglia",
+    "persistenza": "caduca",
+    "foglia_tipo": "semplice",
+    "foglia_disposizione": "alterna",
+    "foglia_margine": [
+      "seghettato"
+    ],
+    "foglia_forma": [
+      "lanceolata"
+    ],
+    "frutto": "capsula",
+    "corteccia_texture": [
+      "fessurata"
+    ],
+    "habitat": [
+      "planiziale",
+      "ripariale_umido",
+      "collinare"
+    ],
+    "altitudine_m": [
+      0,
+      1000
+    ],
+    "ramificazione": "simpodiale",
+    "ruolo_ecologico": [
+      "pioniera"
+    ],
+    "luce": "eliofila"
+  },
+  "tratti_chiave": [
+    "Foglie strette e lanceolate, argentee e sericee soprattutto sotto: da lontano la chioma è grigio-argento",
+    "Albero delle rive, spesso capitozzato con una «testa» da cui partono molti rami diritti",
+    "Gemme appiattite contro il rametto, coperte da un'unica squama a cappuccio"
+  ],
+  "origine": {
+    "stato": "autoctona",
+    "note": ""
+  },
+  "foglie": {
+    "tipo": "semplice",
+    "disposizione": "alterna",
+    "forma": "lanceolata, stretta, 5-10 cm, con punta lunga",
+    "margine": "finemente seghettato",
+    "venatura": "pennata",
+    "colore_stagionale": {
+      "primavera_estate": "verde-grigia sopra, argentea e sericea sotto per peli fitti e appressati",
+      "autunno": "giallo pallido"
+    },
+    "descrizione": "I peli argentei danno alla chioma il colore grigio-argento che si riconosce a distanza lungo i fiumi."
+  },
+  "corteccia": {
+    "colore": "grigio",
+    "texture": "fessurata in creste intrecciate a rete",
+    "evoluzione_con_eta": "liscia e grigio-verde solo nei rami giovani; il tronco si fessura presto",
+    "descrizione": "Nei salici capitozzati il tronco è corto e grosso, spesso cavo, con una «testa» da cui partono i rami."
+  },
+  "rami_e_portamento": {
+    "disposizione_rami": "alterna; rametti flessibili, giallo-olivastri o bruni",
+    "angolo_di_crescita": "rami ascendenti",
+    "forma_chioma": "ampia e leggera, grigio-argento",
+    "silhouette_invernale": "tronco inclinato o capitozzato, con ciuffo di rami diritti; rametti sottili e flessibili",
+    "descrizione": "La capitozzatura (taglio periodico dei rami) serviva a produrre vimini e pali: dà ai salici la forma a «testa».",
+    "ramificazione": "Rametti simpodiali: manca la gemma terminale vera."
+  },
+  "gemme": {
+    "forma": "appiattite, allungate",
+    "colore": "giallastre o bruno-rossicce, pelose",
+    "disposizione": "alterne, appressate al rametto",
+    "descrizione": "Come in tutti i salici, ogni gemma è avvolta da un'unica squama a cappuccio."
+  },
+  "fiori_e_frutti": {
+    "tipo_fiore": "pianta dioica: amenti eretti o arcuati, gialli i maschili e verdi i femminili",
+    "periodo_fioritura": "aprile, insieme alle foglie",
+    "tipo_frutto": "capsula che libera semi cotonosi",
+    "periodo_fruttificazione": "maggio-giugno",
+    "descrizione": "I fiori sono impollinati anche dagli insetti: a primavera gli amenti sono visitati dalle api."
+  },
+  "dimensioni": {
+    "altezza_tipica_m": [
+      10,
+      20
+    ],
+    "altezza_max_m": 25,
+    "eta_massima_anni": null,
+    "note": "Età massima non accertata; i salici capitozzati possono vivere a lungo grazie ai tagli periodici."
+  },
+  "habitat_e_distribuzione": {
+    "regioni_italia": [
+      "Tutta Italia lungo fiumi, canali, fossi e laghi",
+      "Nord: comunissimo nella Pianura Padana e nelle valli"
+    ],
+    "altitudine": "0-1000 m",
+    "terreno_preferito": "umido, anche inondato periodicamente; sabbia, limo e ghiaia",
+    "descrizione": "L'albero dei fiumi di pianura, con pioppo bianco, pioppo nero e ontano nero; tollera le piene."
+  },
+  "ecologia": {
+    "descrizione": "Pioniera delle rive: vuole piena luce, colonizza i depositi lasciati dalle piene e ricaccia facilmente anche da rami spezzati."
+  },
+  "stagionalita": {
+    "primavera": "Amenti con le foglie nuove (aprile).",
+    "estate": "Chioma grigio-argento lungo l'acqua.",
+    "autunno": "Foglie giallo pallido.",
+    "inverno": "Salici capitozzati con rametti gialli o bruni."
+  },
+  "specie_simili": [
+    {
+      "id_specie": "salix-babylonica",
+      "come_distinguere": "Il salice piangente ha rami lunghissimi ricadenti fino a terra e foglie verdi, non argentee; è piantato vicino all'acqua nei parchi."
+    },
+    {
+      "id_specie": "salix-caprea",
+      "come_distinguere": "Il salicone ha foglie larghe ellittiche, grigio-feltrose sotto, e vistosi amenti argentei a fine inverno; vive ai margini dei boschi."
+    },
+    {
+      "id_specie": "populus-alba",
+      "come_distinguere": "Il pioppo bianco ha foglie lobate o ovali, bianche e feltrose sotto, e corteccia chiara con rombi scuri."
+    }
+  ],
+  "commestibilita": {
+    "parti": "",
+    "note": "",
+    "avvertenze": ""
+  },
+  "tossicita": {
+    "livello": "nessuna_nota",
+    "parti": "",
+    "note": "Nessuna tossicità significativa nota. La corteccia contiene salicina, da cui deriva storicamente l'acido acetilsalicilico (aspirina)."
+  },
+  "curiosita_e_usi": "La varietà vitellina, con rametti arancio vivo, era coltivata per legare le viti. Dalla salicina della corteccia si arrivò, nell'Ottocento, all'aspirina.",
+  "immagini": [
+    {
+      "tipo": "silhouette",
+      "file": "img/salix-alba-silhouette.jpg",
+      "fonte": "Wikimedia Commons",
+      "autore": "Achim Lammerts (Syntaxys)",
+      "licenza": "CC BY-SA 4.0",
+      "url_originale": "https://commons.wikimedia.org/wiki/File:2026-03-06_Alte_Silberweide_im_Auwald_bei_Neupotz_(D500-97216M)_by_Achim_Lammerts.jpg",
+      "titolo_originale": "2026-03-06 Alte Silberweide im Auwald bei Neupotz (D500-97216M) by Achim Lammerts.jpg",
+      "stagione": "inverno"
+    },
+    {
+      "tipo": "foglia",
+      "file": "img/salix-alba-foglia.jpg",
+      "fonte": "Wikimedia Commons",
+      "autore": "AnRo0002",
+      "licenza": "CC0",
+      "url_originale": "https://commons.wikimedia.org/wiki/File:20130628Salix_alba.jpg",
+      "titolo_originale": "20130628Salix alba.jpg"
+    },
+    {
+      "tipo": "fiore_o_frutto",
+      "file": "img/salix-alba-fiore_o_frutto.jpg",
+      "fonte": "Wikimedia Commons",
+      "autore": "Димитър Найденов / Dimìtar Nàydenov",
+      "licenza": "CC BY-SA 4.0",
+      "url_originale": "https://commons.wikimedia.org/wiki/File:%D0%91%D1%8F%D0%BB%D0%B0_%D0%B2%D1%8A%D1%80%D0%B1%D0%B0_%E2%80%93_%D0%BF%D0%BB%D0%BE%D0%B4%D0%BE%D0%B2%D0%B5_3.jpg",
+      "titolo_originale": "Бяла върба – плодове 3.jpg"
+    },
+    {
+      "tipo": "gemme",
+      "file": "img/salix-alba-gemme.jpg",
+      "fonte": "Wikimedia Commons",
+      "autore": "AnRo0002",
+      "licenza": "CC0",
+      "url_originale": "https://commons.wikimedia.org/wiki/File:20140303Salix_alba2.jpg",
+      "titolo_originale": "20140303Salix alba2.jpg"
+    },
+    {
+      "tipo": "silhouette",
+      "file": "img/salix-alba-silhouette-2.jpg",
+      "fonte": "Wikimedia Commons",
+      "autore": "Willow",
+      "licenza": "CC BY-SA 2.5",
+      "url_originale": "https://commons.wikimedia.org/wiki/File:Salix_alba_004.jpg",
+      "titolo_originale": "Salix alba 004.jpg"
+    },
+    {
+      "tipo": "foglia",
+      "file": "img/salix-alba-foglia-2.jpg",
+      "fonte": "Wikimedia Commons",
+      "autore": "MPF",
+      "licenza": "CC BY-SA 3.0",
+      "url_originale": "https://commons.wikimedia.org/wiki/File:Salix_alba_leaves.jpg",
+      "titolo_originale": "Salix alba leaves.jpg"
+    }
+  ],
+  "fonti": [
+    {
+      "titolo": "Salix alba – Wikipedia (it)",
+      "url": "https://it.wikipedia.org/wiki/Salix_alba"
+    },
+    {
+      "titolo": "Salix alba – Wikipedia (en)",
+      "url": "https://en.wikipedia.org/wiki/Salix_alba"
+    }
+  ]
+}

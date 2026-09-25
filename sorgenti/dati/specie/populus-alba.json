@@ -1,0 +1,219 @@
+{
+  "id": "populus-alba",
+  "nome_comune": "Pioppo bianco",
+  "nome_scientifico": "Populus alba",
+  "famiglia": "Salicaceae",
+  "genere": "Populus",
+  "sinonimi": [
+    "Gattice",
+    "Albero bianco"
+  ],
+  "nomi_locali": [],
+  "stato": "bozza",
+  "aggiornato": "2026-09-25",
+  "chiave": {
+    "gruppo": "latifoglia",
+    "persistenza": "caduca",
+    "foglia_tipo": "semplice",
+    "foglia_disposizione": "alterna",
+    "foglia_margine": [
+      "lobato",
+      "dentato"
+    ],
+    "foglia_forma": [
+      "palmata",
+      "ovata"
+    ],
+    "frutto": "capsula",
+    "corteccia_texture": [
+      "liscia",
+      "fessurata"
+    ],
+    "habitat": [
+      "planiziale",
+      "ripariale_umido",
+      "mediterraneo_costiero",
+      "urbano_parchi"
+    ],
+    "altitudine_m": [
+      0,
+      800
+    ],
+    "ramificazione": "monopodiale",
+    "ruolo_ecologico": [
+      "pioniera"
+    ],
+    "luce": "eliofila"
+  },
+  "tratti_chiave": [
+    "Pagina inferiore della foglia bianca e feltrosa: al vento la chioma luccica di bianco",
+    "Foglie dei rami lunghi con 3-5 lobi, come un piccolo acero; quelle dei rami corti ovali e dentate",
+    "Corteccia biancastra con segni scuri a rombo; base del tronco scura e fessurata"
+  ],
+  "origine": {
+    "stato": "autoctona",
+    "note": ""
+  },
+  "foglie": {
+    "tipo": "semplice",
+    "disposizione": "alterna",
+    "forma": "molto variabile: sui getti vigorosi palmata a 3-5 lobi (6-12 cm), sui rametti corti ovata o tondeggiante",
+    "margine": "lobato sui getti lunghi, irregolarmente dentato sui rametti corti",
+    "venatura": "palmata sui getti lunghi, pennata sulle foglie piccole",
+    "colore_stagionale": {
+      "primavera_estate": "verde scuro sopra, bianca e feltrosa sotto",
+      "autunno": "giallo pallido"
+    },
+    "descrizione": "Il contrasto tra le due facce è il carattere più evidente: con il vento la chioma alterna verde e bianco. Anche i rametti giovani e il picciolo sono coperti di feltro bianco."
+  },
+  "corteccia": {
+    "colore": "bianco-grigiastro, a volte verdastro",
+    "texture": "liscia, segnata da lenticelle scure a forma di rombo o losanga",
+    "evoluzione_con_eta": "con l'età la base del tronco diventa nera e profondamente fessurata, mentre la parte alta resta chiara",
+    "descrizione": "Da lontano il tronco chiaro può ricordare la betulla, ma il bianco è più grigio e i segni scuri sono rombi, non strisce orizzontali."
+  },
+  "rami_e_portamento": {
+    "disposizione_rami": "alterna; rametti giovani bianco-feltrosi",
+    "angolo_di_crescita": "branche robuste, ascendenti e poi aperte",
+    "forma_chioma": "ampia, irregolare, spesso inclinata",
+    "silhouette_invernale": "tronco chiaro in alto e scuro alla base; chioma larga e irregolare; spesso circondato da polloni",
+    "descrizione": "Emette moltissimi polloni dalle radici e forma boschetti di piante collegate tra loro.",
+    "ramificazione": "Rametti con gemma terminale vera (monopodiali)."
+  },
+  "gemme": {
+    "forma": "ovoidali, piccole",
+    "colore": "brune, coperte di feltro bianco",
+    "disposizione": "alterne",
+    "descrizione": "Le gemme pelose e bianche lo distinguono dal pioppo nero, che le ha glabre, lucide e appiccicose."
+  },
+  "fiori_e_frutti": {
+    "tipo_fiore": "pianta dioica: amenti penduli, rossastri i maschili e verdi i femminili, su alberi diversi",
+    "periodo_fioritura": "febbraio-marzo, prima delle foglie",
+    "tipo_frutto": "capsula che si apre e libera semi minuti avvolti da un fitto cotone bianco",
+    "periodo_fruttificazione": "maggio-giugno",
+    "descrizione": "Il «cotone» dei pioppi è formato dai peli attaccati ai semi: li porta lontano il vento e si accumula a terra come neve."
+  },
+  "dimensioni": {
+    "altezza_tipica_m": [
+      20,
+      30
+    ],
+    "altezza_max_m": 35,
+    "eta_massima_anni": null,
+    "note": "Età massima non accertata; come gli altri pioppi cresce in fretta e vive meno di querce e tigli."
+  },
+  "habitat_e_distribuzione": {
+    "regioni_italia": [
+      "Tutta Italia, soprattutto lungo fiumi e in pianura",
+      "Nord: golene e argini della Pianura Padana, coste adriatiche; molto piantato"
+    ],
+    "altitudine": "0-800 m",
+    "terreno_preferito": "fresco, profondo, anche sabbioso; tollera l'aridità estiva e un po' di salsedine meglio degli altri pioppi",
+    "descrizione": "Tipico dei boschi ripariali di pianura con salice bianco e pioppo nero; piantato anche per consolidare dune e scarpate."
+  },
+  "ecologia": {
+    "descrizione": "Pioniera di piena luce: colonizza sponde, greti e terreni smossi, anche grazie ai polloni radicali che formano colonie estese."
+  },
+  "stagionalita": {
+    "primavera": "Amenti penduli a fine inverno; a maggio il cotone dei semi.",
+    "estate": "Chioma che luccica di bianco al vento.",
+    "autunno": "Foglie giallo pallido.",
+    "inverno": "Tronco chiaro con rombi scuri; rametti e gemme feltrosi e bianchi."
+  },
+  "specie_simili": [
+    {
+      "id_specie": "populus-tremula",
+      "come_distinguere": "Il pioppo tremulo ha foglie tondeggianti verdi su entrambe le facce, con picciolo appiattito, e cresce soprattutto in collina e montagna."
+    },
+    {
+      "id_specie": "populus-nigra",
+      "come_distinguere": "Il pioppo nero ha foglie triangolari verdi e lucide su entrambe le facce e corteccia scura e fessurata."
+    },
+    {
+      "id_specie": "betula-pendula",
+      "come_distinguere": "La betulla ha corteccia bianca con strisce orizzontali, foglia romboidale doppiamente seghettata e verde sotto, rametti penduli."
+    },
+    {
+      "id_specie": "salix-alba",
+      "come_distinguere": "Il salice bianco ha foglie strette e lanceolate, argentee su entrambe le facce, e corteccia grigia fessurata."
+    }
+  ],
+  "commestibilita": {
+    "parti": "",
+    "note": "",
+    "avvertenze": ""
+  },
+  "tossicita": {
+    "livello": "nessuna_nota",
+    "parti": "",
+    "note": "Nessuna tossicità nota. Il polline di fine inverno è allergenico; il cotone dei semi è fastidioso ma non allergenico."
+  },
+  "curiosita_e_usi": "Legno leggero e tenero, usato per imballaggi, compensati e carta. Esiste un ibrido naturale con il pioppo tremulo, il pioppo grigio (Populus × canescens), con caratteri intermedi e pagina inferiore grigia.",
+  "immagini": [
+    {
+      "tipo": "silhouette",
+      "file": "img/populus-alba-silhouette.jpg",
+      "fonte": "Wikimedia Commons",
+      "autore": "AnRo0002",
+      "licenza": "CC0",
+      "url_originale": "https://commons.wikimedia.org/wiki/File:20150519Populus_alba1.jpg",
+      "titolo_originale": "20150519Populus alba1.jpg"
+    },
+    {
+      "tipo": "silhouette",
+      "file": "img/populus-alba-silhouette-2.jpg",
+      "fonte": "Wikimedia Commons",
+      "autore": "AnRo0002",
+      "licenza": "CC0",
+      "url_originale": "https://commons.wikimedia.org/wiki/File:20190319_Populus_alba_1.jpg",
+      "titolo_originale": "20190319 Populus alba 1.jpg",
+      "stagione": "inverno"
+    },
+    {
+      "tipo": "foglia",
+      "file": "img/populus-alba-foglia.jpg",
+      "fonte": "Wikimedia Commons",
+      "autore": "AnRo0002",
+      "licenza": "CC0",
+      "url_originale": "https://commons.wikimedia.org/wiki/File:20160727Populus_alba2.jpg",
+      "titolo_originale": "20160727Populus alba2.jpg"
+    },
+    {
+      "tipo": "corteccia",
+      "file": "img/populus-alba-corteccia.jpg",
+      "fonte": "Wikimedia Commons",
+      "autore": "Joanna Boisse",
+      "licenza": "CC BY-SA 4.0",
+      "url_originale": "https://commons.wikimedia.org/wiki/File:Atlas_roslin_pl_Topola_bia%C5%82a_7518_7635.jpg",
+      "titolo_originale": "Atlas roslin pl Topola biała 7518 7635.jpg"
+    },
+    {
+      "tipo": "fiore_o_frutto",
+      "file": "img/populus-alba-fiore_o_frutto.jpg",
+      "fonte": "Wikimedia Commons",
+      "autore": "AnRo0002",
+      "licenza": "CC0",
+      "url_originale": "https://commons.wikimedia.org/wiki/File:20190319_Populus_alba_4.jpg",
+      "titolo_originale": "20190319 Populus alba 4.jpg"
+    },
+    {
+      "tipo": "gemme",
+      "file": "img/populus-alba-gemme.jpg",
+      "fonte": "Wikimedia Commons",
+      "autore": "Stefan.lefnaer",
+      "licenza": "CC BY-SA 4.0",
+      "url_originale": "https://commons.wikimedia.org/wiki/File:Populus_alba_sl17.jpg",
+      "titolo_originale": "Populus alba sl17.jpg"
+    }
+  ],
+  "fonti": [
+    {
+      "titolo": "Populus alba – Wikipedia (it)",
+      "url": "https://it.wikipedia.org/wiki/Populus_alba"
+    },
+    {
+      "titolo": "Populus alba – Wikipedia (en)",
+      "url": "https://en.wikipedia.org/wiki/Populus_alba"
+    }
+  ]
+}

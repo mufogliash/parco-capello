@@ -128,6 +128,14 @@
     {
       "id_specie": "sorbus-aucuparia",
       "come_distinguere": "Il sorbo degli uccellatori ha foglie composte simili ma alterne, fiori bianchi e bacche rosse."
+    },
+    {
+      "id_specie": "juglans-regia",
+      "come_distinguere": "Il noce ha foglie composte alterne con foglioline a margine intero, profumate, e gemme grigio-scure vellutate."
+    },
+    {
+      "id_specie": "sorbus-domestica",
+      "come_distinguere": "Il sorbo domestico ha foglie composte alterne, gemme verdi appiccicose e frutti a piccola pera."
     }
   ],
   "commestibilita": {

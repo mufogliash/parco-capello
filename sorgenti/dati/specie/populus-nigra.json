@@ -1,0 +1,199 @@
+{
+  "id": "populus-nigra",
+  "nome_comune": "Pioppo nero",
+  "nome_scientifico": "Populus nigra",
+  "famiglia": "Salicaceae",
+  "genere": "Populus",
+  "sinonimi": [
+    "Pioppo nostrano"
+  ],
+  "nomi_locali": [],
+  "stato": "bozza",
+  "aggiornato": "2026-09-25",
+  "chiave": {
+    "gruppo": "latifoglia",
+    "persistenza": "caduca",
+    "foglia_tipo": "semplice",
+    "foglia_disposizione": "alterna",
+    "foglia_margine": [
+      "crenato",
+      "seghettato"
+    ],
+    "foglia_forma": [
+      "rombica",
+      "ovata"
+    ],
+    "frutto": "capsula",
+    "corteccia_texture": [
+      "fessurata"
+    ],
+    "habitat": [
+      "planiziale",
+      "ripariale_umido",
+      "collinare",
+      "urbano_parchi"
+    ],
+    "altitudine_m": [
+      0,
+      1200
+    ],
+    "ramificazione": "monopodiale",
+    "ruolo_ecologico": [
+      "pioniera"
+    ],
+    "luce": "eliofila"
+  },
+  "tratti_chiave": [
+    "Foglia triangolare o romboidale, verde lucida su entrambe le facce, con picciolo appiattito",
+    "Corteccia grigio scuro profondamente solcata, tronco spesso con grosse escrescenze (nodi)",
+    "La forma «cipressina» (var. italica) è il pioppo colonnare dei filari padani"
+  ],
+  "origine": {
+    "stato": "autoctona",
+    "note": "Molti pioppi dei pioppeti sono ibridi coltivati (Populus × canadensis), difficili da distinguere."
+  },
+  "foglie": {
+    "tipo": "semplice",
+    "disposizione": "alterna",
+    "forma": "triangolare-romboidale, 5-10 cm, con punta allungata e base a cuneo o troncata",
+    "margine": "crenato-seghettato, con dentini arrotondati, senza ciglia",
+    "venatura": "pennata",
+    "colore_stagionale": {
+      "primavera_estate": "verde lucido su entrambe le facce; picciolo appiattito lateralmente che fa muovere la foglia",
+      "autunno": "giallo"
+    },
+    "descrizione": "Le foglie del pioppo ibrido dei pioppeti sono più grandi e hanno il margine con ciglia: è uno dei pochi dettagli per separarli, e non sempre è sicuro."
+  },
+  "corteccia": {
+    "colore": "grigio scuro, quasi nera",
+    "texture": "profondamente solcata in creste irregolari; tronco spesso con grossi bitorzoli",
+    "evoluzione_con_eta": "liscia e grigia da giovane, poi sempre più scura e fessurata",
+    "descrizione": "I bitorzoli sul tronco (ipertrofie) sono tipici degli esemplari selvatici e danno un aspetto nodoso."
+  },
+  "rami_e_portamento": {
+    "disposizione_rami": "alterna; rametti giallo-bruni lucidi",
+    "angolo_di_crescita": "branche principali grosse e arcuate; nella var. italica tutte erette",
+    "forma_chioma": "ampia e irregolare; colonnare nel pioppo cipressino",
+    "silhouette_invernale": "tronco scuro e nodoso con grandi branche arcuate; nel cipressino una sagoma a fuso inconfondibile",
+    "descrizione": "Il pioppo cipressino è un clone maschile, moltiplicato per talea e piantato lungo strade e canali.",
+    "ramificazione": "Rametti con gemma terminale vera (monopodiali)."
+  },
+  "gemme": {
+    "forma": "coniche, appuntite, allungate",
+    "colore": "bruno-rossastre, lucide e appiccicose, profumate di resina",
+    "disposizione": "alterne, le laterali ricurve verso il rametto",
+    "descrizione": "Le gemme appiccicose producono una resina profumata, raccolta dalle api (propoli)."
+  },
+  "fiori_e_frutti": {
+    "tipo_fiore": "pianta dioica: amenti maschili rosso scuro, femminili verdi, su alberi diversi",
+    "periodo_fioritura": "marzo-aprile, prima delle foglie",
+    "tipo_frutto": "capsula che libera semi con cotone bianco",
+    "periodo_fruttificazione": "maggio-giugno",
+    "descrizione": "In primavera a terra si trovano gli amenti maschili rossi caduti, come piccoli bruchi."
+  },
+  "dimensioni": {
+    "altezza_tipica_m": [
+      20,
+      30
+    ],
+    "altezza_max_m": 35,
+    "eta_massima_anni": null,
+    "note": "Età massima non accertata; alcuni pioppi neri monumentali sono stimati di diversi secoli, ma la specie è in genere di vita breve."
+  },
+  "habitat_e_distribuzione": {
+    "regioni_italia": [
+      "Tutta Italia lungo fiumi e torrenti",
+      "Nord: greti e golene di Po, Ticino, Adige e affluenti; pioppo cipressino in filari di pianura"
+    ],
+    "altitudine": "0-1000 m, localmente fino a 1200 m",
+    "terreno_preferito": "fresco e umido, anche ghiaioso o sabbioso lungo i corsi d'acqua",
+    "descrizione": "Albero delle rive e dei greti; i boschi naturali di pioppo nero sono diventati rari per bonifiche e coltivazioni."
+  },
+  "ecologia": {
+    "descrizione": "Pioniera tipica dei greti: vuole piena luce e colonizza le ghiaie e le sabbie lasciate dalle piene."
+  },
+  "stagionalita": {
+    "primavera": "Amenti rossi caduti a terra; foglie nuove bronzee e profumate.",
+    "estate": "Foglie lucide in movimento; cotone dei semi a maggio-giugno.",
+    "autunno": "Giallo dei filari lungo i canali.",
+    "inverno": "Gemme appiccicose e profumate; tronchi scuri e nodosi."
+  },
+  "specie_simili": [
+    {
+      "id_specie": "populus-alba",
+      "come_distinguere": "Il pioppo bianco ha foglie bianche e feltrose sotto, spesso lobate, e corteccia chiara."
+    },
+    {
+      "id_specie": "populus-tremula",
+      "come_distinguere": "Il pioppo tremulo ha foglie tondeggianti a denti larghi e corteccia grigio-verde liscia."
+    }
+  ],
+  "commestibilita": {
+    "parti": "",
+    "note": "",
+    "avvertenze": ""
+  },
+  "tossicita": {
+    "livello": "nessuna_nota",
+    "parti": "",
+    "note": "Nessuna tossicità nota. Polline allergenico a fine inverno."
+  },
+  "curiosita_e_usi": "Il pioppo cipressino è uno degli alberi simbolo del paesaggio padano. Dalle gemme si ricavava un unguento (unguento populeo). Legno tenero e leggero, per cassette, fiammiferi e carta.",
+  "immagini": [
+    {
+      "tipo": "foglia",
+      "file": "img/populus-nigra-foglia.jpg",
+      "fonte": "Wikimedia Commons",
+      "autore": "Slimguy",
+      "licenza": "CC BY 4.0",
+      "url_originale": "https://commons.wikimedia.org/wiki/File:2021_10_20_Populus_nigra.jpg",
+      "titolo_originale": "2021 10 20 Populus nigra.jpg"
+    },
+    {
+      "tipo": "corteccia",
+      "file": "img/populus-nigra-corteccia.jpg",
+      "fonte": "Wikimedia Commons",
+      "autore": "Bybbisch94",
+      "licenza": "CC BY 4.0",
+      "url_originale": "https://commons.wikimedia.org/wiki/File:20240128.Babisnauer_Pappel.-021.jpg",
+      "titolo_originale": "20240128.Babisnauer Pappel.-021.jpg"
+    },
+    {
+      "tipo": "fiore_o_frutto",
+      "file": "img/populus-nigra-fiore_o_frutto.jpg",
+      "fonte": "Wikimedia Commons",
+      "autore": "Bodow",
+      "licenza": "CC BY-SA 4.0",
+      "url_originale": "https://commons.wikimedia.org/wiki/File:2015-4-13-Schwarzpappel-_544-k.jpg",
+      "titolo_originale": "2015-4-13-Schwarzpappel- 544-k.jpg"
+    },
+    {
+      "tipo": "gemme",
+      "file": "img/populus-nigra-gemme.jpg",
+      "fonte": "Wikimedia Commons",
+      "autore": "Ayotte, Gilles, 1948-",
+      "licenza": "CC BY-SA 4.0",
+      "url_originale": "https://commons.wikimedia.org/wiki/File:Populus_nigra_15-p.bot-popu.nigra-02.jpg",
+      "titolo_originale": "Populus nigra 15-p.bot-popu.nigra-02.jpg"
+    },
+    {
+      "tipo": "silhouette",
+      "file": "img/populus-nigra-silhouette.jpg",
+      "fonte": "Wikimedia Commons",
+      "autore": "Kenraiz",
+      "licenza": "CC BY-SA 3.0",
+      "url_originale": "https://commons.wikimedia.org/wiki/File:Populus_nigra_kz1.jpg",
+      "titolo_originale": "Populus nigra kz1.jpg"
+    }
+  ],
+  "fonti": [
+    {
+      "titolo": "Populus nigra – Wikipedia (it)",
+      "url": "https://it.wikipedia.org/wiki/Populus_nigra"
+    },
+    {
+      "titolo": "Populus nigra – Wikipedia (en)",
+      "url": "https://en.wikipedia.org/wiki/Populus_nigra"
+    }
+  ]
+}

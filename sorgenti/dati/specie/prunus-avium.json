@@ -1,0 +1,200 @@
+{
+  "id": "prunus-avium",
+  "nome_comune": "Ciliegio selvatico",
+  "nome_scientifico": "Prunus avium",
+  "famiglia": "Rosaceae",
+  "genere": "Prunus",
+  "sinonimi": [
+    "Ciliegio",
+    "Visciolo (impropriamente)"
+  ],
+  "nomi_locali": [],
+  "stato": "bozza",
+  "aggiornato": "2026-09-25",
+  "chiave": {
+    "gruppo": "latifoglia",
+    "persistenza": "caduca",
+    "foglia_tipo": "semplice",
+    "foglia_disposizione": "alterna",
+    "foglia_margine": [
+      "seghettato",
+      "doppiamente_seghettato"
+    ],
+    "foglia_forma": [
+      "obovata",
+      "ellittica"
+    ],
+    "frutto": "drupa",
+    "corteccia_texture": [
+      "liscia",
+      "lenticelle_orizzontali",
+      "desquamante"
+    ],
+    "habitat": [
+      "collinare",
+      "montano",
+      "planiziale"
+    ],
+    "altitudine_m": [
+      0,
+      1500
+    ],
+    "ramificazione": "monopodiale",
+    "ruolo_ecologico": [
+      "colonizzatrice"
+    ],
+    "luce": "semisciafila"
+  },
+  "tratti_chiave": [
+    "Corteccia bruno-rossastra lucida, con linee orizzontali, che si stacca a strisce ad anello",
+    "Due piccole ghiandole rosse sul picciolo, subito sotto la foglia",
+    "Fiori bianchi in mazzetti ad aprile, spesso prima delle foglie; piccole ciliegie rosso scuro a giugno"
+  ],
+  "origine": {
+    "stato": "autoctona",
+    "note": ""
+  },
+  "foglie": {
+    "tipo": "semplice",
+    "disposizione": "alterna, spesso a ciuffi sui rametti corti",
+    "forma": "obovata-ellittica, 7-15 cm, con punta breve",
+    "margine": "seghettato o doppiamente seghettato, a denti arrotondati",
+    "venatura": "pennata",
+    "colore_stagionale": {
+      "primavera_estate": "verde opaco, un po' rugosa, leggermente pelosa sotto sulle nervature; picciolo con 2 ghiandole rossastre",
+      "autunno": "giallo, arancio e rosso vivo"
+    },
+    "descrizione": "Le due ghiandole sul picciolo (nettàri extrafiorali) attirano le formiche, che difendono la pianta dagli insetti che mangiano le foglie."
+  },
+  "corteccia": {
+    "colore": "bruno-rossastro o grigio-violaceo, lucido",
+    "texture": "liscia, con lenticelle allungate in orizzontale; si stacca in strisce sottili che girano attorno al tronco",
+    "evoluzione_con_eta": "sui tronchi vecchi diventa più scura e fessurata alla base",
+    "descrizione": "Una delle cortecce più facili da riconoscere: lucida, a bande orizzontali, come nastro arrotolato."
+  },
+  "rami_e_portamento": {
+    "disposizione_rami": "alterna; rami in palchi abbastanza regolari; rametti corti (brachiblasti) fitti di cicatrici",
+    "angolo_di_crescita": "branche ascendenti",
+    "forma_chioma": "ovale-conica da giovane, poi tondeggiante",
+    "silhouette_invernale": "fusto diritto e lucido con rami in palchi; rametti corti con ciuffi di gemme",
+    "descrizione": "In bosco forma fusti alti e diritti, apprezzati per il legno.",
+    "ramificazione": "Rametti con gemma terminale vera (monopodiali) e rametti corti che portano fiori e foglie."
+  },
+  "gemme": {
+    "forma": "ovoidali, appuntite",
+    "colore": "bruno-rossastre, lucide",
+    "disposizione": "alterne; a ciuffi all'apice dei rametti corti",
+    "descrizione": "Le gemme a fiore, più grosse e tondeggianti, si riconoscono già in inverno."
+  },
+  "fiori_e_frutti": {
+    "tipo_fiore": "fiori bianchi a 5 petali, 2-3 cm, in ombrelle di 2-6 su lunghi peduncoli",
+    "periodo_fioritura": "aprile, prima o insieme alle foglie",
+    "tipo_frutto": "drupa (ciliegia) di circa 1 cm, rosso scuro o nerastra, su lungo peduncolo",
+    "periodo_fruttificazione": "giugno",
+    "descrizione": "Le ciliegie selvatiche sono piccole e un po' amarognole; gli uccelli le mangiano e ne disperdono i noccioli."
+  },
+  "dimensioni": {
+    "altezza_tipica_m": [
+      15,
+      25
+    ],
+    "altezza_max_m": 30,
+    "eta_massima_anni": null,
+    "note": "Età massima non accertata; in genere vive circa 100 anni."
+  },
+  "habitat_e_distribuzione": {
+    "regioni_italia": [
+      "Tutta Italia, in boschi misti di latifoglie di collina e bassa montagna, margini e siepi"
+    ],
+    "altitudine": "0-1500 m",
+    "terreno_preferito": "fresco, profondo e fertile; evita i ristagni",
+    "descrizione": "Sparso nei boschi di querce, carpini, castagni e faggi, raramente in gruppi."
+  },
+  "ecologia": {
+    "descrizione": "Tollera un po' d'ombra da giovane; gli uccelli ne portano i semi in radure, siepi e margini, dove si insedia facilmente."
+  },
+  "stagionalita": {
+    "primavera": "Fioritura bianca ad aprile, spesso prima delle foglie.",
+    "estate": "Ciliegie rosso scuro a giugno.",
+    "autunno": "Foglie giallo-arancio-rosse tra le più vivaci.",
+    "inverno": "Corteccia lucida a bande orizzontali; ciuffi di gemme sui rametti corti."
+  },
+  "specie_simili": [
+    {
+      "id_specie": "pyrus-pyraster",
+      "come_distinguere": "Il pero selvatico ha corteccia grigia fessurata a piccole placche, rami spesso spinosi e frutti a pera."
+    },
+    {
+      "id_specie": "malus-sylvestris",
+      "come_distinguere": "Il melo selvatico ha corteccia grigio-bruna a scaglie, fiori bianco-rosati e piccole mele."
+    }
+  ],
+  "commestibilita": {
+    "parti": "frutti (ciliegie)",
+    "note": "Le ciliegie selvatiche si mangiano crude, in marmellata o per liquori; sono più piccole e aspre di quelle coltivate.",
+    "avvertenze": "Non masticare né ingerire i noccioli: il seme contiene sostanze che liberano cianuro."
+  },
+  "tossicita": {
+    "livello": "bassa",
+    "parti": "semi (dentro il nocciolo), foglie appassite, corteccia",
+    "note": "Contengono glicosidi cianogenici: pericolosi solo se ingeriti in quantità; le foglie appassite sono tossiche per il bestiame."
+  },
+  "curiosita_e_usi": "Il legno di ciliegio, rosato e compatto, è tra i più pregiati per mobili e strumenti. È il capostipite delle ciliegie dolci coltivate. Dalla corteccia cola spesso una gomma ambrata.",
+  "immagini": [
+    {
+      "tipo": "foglia",
+      "file": "img/prunus-avium-foglia.jpg",
+      "fonte": "Wikimedia Commons",
+      "autore": "Jerzy Opioła",
+      "licenza": "CC BY-SA 4.0",
+      "url_originale": "https://commons.wikimedia.org/wiki/File:Blumeriella_jaapi_a1_(2).jpg",
+      "titolo_originale": "Blumeriella jaapi a1 (2).jpg"
+    },
+    {
+      "tipo": "corteccia",
+      "file": "img/prunus-avium-corteccia.jpg",
+      "fonte": "Wikimedia Commons",
+      "autore": "AnRo0002",
+      "licenza": "CC0",
+      "url_originale": "https://commons.wikimedia.org/wiki/File:20200619Prunus_avium3.jpg",
+      "titolo_originale": "20200619Prunus avium3.jpg"
+    },
+    {
+      "tipo": "fiore_o_frutto",
+      "file": "img/prunus-avium-fiore_o_frutto.jpg",
+      "fonte": "Wikimedia Commons",
+      "autore": "AnRo0002",
+      "licenza": "CC0",
+      "url_originale": "https://commons.wikimedia.org/wiki/File:20260308Prunus_avium4.jpg",
+      "titolo_originale": "20260308Prunus avium4.jpg"
+    },
+    {
+      "tipo": "gemme",
+      "file": "img/prunus-avium-gemme.jpg",
+      "fonte": "Wikimedia Commons",
+      "autore": "AnRo0002",
+      "licenza": "CC0",
+      "url_originale": "https://commons.wikimedia.org/wiki/File:20140318Prunus_avium2.jpg",
+      "titolo_originale": "20140318Prunus avium2.jpg"
+    },
+    {
+      "tipo": "fiore_o_frutto",
+      "file": "img/prunus-avium-fiore_o_frutto-2.jpg",
+      "fonte": "Wikimedia Commons",
+      "autore": "MPF",
+      "licenza": "CC BY 2.5",
+      "url_originale": "https://commons.wikimedia.org/wiki/File:Prunus_avium_fruit.jpg",
+      "titolo_originale": "Prunus avium fruit.jpg"
+    }
+  ],
+  "fonti": [
+    {
+      "titolo": "Prunus avium – Wikipedia (it)",
+      "url": "https://it.wikipedia.org/wiki/Prunus_avium"
+    },
+    {
+      "titolo": "Prunus avium – Wikipedia (en)",
+      "url": "https://en.wikipedia.org/wiki/Prunus_avium"
+    }
+  ]
+}

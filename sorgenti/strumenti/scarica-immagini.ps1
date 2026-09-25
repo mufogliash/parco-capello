@@ -22,7 +22,7 @@ param(
 $ErrorActionPreference = 'Stop'
 $script:interrotto = $false
 [Net.ServicePointManager]::SecurityProtocol = [Net.SecurityProtocolType]::Tls12
-$UA = 'ParcoCapello/0.5 (https://mufogliash.github.io/parco-capello/; personal non-commercial field guide) PowerShell'
+$UA = 'ParcoCapello/0.6 (https://mufogliash.github.io/parco-capello/; personal non-commercial field guide) PowerShell'
 
 $COMMONS = 'https://commons.wikimedia.org/w/api.php'
 if ($env:PC_API_COMMONS) { $COMMONS = $env:PC_API_COMMONS }
@@ -213,7 +213,7 @@ foreach ($lang in @('it', 'en')) {
       $t = $pg.title
       while ($alias.ContainsKey($t)) { $t = $alias[$t] }
       if (-not $principali.ContainsKey($t)) { $principali[$t] = @() }
-      $principali[$t] += [pscustomobject]@{ file = ('File:' + $pg.pageimage); origine = ('wikipedia-' + $lang) }
+      $principali[$t] += [pscustomobject]@{ file = ('File:' + ($pg.pageimage -replace '_', ' ')); origine = ('wikipedia-' + $lang) }
     }
   }
 }
@@ -250,6 +250,7 @@ foreach ($sp in $lista) {
     }
   } catch { Write-Warning ("  categorie non disponibili: {0}" -f $_.Exception.Message) }
 
+  $SENZA = 'tree -bark -leaf -leaves -flower -flowers -fruit -fruits -bud -buds -winter -herbarium'
   foreach ($tipo in $sp.tipi) {
     $titoli = @()
     if ($catPerTipo.ContainsKey($tipo)) {
@@ -257,12 +258,16 @@ foreach ($sp in $lista) {
         Write-Host ("  {0}: categoria '{1}'" -f $tipo, $c.Substring(9))
         $titoli += FileInCategoria $c ($PerTipo * 4)
       }
+      if ($tipo -eq 'silhouette') {
+        # il portamento e la foto piu importante: oltre alla categoria, anche una ricerca
+        $titoli += CercaFile ('"' + $L + '" ' + $SENZA) ($PerTipo * 4)
+      }
     } else {
-      $parola = @{ silhouette = 'tree habit'; foglia = 'leaves'; corteccia = 'bark'; fiore_o_frutto = 'fruit'; gemme = 'buds' }[$tipo]
+      $parola = @{ silhouette = $SENZA; foglia = 'leaves'; corteccia = 'bark'; fiore_o_frutto = 'fruit'; gemme = 'buds' }[$tipo]
       Write-Host ("  {0}: nessuna categoria, ricerca '{1} {2}'" -f $tipo, $L, $parola)
       $titoli += CercaFile ('"' + $L + '" ' + $parola) ($PerTipo * 4)
     }
-    foreach ($t in $titoli) { [void]$candidati.Add([pscustomobject]@{ titolo = $t; tipo = $tipo; origine = 'commons' }) }
+    foreach ($t in $titoli) { [void]$candidati.Add([pscustomobject]@{ titolo = ($t -replace '_', ' '); tipo = $tipo; origine = 'commons' }) }
   }
 
   $daVerificare = @($candidati | Where-Object { -not $gia.ContainsKey($_.titolo) } | ForEach-Object { $_.titolo } | Select-Object -Unique)
@@ -282,7 +287,8 @@ foreach ($sp in $lista) {
     if ($gia.ContainsKey($c.titolo) -or -not $info.ContainsKey($c.titolo)) { continue }
     $conta = $c.tipo; if ($c.origine -like 'wikipedia-*') { $conta = 'wikipedia' }   # le foto principali di Wikipedia non tolgono posto
     if (-not $presi.ContainsKey($conta)) { $presi[$conta] = 0 }
-    if ($presi[$conta] -ge $PerTipo) { continue }
+    $limite = $PerTipo; if ($conta -eq 'silhouette') { $limite = $PerTipo * 2 }   # piu scelta per il portamento
+    if ($presi[$conta] -ge $limite) { continue }
     if (Scarica $sp $c.tipo $info[$c.titolo] $c.origine) { $presi[$conta]++; $gia[$c.titolo] = $true }
   }
 }

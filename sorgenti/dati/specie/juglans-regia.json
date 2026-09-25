@@ -1,0 +1,197 @@
+{
+  "id": "juglans-regia",
+  "nome_comune": "Noce",
+  "nome_scientifico": "Juglans regia",
+  "famiglia": "Juglandaceae",
+  "genere": "Juglans",
+  "sinonimi": [
+    "Noce comune"
+  ],
+  "nomi_locali": [],
+  "stato": "bozza",
+  "aggiornato": "2026-09-25",
+  "chiave": {
+    "gruppo": "latifoglia",
+    "persistenza": "caduca",
+    "foglia_tipo": "composta_pennata",
+    "foglia_disposizione": "alterna",
+    "foglia_margine": [
+      "intero"
+    ],
+    "foglia_forma": [
+      "ellittica"
+    ],
+    "frutto": "noce",
+    "corteccia_texture": [
+      "liscia",
+      "fessurata"
+    ],
+    "habitat": [
+      "planiziale",
+      "collinare",
+      "urbano_parchi"
+    ],
+    "altitudine_m": [
+      0,
+      1200
+    ],
+    "ramificazione": "monopodiale",
+    "ruolo_ecologico": [
+      "non_accertato"
+    ],
+    "luce": "eliofila"
+  },
+  "tratti_chiave": [
+    "Foglie alterne composte da 5-9 foglioline a margine intero, profumate se strofinate",
+    "Midollo dei rametti diviso in camere (visibile tagliando il rametto per il lungo)",
+    "Frutto verde (mallo) che contiene la noce"
+  ],
+  "origine": {
+    "stato": "archeofita",
+    "note": "Originario dall'Asia centrale ai Balcani; coltivato in Italia dall'antichità e oggi naturalizzato."
+  },
+  "foglie": {
+    "tipo": "composta pennata",
+    "disposizione": "alterna",
+    "forma": "20-40 cm, con 5-9 foglioline ellittiche, la terminale più grande",
+    "margine": "intero",
+    "venatura": "pennata in ogni fogliolina",
+    "colore_stagionale": {
+      "primavera_estate": "verde scuro, glabra, con profumo aromatico se strofinata",
+      "autunno": "giallo-bruno, cadono presto"
+    },
+    "descrizione": "Le foglie contengono juglone, una sostanza che ostacola la crescita di molte piante sotto la chioma."
+  },
+  "corteccia": {
+    "colore": "grigio argento",
+    "texture": "liscia da giovane, poi profondamente fessurata in creste",
+    "evoluzione_con_eta": "con l'età si scurisce e si solca sempre di più",
+    "descrizione": ""
+  },
+  "rami_e_portamento": {
+    "disposizione_rami": "alterna; rametti robusti, verde-bruni, con grandi cicatrici fogliari",
+    "angolo_di_crescita": "branche robuste e aperte",
+    "forma_chioma": "ampia e tondeggiante",
+    "silhouette_invernale": "tronco grigio e chioma larga di rami grossi e radi",
+    "descrizione": "Tagliando un rametto per il lungo si vede il midollo diviso in piccole camere: un carattere unico tra gli alberi comuni.",
+    "ramificazione": "Rametti con gemma terminale vera (monopodiali)."
+  },
+  "gemme": {
+    "forma": "tondeggianti, con poche squame",
+    "colore": "grigio scuro o nerastre, vellutate",
+    "disposizione": "alterne; sopra la cicatrice fogliare a forma di scudo",
+    "descrizione": ""
+  },
+  "fiori_e_frutti": {
+    "tipo_fiore": "pianta monoica: amenti maschili penduli verdastri; fiori femminili piccoli in gruppetti all'apice dei rametti",
+    "periodo_fioritura": "aprile-maggio",
+    "tipo_frutto": "drupa verde (mallo) di 4-5 cm che contiene la noce legnosa",
+    "periodo_fruttificazione": "settembre-ottobre",
+    "descrizione": "Il mallo verde annerisce a maturità e si stacca; toccato macchia la pelle di bruno per giorni."
+  },
+  "dimensioni": {
+    "altezza_tipica_m": [
+      15,
+      25
+    ],
+    "altezza_max_m": 30,
+    "eta_massima_anni": null,
+    "note": "Età massima non accertata; noci di 150-200 anni sono documentati."
+  },
+  "habitat_e_distribuzione": {
+    "regioni_italia": [
+      "Tutta Italia, coltivato e naturalizzato in campagna, margini, boschi di forra"
+    ],
+    "altitudine": "0-1000 m, coltivato fino a circa 1200 m",
+    "terreno_preferito": "profondo, fresco e fertile",
+    "descrizione": "Molto comune vicino a cascine e coltivi; si trova anche nei boschi, dove lo portano cornacchie e scoiattoli."
+  },
+  "ecologia": {
+    "descrizione": "Specie coltivata e naturalizzata: da noi non ha un ruolo definito nella successione. Ama la luce e teme le gelate tardive."
+  },
+  "stagionalita": {
+    "primavera": "Foglie nuove bronzee e amenti penduli (aprile-maggio).",
+    "estate": "Noci verdi nel mallo.",
+    "autunno": "Raccolta delle noci; foglie che cadono presto.",
+    "inverno": "Rami grossi e radi, gemme scure vellutate, corteccia grigia."
+  },
+  "specie_simili": [
+    {
+      "id_specie": "fraxinus-excelsior",
+      "come_distinguere": "Il frassino maggiore ha foglie composte opposte con foglioline seghettate e gemme nere."
+    },
+    {
+      "id_specie": "ailanthus-altissima",
+      "come_distinguere": "L'ailanto ha foglie molto più lunghe con 13-25 foglioline, ognuna con 1-2 dentini ghiandolari alla base, e odore sgradevole."
+    }
+  ],
+  "commestibilita": {
+    "parti": "noci",
+    "note": "Le noci si mangiano fresche o secche; con i frutti acerbi si prepara il nocino.",
+    "avvertenze": "Possibile allergia alla frutta a guscio, anche grave. Il mallo macchia la pelle: usa i guanti."
+  },
+  "tossicita": {
+    "livello": "bassa",
+    "parti": "mallo, foglie",
+    "note": "Contengono juglone, irritante per la pelle; per l'uomo non ci sono rischi seri con le noci mature."
+  },
+  "curiosita_e_usi": "Il legno di noce, bruno e venato, è tra i più pregiati per mobili e calci di fucile. Il nocino si prepara tradizionalmente con noci raccolte verso la fine di giugno.",
+  "immagini": [
+    {
+      "tipo": "silhouette",
+      "file": "img/juglans-regia-silhouette.jpg",
+      "fonte": "Wikimedia Commons",
+      "autore": "AnRo0002",
+      "licenza": "CC0",
+      "url_originale": "https://commons.wikimedia.org/wiki/File:20140212Juglans_regia_Walldorf1.jpg",
+      "titolo_originale": "20140212Juglans regia Walldorf1.jpg",
+      "stagione": "inverno"
+    },
+    {
+      "tipo": "corteccia",
+      "file": "img/juglans-regia-corteccia.jpg",
+      "fonte": "Wikimedia Commons",
+      "autore": "AnRo0002",
+      "licenza": "CC0",
+      "url_originale": "https://commons.wikimedia.org/wiki/File:20130428Juglans_regia1.jpg",
+      "titolo_originale": "20130428Juglans regia1.jpg"
+    },
+    {
+      "tipo": "fiore_o_frutto",
+      "file": "img/juglans-regia-fiore_o_frutto.jpg",
+      "fonte": "Wikimedia Commons",
+      "autore": "AnRo0002",
+      "licenza": "CC0",
+      "url_originale": "https://commons.wikimedia.org/wiki/File:20160430Juglans_regia3.jpg",
+      "titolo_originale": "20160430Juglans regia3.jpg"
+    },
+    {
+      "tipo": "gemme",
+      "file": "img/juglans-regia-gemme.jpg",
+      "fonte": "Wikimedia Commons",
+      "autore": "AnRo0002",
+      "licenza": "CC0",
+      "url_originale": "https://commons.wikimedia.org/wiki/File:20181117Juglans_regia4.jpg",
+      "titolo_originale": "20181117Juglans regia4.jpg"
+    },
+    {
+      "tipo": "silhouette",
+      "file": "img/juglans-regia-silhouette-2.jpg",
+      "fonte": "Wikimedia Commons",
+      "autore": "Thesupermat",
+      "licenza": "CC BY-SA 3.0",
+      "url_originale": "https://commons.wikimedia.org/wiki/File:Noyer_centenaire_en_automne.JPG",
+      "titolo_originale": "Noyer centenaire en automne.JPG"
+    }
+  ],
+  "fonti": [
+    {
+      "titolo": "Juglans regia – Wikipedia (it)",
+      "url": "https://it.wikipedia.org/wiki/Juglans_regia"
+    },
+    {
+      "titolo": "Juglans regia – Wikipedia (en)",
+      "url": "https://en.wikipedia.org/wiki/Juglans_regia"
+    }
+  ]
+}

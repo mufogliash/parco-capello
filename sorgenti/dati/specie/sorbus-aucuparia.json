@@ -1,0 +1,209 @@
+{
+  "id": "sorbus-aucuparia",
+  "nome_comune": "Sorbo degli uccellatori",
+  "nome_scientifico": "Sorbus aucuparia",
+  "famiglia": "Rosaceae",
+  "genere": "Sorbus",
+  "sinonimi": [
+    "Sorbo selvatico"
+  ],
+  "nomi_locali": [],
+  "stato": "bozza",
+  "aggiornato": "2026-09-25",
+  "chiave": {
+    "gruppo": "latifoglia",
+    "persistenza": "caduca",
+    "foglia_tipo": "composta_pennata",
+    "foglia_disposizione": "alterna",
+    "foglia_margine": [
+      "seghettato"
+    ],
+    "foglia_forma": [
+      "lanceolata"
+    ],
+    "frutto": "pomo",
+    "corteccia_texture": [
+      "liscia",
+      "lenticelle_orizzontali"
+    ],
+    "habitat": [
+      "montano",
+      "subalpino",
+      "collinare"
+    ],
+    "altitudine_m": [
+      200,
+      2200
+    ],
+    "ramificazione": "monopodiale",
+    "ruolo_ecologico": [
+      "pioniera"
+    ],
+    "luce": "eliofila"
+  },
+  "tratti_chiave": [
+    "Foglie alterne composte da 9-15 foglioline seghettate",
+    "Grappoli di bacche arancio-rosse da fine estate",
+    "Gemme scure, violacee e pelose; corteccia grigia liscia e lucida"
+  ],
+  "origine": {
+    "stato": "autoctona",
+    "note": ""
+  },
+  "foglie": {
+    "tipo": "composta pennata",
+    "disposizione": "alterna",
+    "forma": "10-20 cm, con 9-15 foglioline lanceolate di 3-6 cm",
+    "margine": "seghettato quasi fino alla base di ogni fogliolina",
+    "venatura": "pennata in ogni fogliolina",
+    "colore_stagionale": {
+      "primavera_estate": "verde opaco sopra, grigio-verde sotto",
+      "autunno": "giallo, arancio e rosso"
+    },
+    "descrizione": "A colpo d'occhio ricorda il frassino, che però ha le foglie opposte."
+  },
+  "corteccia": {
+    "colore": "grigio argento o grigio-bruno, lucido",
+    "texture": "liscia, con lenticelle orizzontali",
+    "evoluzione_con_eta": "resta liscia a lungo; solo alla base dei tronchi vecchi si screpola",
+    "descrizione": ""
+  },
+  "rami_e_portamento": {
+    "disposizione_rami": "alterna; rametti grigi con lenticelle",
+    "angolo_di_crescita": "rami ascendenti",
+    "forma_chioma": "ovale, leggera",
+    "silhouette_invernale": "piccolo albero dalla chioma rada, con grosse gemme scure all'apice dei rametti",
+    "descrizione": "Spesso isolato su pascoli e margini, dove gli uccelli ne hanno lasciato i semi.",
+    "ramificazione": "Rametti con gemma terminale vera (monopodiali)."
+  },
+  "gemme": {
+    "forma": "coniche, grandi (1-1,5 cm), un po' ricurve",
+    "colore": "violaceo scuro, coperte di peli grigi soprattutto in punta",
+    "disposizione": "alterne",
+    "descrizione": "Gemme scure e pelose: la differenza più rapida dal sorbo domestico, che le ha verdi, lucide e appiccicose."
+  },
+  "fiori_e_frutti": {
+    "tipo_fiore": "fiori bianchi a 5 petali in grandi corimbi piatti, dall'odore un po' sgradevole",
+    "periodo_fioritura": "maggio-giugno",
+    "tipo_frutto": "pomo tondeggiante di 0,8-1 cm, arancio o rosso corallo, in grappoli",
+    "periodo_fruttificazione": "agosto-ottobre",
+    "descrizione": "Le bacche restano a lungo sui rami e sono un cibo prezioso per tordi e altri uccelli."
+  },
+  "dimensioni": {
+    "altezza_tipica_m": [
+      5,
+      15
+    ],
+    "altezza_max_m": 20,
+    "eta_massima_anni": [
+      80,
+      120
+    ],
+    "note": "Di vita relativamente breve, di rado oltre i 100-120 anni."
+  },
+  "habitat_e_distribuzione": {
+    "regioni_italia": [
+      "Nord: Alpi, Prealpi e Appennino settentrionale, dai boschi di faggio e abete fino al limite degli alberi",
+      "Centro-Sud: montagne, più sporadico"
+    ],
+    "altitudine": "circa 200-2200 m, soprattutto in montagna",
+    "terreno_preferito": "povero e acido, anche sassoso; tollera il freddo e il vento",
+    "descrizione": "Frequente in lariceti, peccete, faggete, radure e pascoli di montagna; uno degli ultimi alberi verso l'alta quota."
+  },
+  "ecologia": {
+    "descrizione": "Pioniera di luce: arriva per prima in radure, frane e pascoli abbandonati di montagna, grazie agli uccelli che ne mangiano i frutti."
+  },
+  "stagionalita": {
+    "primavera": "Foglie nuove e fioritura bianca (maggio-giugno).",
+    "estate": "Grappoli di bacche arancio-rosse da agosto.",
+    "autunno": "Foglie gialle e rosse; bacche in abbondanza.",
+    "inverno": "Gemme violacee pelose; corteccia grigia liscia."
+  },
+  "specie_simili": [
+    {
+      "id_specie": "sorbus-domestica",
+      "come_distinguere": "Il sorbo domestico ha gemme verdi e appiccicose, corteccia ruvida e fessurata, frutti più grandi (2-3 cm) a forma di piccola pera o mela."
+    },
+    {
+      "id_specie": "fraxinus-excelsior",
+      "come_distinguere": "Il frassino maggiore ha foglie composte simili ma opposte, gemme nere e frutti alati."
+    }
+  ],
+  "commestibilita": {
+    "parti": "frutti (solo cotti)",
+    "note": "Le bacche crude sono amare e irritanti; cotte perdono queste sostanze e si usano per marmellate e gelatine, spesso con altra frutta.",
+    "avvertenze": "Non mangiarle crude o in quantità: contengono acido parasorbico, che irrita lo stomaco."
+  },
+  "tossicita": {
+    "livello": "bassa",
+    "parti": "bacche crude",
+    "note": "Irritanti per lo stomaco se crude; la cottura le rende innocue."
+  },
+  "curiosita_e_usi": "Il nome aucuparia viene dal latino aucupium, l'uccellagione: le bacche erano usate come esca per catturare gli uccelli. In molte tradizioni alpine è considerato un albero protettivo.",
+  "immagini": [
+    {
+      "tipo": "foglia",
+      "file": "img/sorbus-aucuparia-foglia.jpg",
+      "fonte": "Wikimedia Commons",
+      "autore": "Dmitry Makeev",
+      "licenza": "CC BY-SA 4.0",
+      "url_originale": "https://commons.wikimedia.org/wiki/File:2020_year._Herbarium._Sorbus_aucuparia._img-001.jpg",
+      "titolo_originale": "2020 year. Herbarium. Sorbus aucuparia. img-001.jpg"
+    },
+    {
+      "tipo": "corteccia",
+      "file": "img/sorbus-aucuparia-corteccia.jpg",
+      "fonte": "Wikimedia Commons",
+      "autore": "Rosser1954",
+      "licenza": "CC BY 4.0",
+      "url_originale": "https://commons.wikimedia.org/wiki/File:Lenticels_on_Rowan_bark,_Chapeltoun,_North_Ayrshire.jpg",
+      "titolo_originale": "Lenticels on Rowan bark, Chapeltoun, North Ayrshire.jpg"
+    },
+    {
+      "tipo": "fiore_o_frutto",
+      "file": "img/sorbus-aucuparia-fiore_o_frutto.jpg",
+      "fonte": "Wikimedia Commons",
+      "autore": "Hladac",
+      "licenza": "CC BY-SA 4.0",
+      "url_originale": "https://commons.wikimedia.org/wiki/File:(ms)_Sorbus_aucuparia_2.jpg",
+      "titolo_originale": "(ms) Sorbus aucuparia 2.jpg"
+    },
+    {
+      "tipo": "gemme",
+      "file": "img/sorbus-aucuparia-gemme.jpg",
+      "fonte": "Wikimedia Commons",
+      "autore": "Jan David Reitschläger",
+      "licenza": "CC BY-SA 4.0",
+      "url_originale": "https://commons.wikimedia.org/wiki/File:Jerab_RA7.jpg",
+      "titolo_originale": "Jerab RA7.jpg"
+    },
+    {
+      "tipo": "silhouette",
+      "file": "img/sorbus-aucuparia-silhouette.jpg",
+      "fonte": "Wikimedia Commons",
+      "autore": "Velela",
+      "licenza": "CC BY-SA 2.5",
+      "url_originale": "https://commons.wikimedia.org/wiki/File:Sorbus_aucuparia_on_Y_Garn.jpg",
+      "titolo_originale": "Sorbus aucuparia on Y Garn.jpg"
+    },
+    {
+      "tipo": "silhouette",
+      "file": "img/sorbus-aucuparia-silhouette-2.jpg",
+      "fonte": "Wikimedia Commons",
+      "autore": "böhringer friedrich",
+      "licenza": "CC BY-SA 2.5",
+      "url_originale": "https://commons.wikimedia.org/wiki/File:Annalperau_Alpe_1.JPG",
+      "titolo_originale": "Annalperau Alpe 1.JPG"
+    }
+  ],
+  "fonti": [
+    {
+      "titolo": "Sorbus aucuparia – Wikipedia (it)",
+      "url": "https://it.wikipedia.org/wiki/Sorbus_aucuparia"
+    },
+    {
+      "titolo": "Sorbus aucuparia – Wikipedia (en)",
+      "url": "https://en.wikipedia.org/wiki/Sorbus_aucuparia"
+    }
+  ]
+}

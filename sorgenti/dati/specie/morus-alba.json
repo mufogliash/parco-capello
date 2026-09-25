@@ -1,0 +1,186 @@
+{
+  "id": "morus-alba",
+  "nome_comune": "Gelso bianco",
+  "nome_scientifico": "Morus alba",
+  "famiglia": "Moraceae",
+  "genere": "Morus",
+  "sinonimi": [
+    "Moro",
+    "Moro bianco"
+  ],
+  "nomi_locali": [],
+  "stato": "bozza",
+  "aggiornato": "2026-09-25",
+  "chiave": {
+    "gruppo": "latifoglia",
+    "persistenza": "caduca",
+    "foglia_tipo": "semplice",
+    "foglia_disposizione": "alterna",
+    "foglia_margine": [
+      "seghettato",
+      "lobato"
+    ],
+    "foglia_forma": [
+      "cordata",
+      "ovata"
+    ],
+    "frutto": "infruttescenza",
+    "corteccia_texture": [
+      "fessurata"
+    ],
+    "habitat": [
+      "planiziale",
+      "collinare",
+      "urbano_parchi"
+    ],
+    "altitudine_m": [
+      0,
+      800
+    ],
+    "ramificazione": "simpodiale",
+    "ruolo_ecologico": [
+      "non_accertato"
+    ],
+    "luce": "eliofila"
+  },
+  "tratti_chiave": [
+    "Foglie molto variabili sulla stessa pianta: intere a cuore o profondamente lobate",
+    "Foglia liscia e lucida sopra (nel gelso nero è ruvida)",
+    "More bianche, rosa o viola a inizio estate; dai rametti spezzati esce un lattice bianco"
+  ],
+  "origine": {
+    "stato": "esotica_naturalizzata",
+    "note": "Originario della Cina; introdotto in Italia nel Quattrocento per allevare i bachi da seta."
+  },
+  "foglie": {
+    "tipo": "semplice",
+    "disposizione": "alterna",
+    "forma": "ovata o a cuore, 6-18 cm, intera o con 2-5 lobi anche sulla stessa pianta",
+    "margine": "seghettato, a denti arrotondati",
+    "venatura": "palmato-pennata",
+    "colore_stagionale": {
+      "primavera_estate": "verde chiaro, liscia e lucida sopra, un po' pelosa solo sulle nervature sotto",
+      "autunno": "giallo vivo"
+    },
+    "descrizione": "Le foglie lobate sono più frequenti sui polloni e sulle piante giovani."
+  },
+  "corteccia": {
+    "colore": "grigio-bruno, con sfumature arancio nelle fessure",
+    "texture": "fessurata in creste intrecciate",
+    "evoluzione_con_eta": "i tronchi dei gelsi capitozzati sono corti, grossi e nodosi",
+    "descrizione": ""
+  },
+  "rami_e_portamento": {
+    "disposizione_rami": "alterna; rametti grigio-bruni",
+    "angolo_di_crescita": "rami aperti",
+    "forma_chioma": "tondeggiante e ampia",
+    "silhouette_invernale": "nelle campagne spesso capitozzato: tronco corto con una testa di rami diritti",
+    "descrizione": "I filari di gelsi capitozzati ai bordi dei campi sono un segno del paesaggio padano legato alla seta.",
+    "ramificazione": "Rametti simpodiali: manca la gemma terminale vera."
+  },
+  "gemme": {
+    "forma": "piccole, triangolari",
+    "colore": "bruno-rossastre",
+    "disposizione": "alterne",
+    "descrizione": ""
+  },
+  "fiori_e_frutti": {
+    "tipo_fiore": "pianta di solito dioica o monoica; piccoli amenti verdastri",
+    "periodo_fioritura": "aprile-maggio",
+    "tipo_frutto": "infruttescenza (mora) di 1-2 cm, bianca, rosa o viola scuro",
+    "periodo_fruttificazione": "giugno-luglio",
+    "descrizione": "Nonostante il nome, le more del gelso bianco possono essere anche viola scuro: il nome viene dalle gemme e dai frutti chiari delle piante coltivate."
+  },
+  "dimensioni": {
+    "altezza_tipica_m": [
+      8,
+      15
+    ],
+    "altezza_max_m": 20,
+    "eta_massima_anni": null,
+    "note": "Età massima non accertata."
+  },
+  "habitat_e_distribuzione": {
+    "regioni_italia": [
+      "Tutta Italia in campagna, filari, argini, cortili; inselvatichito in incolti e lungo i fiumi",
+      "Nord: frequente nella Pianura Padana, un tempo coltivato ovunque per la seta"
+    ],
+    "altitudine": "0-800 m",
+    "terreno_preferito": "si adatta a molti suoli; tollera siccità e ambiente urbano",
+    "descrizione": "Oggi i vecchi gelsi sono in gran parte abbandonati; nuove piante nascono dai semi portati dagli uccelli."
+  },
+  "ecologia": {
+    "descrizione": "Specie esotica naturalizzata: ruolo nella successione non accertato. Si diffonde grazie agli uccelli in incolti e margini."
+  },
+  "stagionalita": {
+    "primavera": "Foglie nuove verde chiaro; piccoli amenti.",
+    "estate": "More mature a giugno-luglio.",
+    "autunno": "Foglie giallo vivo.",
+    "inverno": "Filari capitozzati; rametti con lattice."
+  },
+  "specie_simili": [
+    {
+      "id_specie": "morus-nigra",
+      "come_distinguere": "Il gelso nero ha foglie ruvide sopra e pelose sotto, picciolo corto e more nero-violacee acidule che macchiano molto."
+    }
+  ],
+  "commestibilita": {
+    "parti": "more",
+    "note": "Le more mature si mangiano crude o in marmellata; quelle bianche sono dolcissime e poco acide.",
+    "avvertenze": "Le more acerbe e il lattice possono dare disturbi allo stomaco e irritare la pelle."
+  },
+  "tossicita": {
+    "livello": "bassa",
+    "parti": "frutti acerbi, lattice",
+    "note": "Possono causare disturbi gastrointestinali; il polline è molto allergenico in primavera."
+  },
+  "curiosita_e_usi": "Con le sue foglie si nutrono i bachi da seta: in Pianura Padana ogni cascina aveva i suoi filari di gelsi. Il gelso è detto anche moro, da cui il cognome e molti toponimi.",
+  "immagini": [
+    {
+      "tipo": "foglia",
+      "file": "img/morus-alba-foglia.jpg",
+      "fonte": "Wikimedia Commons",
+      "autore": "Michał J",
+      "licenza": "CC BY-SA 4.0",
+      "url_originale": "https://commons.wikimedia.org/wiki/File:Atlas_roslin_pl_Morwa_bia%C5%82a_6868_7423.jpg",
+      "titolo_originale": "Atlas roslin pl Morwa biała 6868 7423.jpg"
+    },
+    {
+      "tipo": "corteccia",
+      "file": "img/morus-alba-corteccia.jpg",
+      "fonte": "Wikimedia Commons",
+      "autore": "Andre Abrahami",
+      "licenza": "CC BY-SA 2.5",
+      "url_originale": "https://commons.wikimedia.org/wiki/File:Morus_alba_bark.jpg",
+      "titolo_originale": "Morus alba bark.jpg"
+    },
+    {
+      "tipo": "fiore_o_frutto",
+      "file": "img/morus-alba-fiore_o_frutto.jpg",
+      "fonte": "Wikimedia Commons",
+      "autore": "Schurdl",
+      "licenza": "CC BY-SA 4.0",
+      "url_originale": "https://commons.wikimedia.org/wiki/File:Morus_alba_8622.jpg",
+      "titolo_originale": "Morus alba 8622.jpg"
+    },
+    {
+      "tipo": "silhouette",
+      "file": "img/morus-alba-silhouette.jpg",
+      "fonte": "Wikimedia Commons",
+      "autore": "Alena Hroncová",
+      "licenza": "CC BY-SA 4.0",
+      "url_originale": "https://commons.wikimedia.org/wiki/File:2015_Mulberry_tree_in_Senica_SK.jpg",
+      "titolo_originale": "2015 Mulberry tree in Senica SK.jpg"
+    }
+  ],
+  "fonti": [
+    {
+      "titolo": "Morus alba – Wikipedia (it)",
+      "url": "https://it.wikipedia.org/wiki/Morus_alba"
+    },
+    {
+      "titolo": "Morus alba – Wikipedia (en)",
+      "url": "https://en.wikipedia.org/wiki/Morus_alba"
+    }
+  ]
+}

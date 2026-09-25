@@ -1,0 +1,197 @@
+{
+  "id": "sorbus-domestica",
+  "nome_comune": "Sorbo domestico",
+  "nome_scientifico": "Sorbus domestica",
+  "famiglia": "Rosaceae",
+  "genere": "Sorbus",
+  "sinonimi": [
+    "Sorbo comune"
+  ],
+  "nomi_locali": [],
+  "stato": "bozza",
+  "aggiornato": "2026-09-25",
+  "chiave": {
+    "gruppo": "latifoglia",
+    "persistenza": "caduca",
+    "foglia_tipo": "composta_pennata",
+    "foglia_disposizione": "alterna",
+    "foglia_margine": [
+      "seghettato"
+    ],
+    "foglia_forma": [
+      "lanceolata"
+    ],
+    "frutto": "pomo",
+    "corteccia_texture": [
+      "a_placche",
+      "fessurata"
+    ],
+    "habitat": [
+      "collinare",
+      "planiziale",
+      "rupestre_arido"
+    ],
+    "altitudine_m": [
+      0,
+      1100
+    ],
+    "ramificazione": "monopodiale",
+    "ruolo_ecologico": [
+      "non_accertato"
+    ],
+    "luce": "eliofila"
+  },
+  "tratti_chiave": [
+    "Foglie alterne composte da 11-21 foglioline, seghettate solo nella metà superiore",
+    "Gemme verdi, lucide e appiccicose",
+    "Frutti a forma di piccola pera o mela (2-3 cm), mangiabili solo dopo l'ammezzimento"
+  ],
+  "origine": {
+    "stato": "autoctona",
+    "note": "Spontaneo ma raro in natura; un tempo molto coltivato vicino alle case e ai campi."
+  },
+  "foglie": {
+    "tipo": "composta pennata",
+    "disposizione": "alterna",
+    "forma": "15-25 cm, con 11-21 foglioline lanceolate",
+    "margine": "seghettato soprattutto nella metà superiore delle foglioline",
+    "venatura": "pennata in ogni fogliolina",
+    "colore_stagionale": {
+      "primavera_estate": "verde sopra, grigio-pelosa sotto da giovane",
+      "autunno": "giallo-arancio o rossastro"
+    },
+    "descrizione": ""
+  },
+  "corteccia": {
+    "colore": "bruno-grigiastro",
+    "texture": "ruvida, fessurata in piccole placche rettangolari",
+    "evoluzione_con_eta": "si fessura presto, simile al pero",
+    "descrizione": "La corteccia a scaglie rettangolari è molto diversa da quella liscia del sorbo degli uccellatori."
+  },
+  "rami_e_portamento": {
+    "disposizione_rami": "alterna",
+    "angolo_di_crescita": "rami ascendenti",
+    "forma_chioma": "ampia, tondeggiante",
+    "silhouette_invernale": "albero di taglia media con chioma arrotondata e gemme verdi lucide",
+    "descrizione": "Cresce lentamente; gli esemplari isolati nei campi possono essere molto vecchi.",
+    "ramificazione": "Rametti con gemma terminale vera (monopodiali)."
+  },
+  "gemme": {
+    "forma": "ovoidali, appuntite",
+    "colore": "verdi, lucide, glabre e appiccicose",
+    "disposizione": "alterne",
+    "descrizione": ""
+  },
+  "fiori_e_frutti": {
+    "tipo_fiore": "fiori bianchi a 5 petali in corimbi",
+    "periodo_fioritura": "maggio",
+    "tipo_frutto": "pomo di 2-3 cm, a forma di pera o di mela, giallo-verde con guancia rossa",
+    "periodo_fruttificazione": "settembre-ottobre; si raccoglie acerbo e si lascia maturare",
+    "descrizione": "Le sorbe si raccolgono dure e si lasciano ammezzire sulla paglia finché diventano morbide, brune e dolci."
+  },
+  "dimensioni": {
+    "altezza_tipica_m": [
+      10,
+      20
+    ],
+    "altezza_max_m": 25,
+    "eta_massima_anni": null,
+    "note": "Età massima non accertata; si citano esemplari plurisecolari, ma le stime sono incerte."
+  },
+  "habitat_e_distribuzione": {
+    "regioni_italia": [
+      "Tutta Italia, sparso in boschi caldi di roverella, siepi, vecchi coltivi",
+      "Nord: colline e Prealpi, soprattutto su calcare"
+    ],
+    "altitudine": "0-1000 m, localmente fino a 1100 m",
+    "terreno_preferito": "calcareo e asciutto; tollera la siccità",
+    "descrizione": "Raro allo stato selvatico, più frequente vicino a vecchie cascine e poderi."
+  },
+  "ecologia": {
+    "descrizione": "Ruolo nella successione non accertato. Specie di luce e calore, sparsa nei boschi di roverella e nelle siepi."
+  },
+  "stagionalita": {
+    "primavera": "Fioritura bianca (maggio).",
+    "estate": "Frutti verdi che si colorano di rosso.",
+    "autunno": "Raccolta delle sorbe; foglie giallo-arancio.",
+    "inverno": "Gemme verdi lucide e appiccicose; corteccia a scaglie."
+  },
+  "specie_simili": [
+    {
+      "id_specie": "sorbus-aucuparia",
+      "come_distinguere": "Il sorbo degli uccellatori ha gemme scure e pelose, corteccia liscia e bacche piccole arancio-rosse in grappoli."
+    },
+    {
+      "id_specie": "fraxinus-excelsior",
+      "come_distinguere": "Il frassino maggiore ha foglie composte opposte, gemme nere e frutti alati."
+    }
+  ],
+  "commestibilita": {
+    "parti": "frutti ammezziti",
+    "note": "Le sorbe sono commestibili solo dopo l'ammezzimento: diventano morbide, dolci e un po' vinose.",
+    "avvertenze": "Acerbe sono molto astringenti e indigeste."
+  },
+  "tossicita": {
+    "livello": "nessuna_nota",
+    "parti": "",
+    "note": "Nessuna tossicità significativa nota."
+  },
+  "curiosita_e_usi": "Il legno, durissimo e fine, era usato per ingranaggi, viti dei torchi e strumenti. Il proverbio «col tempo e con la paglia maturano le sorbe» viene proprio dall'ammezzimento.",
+  "immagini": [
+    {
+      "tipo": "foglia",
+      "file": "img/sorbus-domestica-foglia.jpg",
+      "fonte": "Wikimedia Commons",
+      "autore": "G.Bernetti/EUFORGEN",
+      "licenza": "CC BY-SA 4.0",
+      "url_originale": "https://commons.wikimedia.org/wiki/File:Sorbus_domestica_leaf_illustration.jpg",
+      "titolo_originale": "Sorbus domestica leaf illustration.jpg"
+    },
+    {
+      "tipo": "corteccia",
+      "file": "img/sorbus-domestica-corteccia.jpg",
+      "fonte": "Wikimedia Commons",
+      "autore": "Haeferl",
+      "licenza": "CC BY-SA 3.0 at",
+      "url_originale": "https://commons.wikimedia.org/wiki/File:Forchtenstein_-_Naturdenkmal_MA-017_-_Speierling_-_Rinde.jpg",
+      "titolo_originale": "Forchtenstein - Naturdenkmal MA-017 - Speierling - Rinde.jpg"
+    },
+    {
+      "tipo": "gemme",
+      "file": "img/sorbus-domestica-gemme.jpg",
+      "fonte": "Wikimedia Commons",
+      "autore": "Jiròni B.",
+      "licenza": "CC0",
+      "url_originale": "https://commons.wikimedia.org/wiki/File:Cormier_-_bourgeon_1.jpg",
+      "titolo_originale": "Cormier - bourgeon 1.jpg"
+    },
+    {
+      "tipo": "silhouette",
+      "file": "img/sorbus-domestica-silhouette.jpg",
+      "fonte": "Wikimedia Commons",
+      "autore": "Friedrich Haag",
+      "licenza": "CC BY-SA 4.0",
+      "url_originale": "https://commons.wikimedia.org/wiki/File:073_2015_05_25_Speierling_s%C3%BCdlich_von_Meckenheim_(Wiki_Loves_Earth_2015).jpg",
+      "titolo_originale": "073 2015 05 25 Speierling südlich von Meckenheim (Wiki Loves Earth 2015).jpg"
+    },
+    {
+      "tipo": "fiore_o_frutto",
+      "file": "img/sorbus-domestica-fiore_o_frutto.jpg",
+      "fonte": "Wikimedia Commons",
+      "autore": "BotBln",
+      "licenza": "CC BY-SA 3.0",
+      "url_originale": "https://commons.wikimedia.org/wiki/File:Sorbus_domestica_FruitsLeaves_BotGardBln0906a.JPG",
+      "titolo_originale": "Sorbus domestica FruitsLeaves BotGardBln0906a.JPG"
+    }
+  ],
+  "fonti": [
+    {
+      "titolo": "Sorbus domestica – Wikipedia (it)",
+      "url": "https://it.wikipedia.org/wiki/Sorbus_domestica"
+    },
+    {
+      "titolo": "Sorbus domestica – Wikipedia (en)",
+      "url": "https://en.wikipedia.org/wiki/Sorbus_domestica"
+    }
+  ]
+}

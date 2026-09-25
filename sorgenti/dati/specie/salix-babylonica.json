@@ -1,0 +1,191 @@
+{
+  "id": "salix-babylonica",
+  "nome_comune": "Salice piangente",
+  "nome_scientifico": "Salix babylonica",
+  "famiglia": "Salicaceae",
+  "genere": "Salix",
+  "sinonimi": [
+    "Salice di Babilonia"
+  ],
+  "nomi_locali": [],
+  "stato": "bozza",
+  "aggiornato": "2026-09-25",
+  "chiave": {
+    "gruppo": "latifoglia",
+    "persistenza": "caduca",
+    "foglia_tipo": "semplice",
+    "foglia_disposizione": "alterna",
+    "foglia_margine": [
+      "seghettato"
+    ],
+    "foglia_forma": [
+      "lanceolata",
+      "lineare"
+    ],
+    "frutto": "capsula",
+    "corteccia_texture": [
+      "fessurata"
+    ],
+    "habitat": [
+      "urbano_parchi",
+      "ripariale_umido"
+    ],
+    "altitudine_m": [
+      0,
+      800
+    ],
+    "ramificazione": "simpodiale",
+    "ruolo_ecologico": [
+      "non_accertato"
+    ],
+    "luce": "eliofila"
+  },
+  "tratti_chiave": [
+    "Rami lunghissimi e sottili che ricadono fino a terra",
+    "Foglie strette e lunghe, verdi (non argentee)",
+    "Quasi sempre in parchi e giardini, vicino a laghetti e corsi d'acqua"
+  ],
+  "origine": {
+    "stato": "esotica_coltivata",
+    "note": "Originario della Cina, nonostante il nome. Molti salici piangenti coltivati sono ibridi (per esempio Salix × sepulcralis, con rametti dorati)."
+  },
+  "foglie": {
+    "tipo": "semplice",
+    "disposizione": "alterna",
+    "forma": "lineare-lanceolata, 8-15 cm, molto stretta e appuntita",
+    "margine": "finemente seghettato",
+    "venatura": "pennata",
+    "colore_stagionale": {
+      "primavera_estate": "verde chiaro sopra, verde-grigiastro sotto, quasi glabra",
+      "autunno": "giallo; tra gli ultimi alberi a perdere le foglie"
+    },
+    "descrizione": "Le foglie spuntano presto in primavera e cadono tardi: la chioma resta verde per molti mesi."
+  },
+  "corteccia": {
+    "colore": "grigio-bruno",
+    "texture": "fessurata in creste",
+    "evoluzione_con_eta": "si fessura presto",
+    "descrizione": ""
+  },
+  "rami_e_portamento": {
+    "disposizione_rami": "alterna; rametti lunghi, sottili, penduli, verdi, bruni o dorati",
+    "angolo_di_crescita": "branche principali ascendenti, rametti ricadenti",
+    "forma_chioma": "ampia, a cascata",
+    "silhouette_invernale": "sagoma a cascata inconfondibile, con i rametti che sfiorano il suolo o l'acqua",
+    "descrizione": "È una delle sagome più riconoscibili dei parchi.",
+    "ramificazione": "Rametti simpodiali: manca la gemma terminale vera."
+  },
+  "gemme": {
+    "forma": "piccole, appressate",
+    "colore": "bruno-verdastre",
+    "disposizione": "alterne",
+    "descrizione": "Come negli altri salici, una sola squama a cappuccio."
+  },
+  "fiori_e_frutti": {
+    "tipo_fiore": "amenti sottili, verdognoli",
+    "periodo_fioritura": "aprile, con le foglie",
+    "tipo_frutto": "capsula",
+    "periodo_fruttificazione": "maggio-giugno",
+    "descrizione": "Nei parchi si vedono soprattutto piante femminili o ibridi sterili: i semi sono poco comuni."
+  },
+  "dimensioni": {
+    "altezza_tipica_m": [
+      8,
+      15
+    ],
+    "altezza_max_m": 20,
+    "eta_massima_anni": null,
+    "note": "Età massima non accertata; è considerato un albero di vita breve."
+  },
+  "habitat_e_distribuzione": {
+    "regioni_italia": [
+      "Tutta Italia in parchi, giardini, rive di laghetti e canali; non si inselvatichisce facilmente"
+    ],
+    "altitudine": "0-800 m",
+    "terreno_preferito": "umido e profondo",
+    "descrizione": "Albero ornamentale legato all'acqua; soffre la siccità prolungata."
+  },
+  "ecologia": {
+    "descrizione": "Specie esotica coltivata: in Italia non ha un ruolo definito nei boschi."
+  },
+  "stagionalita": {
+    "primavera": "Foglie nuove molto precoci, verde chiaro.",
+    "estate": "Cascata verde vicino all'acqua.",
+    "autunno": "Foglie gialle che cadono tardi.",
+    "inverno": "Rametti penduli, a volte dorati."
+  },
+  "specie_simili": [
+    {
+      "id_specie": "salix-alba",
+      "come_distinguere": "Il salice bianco ha rami ascendenti, non ricadenti fino a terra, e foglie argentee e sericee sotto."
+    }
+  ],
+  "commestibilita": {
+    "parti": "",
+    "note": "",
+    "avvertenze": ""
+  },
+  "tossicita": {
+    "livello": "nessuna_nota",
+    "parti": "",
+    "note": "Nessuna tossicità significativa nota."
+  },
+  "curiosita_e_usi": "Il nome babylonica viene da un errore di Linneo, che lo identificò con i salici del Salmo 137 («Sui fiumi di Babilonia»), che erano probabilmente pioppi dell'Eufrate.",
+  "immagini": [
+    {
+      "tipo": "foglia",
+      "file": "img/salix-babylonica-foglia.jpg",
+      "fonte": "Wikimedia Commons",
+      "autore": "John Tann from Sydney, Australia",
+      "licenza": "CC BY 2.0",
+      "url_originale": "https://commons.wikimedia.org/wiki/File:Weeping_Willow_(3211417383).jpg",
+      "titolo_originale": "Weeping Willow (3211417383).jpg"
+    },
+    {
+      "tipo": "corteccia",
+      "file": "img/salix-babylonica-corteccia.jpg",
+      "fonte": "Wikimedia Commons",
+      "autore": "Famartin",
+      "licenza": "CC BY-SA 4.0",
+      "url_originale": "https://commons.wikimedia.org/wiki/File:2021-03-04_11_13_38_Weeping_Willow_bark_along_a_walking_path_in_the_Franklin_Glen_section_of_Chantilly,_Fairfax_County,_Virginia.jpg",
+      "titolo_originale": "2021-03-04 11 13 38 Weeping Willow bark along a walking path in the Franklin Glen section of Chantilly, Fairfax County, Virginia.jpg"
+    },
+    {
+      "tipo": "fiore_o_frutto",
+      "file": "img/salix-babylonica-fiore_o_frutto.jpg",
+      "fonte": "Wikimedia Commons",
+      "autore": "Didier Descouens",
+      "licenza": "CC BY-SA 4.0",
+      "url_originale": "https://commons.wikimedia.org/wiki/File:(MHNT)_Salix_babylonica_(Feuilles_et_inflorescences)_-_Les_Martels,_Giroussens_Tarn.jpg",
+      "titolo_originale": "(MHNT) Salix babylonica (Feuilles et inflorescences) - Les Martels, Giroussens Tarn.jpg"
+    },
+    {
+      "tipo": "gemme",
+      "file": "img/salix-babylonica-gemme.jpg",
+      "fonte": "Wikimedia Commons",
+      "autore": "Threecharlie",
+      "licenza": "CC BY-SA 4.0",
+      "url_originale": "https://commons.wikimedia.org/wiki/File:Gemma_di_salice_piangente,_parco_della_Cittadella_Socio_Sanitaria_(Rovigo)_01.jpg",
+      "titolo_originale": "Gemma di salice piangente, parco della Cittadella Socio Sanitaria (Rovigo) 01.jpg"
+    },
+    {
+      "tipo": "silhouette",
+      "file": "img/salix-babylonica-silhouette.jpg",
+      "fonte": "Wikimedia Commons",
+      "autore": "Didier Descouens",
+      "licenza": "CC BY-SA 4.0",
+      "url_originale": "https://commons.wikimedia.org/wiki/File:(MHNT)_Salix_babylonica_-_Les_Martels,_Giroussens_Tarn.jpg",
+      "titolo_originale": "(MHNT) Salix babylonica - Les Martels, Giroussens Tarn.jpg"
+    }
+  ],
+  "fonti": [
+    {
+      "titolo": "Salix babylonica – Wikipedia (it)",
+      "url": "https://it.wikipedia.org/wiki/Salix_babylonica"
+    },
+    {
+      "titolo": "Salix babylonica – Wikipedia (en)",
+      "url": "https://en.wikipedia.org/wiki/Salix_babylonica"
+    }
+  ]
+}
