@@ -1,0 +1,207 @@
+{
+  "id": "quercus-pubescens",
+  "nome_comune": "Roverella",
+  "nome_scientifico": "Quercus pubescens",
+  "famiglia": "Fagaceae",
+  "genere": "Quercus",
+  "sinonimi": [
+    "Quercia pubescente",
+    "Quercia bianca"
+  ],
+  "nomi_locali": [],
+  "stato": "bozza",
+  "aggiornato": "2026-09-24",
+  "chiave": {
+    "gruppo": "latifoglia",
+    "persistenza": "marcescente",
+    "foglia_tipo": "semplice",
+    "foglia_disposizione": "alterna",
+    "foglia_margine": [
+      "lobato"
+    ],
+    "foglia_forma": [
+      "obovata",
+      "ellittica"
+    ],
+    "frutto": "ghianda",
+    "corteccia_texture": [
+      "fessurata",
+      "a_placche"
+    ],
+    "habitat": [
+      "collinare",
+      "rupestre_arido",
+      "planiziale"
+    ],
+    "altitudine_m": [
+      0,
+      1200
+    ],
+    "ramificazione": "monopodiale",
+    "ruolo_ecologico": [
+      "colonizzatrice",
+      "climax"
+    ],
+    "luce": "eliofila"
+  },
+  "tratti_chiave": [
+    "Pagina inferiore della foglia e rametti giovani coperti di peluria grigia",
+    "In inverno molte foglie secche restano attaccate ai rami",
+    "Ghiande quasi senza peduncolo; vive su versanti asciutti e soleggiati"
+  ],
+  "origine": {
+    "stato": "autoctona",
+    "note": ""
+  },
+  "foglie": {
+    "tipo": "semplice",
+    "disposizione": "alterna, addensate verso l'apice dei rametti",
+    "forma": "obovata o ellittica, molto variabile, con 4-8 paia di lobi arrotondati, a volte poco marcati",
+    "margine": "lobato-sinuato",
+    "venatura": "pennata",
+    "colore_stagionale": {
+      "primavera_estate": "verde grigiastro sopra; sotto grigio-feltrosa per la fitta peluria, più evidente nelle foglie giovani",
+      "autunno": "giallo-bruno; molte foglie secche restano sui rami per tutto l'inverno"
+    },
+    "descrizione": "Foglie lunghe in genere 5-10 cm, con picciolo di circa 5-12 mm anch'esso peloso. Passando un dito sulla pagina inferiore si sente una leggera vellutatura. Forma e pelosità cambiano molto tra un individuo e l'altro."
+  },
+  "corteccia": {
+    "colore": "grigio scuro, quasi nerastro",
+    "texture": "fittamente screpolata in piccole placche quasi quadrate",
+    "evoluzione_con_eta": "grigia e liscia nei giovani, si screpola precocemente",
+    "descrizione": "Più scura e a reticolo più fitto rispetto a farnia e rovere, le cui placche sono più allungate."
+  },
+  "rami_e_portamento": {
+    "disposizione_rami": "alterna; rametti giovani densamente pelosi e grigiastri",
+    "angolo_di_crescita": "branche irregolari, spesso sinuose e allargate",
+    "forma_chioma": "ampia, irregolare, spesso asimmetrica; negli esemplari isolati molto espansa",
+    "silhouette_invernale": "tronco corto e spesso inclinato, chioma bassa e larga ancora vestita di foglie secche bruno-rossastre",
+    "descrizione": "Albero di taglia media, spesso governato a ceduo. In inverno le chiome che conservano le foglie secche la rendono riconoscibile anche da lontano sui versanti.",
+    "ramificazione": "Rametti con gemma terminale vera (monopodiali); come nelle altre querce le gemme si affollano in punta e i rami crescono a scatti, contorti."
+  },
+  "gemme": {
+    "forma": "ovoidali, leggermente appuntite, piccole",
+    "colore": "bruno-grigiastre",
+    "disposizione": "alterne, raggruppate all'apice del rametto",
+    "descrizione": "Gemme e rametti dell'anno sono coperti da una peluria corta e grigia: un buon indizio invernale per distinguerla da farnia e rovere, che sono glabre."
+  },
+  "fiori_e_frutti": {
+    "tipo_fiore": "pianta monoica: amenti maschili penduli; fiori femminili piccoli e poco appariscenti",
+    "periodo_fioritura": "aprile-maggio",
+    "tipo_frutto": "ghianda di 1,5-3 cm, sessile o su peduncolo molto corto; cupola con squame appressate e grigio-tomentose",
+    "periodo_fruttificazione": "matura nello stesso anno, settembre-ottobre",
+    "descrizione": "Le ghiande stanno attaccate quasi direttamente al rametto, singole o in piccoli gruppi. La cupola appare vellutata e grigia."
+  },
+  "dimensioni": {
+    "altezza_tipica_m": [
+      10,
+      20
+    ],
+    "altezza_max_m": 25,
+    "eta_massima_anni": [
+      300,
+      700
+    ],
+    "note": "Nelle campagne esistono roverelle monumentali plurisecolari; l'età è spesso stimata e incerta."
+  },
+  "habitat_e_distribuzione": {
+    "regioni_italia": [
+      "Tutta Italia, isole comprese: è la quercia più diffusa del paese",
+      "Nord: colline e versanti soleggiati delle Prealpi, Carso, colli (Euganei, Berici, Langhe, Monferrato, Oltrepò)"
+    ],
+    "altitudine": "0-1000 m; fino a 1200-1300 m sui versanti caldi del Sud",
+    "terreno_preferito": "anche povero, sassoso e calcareo; tollera bene la siccità",
+    "descrizione": "Specie amante del caldo e della luce. Forma boschi misti spesso con orniello e carpino nero, oppure resta isolata in pascoli e campi. Molti boschi sono cedui."
+  },
+  "ecologia": {
+    "descrizione": "Ama luce e calore. Nei pascoli e nei coltivi collinari abbandonati è spesso tra le prime querce a tornare, dopo arbusti come ginepro e rosa canina; sui versanti aridi forma poi boschi stabili."
+  },
+  "stagionalita": {
+    "primavera": "Foglie nuove grigio-argentee e molto pelose; amenti penduli.",
+    "estate": "Chioma verde-grigia; foglie sotto vellutate.",
+    "autunno": "Ghiande quasi sessili; foglie bruno-gialle che in gran parte non cadono.",
+    "inverno": "Chioma ancora coperta di foglie secche bruno-rossastre; rametti e gemme pelosi."
+  },
+  "specie_simili": [
+    {
+      "id_specie": "quercus-petraea",
+      "come_distinguere": "La rovere da adulta ha foglie glabre sotto (o con pochi peli sulle nervature), picciolo più lungo e regolare e rametti lisci; preferisce ambienti più freschi."
+    },
+    {
+      "id_specie": "quercus-robur",
+      "come_distinguere": "La farnia ha foglie glabre e quasi senza picciolo, base con orecchiette e ghiande su un peduncolo lungo."
+    },
+    {
+      "id_specie": "quercus-cerris",
+      "come_distinguere": "Il cerro ha cupola con squame lunghe e arricciate e filamenti attorno alle gemme; foglie più ruvide al tatto e con lobi appuntiti."
+    }
+  ],
+  "commestibilita": {
+    "parti": "ghiande",
+    "note": "Come per le altre querce, le ghiande vanno private dei tannini con ammolli o bolliture ripetute; si possono poi tostare o macinare in farina.",
+    "avvertenze": "Non consumarle crude o non trattate."
+  },
+  "tossicita": {
+    "livello": "bassa",
+    "parti": "ghiande e foglie giovani",
+    "note": "Amare e astringenti per l'uomo; tossiche per il bestiame in grandi quantità."
+  },
+  "curiosita_e_usi": "È tra le piante simbionti del tartufo nero pregiato e di altri tartufi. Ottima legna da ardere, tradizionalmente ricavata dai boschi cedui. È un gruppo botanicamente complesso: forme intermedie e ibridi con altre querce sono frequenti, quindi non tutti gli esemplari corrispondono alla descrizione da manuale.",
+  "immagini": [
+    {
+      "tipo": "silhouette",
+      "file": "img/quercus-pubescens-silhouette.jpg",
+      "fonte": "Wikimedia Commons",
+      "autore": "LigaDue",
+      "licenza": "CC BY-SA 4.0",
+      "url_originale": "https://commons.wikimedia.org/wiki/File:MarmoreTerniRoverella3.jpg",
+      "titolo_originale": "MarmoreTerniRoverella3.jpg"
+    },
+    {
+      "tipo": "foglia",
+      "file": "img/quercus-pubescens-foglia.jpg",
+      "fonte": "Wikimedia Commons",
+      "autore": "Kenraiz",
+      "licenza": "Public domain",
+      "url_originale": "https://commons.wikimedia.org/wiki/File:Quercus_pubescens_leaves_kz2.jpg",
+      "titolo_originale": "Quercus pubescens leaves kz2.jpg"
+    },
+    {
+      "tipo": "fiore_o_frutto",
+      "file": "img/quercus-pubescens-fiore_o_frutto.jpg",
+      "fonte": "Wikimedia Commons",
+      "autore": "G.Bernetti/EUFORGEN",
+      "licenza": "CC BY-SA 4.0",
+      "url_originale": "https://commons.wikimedia.org/wiki/File:Quercus_pubescens_acorns_illustration.jpg",
+      "titolo_originale": "Quercus pubescens acorns illustration.jpg"
+    },
+    {
+      "tipo": "corteccia",
+      "file": "img/quercus-pubescens-corteccia.jpg",
+      "fonte": "Wikimedia Commons",
+      "autore": "Stefan.lefnaer",
+      "licenza": "CC BY-SA 4.0",
+      "url_originale": "https://commons.wikimedia.org/wiki/File:Quercus_pubescens_sl32.jpg",
+      "titolo_originale": "Quercus pubescens sl32.jpg"
+    },
+    {
+      "tipo": "gemme",
+      "file": "img/quercus-pubescens-gemme.jpg",
+      "fonte": "Wikimedia Commons",
+      "autore": "Stefan.lefnaer",
+      "licenza": "CC BY-SA 4.0",
+      "url_originale": "https://commons.wikimedia.org/wiki/File:Quercus_pubescens_sl27.jpg",
+      "titolo_originale": "Quercus pubescens sl27.jpg"
+    }
+  ],
+  "fonti": [
+    {
+      "titolo": "Quercus pubescens – Wikipedia (it)",
+      "url": "https://it.wikipedia.org/wiki/Quercus_pubescens"
+    },
+    {
+      "titolo": "Quercus pubescens – Wikipedia (en)",
+      "url": "https://en.wikipedia.org/wiki/Quercus_pubescens"
+    }
+  ]
+}

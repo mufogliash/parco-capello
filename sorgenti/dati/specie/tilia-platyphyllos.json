@@ -1,0 +1,197 @@
+{
+  "id": "tilia-platyphyllos",
+  "nome_comune": "Tiglio nostrano",
+  "nome_scientifico": "Tilia platyphyllos",
+  "famiglia": "Malvaceae",
+  "genere": "Tilia",
+  "sinonimi": [
+    "Tiglio a foglie grandi"
+  ],
+  "nomi_locali": [],
+  "stato": "bozza",
+  "aggiornato": "2026-09-24",
+  "chiave": {
+    "gruppo": "latifoglia",
+    "persistenza": "caduca",
+    "foglia_tipo": "semplice",
+    "foglia_disposizione": "alterna",
+    "foglia_margine": [
+      "seghettato"
+    ],
+    "foglia_forma": [
+      "cordata"
+    ],
+    "frutto": "nocula",
+    "corteccia_texture": [
+      "liscia",
+      "fessurata"
+    ],
+    "habitat": [
+      "collinare",
+      "montano",
+      "urbano_parchi"
+    ],
+    "altitudine_m": [
+      0,
+      1500
+    ],
+    "ramificazione": "simpodiale",
+    "ruolo_ecologico": [
+      "climax"
+    ],
+    "luce": "semisciafila"
+  },
+  "tratti_chiave": [
+    "Foglia a cuore grande (6-12 cm), morbida e pelosa sotto, con ciuffi di peli biancastri",
+    "Fiori in gruppi di 2-5 appesi a una brattea allungata, a giugno",
+    "Frutti duri e legnosi con 4-5 coste in rilievo"
+  ],
+  "origine": {
+    "stato": "autoctona",
+    "note": ""
+  },
+  "foglie": {
+    "tipo": "semplice",
+    "disposizione": "alterna, su due file",
+    "forma": "a cuore, 6-12 cm (fino a 15), asimmetrica, con punta breve",
+    "margine": "seghettato",
+    "venatura": "palmato-pennata: alcune nervature partono dalla base",
+    "colore_stagionale": {
+      "primavera_estate": "verde sopra, più chiara sotto e coperta di peli morbidi; ciuffi di peli biancastri all'incrocio delle nervature",
+      "autunno": "giallo"
+    },
+    "descrizione": "Anche il picciolo e i rametti giovani sono pelosi. Al tatto la foglia è morbida, non liscia come nel tiglio selvatico."
+  },
+  "corteccia": {
+    "colore": "grigio",
+    "texture": "liscia da giovane, poi con solchi verticali e creste",
+    "evoluzione_con_eta": "si fessura con regolarità",
+    "descrizione": "Simile a quella del tiglio selvatico: per distinguerli contano foglie, fiori e frutti."
+  },
+  "rami_e_portamento": {
+    "disposizione_rami": "alterna; rametti pelosi a zig-zag",
+    "angolo_di_crescita": "rami ascendenti, poi arcuati",
+    "forma_chioma": "ampia, a cupola",
+    "silhouette_invernale": "tronco robusto e chioma ampia di rametti a zig-zag",
+    "descrizione": "Albero maestoso, molto usato in viali e parchi.",
+    "ramificazione": "Rametti simpodiali a zig-zag: in cima resta una gemma laterale."
+  },
+  "gemme": {
+    "forma": "ovoidali, asimmetriche, con 2-3 squame",
+    "colore": "rossastre, spesso pelose",
+    "disposizione": "alterne, su due file",
+    "descrizione": "Come negli altri tigli, gemme rosse e gonfie da un lato."
+  },
+  "fiori_e_frutti": {
+    "tipo_fiore": "fiori giallo-crema profumati, 2-5 per gruppo, su un peduncolo saldato a una brattea verde chiara",
+    "periodo_fioritura": "giugno, prima del tiglio selvatico",
+    "tipo_frutto": "nocula di 8-10 mm, legnosa e dura, con 4-5 coste in rilievo",
+    "periodo_fruttificazione": "settembre-ottobre",
+    "descrizione": "I frutti duri e costoluti non si schiacciano tra le dita: è il modo più semplice per distinguerlo dal tiglio selvatico."
+  },
+  "dimensioni": {
+    "altezza_tipica_m": [
+      25,
+      35
+    ],
+    "altezza_max_m": 40,
+    "eta_massima_anni": [
+      500,
+      1000
+    ],
+    "note": "Molto longevo; le età dei tigli monumentali sono spesso stime."
+  },
+  "habitat_e_distribuzione": {
+    "regioni_italia": [
+      "Nord: boschi di forra e versanti freschi delle Prealpi e dell'Appennino settentrionale",
+      "Centro-Sud: lungo l'Appennino, sporadico",
+      "Ovunque nei viali e nei parchi"
+    ],
+    "altitudine": "0-1500 m",
+    "terreno_preferito": "fresco, profondo, spesso calcareo e sassoso",
+    "descrizione": "Ama le valli strette e umide (boschi di forra) con aceri e frassini."
+  },
+  "ecologia": {
+    "descrizione": "Tollera una discreta ombra da giovane e cresce nei boschi maturi e freschi di latifoglie."
+  },
+  "stagionalita": {
+    "primavera": "Foglie nuove morbide e pelose.",
+    "estate": "Fioritura a giugno, profumatissima.",
+    "autunno": "Frutti legnosi costoluti; foglie gialle.",
+    "inverno": "Rametti pelosi a zig-zag e gemme rossastre."
+  },
+  "specie_simili": [
+    {
+      "id_specie": "tilia-cordata",
+      "come_distinguere": "Il tiglio selvatico ha foglie più piccole e glabre, glauche sotto con ciuffi di peli rossicci, più fiori per gruppo, fioritura più tardiva e frutti lisci e fragili."
+    }
+  ],
+  "commestibilita": {
+    "parti": "fiori (con brattea), foglie giovani",
+    "note": "Come per il tiglio selvatico: fiori per l'infuso, foglie giovanissime in insalata.",
+    "avvertenze": "Raccogli solo da alberi lontani dal traffico. Usa l'infuso con moderazione e chiedi al medico se hai problemi cardiaci o assumi farmaci."
+  },
+  "tossicita": {
+    "livello": "nessuna_nota",
+    "parti": "",
+    "note": "Nessuna tossicità significativa nota."
+  },
+  "curiosita_e_usi": "Legno tenero e chiaro per intaglio e sculture. In città si trovano spesso anche il tiglio argentato e ibridi tra le due specie nostrane, con caratteri intermedi.",
+  "immagini": [
+    {
+      "tipo": "silhouette",
+      "file": "img/tilia-platyphyllos-silhouette.jpg",
+      "fonte": "Wikimedia Commons",
+      "autore": "Autore non indicato (vedi pagina originale)",
+      "licenza": "CC BY-SA 3.0",
+      "url_originale": "https://commons.wikimedia.org/wiki/File:Tilia_platyphyllos(01).jpg",
+      "titolo_originale": "Tilia platyphyllos(01).jpg"
+    },
+    {
+      "tipo": "foglia",
+      "file": "img/tilia-platyphyllos-foglia.jpg",
+      "fonte": "Wikimedia Commons",
+      "autore": "Dmitry Makeev",
+      "licenza": "CC BY-SA 4.0",
+      "url_originale": "https://commons.wikimedia.org/wiki/File:2020_year._Herbarium._Tilia_platyphyllos._img-004.jpg",
+      "titolo_originale": "2020 year. Herbarium. Tilia platyphyllos. img-004.jpg"
+    },
+    {
+      "tipo": "fiore_o_frutto",
+      "file": "img/tilia-platyphyllos-fiore_o_frutto.jpg",
+      "fonte": "Wikimedia Commons",
+      "autore": "Gmihail at Serbian Wikipedia",
+      "licenza": "CC BY-SA 3.0 rs",
+      "url_originale": "https://commons.wikimedia.org/wiki/File:Tilia_platyphyllos_fruits.jpg",
+      "titolo_originale": "Tilia platyphyllos fruits.jpg"
+    },
+    {
+      "tipo": "corteccia",
+      "file": "img/tilia-platyphyllos-corteccia.jpg",
+      "fonte": "Wikimedia Commons",
+      "autore": "Gmihail at Serbian Wikipedia",
+      "licenza": "CC BY-SA 3.0 rs",
+      "url_originale": "https://commons.wikimedia.org/wiki/File:Tilia_platyphyllos_bark.jpg",
+      "titolo_originale": "Tilia platyphyllos bark.jpg"
+    },
+    {
+      "tipo": "gemme",
+      "file": "img/tilia-platyphyllos-gemme.jpg",
+      "fonte": "Wikimedia Commons",
+      "autore": "MurielBendel",
+      "licenza": "CC BY-SA 4.0",
+      "url_originale": "https://commons.wikimedia.org/wiki/File:Tilia_platyphyllos_buds.jpg",
+      "titolo_originale": "Tilia platyphyllos buds.jpg"
+    }
+  ],
+  "fonti": [
+    {
+      "titolo": "Tilia platyphyllos – Wikipedia (it)",
+      "url": "https://it.wikipedia.org/wiki/Tilia_platyphyllos"
+    },
+    {
+      "titolo": "Tilia platyphyllos – Wikipedia (en)",
+      "url": "https://en.wikipedia.org/wiki/Tilia_platyphyllos"
+    }
+  ]
+}

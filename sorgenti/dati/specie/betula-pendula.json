@@ -1,0 +1,221 @@
+{
+  "id": "betula-pendula",
+  "nome_comune": "Betulla",
+  "nome_scientifico": "Betula pendula",
+  "famiglia": "Betulaceae",
+  "genere": "Betula",
+  "sinonimi": [
+    "Betulla bianca",
+    "Betulla verrucosa"
+  ],
+  "nomi_locali": [],
+  "stato": "bozza",
+  "aggiornato": "2026-09-24",
+  "chiave": {
+    "gruppo": "latifoglia",
+    "persistenza": "caduca",
+    "foglia_tipo": "semplice",
+    "foglia_disposizione": "alterna",
+    "foglia_margine": [
+      "doppiamente_seghettato"
+    ],
+    "foglia_forma": [
+      "rombica",
+      "ovata"
+    ],
+    "frutto": "infruttescenza",
+    "corteccia_texture": [
+      "liscia",
+      "desquamante",
+      "lenticelle_orizzontali",
+      "fessurata"
+    ],
+    "habitat": [
+      "montano",
+      "collinare",
+      "subalpino",
+      "planiziale",
+      "urbano_parchi"
+    ],
+    "altitudine_m": [
+      0,
+      2000
+    ],
+    "ramificazione": "simpodiale",
+    "ruolo_ecologico": [
+      "pioniera"
+    ],
+    "luce": "eliofila"
+  },
+  "tratti_chiave": [
+    "Corteccia bianca con segni neri; base del tronco scura e screpolata",
+    "Rametti sottili e penduli",
+    "Foglia romboidale, doppiamente seghettata, con punta lunga"
+  ],
+  "origine": {
+    "stato": "autoctona",
+    "note": ""
+  },
+  "foglie": {
+    "tipo": "semplice",
+    "disposizione": "alterna",
+    "forma": "triangolare-romboidale, 3-7 cm, con apice lungamente appuntito",
+    "margine": "doppiamente seghettato",
+    "venatura": "pennata",
+    "colore_stagionale": {
+      "primavera_estate": "verde chiaro brillante, glabra; picciolo lungo 2-3 cm che fa muovere la foglia al vento",
+      "autunno": "giallo oro"
+    },
+    "descrizione": "Foglia piccola e leggera: la chioma lascia passare molta luce e sotto le betulle crescono erba e arbusti."
+  },
+  "corteccia": {
+    "colore": "bianca con macchie e fasce nere; alla base nera o grigio scura",
+    "texture": "liscia, con lenticelle orizzontali scure; si sfoglia in sottili strisce orizzontali; alla base spessa e fessurata a rombi",
+    "evoluzione_con_eta": "bruno-rossastra nelle piante giovanissime, poi bianca; con l'età la base diventa nera e screpolata sempre più in alto",
+    "descrizione": "Il bianco è dovuto alla betulina, una sostanza che riflette la luce. La parte bassa nera e rugosa è tipica di questa specie."
+  },
+  "rami_e_portamento": {
+    "disposizione_rami": "alterna; rametti sottili, penduli, coperti di piccole verruche resinose",
+    "angolo_di_crescita": "rami principali ascendenti, rametti terminali ricadenti",
+    "forma_chioma": "leggera, stretta e aperta",
+    "silhouette_invernale": "fusto bianco e slanciato con una nuvola di rametti sottili che pendono",
+    "descrizione": "Le verruche resinose sui rametti giovani danno il nome «verrucosa» e li rendono ruvidi al tatto.",
+    "ramificazione": "Rametti simpodiali: manca la gemma terminale vera."
+  },
+  "gemme": {
+    "forma": "piccole, appuntite, 3-6 mm",
+    "colore": "bruno-verdastre, un po' appiccicose",
+    "disposizione": "alterne",
+    "descrizione": "In inverno i rametti portano già gli amenti maschili, piccoli e bruni, che si allungano in primavera."
+  },
+  "fiori_e_frutti": {
+    "tipo_fiore": "pianta monoica: amenti maschili penduli (formati l'anno prima); amenti femminili piccoli, prima eretti poi penduli",
+    "periodo_fioritura": "aprile, insieme alle foglie",
+    "tipo_frutto": "amento cilindrico pendulo di 2-3 cm che a maturità si sfalda liberando moltissimi semi minuscoli con due ali",
+    "periodo_fruttificazione": "agosto-settembre",
+    "descrizione": "I semi leggerissimi volano lontano col vento: per questo la betulla arriva per prima su frane, incendi e terreni nudi."
+  },
+  "dimensioni": {
+    "altezza_tipica_m": [
+      15,
+      25
+    ],
+    "altezza_max_m": 30,
+    "eta_massima_anni": [
+      80,
+      120
+    ],
+    "note": "Pioniera di vita relativamente breve: raramente supera i 100-120 anni."
+  },
+  "habitat_e_distribuzione": {
+    "regioni_italia": [
+      "Alpi e Prealpi, fino a circa 2000 m",
+      "Pianura padana: brughiere e boschi su suoli sabbiosi e acidi (per esempio lungo il Ticino)",
+      "Appennino settentrionale; rara più a sud (sull'Etna vive una betulla endemica)"
+    ],
+    "altitudine": "0-2000 m",
+    "terreno_preferito": "povero, sabbioso o sassoso, spesso acido; evita i ristagni prolungati",
+    "descrizione": "Frequente su frane, piste da sci, radure, boschi percorsi dal fuoco e brughiere. Molto piantata in parchi e giardini."
+  },
+  "ecologia": {
+    "descrizione": "Pioniera tipica: ha bisogno di piena luce, cresce in fretta e produce semi in enorme quantità. Sotto la sua chioma leggera si insediano poi specie più longeve che col tempo la sostituiscono."
+  },
+  "stagionalita": {
+    "primavera": "Foglie nuove verde brillante e amenti penduli (aprile); polline abbondante.",
+    "estate": "Amenti fruttiferi cilindrici verdi, poi bruni.",
+    "autunno": "Chioma giallo oro; gli amenti si sfaldano e liberano i semi.",
+    "inverno": "Tronco bianco e rametti penduli; amenti maschili già pronti."
+  },
+  "specie_simili": [
+    {
+      "id_specie": "populus-tremula",
+      "come_distinguere": "Il pioppo tremulo ha corteccia grigio-verdastra con macchie a rombo, foglie tondeggianti a dentatura larga e picciolo appiattito."
+    },
+    {
+      "id_specie": "populus-alba",
+      "come_distinguere": "Il pioppo bianco ha corteccia biancastra ma segnata da rombi scuri, foglie lobate e bianco-feltrose sotto, e vive lungo i fiumi di pianura."
+    },
+    {
+      "id_specie": "alnus-glutinosa",
+      "come_distinguere": "L'ontano nero ha corteccia scura, foglia con apice arrotondato o incavato e piccoli coni legnosi neri; vive lungo l'acqua."
+    }
+  ],
+  "commestibilita": {
+    "parti": "linfa (acqua di betulla), foglie giovani",
+    "note": "A fine inverno dal tronco si può raccogliere una linfa dolce e acquosa, bevuta fresca o fermentata; le foglie si usano in tisana.",
+    "avvertenze": "Una raccolta di linfa fatta male ferisce l'albero ed espone il legno a malattie: solo su alberi tuoi e con il metodo corretto."
+  },
+  "tossicita": {
+    "livello": "nessuna_nota",
+    "parti": "",
+    "note": "Nessuna tossicità significativa nota. Il polline, ad aprile, è tra i più allergenici."
+  },
+  "curiosita_e_usi": "Dalla corteccia si ricava un catrame usato come colla già nella preistoria: lo usò anche Ötzi, l'uomo del Similaun, per fissare le punte delle frecce. La corteccia, impermeabile, serviva nel Nord Europa per contenitori e tetti.",
+  "immagini": [
+    {
+      "tipo": "silhouette",
+      "file": "img/betula-pendula-silhouette-estate.jpg",
+      "fonte": "Wikimedia Commons",
+      "autore": "Georgi Kunev",
+      "licenza": "CC BY 2.5",
+      "url_originale": "https://commons.wikimedia.org/wiki/File:Betula_pendula_tree_Bulgaria.jpg",
+      "titolo_originale": "Betula pendula tree Bulgaria.jpg"
+    },
+    {
+      "tipo": "foglia",
+      "file": "img/betula-pendula-foglia.jpg",
+      "fonte": "Wikimedia Commons",
+      "autore": "T. Kebert",
+      "licenza": "CC BY-SA 4.0",
+      "url_originale": "https://commons.wikimedia.org/wiki/File:Betula_pendula_leaves_TK_2021-05-15_1.jpg",
+      "titolo_originale": "Betula pendula leaves TK 2021-05-15 1.jpg"
+    },
+    {
+      "tipo": "fiore_o_frutto",
+      "file": "img/betula-pendula-fiore_o_frutto.jpg",
+      "fonte": "Wikimedia Commons",
+      "autore": "Andrey Butko",
+      "licenza": "CC BY-SA 3.0",
+      "url_originale": "https://commons.wikimedia.org/wiki/File:Betula_pendula_in_Sedovo_1.jpg",
+      "titolo_originale": "Betula pendula in Sedovo 1.jpg"
+    },
+    {
+      "tipo": "corteccia",
+      "file": "img/betula-pendula-corteccia.jpg",
+      "fonte": "Wikimedia Commons",
+      "autore": "T. Kebert",
+      "licenza": "CC BY-SA 4.0",
+      "url_originale": "https://commons.wikimedia.org/wiki/File:Betula_pendula_bark_TK_2023-04-16_1.jpg",
+      "titolo_originale": "Betula pendula bark TK 2023-04-16 1.jpg"
+    },
+    {
+      "tipo": "gemme",
+      "file": "img/betula-pendula-gemme.jpg",
+      "fonte": "Wikimedia Commons",
+      "autore": "Peter O'Connor aka anemoneprojectors from Stevenage, United Kingdom",
+      "licenza": "CC BY-SA 2.0",
+      "url_originale": "https://commons.wikimedia.org/wiki/File:Silver_Birch_(Betula_pendula)_buds_(8255157617).jpg",
+      "titolo_originale": "Silver Birch (Betula pendula) buds (8255157617).jpg"
+    },
+    {
+      "tipo": "silhouette",
+      "file": "img/betula-pendula-silhouette.jpg",
+      "fonte": "Wikimedia Commons",
+      "autore": "Dominicus Johannes Bergsma",
+      "licenza": "CC BY-SA 4.0",
+      "url_originale": "https://commons.wikimedia.org/wiki/File:Solitaire_berk_(Betula)_in_een_prachtig_landschap._Locatie,_natuurgebied_Delleboersterheide_%E2%80%93_Catspoele_03.jpg",
+      "titolo_originale": "Solitaire berk (Betula) in een prachtig landschap. Locatie, natuurgebied Delleboersterheide – Catspoele 03.jpg",
+      "stagione": "inverno"
+    }
+  ],
+  "fonti": [
+    {
+      "titolo": "Betula pendula – Wikipedia (it)",
+      "url": "https://it.wikipedia.org/wiki/Betula_pendula"
+    },
+    {
+      "titolo": "Betula pendula – Wikipedia (en)",
+      "url": "https://en.wikipedia.org/wiki/Betula_pendula"
+    }
+  ]
+}

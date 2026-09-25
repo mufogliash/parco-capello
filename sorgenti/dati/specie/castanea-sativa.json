@@ -1,0 +1,196 @@
+{
+  "id": "castanea-sativa",
+  "nome_comune": "Castagno",
+  "nome_scientifico": "Castanea sativa",
+  "famiglia": "Fagaceae",
+  "genere": "Castanea",
+  "sinonimi": [
+    "Castagno europeo"
+  ],
+  "nomi_locali": [],
+  "stato": "bozza",
+  "aggiornato": "2026-09-24",
+  "chiave": {
+    "gruppo": "latifoglia",
+    "persistenza": "caduca",
+    "foglia_tipo": "semplice",
+    "foglia_disposizione": "alterna",
+    "foglia_margine": [
+      "dentato"
+    ],
+    "foglia_forma": [
+      "lanceolata",
+      "ellittica"
+    ],
+    "frutto": "castagna",
+    "corteccia_texture": [
+      "fessurata",
+      "fibrosa"
+    ],
+    "habitat": [
+      "collinare",
+      "montano"
+    ],
+    "altitudine_m": [
+      200,
+      1300
+    ],
+    "ramificazione": "simpodiale",
+    "ruolo_ecologico": [
+      "intermedia"
+    ],
+    "luce": "semisciafila"
+  },
+  "tratti_chiave": [
+    "Foglia lunga e stretta (fino a 20-25 cm) con denti appuntiti regolari come una sega",
+    "Ricci spinosi con 1-3 castagne",
+    "Corteccia a creste lunghe, spesso avvolte a spirale attorno al tronco"
+  ],
+  "origine": {
+    "stato": "autoctona",
+    "note": "Considerato spontaneo nell'Europa meridionale, ma diffuso e coltivato dall'uomo fin dall'antichità: molti castagneti sono impianti."
+  },
+  "foglie": {
+    "tipo": "semplice",
+    "disposizione": "alterna",
+    "forma": "oblungo-lanceolata, 10-25 cm, con apice appuntito",
+    "margine": "dentato, con denti regolari e appuntiti, ognuno all'estremità di una nervatura",
+    "venatura": "pennata, con 15-20 paia di nervature parallele e diritte",
+    "colore_stagionale": {
+      "primavera_estate": "verde lucido sopra, più chiaro sotto",
+      "autunno": "giallo dorato, poi bruno"
+    },
+    "descrizione": "Foglia inconfondibile per dimensioni e dentatura: ogni nervatura laterale termina in un dente appuntito. Il picciolo è lungo 1-2 cm."
+  },
+  "corteccia": {
+    "colore": "grigio-olivastro lucido da giovane; poi grigio-bruno",
+    "texture": "liscia da giovane, poi solcata in lunghe creste parallele, spesso ritorte a spirale",
+    "evoluzione_con_eta": "le creste si approfondiscono e negli esemplari vecchi il tronco appare avvitato",
+    "descrizione": "L'andamento a spirale delle creste è frequente e ben visibile sui castagni vecchi. I tronchi dei grandi castagni da frutto sono spesso cavi."
+  },
+  "rami_e_portamento": {
+    "disposizione_rami": "alterna; rami robusti",
+    "angolo_di_crescita": "branche ascendenti che poi si allargano",
+    "forma_chioma": "ampia e globosa negli esemplari isolati; nei cedui molti fusti dalla stessa ceppaia",
+    "silhouette_invernale": "tronco massiccio, spesso corto, che si divide in grosse branche; rametti robusti",
+    "descrizione": "I castagni da frutto sono spesso innestati e potati, con chiome larghe. I castagneti cedui formano gruppi di fusti diritti dalla stessa ceppaia.",
+    "ramificazione": "Rametti simpodiali: la punta muore a fine stagione e in cima resta una gemma laterale spostata di lato."
+  },
+  "gemme": {
+    "forma": "ovoidali, 3-5 mm, con 2-3 squame visibili",
+    "colore": "bruno-rossastre, lucide",
+    "disposizione": "alterne, un po' discoste dal rametto",
+    "descrizione": "Manca la gemma terminale vera: all'apice c'è una gemma laterale con accanto la cicatrice della punta seccata."
+  },
+  "fiori_e_frutti": {
+    "tipo_fiore": "pianta monoica: amenti eretti lunghi 10-20 cm, giallo-crema e dall'odore intenso; fiori femminili alla base di alcuni amenti",
+    "periodo_fioritura": "giugno-luglio, tra gli ultimi alberi a fiorire",
+    "tipo_frutto": "riccio spinoso che si apre in 4 valve e contiene 1-3 castagne",
+    "periodo_fruttificazione": "settembre-novembre, soprattutto ottobre",
+    "descrizione": "In fioritura le chiome si coprono di amenti chiari ben visibili da lontano. La castagna ha una faccia piatta e una punta con un ciuffetto di peli."
+  },
+  "dimensioni": {
+    "altezza_tipica_m": [
+      20,
+      30
+    ],
+    "altezza_max_m": 35,
+    "eta_massima_anni": [
+      500,
+      1000
+    ],
+    "note": "Esistono castagni monumentali plurisecolari; per alcuni esemplari famosi, come il Castagno dei Cento Cavalli sull'Etna, le stime di età sono molto più alte ma discusse."
+  },
+  "habitat_e_distribuzione": {
+    "regioni_italia": [
+      "Tutta Italia nella fascia collinare e di bassa montagna",
+      "Nord: Prealpi e colline su suoli acidi, Appennino settentrionale"
+    ],
+    "altitudine": "circa 200-1000 m; fino a 1300 m al Sud",
+    "terreno_preferito": "acido o povero di calcare, sciolto e profondo; evita i suoli calcarei",
+    "descrizione": "Ama un clima umido e temperato. Forma castagneti da frutto e cedui da legno. Soffre di alcune malattie (cancro della corteccia, mal dell'inchiostro) e dal 2002 del cinipide, un piccolo insetto che produce galle sulle gemme."
+  },
+  "ecologia": {
+    "descrizione": "Da giovane tollera una discreta ombra. Nei castagneti abbandonati si mescola con querce, carpini, frassini e betulle, che riprendono spazio."
+  },
+  "stagionalita": {
+    "primavera": "Foglie nuove lucide; in molte zone galle rosse del cinipide sulle gemme.",
+    "estate": "Fioritura tardiva (giugno-luglio) con amenti chiari e profumo intenso.",
+    "autunno": "Ricci che si aprono e castagne a terra; foglie giallo oro.",
+    "inverno": "Tronco a creste spesso a spirale; gemme rossastre senza gemma terminale."
+  },
+  "specie_simili": [
+    {
+      "id_specie": "aesculus-hippocastanum",
+      "come_distinguere": "L'ippocastano ha foglie composte palmate (5-7 foglioline), rami e gemme opposti e un frutto con pochi aculei corti; il seme è tondeggiante, senza punta pelosa, e non è commestibile."
+    }
+  ],
+  "commestibilita": {
+    "parti": "castagne",
+    "note": "Si mangiano bollite, arrosto, secche o come farina. Crude sono commestibili ma poco digeribili.",
+    "avvertenze": "Non confonderle con i semi dell'ippocastano, che sono tossici. Prima di arrostirle incidi la buccia, altrimenti scoppiano."
+  },
+  "tossicita": {
+    "livello": "nessuna_nota",
+    "parti": "",
+    "note": "Nessuna tossicità significativa nota. Il polline è abbondante a inizio estate."
+  },
+  "curiosita_e_usi": "Per secoli è stato l'albero del pane delle montagne italiane. Il legno, ricco di tannini, resiste bene all'aperto: pali, travi, doghe per botti. Il «marrone» è una varietà selezionata con frutti più grandi e un solo seme per riccio.",
+  "immagini": [
+    {
+      "tipo": "silhouette",
+      "file": "img/castanea-sativa-silhouette-estate.jpg",
+      "fonte": "Wikimedia Commons",
+      "autore": "Zeynel Cebeci",
+      "licenza": "CC BY-SA 4.0",
+      "url_originale": "https://commons.wikimedia.org/wiki/File:Castanea_sativa_-_Anatolian_sweet_chestnut_04.jpg",
+      "titolo_originale": "Castanea sativa - Anatolian sweet chestnut 04.jpg"
+    },
+    {
+      "tipo": "foglia",
+      "file": "img/castanea-sativa-foglia.jpg",
+      "fonte": "Wikimedia Commons",
+      "autore": "The original uploader was Ekir at Hungarian Wikipedia .",
+      "licenza": "CC BY-SA 3.0",
+      "url_originale": "https://commons.wikimedia.org/wiki/File:Castanea_sativa_leaves_and_immature_fruit.jpg",
+      "titolo_originale": "Castanea sativa leaves and immature fruit.jpg"
+    },
+    {
+      "tipo": "fiore_o_frutto",
+      "file": "img/castanea-sativa-fiore_o_frutto.jpg",
+      "fonte": "Wikimedia Commons",
+      "autore": "Dominicus Johannes Bergsma",
+      "licenza": "CC BY-SA 4.0",
+      "url_originale": "https://commons.wikimedia.org/wiki/File:Afgevallen_kastanje_van_een_Tamme_kastanje_(Castanea_sativa)_17-10-2021_(d.j.b.)_01.jpg",
+      "titolo_originale": "Afgevallen kastanje van een Tamme kastanje (Castanea sativa) 17-10-2021 (d.j.b.) 01.jpg"
+    },
+    {
+      "tipo": "corteccia",
+      "file": "img/castanea-sativa-corteccia.jpg",
+      "fonte": "Wikimedia Commons",
+      "autore": "Lamiot",
+      "licenza": "CC BY-SA 4.0",
+      "url_originale": "https://commons.wikimedia.org/wiki/File:Burghley_House_Park_Mature_Castanea_sativa_bark_d%C3%A9tail.jpg",
+      "titolo_originale": "Burghley House Park Mature Castanea sativa bark détail.jpg"
+    },
+    {
+      "tipo": "dettaglio",
+      "file": "img/castanea-sativa-dettaglio.jpg",
+      "fonte": "Wikimedia Commons",
+      "autore": "Evelyn Simak",
+      "licenza": "CC BY-SA 2.0",
+      "url_originale": "https://commons.wikimedia.org/wiki/File:Flowering_Sweet_chestnut_tree_(Castanea_sativa)_-_geograph.org.uk_-_6207367.jpg",
+      "titolo_originale": "Flowering Sweet chestnut tree (Castanea sativa) - geograph.org.uk - 6207367.jpg"
+    }
+  ],
+  "fonti": [
+    {
+      "titolo": "Castanea sativa – Wikipedia (it)",
+      "url": "https://it.wikipedia.org/wiki/Castanea_sativa"
+    },
+    {
+      "titolo": "Castanea sativa – Wikipedia (en)",
+      "url": "https://en.wikipedia.org/wiki/Castanea_sativa"
+    }
+  ]
+}

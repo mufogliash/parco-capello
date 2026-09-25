@@ -1,0 +1,198 @@
+{
+  "id": "corylus-avellana",
+  "nome_comune": "Nocciolo",
+  "nome_scientifico": "Corylus avellana",
+  "famiglia": "Betulaceae",
+  "genere": "Corylus",
+  "sinonimi": [
+    "Avellano"
+  ],
+  "nomi_locali": [],
+  "stato": "bozza",
+  "aggiornato": "2026-09-24",
+  "chiave": {
+    "gruppo": "latifoglia",
+    "persistenza": "caduca",
+    "foglia_tipo": "semplice",
+    "foglia_disposizione": "alterna",
+    "foglia_margine": [
+      "doppiamente_seghettato"
+    ],
+    "foglia_forma": [
+      "orbicolare",
+      "cordata"
+    ],
+    "frutto": "nocciola",
+    "corteccia_texture": [
+      "liscia",
+      "lenticelle_orizzontali"
+    ],
+    "habitat": [
+      "collinare",
+      "montano",
+      "planiziale"
+    ],
+    "altitudine_m": [
+      0,
+      1600
+    ],
+    "ramificazione": "simpodiale",
+    "ruolo_ecologico": [
+      "pioniera",
+      "colonizzatrice"
+    ],
+    "luce": "semisciafila"
+  },
+  "tratti_chiave": [
+    "Grande arbusto con molti fusti che partono dalla base",
+    "Foglia tondeggiante, morbida e pelosa, con base a cuore e punta breve",
+    "Amenti gialli penduli già a fine inverno, prima delle foglie"
+  ],
+  "origine": {
+    "stato": "autoctona",
+    "note": ""
+  },
+  "foglie": {
+    "tipo": "semplice",
+    "disposizione": "alterna, su due file",
+    "forma": "tondeggiante, 6-12 cm, con base a cuore e apice breve e appuntito",
+    "margine": "doppiamente seghettato",
+    "venatura": "pennata",
+    "colore_stagionale": {
+      "primavera_estate": "verde, morbida e un po' ruvida per i peli su entrambe le facce",
+      "autunno": "giallo"
+    },
+    "descrizione": "Il picciolo è corto e peloso, con peli ghiandolari. Al tatto la foglia è morbida e leggermente ruvida, mai lucida."
+  },
+  "corteccia": {
+    "colore": "bruno-rossiccio lucido, con lenticelle chiare",
+    "texture": "liscia, con piccole linee orizzontali (lenticelle)",
+    "evoluzione_con_eta": "sui fusti vecchi diventa grigio-bruna e si sfoglia in sottili lamine",
+    "descrizione": "I fusti restano sottili e lisci: raramente superano i 15-20 cm di diametro."
+  },
+  "rami_e_portamento": {
+    "disposizione_rami": "alterna; polloni diritti e flessibili",
+    "angolo_di_crescita": "fusti che partono dalla ceppaia e si aprono a ventaglio",
+    "forma_chioma": "cespuglio ampio a ventaglio; raramente piccolo albero",
+    "silhouette_invernale": "ciuffo di fusti diritti dalla stessa base, con amenti maschili penduli già visibili",
+    "descrizione": "La ceppaia produce continuamente nuovi polloni: quando un fusto invecchia, altri lo sostituiscono.",
+    "ramificazione": "Rametti simpodiali a zig-zag: in cima resta una gemma laterale."
+  },
+  "gemme": {
+    "forma": "ovoidali, tondeggianti, 3-6 mm",
+    "colore": "verdi o brunastre, pelose",
+    "disposizione": "alterne",
+    "descrizione": "Le gemme che contengono i fiori femminili sono simili alle altre, ma a fine inverno ne spuntano minuscoli stimmi rosso vivo."
+  },
+  "fiori_e_frutti": {
+    "tipo_fiore": "pianta monoica: amenti maschili gialli e penduli, 5-10 cm; fiori femminili minuscoli simili a gemme con stimmi rossi",
+    "periodo_fioritura": "gennaio-marzo, prima delle foglie",
+    "tipo_frutto": "nocciola avvolta da un involucro di brattee fogliacee sfrangiate, in gruppi di 1-4",
+    "periodo_fruttificazione": "agosto-settembre",
+    "descrizione": "È uno dei primi alberi a fiorire: gli amenti gialli spargono polline col vento quando il bosco è ancora spoglio."
+  },
+  "dimensioni": {
+    "altezza_tipica_m": [
+      3,
+      6
+    ],
+    "altezza_max_m": 8,
+    "eta_massima_anni": null,
+    "note": "Età massima non accertata. I singoli fusti vivono qualche decennio, ma la ceppaia si rinnova di continuo e può durare molto più a lungo."
+  },
+  "habitat_e_distribuzione": {
+    "regioni_italia": [
+      "Tutta Italia: margini di bosco, siepi, radure, boschi misti",
+      "Coltivato soprattutto in Piemonte (Langhe), Lazio, Campania e Sicilia"
+    ],
+    "altitudine": "0-1500 m, localmente fino a 1600 m",
+    "terreno_preferito": "fresco, anche calcareo; si adatta a molti suoli",
+    "descrizione": "Comunissimo nei boschi misti di latifoglie, nelle siepi e al margine dei prati. Invade in fretta coltivi e pascoli abbandonati."
+  },
+  "ecologia": {
+    "descrizione": "Tra i primi legnosi a colonizzare radure, margini e pascoli abbandonati; tollera anche l'ombra leggera sotto querce e frassini, dove resta come sottobosco."
+  },
+  "stagionalita": {
+    "primavera": "Foglie nuove morbide e pelose.",
+    "estate": "Nocciole in formazione nei loro involucri sfrangiati.",
+    "autunno": "Nocciole mature (fino a settembre); foglie gialle.",
+    "inverno": "Da gennaio amenti gialli penduli e minuscoli stimmi rossi: il primo segno di primavera nel bosco."
+  },
+  "specie_simili": [
+    {
+      "id_specie": "alnus-glutinosa",
+      "come_distinguere": "L'ontano nero è un albero con fusto unico, foglia glabra e appiccicosa da giovane, con apice arrotondato o incavato, e piccoli coni legnosi; vive lungo l'acqua."
+    },
+    {
+      "id_specie": "tilia-cordata",
+      "come_distinguere": "Il tiglio ha foglia cuoriforme ma glabra, asimmetrica alla base e con seghettatura semplice; è un albero grande con un solo tronco."
+    }
+  ],
+  "commestibilita": {
+    "parti": "nocciole",
+    "note": "Si mangiano crude o tostate; mature tra agosto e settembre, quando si staccano facilmente dall'involucro.",
+    "avvertenze": "Possibile allergia alla frutta a guscio, anche grave."
+  },
+  "tossicita": {
+    "livello": "nessuna_nota",
+    "parti": "",
+    "note": "Nessuna tossicità nota. Il polline, abbondante a fine inverno, è allergenico per molte persone."
+  },
+  "curiosita_e_usi": "I polloni diritti e flessibili servivano per cesti, graticci e bastoni; tradizionalmente anche per le bacchette dei rabdomanti. Le radici del nocciolo si associano ai tartufi, e per questo è usato nelle tartufaie coltivate.",
+  "immagini": [
+    {
+      "tipo": "silhouette",
+      "file": "img/corylus-avellana-silhouette-utente.jpg",
+      "fonte": "Foto fornita dall'utente",
+      "autore": "non indicato",
+      "licenza": "da verificare (uso personale)",
+      "url_originale": ""
+    },
+    {
+      "tipo": "foglia",
+      "file": "img/corylus-avellana-foglia.jpg",
+      "fonte": "Wikimedia Commons",
+      "autore": "Dmitry Makeev",
+      "licenza": "CC BY-SA 4.0",
+      "url_originale": "https://commons.wikimedia.org/wiki/File:2020_year._Herbarium._Corylus_avellana._img-033.jpg",
+      "titolo_originale": "2020 year. Herbarium. Corylus avellana. img-033.jpg"
+    },
+    {
+      "tipo": "fiore_o_frutto",
+      "file": "img/corylus-avellana-fiore_o_frutto.jpg",
+      "fonte": "Wikimedia Commons",
+      "autore": "hedera.baltica from Wrocław, Poland",
+      "licenza": "CC BY-SA 2.0",
+      "url_originale": "https://commons.wikimedia.org/wiki/File:Last_one_(51057694173).jpg",
+      "titolo_originale": "Last one (51057694173).jpg"
+    },
+    {
+      "tipo": "dettaglio",
+      "file": "img/corylus-avellana-dettaglio.jpg",
+      "fonte": "Wikimedia Commons",
+      "autore": "Nefronus",
+      "licenza": "CC BY-SA 4.0",
+      "url_originale": "https://commons.wikimedia.org/wiki/File:Corylus_avellana_male_and_female_flowers_3.jpg",
+      "titolo_originale": "Corylus avellana male and female flowers 3.jpg"
+    },
+    {
+      "tipo": "dettaglio",
+      "file": "img/corylus-avellana-dettaglio-2.jpg",
+      "fonte": "Wikimedia Commons",
+      "autore": "H. Zell",
+      "licenza": "CC BY-SA 3.0",
+      "url_originale": "https://commons.wikimedia.org/wiki/File:Corylus_avellana_0007.JPG",
+      "titolo_originale": "Corylus avellana 0007.JPG"
+    }
+  ],
+  "fonti": [
+    {
+      "titolo": "Corylus avellana – Wikipedia (it)",
+      "url": "https://it.wikipedia.org/wiki/Corylus_avellana"
+    },
+    {
+      "titolo": "Corylus avellana – Wikipedia (en)",
+      "url": "https://en.wikipedia.org/wiki/Corylus_avellana"
+    }
+  ]
+}

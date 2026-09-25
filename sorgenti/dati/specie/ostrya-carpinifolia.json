@@ -1,0 +1,193 @@
+{
+  "id": "ostrya-carpinifolia",
+  "nome_comune": "Carpino nero",
+  "nome_scientifico": "Ostrya carpinifolia",
+  "famiglia": "Betulaceae",
+  "genere": "Ostrya",
+  "sinonimi": [
+    "Ostria"
+  ],
+  "nomi_locali": [],
+  "stato": "bozza",
+  "aggiornato": "2026-09-24",
+  "chiave": {
+    "gruppo": "latifoglia",
+    "persistenza": "caduca",
+    "foglia_tipo": "semplice",
+    "foglia_disposizione": "alterna",
+    "foglia_margine": [
+      "doppiamente_seghettato"
+    ],
+    "foglia_forma": [
+      "ovata"
+    ],
+    "frutto": "infruttescenza",
+    "corteccia_texture": [
+      "desquamante",
+      "fibrosa"
+    ],
+    "habitat": [
+      "collinare",
+      "montano",
+      "rupestre_arido"
+    ],
+    "altitudine_m": [
+      200,
+      1400
+    ],
+    "ramificazione": "simpodiale",
+    "ruolo_ecologico": [
+      "colonizzatrice"
+    ],
+    "luce": "semisciafila"
+  },
+  "tratti_chiave": [
+    "Frutti riuniti in grappoli penduli chiari che ricordano il luppolo",
+    "Corteccia bruno-grigia che si sfalda in sottili strisce verticali",
+    "Foglia ovale e appuntita, doppiamente seghettata, su versanti calcarei"
+  ],
+  "origine": {
+    "stato": "autoctona",
+    "note": ""
+  },
+  "foglie": {
+    "tipo": "semplice",
+    "disposizione": "alterna, su due file",
+    "forma": "ovata con apice lungamente appuntito, 5-12 cm",
+    "margine": "doppiamente seghettato, con denti fini",
+    "venatura": "pennata, 11-15 paia di nervature parallele, alcune biforcate verso il margine",
+    "colore_stagionale": {
+      "primavera_estate": "verde scuro sopra, più chiara e pelosa sulle nervature sotto",
+      "autunno": "giallo"
+    },
+    "descrizione": "Somiglia alla foglia del carpino bianco, ma è più appuntita, meno pieghettata e un po' pelosa. Il dettaglio decisivo restano frutti e corteccia."
+  },
+  "corteccia": {
+    "colore": "bruno-rossastra con lenticelle da giovane; poi grigio-bruna",
+    "texture": "si sfalda in placche e strisce sottili e allungate in verticale",
+    "evoluzione_con_eta": "liscia e lucida nei fusti giovani, poi sempre più sfilacciata",
+    "descrizione": "L'aspetto sfaldato e bruno la separa nettamente dalla corteccia liscia e grigia del carpino bianco."
+  },
+  "rami_e_portamento": {
+    "disposizione_rami": "alterna; rametti sottili a zig-zag",
+    "angolo_di_crescita": "rami ascendenti e poi aperti",
+    "forma_chioma": "irregolare, arrotondata",
+    "silhouette_invernale": "piccolo albero, spesso con più fusti da ceppaia; già in inverno pendono dai rametti gli amenti maschili",
+    "descrizione": "Quasi sempre governato a ceduo: gruppi di fusti sottili dalla stessa base sui versanti calcarei.",
+    "ramificazione": "Rametti simpodiali a zig-zag: in cima resta una gemma laterale."
+  },
+  "gemme": {
+    "forma": "ovoidali, appuntite, 4-6 mm",
+    "colore": "verde-brunastre, lucide",
+    "disposizione": "alterne, divergenti dal rametto",
+    "descrizione": "In inverno accanto alle gemme sono già visibili gli amenti maschili, formati in autunno: un buon indizio stagionale."
+  },
+  "fiori_e_frutti": {
+    "tipo_fiore": "pianta monoica: amenti maschili penduli, già presenti dall'autunno; amenti femminili piccoli all'apice dei getti",
+    "periodo_fioritura": "aprile",
+    "tipo_frutto": "infruttescenza pendula di 3-6 cm simile a un cono di luppolo, formata da sacchetti membranacei bianco-crema che racchiudono ciascuno una piccola nocula",
+    "periodo_fruttificazione": "agosto-settembre",
+    "descrizione": "In estate i grappoli chiari spiccano nella chioma scura. Gli involucri a sacchetto aiutano il vento a trasportare i semi."
+  },
+  "dimensioni": {
+    "altezza_tipica_m": [
+      8,
+      15
+    ],
+    "altezza_max_m": 20,
+    "eta_massima_anni": null,
+    "note": "Età massima non accertata: i dati sono scarsi e nei cedui i fusti vengono tagliati molto giovani."
+  },
+  "habitat_e_distribuzione": {
+    "regioni_italia": [
+      "Nord: Prealpi calcaree (Lombardia, Trentino, Veneto, Friuli), Carso, Appennino settentrionale",
+      "Centro-Sud: diffuso lungo l'Appennino"
+    ],
+    "altitudine": "circa 200-1300 m, localmente fino a 1400 m",
+    "terreno_preferito": "calcareo, sassoso, anche superficiale; tollera la siccità estiva",
+    "descrizione": "Albero tipico degli orno-ostrieti, boschi di versante con orniello e roverella. Frequente su pendii ripidi e rocciosi."
+  },
+  "ecologia": {
+    "descrizione": "Ricolonizza rapidamente pascoli e terrazzamenti abbandonati su calcare e ricaccia con vigore dopo il taglio. Tollera una discreta ombra."
+  },
+  "stagionalita": {
+    "primavera": "Amenti maschili allungati e fioriti; foglie nuove (aprile).",
+    "estate": "Grappoli chiari di frutti simili al luppolo.",
+    "autunno": "Foglie gialle; si formano i nuovi amenti per l'anno dopo.",
+    "inverno": "Amenti maschili già visibili sui rametti; corteccia bruna sfaldata."
+  },
+  "specie_simili": [
+    {
+      "id_specie": "carpinus-betulus",
+      "come_distinguere": "Il carpino bianco ha tronco grigio liscio e scanalato, frutti con brattea verde a tre lobi e preferisce suoli freschi e profondi."
+    }
+  ],
+  "commestibilita": {
+    "parti": "",
+    "note": "",
+    "avvertenze": ""
+  },
+  "tossicita": {
+    "livello": "nessuna_nota",
+    "parti": "",
+    "note": "Nessuna tossicità significativa nota."
+  },
+  "curiosita_e_usi": "Legno duro e pesante, ottima legna da ardere e un tempo usato per il carbone. I cedui di carpino nero sono tra i boschi più comuni delle Prealpi calcaree.",
+  "immagini": [
+    {
+      "tipo": "silhouette",
+      "file": "img/ostrya-carpinifolia-silhouette-estate.jpg",
+      "fonte": "Wikimedia Commons",
+      "autore": "Jean-Pol GRANDMONT",
+      "licenza": "CC BY-SA 3.0",
+      "url_originale": "https://commons.wikimedia.org/wiki/File:Ostrya_carpinifolia_JPG1a.jpg",
+      "titolo_originale": "Ostrya carpinifolia JPG1a.jpg"
+    },
+    {
+      "tipo": "foglia",
+      "file": "img/ostrya-carpinifolia-foglia.jpg",
+      "fonte": "Wikimedia Commons",
+      "autore": "Autore non indicato (vedi pagina originale)",
+      "licenza": "CC BY-SA 3.0",
+      "url_originale": "https://commons.wikimedia.org/wiki/File:Ostyra_carpinifolia_BotGardBln1105MaleInflorescencesLeavesFall.jpg",
+      "titolo_originale": "Ostyra carpinifolia BotGardBln1105MaleInflorescencesLeavesFall.jpg"
+    },
+    {
+      "tipo": "fiore_o_frutto",
+      "file": "img/ostrya-carpinifolia-fiore_o_frutto.jpg",
+      "fonte": "Wikimedia Commons",
+      "autore": "M J Richardson",
+      "licenza": "CC BY-SA 2.0",
+      "url_originale": "https://commons.wikimedia.org/wiki/File:Hop_Hornbeam_-_Ostrya_carpinifolia_-_geograph.org.uk_-_7531072.jpg",
+      "titolo_originale": "Hop Hornbeam - Ostrya carpinifolia - geograph.org.uk - 7531072.jpg"
+    },
+    {
+      "tipo": "corteccia",
+      "file": "img/ostrya-carpinifolia-corteccia.jpg",
+      "fonte": "Wikimedia Commons",
+      "autore": "Marija Gajić",
+      "licenza": "CC BY-SA 4.0",
+      "url_originale": "https://commons.wikimedia.org/wiki/File:Ostrya_carpinifolia_(13).JPG",
+      "titolo_originale": "Ostrya carpinifolia (13).JPG"
+    },
+    {
+      "tipo": "dettaglio",
+      "file": "img/ostrya-carpinifolia-dettaglio.jpg",
+      "fonte": "Wikimedia Commons",
+      "autore": "G.Hagedorn",
+      "licenza": "CC BY-SA 3.0",
+      "url_originale": "https://commons.wikimedia.org/wiki/File:Ostrya_carpinifolia_in_Italy_male_catkins.jpg",
+      "titolo_originale": "Ostrya carpinifolia in Italy male catkins.jpg"
+    }
+  ],
+  "fonti": [
+    {
+      "titolo": "Ostrya carpinifolia – Wikipedia (it)",
+      "url": "https://it.wikipedia.org/wiki/Ostrya_carpinifolia"
+    },
+    {
+      "titolo": "Ostrya carpinifolia – Wikipedia (en)",
+      "url": "https://en.wikipedia.org/wiki/Ostrya_carpinifolia"
+    }
+  ]
+}

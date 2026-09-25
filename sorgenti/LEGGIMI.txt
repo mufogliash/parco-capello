@@ -1,0 +1,3 @@
+Copia del progetto Parco Capello (vedi MANUTENZIONE.md nella radice).
+Per ricostruire la cartella di lavoro: copia src/, dati/, strumenti/ in una cartella app/,
+aggiungi img/ prendendola dalla radice del repository, poi esegui python3 strumenti/build.py.

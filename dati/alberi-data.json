@@ -1,6 +1,6 @@
 {
  "schema_version": "1.2",
- "generato": "2026-09-24",
+ "generato": "2026-09-25",
  "species": [
   {
    "id": "acer-campestre",
@@ -145,6 +145,14 @@
    "curiosita_e_usi": "Nella piantata padana l'acero campestre (oppio) era il tutore vivo più usato per le viti, con l'olmo. Il legno compatto serviva per piccoli oggetti torniti e strumenti.",
    "immagini": [
     {
+     "tipo": "silhouette",
+     "file": "img/acer-campestre-silhouette-utente.jpg",
+     "fonte": "Foto fornita dall'utente",
+     "autore": "non indicato",
+     "licenza": "da verificare (uso personale)",
+     "url_originale": ""
+    },
+    {
      "tipo": "foglia",
      "file": "img/acer-campestre-foglia.jpg",
      "fonte": "Wikimedia Commons",
@@ -154,12 +162,13 @@
      "titolo_originale": "Leaves of Acer campestre 04.jpg"
     },
     {
-     "tipo": "silhouette",
-     "file": "img/acer-campestre-silhouette-utente.jpg",
-     "fonte": "Foto fornita dall'utente",
-     "autore": "non indicato",
-     "licenza": "da verificare (uso personale)",
-     "url_originale": ""
+     "tipo": "fiore_o_frutto",
+     "file": "img/acer-campestre-fiore_o_frutto.jpg",
+     "fonte": "Wikimedia Commons",
+     "autore": "AnemoneProjectors ( talk )",
+     "licenza": "CC BY-SA 2.0",
+     "url_originale": "https://commons.wikimedia.org/wiki/File:Samara_and_leaf_(3830883078).jpg",
+     "titolo_originale": "Samara and leaf (3830883078).jpg"
     },
     {
      "tipo": "corteccia",
@@ -169,15 +178,6 @@
      "licenza": "CC BY 4.0",
      "url_originale": "https://commons.wikimedia.org/wiki/File:Acer_campestre_bark_2.jpg",
      "titolo_originale": "Acer campestre bark 2.jpg"
-    },
-    {
-     "tipo": "fiore_o_frutto",
-     "file": "img/acer-campestre-fiore_o_frutto.jpg",
-     "fonte": "Wikimedia Commons",
-     "autore": "AnemoneProjectors ( talk )",
-     "licenza": "CC BY-SA 2.0",
-     "url_originale": "https://commons.wikimedia.org/wiki/File:Samara_and_leaf_(3830883078).jpg",
-     "titolo_originale": "Samara and leaf (3830883078).jpg"
     },
     {
      "tipo": "gemme",
@@ -351,6 +351,14 @@
    "curiosita_e_usi": "Legno chiaro e pregiato, usato per mobili, parquet e strumenti musicali, in particolare i violini, per il fondo e le fasce.",
    "immagini": [
     {
+     "tipo": "silhouette",
+     "file": "img/acer-pseudoplatanus-silhouette-utente.jpg",
+     "fonte": "Foto fornita dall'utente",
+     "autore": "non indicato",
+     "licenza": "da verificare (uso personale)",
+     "url_originale": ""
+    },
+    {
      "tipo": "foglia",
      "file": "img/acer-pseudoplatanus-foglia.jpg",
      "fonte": "Wikimedia Commons",
@@ -360,12 +368,13 @@
      "titolo_originale": "Maple leaves.jpg"
     },
     {
-     "tipo": "silhouette",
-     "file": "img/acer-pseudoplatanus-silhouette-utente.jpg",
-     "fonte": "Foto fornita dall'utente",
-     "autore": "non indicato",
-     "licenza": "da verificare (uso personale)",
-     "url_originale": ""
+     "tipo": "fiore_o_frutto",
+     "file": "img/acer-pseudoplatanus-fiore_o_frutto.jpg",
+     "fonte": "Wikimedia Commons",
+     "autore": "Auró",
+     "licenza": "CC BY-SA 3.0",
+     "url_originale": "https://commons.wikimedia.org/wiki/File:Aur%C3%B3_Acer_pseudoplatanus_samaras.jpg",
+     "titolo_originale": "Auró Acer pseudoplatanus samaras.jpg"
     },
     {
      "tipo": "corteccia",
@@ -375,15 +384,6 @@
      "licenza": "CC BY-SA 4.0",
      "url_originale": "https://commons.wikimedia.org/wiki/File:Acer_pseudoplatanus_bark_Siemianowice.jpg",
      "titolo_originale": "Acer pseudoplatanus bark Siemianowice.jpg"
-    },
-    {
-     "tipo": "fiore_o_frutto",
-     "file": "img/acer-pseudoplatanus-fiore_o_frutto.jpg",
-     "fonte": "Wikimedia Commons",
-     "autore": "Auró",
-     "licenza": "CC BY-SA 3.0",
-     "url_originale": "https://commons.wikimedia.org/wiki/File:Aur%C3%B3_Acer_pseudoplatanus_samaras.jpg",
-     "titolo_originale": "Auró Acer pseudoplatanus samaras.jpg"
     },
     {
      "tipo": "gemme",
@@ -555,24 +555,6 @@
    "curiosita_e_usi": "La fioritura precoce è preziosa per le api a inizio primavera. Legno chiaro usato per mobili e oggetti torniti.",
    "immagini": [
     {
-     "tipo": "foglia",
-     "file": "img/acer-platanoides-foglia.jpg",
-     "fonte": "Wikimedia Commons",
-     "autore": "Dmitry Makeev",
-     "licenza": "CC BY-SA 4.0",
-     "url_originale": "https://commons.wikimedia.org/wiki/File:2020_year._Herbarium._Acer_platanoides._img-011.jpg",
-     "titolo_originale": "2020 year. Herbarium. Acer platanoides. img-011.jpg"
-    },
-    {
-     "tipo": "corteccia",
-     "file": "img/acer-platanoides-corteccia.jpg",
-     "fonte": "Wikimedia Commons",
-     "autore": "Gmihail at Serbian Wikipedia",
-     "licenza": "CC BY-SA 3.0 rs",
-     "url_originale": "https://commons.wikimedia.org/wiki/File:Acer_platanoides_bark_Bgd.jpg",
-     "titolo_originale": "Acer platanoides bark Bgd.jpg"
-    },
-    {
      "tipo": "silhouette",
      "file": "img/acer-platanoides-silhouette.jpg",
      "fonte": "Wikimedia Commons",
@@ -582,6 +564,15 @@
      "titolo_originale": "Norway Maple - geograph.org.uk - 7001507.jpg"
     },
     {
+     "tipo": "foglia",
+     "file": "img/acer-platanoides-foglia.jpg",
+     "fonte": "Wikimedia Commons",
+     "autore": "Dmitry Makeev",
+     "licenza": "CC BY-SA 4.0",
+     "url_originale": "https://commons.wikimedia.org/wiki/File:2020_year._Herbarium._Acer_platanoides._img-011.jpg",
+     "titolo_originale": "2020 year. Herbarium. Acer platanoides. img-011.jpg"
+    },
+    {
      "tipo": "fiore_o_frutto",
      "file": "img/acer-platanoides-fiore_o_frutto.jpg",
      "fonte": "Wikimedia Commons",
@@ -589,6 +580,15 @@
      "licenza": "CC BY-SA 3.0",
      "url_originale": "https://commons.wikimedia.org/wiki/File:Acer_platanoides_spring_7.jpg",
      "titolo_originale": "Acer platanoides spring 7.jpg"
+    },
+    {
+     "tipo": "corteccia",
+     "file": "img/acer-platanoides-corteccia.jpg",
+     "fonte": "Wikimedia Commons",
+     "autore": "Gmihail at Serbian Wikipedia",
+     "licenza": "CC BY-SA 3.0 rs",
+     "url_originale": "https://commons.wikimedia.org/wiki/File:Acer_platanoides_bark_Bgd.jpg",
+     "titolo_originale": "Acer platanoides bark Bgd.jpg"
     },
     {
      "tipo": "gemme",
@@ -749,24 +749,6 @@
    "curiosita_e_usi": "Il nome spaccasassi viene dalle radici che si infilano nelle fessure delle rocce e le allargano. Il legno è molto elastico: un tempo se ne facevano fruste, manici e forche.",
    "immagini": [
     {
-     "tipo": "foglia",
-     "file": "img/celtis-australis-foglia.jpg",
-     "fonte": "Wikimedia Commons",
-     "autore": "DiHri",
-     "licenza": "CC BY-SA 3.0",
-     "url_originale": "https://commons.wikimedia.org/wiki/File:Celtis_australis_leaves_and_fruits.jpg",
-     "titolo_originale": "Celtis australis leaves and fruits.jpg"
-    },
-    {
-     "tipo": "corteccia",
-     "file": "img/celtis-australis-corteccia.jpg",
-     "fonte": "Wikimedia Commons",
-     "autore": "Pablo Alberto Salguero Quiles",
-     "licenza": "CC BY-SA 3.0",
-     "url_originale": "https://commons.wikimedia.org/wiki/File:Celtis_australis_textura_del_tronco.jpg",
-     "titolo_originale": "Celtis australis textura del tronco.jpg"
-    },
-    {
      "tipo": "silhouette",
      "file": "img/celtis-australis-silhouette.jpg",
      "fonte": "Wikimedia Commons",
@@ -776,12 +758,30 @@
      "titolo_originale": "Celtis australis 1w.jpg"
     },
     {
+     "tipo": "foglia",
+     "file": "img/celtis-australis-foglia.jpg",
+     "fonte": "Wikimedia Commons",
+     "autore": "DiHri",
+     "licenza": "CC BY-SA 3.0",
+     "url_originale": "https://commons.wikimedia.org/wiki/File:Celtis_australis_leaves_and_fruits.jpg",
+     "titolo_originale": "Celtis australis leaves and fruits.jpg"
+    },
+    {
      "tipo": "fiore_o_frutto",
      "file": "img/celtis-australis-fiore_o_frutto-utente.jpg",
      "fonte": "Foto fornita dall'utente",
      "autore": "non indicato",
      "licenza": "da verificare (uso personale)",
      "url_originale": ""
+    },
+    {
+     "tipo": "corteccia",
+     "file": "img/celtis-australis-corteccia.jpg",
+     "fonte": "Wikimedia Commons",
+     "autore": "Pablo Alberto Salguero Quiles",
+     "licenza": "CC BY-SA 3.0",
+     "url_originale": "https://commons.wikimedia.org/wiki/File:Celtis_australis_textura_del_tronco.jpg",
+     "titolo_originale": "Celtis australis textura del tronco.jpg"
     }
    ],
    "fonti": [
@@ -950,15 +950,6 @@
    "curiosita_e_usi": "Dalla corteccia si ricava un catrame usato come colla già nella preistoria: lo usò anche Ötzi, l'uomo del Similaun, per fissare le punte delle frecce. La corteccia, impermeabile, serviva nel Nord Europa per contenitori e tetti.",
    "immagini": [
     {
-     "tipo": "foglia",
-     "file": "img/betula-pendula-foglia.jpg",
-     "fonte": "Wikimedia Commons",
-     "autore": "T. Kebert",
-     "licenza": "CC BY-SA 4.0",
-     "url_originale": "https://commons.wikimedia.org/wiki/File:Betula_pendula_leaves_TK_2021-05-15_1.jpg",
-     "titolo_originale": "Betula pendula leaves TK 2021-05-15 1.jpg"
-    },
-    {
      "tipo": "silhouette",
      "file": "img/betula-pendula-silhouette-estate.jpg",
      "fonte": "Wikimedia Commons",
@@ -968,22 +959,13 @@
      "titolo_originale": "Betula pendula tree Bulgaria.jpg"
     },
     {
-     "tipo": "corteccia",
-     "file": "img/betula-pendula-corteccia.jpg",
+     "tipo": "foglia",
+     "file": "img/betula-pendula-foglia.jpg",
      "fonte": "Wikimedia Commons",
      "autore": "T. Kebert",
      "licenza": "CC BY-SA 4.0",
-     "url_originale": "https://commons.wikimedia.org/wiki/File:Betula_pendula_bark_TK_2023-04-16_1.jpg",
-     "titolo_originale": "Betula pendula bark TK 2023-04-16 1.jpg"
-    },
-    {
-     "tipo": "silhouette",
-     "file": "img/betula-pendula-silhouette.jpg",
-     "fonte": "Wikimedia Commons",
-     "autore": "Dominicus Johannes Bergsma",
-     "licenza": "CC BY-SA 4.0",
-     "url_originale": "https://commons.wikimedia.org/wiki/File:Solitaire_berk_(Betula)_in_een_prachtig_landschap._Locatie,_natuurgebied_Delleboersterheide_%E2%80%93_Catspoele_03.jpg",
-     "titolo_originale": "Solitaire berk (Betula) in een prachtig landschap. Locatie, natuurgebied Delleboersterheide – Catspoele 03.jpg"
+     "url_originale": "https://commons.wikimedia.org/wiki/File:Betula_pendula_leaves_TK_2021-05-15_1.jpg",
+     "titolo_originale": "Betula pendula leaves TK 2021-05-15 1.jpg"
     },
     {
      "tipo": "fiore_o_frutto",
@@ -995,6 +977,15 @@
      "titolo_originale": "Betula pendula in Sedovo 1.jpg"
     },
     {
+     "tipo": "corteccia",
+     "file": "img/betula-pendula-corteccia.jpg",
+     "fonte": "Wikimedia Commons",
+     "autore": "T. Kebert",
+     "licenza": "CC BY-SA 4.0",
+     "url_originale": "https://commons.wikimedia.org/wiki/File:Betula_pendula_bark_TK_2023-04-16_1.jpg",
+     "titolo_originale": "Betula pendula bark TK 2023-04-16 1.jpg"
+    },
+    {
      "tipo": "gemme",
      "file": "img/betula-pendula-gemme.jpg",
      "fonte": "Wikimedia Commons",
@@ -1002,6 +993,16 @@
      "licenza": "CC BY-SA 2.0",
      "url_originale": "https://commons.wikimedia.org/wiki/File:Silver_Birch_(Betula_pendula)_buds_(8255157617).jpg",
      "titolo_originale": "Silver Birch (Betula pendula) buds (8255157617).jpg"
+    },
+    {
+     "tipo": "silhouette",
+     "file": "img/betula-pendula-silhouette.jpg",
+     "fonte": "Wikimedia Commons",
+     "autore": "Dominicus Johannes Bergsma",
+     "licenza": "CC BY-SA 4.0",
+     "url_originale": "https://commons.wikimedia.org/wiki/File:Solitaire_berk_(Betula)_in_een_prachtig_landschap._Locatie,_natuurgebied_Delleboersterheide_%E2%80%93_Catspoele_03.jpg",
+     "titolo_originale": "Solitaire berk (Betula) in een prachtig landschap. Locatie, natuurgebied Delleboersterheide – Catspoele 03.jpg",
+     "stagione": "inverno"
     }
    ],
    "fonti": [
@@ -1163,6 +1164,14 @@
    "curiosita_e_usi": "Il legno è durissimo e tenace: un tempo serviva per ingranaggi dei mulini, manici, ceppi da macellaio. Ottima legna da ardere. È tra gli alberi più usati per le siepi potate dei giardini all'italiana e alla francese.",
    "immagini": [
     {
+     "tipo": "silhouette",
+     "file": "img/carpinus-betulus-silhouette-utente.jpg",
+     "fonte": "Foto fornita dall'utente",
+     "autore": "non indicato",
+     "licenza": "da verificare (uso personale)",
+     "url_originale": ""
+    },
+    {
      "tipo": "foglia",
      "file": "img/carpinus-betulus-foglia.jpg",
      "fonte": "Wikimedia Commons",
@@ -1172,12 +1181,13 @@
      "titolo_originale": "Carpinus betulus in Aveyron (9).jpg"
     },
     {
-     "tipo": "silhouette",
-     "file": "img/carpinus-betulus-silhouette-utente.jpg",
-     "fonte": "Foto fornita dall'utente",
-     "autore": "non indicato",
-     "licenza": "da verificare (uso personale)",
-     "url_originale": ""
+     "tipo": "fiore_o_frutto",
+     "file": "img/carpinus-betulus-fiore_o_frutto.jpg",
+     "fonte": "Wikimedia Commons",
+     "autore": "Sten Porse",
+     "licenza": "CC BY-SA 3.0",
+     "url_originale": "https://commons.wikimedia.org/wiki/File:Carpinus-betulus-fruits.jpg",
+     "titolo_originale": "Carpinus-betulus-fruits.jpg"
     },
     {
      "tipo": "corteccia",
@@ -1187,15 +1197,6 @@
      "licenza": "CC BY-SA 3.0",
      "url_originale": "https://commons.wikimedia.org/wiki/File:Carpinus_betulus_trunk_01_by_Line1.jpg",
      "titolo_originale": "Carpinus betulus trunk 01 by Line1.jpg"
-    },
-    {
-     "tipo": "fiore_o_frutto",
-     "file": "img/carpinus-betulus-fiore_o_frutto.jpg",
-     "fonte": "Wikimedia Commons",
-     "autore": "Sten Porse",
-     "licenza": "CC BY-SA 3.0",
-     "url_originale": "https://commons.wikimedia.org/wiki/File:Carpinus-betulus-fruits.jpg",
-     "titolo_originale": "Carpinus-betulus-fruits.jpg"
     },
     {
      "tipo": "gemme",
@@ -1355,15 +1356,6 @@
    "curiosita_e_usi": "Legno duro e pesante, ottima legna da ardere e un tempo usato per il carbone. I cedui di carpino nero sono tra i boschi più comuni delle Prealpi calcaree.",
    "immagini": [
     {
-     "tipo": "foglia",
-     "file": "img/ostrya-carpinifolia-foglia.jpg",
-     "fonte": "Wikimedia Commons",
-     "autore": "Autore non indicato (vedi pagina originale)",
-     "licenza": "CC BY-SA 3.0",
-     "url_originale": "https://commons.wikimedia.org/wiki/File:Ostyra_carpinifolia_BotGardBln1105MaleInflorescencesLeavesFall.jpg",
-     "titolo_originale": "Ostyra carpinifolia BotGardBln1105MaleInflorescencesLeavesFall.jpg"
-    },
-    {
      "tipo": "silhouette",
      "file": "img/ostrya-carpinifolia-silhouette-estate.jpg",
      "fonte": "Wikimedia Commons",
@@ -1373,13 +1365,13 @@
      "titolo_originale": "Ostrya carpinifolia JPG1a.jpg"
     },
     {
-     "tipo": "corteccia",
-     "file": "img/ostrya-carpinifolia-corteccia.jpg",
+     "tipo": "foglia",
+     "file": "img/ostrya-carpinifolia-foglia.jpg",
      "fonte": "Wikimedia Commons",
-     "autore": "Marija Gajić",
-     "licenza": "CC BY-SA 4.0",
-     "url_originale": "https://commons.wikimedia.org/wiki/File:Ostrya_carpinifolia_(13).JPG",
-     "titolo_originale": "Ostrya carpinifolia (13).JPG"
+     "autore": "Autore non indicato (vedi pagina originale)",
+     "licenza": "CC BY-SA 3.0",
+     "url_originale": "https://commons.wikimedia.org/wiki/File:Ostyra_carpinifolia_BotGardBln1105MaleInflorescencesLeavesFall.jpg",
+     "titolo_originale": "Ostyra carpinifolia BotGardBln1105MaleInflorescencesLeavesFall.jpg"
     },
     {
      "tipo": "fiore_o_frutto",
@@ -1389,6 +1381,15 @@
      "licenza": "CC BY-SA 2.0",
      "url_originale": "https://commons.wikimedia.org/wiki/File:Hop_Hornbeam_-_Ostrya_carpinifolia_-_geograph.org.uk_-_7531072.jpg",
      "titolo_originale": "Hop Hornbeam - Ostrya carpinifolia - geograph.org.uk - 7531072.jpg"
+    },
+    {
+     "tipo": "corteccia",
+     "file": "img/ostrya-carpinifolia-corteccia.jpg",
+     "fonte": "Wikimedia Commons",
+     "autore": "Marija Gajić",
+     "licenza": "CC BY-SA 4.0",
+     "url_originale": "https://commons.wikimedia.org/wiki/File:Ostrya_carpinifolia_(13).JPG",
+     "titolo_originale": "Ostrya carpinifolia (13).JPG"
     },
     {
      "tipo": "dettaglio",
@@ -1551,15 +1552,6 @@
    "curiosita_e_usi": "Per secoli è stato l'albero del pane delle montagne italiane. Il legno, ricco di tannini, resiste bene all'aperto: pali, travi, doghe per botti. Il «marrone» è una varietà selezionata con frutti più grandi e un solo seme per riccio.",
    "immagini": [
     {
-     "tipo": "foglia",
-     "file": "img/castanea-sativa-foglia.jpg",
-     "fonte": "Wikimedia Commons",
-     "autore": "The original uploader was Ekir at Hungarian Wikipedia .",
-     "licenza": "CC BY-SA 3.0",
-     "url_originale": "https://commons.wikimedia.org/wiki/File:Castanea_sativa_leaves_and_immature_fruit.jpg",
-     "titolo_originale": "Castanea sativa leaves and immature fruit.jpg"
-    },
-    {
      "tipo": "silhouette",
      "file": "img/castanea-sativa-silhouette-estate.jpg",
      "fonte": "Wikimedia Commons",
@@ -1569,13 +1561,13 @@
      "titolo_originale": "Castanea sativa - Anatolian sweet chestnut 04.jpg"
     },
     {
-     "tipo": "corteccia",
-     "file": "img/castanea-sativa-corteccia.jpg",
+     "tipo": "foglia",
+     "file": "img/castanea-sativa-foglia.jpg",
      "fonte": "Wikimedia Commons",
-     "autore": "Lamiot",
-     "licenza": "CC BY-SA 4.0",
-     "url_originale": "https://commons.wikimedia.org/wiki/File:Burghley_House_Park_Mature_Castanea_sativa_bark_d%C3%A9tail.jpg",
-     "titolo_originale": "Burghley House Park Mature Castanea sativa bark détail.jpg"
+     "autore": "The original uploader was Ekir at Hungarian Wikipedia .",
+     "licenza": "CC BY-SA 3.0",
+     "url_originale": "https://commons.wikimedia.org/wiki/File:Castanea_sativa_leaves_and_immature_fruit.jpg",
+     "titolo_originale": "Castanea sativa leaves and immature fruit.jpg"
     },
     {
      "tipo": "fiore_o_frutto",
@@ -1585,6 +1577,15 @@
      "licenza": "CC BY-SA 4.0",
      "url_originale": "https://commons.wikimedia.org/wiki/File:Afgevallen_kastanje_van_een_Tamme_kastanje_(Castanea_sativa)_17-10-2021_(d.j.b.)_01.jpg",
      "titolo_originale": "Afgevallen kastanje van een Tamme kastanje (Castanea sativa) 17-10-2021 (d.j.b.) 01.jpg"
+    },
+    {
+     "tipo": "corteccia",
+     "file": "img/castanea-sativa-corteccia.jpg",
+     "fonte": "Wikimedia Commons",
+     "autore": "Lamiot",
+     "licenza": "CC BY-SA 4.0",
+     "url_originale": "https://commons.wikimedia.org/wiki/File:Burghley_House_Park_Mature_Castanea_sativa_bark_d%C3%A9tail.jpg",
+     "titolo_originale": "Burghley House Park Mature Castanea sativa bark détail.jpg"
     },
     {
      "tipo": "dettaglio",
@@ -1755,6 +1756,15 @@
    "curiosita_e_usi": "Legno pesante ma poco durevole all'aperto e soggetto a spaccature: si usa soprattutto come legna da ardere, per carbone e, dopo trattamento, per traversine. I boschi di cerro sono tra i cedui più diffusi dell'Appennino.",
    "immagini": [
     {
+     "tipo": "silhouette",
+     "file": "img/quercus-cerris-silhouette-estate.jpg",
+     "fonte": "Wikimedia Commons",
+     "autore": "Christo Tzontchev",
+     "licenza": "CC BY-SA 4.0",
+     "url_originale": "https://commons.wikimedia.org/wiki/File:-Quercus_cerris_in_Begle%C5%BE_(Q106632121)_2.jpg",
+     "titolo_originale": "-Quercus cerris in Beglež (Q106632121) 2.jpg"
+    },
+    {
      "tipo": "foglia",
      "file": "img/quercus-cerris-foglia.jpg",
      "fonte": "Wikimedia Commons",
@@ -1764,13 +1774,13 @@
      "titolo_originale": "(ms) Quercus cerris 4.jpg"
     },
     {
-     "tipo": "silhouette",
-     "file": "img/quercus-cerris-silhouette-estate.jpg",
+     "tipo": "fiore_o_frutto",
+     "file": "img/quercus-cerris-fiore_o_frutto.jpg",
      "fonte": "Wikimedia Commons",
-     "autore": "Christo Tzontchev",
+     "autore": "Hladac",
      "licenza": "CC BY-SA 4.0",
-     "url_originale": "https://commons.wikimedia.org/wiki/File:-Quercus_cerris_in_Begle%C5%BE_(Q106632121)_2.jpg",
-     "titolo_originale": "-Quercus cerris in Beglež (Q106632121) 2.jpg"
+     "url_originale": "https://commons.wikimedia.org/wiki/File:(ms)_Quercus_cerris_1.jpg",
+     "titolo_originale": "(ms) Quercus cerris 1.jpg"
     },
     {
      "tipo": "corteccia",
@@ -1789,15 +1799,6 @@
      "licenza": "CC BY-SA 4.0",
      "url_originale": "https://commons.wikimedia.org/wiki/File:Quercus_cerris_sl8.jpg",
      "titolo_originale": "Quercus cerris sl8.jpg"
-    },
-    {
-     "tipo": "fiore_o_frutto",
-     "file": "img/quercus-cerris-fiore_o_frutto.jpg",
-     "fonte": "Wikimedia Commons",
-     "autore": "Hladac",
-     "licenza": "CC BY-SA 4.0",
-     "url_originale": "https://commons.wikimedia.org/wiki/File:(ms)_Quercus_cerris_1.jpg",
-     "titolo_originale": "(ms) Quercus cerris 1.jpg"
     }
    ],
    "fonti": [
@@ -1953,24 +1954,6 @@
    "curiosita_e_usi": "Legno chiaro e omogeneo, facile da curvare col vapore: mobili, sedie, utensili. Ottima legna da ardere e da carbone. Diverse faggete vetuste dell'Appennino fanno parte dal 2017 del sito UNESCO delle faggete antiche e primordiali d'Europa.",
    "immagini": [
     {
-     "tipo": "foglia",
-     "file": "img/fagus-sylvatica-foglia.jpg",
-     "fonte": "Wikimedia Commons",
-     "autore": "Dominicus Johannes Bergsma",
-     "licenza": "CC BY-SA 3.0",
-     "url_originale": "https://commons.wikimedia.org/wiki/File:Blad_van_beuk_(Fagus_sylvatica)_02.JPG",
-     "titolo_originale": "Blad van beuk (Fagus sylvatica) 02.JPG"
-    },
-    {
-     "tipo": "corteccia",
-     "file": "img/fagus-sylvatica-corteccia.jpg",
-     "fonte": "Wikimedia Commons",
-     "autore": "Fraxinus Croat",
-     "licenza": "CC BY-SA 3.0",
-     "url_originale": "https://commons.wikimedia.org/wiki/File:Fagus_sylvatica_(bark)1.JPG",
-     "titolo_originale": "Fagus sylvatica (bark)1.JPG"
-    },
-    {
      "tipo": "silhouette",
      "file": "img/fagus-sylvatica-silhouette.jpg",
      "fonte": "Wikimedia Commons",
@@ -1980,6 +1963,15 @@
      "titolo_originale": "Fagus sylvatica Bockraden 5.jpg"
     },
     {
+     "tipo": "foglia",
+     "file": "img/fagus-sylvatica-foglia.jpg",
+     "fonte": "Wikimedia Commons",
+     "autore": "Dominicus Johannes Bergsma",
+     "licenza": "CC BY-SA 3.0",
+     "url_originale": "https://commons.wikimedia.org/wiki/File:Blad_van_beuk_(Fagus_sylvatica)_02.JPG",
+     "titolo_originale": "Blad van beuk (Fagus sylvatica) 02.JPG"
+    },
+    {
      "tipo": "fiore_o_frutto",
      "file": "img/fagus-sylvatica-fiore_o_frutto.jpg",
      "fonte": "Wikimedia Commons",
@@ -1987,6 +1979,15 @@
      "licenza": "CC BY-SA 4.0",
      "url_originale": "https://commons.wikimedia.org/wiki/File:Zaaddozen_van_een_beuk_(Fagus_sylvatica)_13-09-2024_(d.j.b.).jpg",
      "titolo_originale": "Zaaddozen van een beuk (Fagus sylvatica) 13-09-2024 (d.j.b.).jpg"
+    },
+    {
+     "tipo": "corteccia",
+     "file": "img/fagus-sylvatica-corteccia.jpg",
+     "fonte": "Wikimedia Commons",
+     "autore": "Fraxinus Croat",
+     "licenza": "CC BY-SA 3.0",
+     "url_originale": "https://commons.wikimedia.org/wiki/File:Fagus_sylvatica_(bark)1.JPG",
+     "titolo_originale": "Fagus sylvatica (bark)1.JPG"
     },
     {
      "tipo": "gemme",
@@ -2160,24 +2161,6 @@
    "curiosita_e_usi": "Legno duro, pesante e durevole, usato per travi, botti, parquet e traversine. La corteccia ricca di tannini serviva a conciare le pelli e le galle a produrre inchiostro. È uno degli alberi europei che ospita più specie di insetti e altri organismi.",
    "immagini": [
     {
-     "tipo": "foglia",
-     "file": "img/quercus-robur-foglia.jpg",
-     "fonte": "Wikimedia Commons",
-     "autore": "Bob Harvey",
-     "licenza": "CC BY-SA 2.0",
-     "url_originale": "https://commons.wikimedia.org/wiki/File:Quercus_robur_-_Leaf_-_geograph.org.uk_-_4227261.jpg",
-     "titolo_originale": "Quercus robur - Leaf - geograph.org.uk - 4227261.jpg"
-    },
-    {
-     "tipo": "corteccia",
-     "file": "img/quercus-robur-corteccia.jpg",
-     "fonte": "Wikimedia Commons",
-     "autore": "Dominicus Johannes Bergsma",
-     "licenza": "CC BY-SA 4.0",
-     "url_originale": "https://commons.wikimedia.org/wiki/File:Herstelde_wond_van_beschadiging_veroorzaakt_door_een_landbouwwertuig._Zomereik_(Quercus_robur)._Locatie,_Natuurterrein_De_Famberhorst_01.jpg",
-     "titolo_originale": "Herstelde wond van beschadiging veroorzaakt door een landbouwwertuig. Zomereik (Quercus robur). Locatie, Natuurterrein De Famberhorst 01.jpg"
-    },
-    {
      "tipo": "silhouette",
      "file": "img/quercus-robur-silhouette.jpg",
      "fonte": "Wikimedia Commons",
@@ -2187,13 +2170,13 @@
      "titolo_originale": "Chêne, colza, Jura (horizontal).jpg"
     },
     {
-     "tipo": "silhouette",
-     "file": "img/quercus-robur-silhouette-2.jpg",
+     "tipo": "foglia",
+     "file": "img/quercus-robur-foglia.jpg",
      "fonte": "Wikimedia Commons",
-     "autore": "Dominicus Johannes Bergsma",
-     "licenza": "CC BY-SA 4.0",
-     "url_originale": "https://commons.wikimedia.org/wiki/File:Solitaire_eik_(Quercus_robur)_in_een_imponerend_landschap._Locatie,_natuurgebied_Delleboersterheide_%E2%80%93_Catspoele_03.jpg",
-     "titolo_originale": "Solitaire eik (Quercus robur) in een imponerend landschap. Locatie, natuurgebied Delleboersterheide – Catspoele 03.jpg"
+     "autore": "Bob Harvey",
+     "licenza": "CC BY-SA 2.0",
+     "url_originale": "https://commons.wikimedia.org/wiki/File:Quercus_robur_-_Leaf_-_geograph.org.uk_-_4227261.jpg",
+     "titolo_originale": "Quercus robur - Leaf - geograph.org.uk - 4227261.jpg"
     },
     {
      "tipo": "fiore_o_frutto",
@@ -2205,6 +2188,15 @@
      "titolo_originale": "Acorns of Quercus robur, Eichel der Stieleiche 06.JPG"
     },
     {
+     "tipo": "corteccia",
+     "file": "img/quercus-robur-corteccia.jpg",
+     "fonte": "Wikimedia Commons",
+     "autore": "Dominicus Johannes Bergsma",
+     "licenza": "CC BY-SA 4.0",
+     "url_originale": "https://commons.wikimedia.org/wiki/File:Herstelde_wond_van_beschadiging_veroorzaakt_door_een_landbouwwertuig._Zomereik_(Quercus_robur)._Locatie,_Natuurterrein_De_Famberhorst_01.jpg",
+     "titolo_originale": "Herstelde wond van beschadiging veroorzaakt door een landbouwwertuig. Zomereik (Quercus robur). Locatie, Natuurterrein De Famberhorst 01.jpg"
+    },
+    {
      "tipo": "gemme",
      "file": "img/quercus-robur-gemme.jpg",
      "fonte": "Wikimedia Commons",
@@ -2212,6 +2204,16 @@
      "licenza": "CC BY-SA 3.0",
      "url_originale": "https://commons.wikimedia.org/wiki/File:Dormant_buds_on_twig_of_English_Oak_Quercus_robur_5523.jpg",
      "titolo_originale": "Dormant buds on twig of English Oak Quercus robur 5523.jpg"
+    },
+    {
+     "tipo": "silhouette",
+     "file": "img/quercus-robur-silhouette-2.jpg",
+     "fonte": "Wikimedia Commons",
+     "autore": "Dominicus Johannes Bergsma",
+     "licenza": "CC BY-SA 4.0",
+     "url_originale": "https://commons.wikimedia.org/wiki/File:Solitaire_eik_(Quercus_robur)_in_een_imponerend_landschap._Locatie,_natuurgebied_Delleboersterheide_%E2%80%93_Catspoele_03.jpg",
+     "titolo_originale": "Solitaire eik (Quercus robur) in een imponerend landschap. Locatie, natuurgebied Delleboersterheide – Catspoele 03.jpg",
+     "stagione": "inverno"
     }
    ],
    "fonti": [
@@ -2370,15 +2372,6 @@
    "curiosita_e_usi": "Legno elastico e resistente agli urti: manici di attrezzi, sci, remi, racchette. Le foglie erano un foraggio importante per il bestiame in montagna: i frassini venivano capitozzati e sfrondati a fine estate.",
    "immagini": [
     {
-     "tipo": "foglia",
-     "file": "img/fraxinus-excelsior-foglia.jpg",
-     "fonte": "Wikimedia Commons",
-     "autore": "Jebulon",
-     "licenza": "CC0",
-     "url_originale": "https://commons.wikimedia.org/wiki/File:Fraxinus_excelsior_L._Fr%C3%AAne_commun_JdP.jpg",
-     "titolo_originale": "Fraxinus excelsior L. Frêne commun JdP.jpg"
-    },
-    {
      "tipo": "silhouette",
      "file": "img/fraxinus-excelsior-silhouette.jpg",
      "fonte": "Wikimedia Commons",
@@ -2388,12 +2381,13 @@
      "titolo_originale": "Fraxinus excelsior 001.jpg"
     },
     {
-     "tipo": "corteccia",
-     "file": "img/fraxinus-excelsior-corteccia-utente.jpg",
-     "fonte": "Foto fornita dall'utente",
-     "autore": "non indicato",
-     "licenza": "da verificare (uso personale)",
-     "url_originale": ""
+     "tipo": "foglia",
+     "file": "img/fraxinus-excelsior-foglia.jpg",
+     "fonte": "Wikimedia Commons",
+     "autore": "Jebulon",
+     "licenza": "CC0",
+     "url_originale": "https://commons.wikimedia.org/wiki/File:Fraxinus_excelsior_L._Fr%C3%AAne_commun_JdP.jpg",
+     "titolo_originale": "Fraxinus excelsior L. Frêne commun JdP.jpg"
     },
     {
      "tipo": "fiore_o_frutto",
@@ -2403,6 +2397,14 @@
      "licenza": "CC BY 4.0",
      "url_originale": "https://commons.wikimedia.org/wiki/File:Fraxinus_excelsior_Lincolnshire_2026_Samara.jpg",
      "titolo_originale": "Fraxinus excelsior Lincolnshire 2026 Samara.jpg"
+    },
+    {
+     "tipo": "corteccia",
+     "file": "img/fraxinus-excelsior-corteccia-utente.jpg",
+     "fonte": "Foto fornita dall'utente",
+     "autore": "non indicato",
+     "licenza": "da verificare (uso personale)",
+     "url_originale": ""
     },
     {
      "tipo": "gemme",
@@ -2560,24 +2562,6 @@
    "curiosita_e_usi": "Dai semi si ricavano estratti usati in farmacia per la circolazione venosa. I semi, un tempo, servivano anche come sapone per l'alto contenuto di saponine.",
    "immagini": [
     {
-     "tipo": "foglia",
-     "file": "img/aesculus-hippocastanum-foglia.jpg",
-     "fonte": "Wikimedia Commons",
-     "autore": "Alvesgaspar",
-     "licenza": "CC BY 2.5",
-     "url_originale": "https://commons.wikimedia.org/wiki/File:Aesculus_hippocastanum-1.jpg",
-     "titolo_originale": "Aesculus hippocastanum-1.jpg"
-    },
-    {
-     "tipo": "corteccia",
-     "file": "img/aesculus-hippocastanum-corteccia.jpg",
-     "fonte": "Wikimedia Commons",
-     "autore": "Adrian Tync",
-     "licenza": "CC BY-SA 4.0",
-     "url_originale": "https://commons.wikimedia.org/wiki/File:Aesculus_hippocastanum_bark_Siemianowice.jpg",
-     "titolo_originale": "Aesculus hippocastanum bark Siemianowice.jpg"
-    },
-    {
      "tipo": "silhouette",
      "file": "img/aesculus-hippocastanum-silhouette.jpg",
      "fonte": "Wikimedia Commons",
@@ -2587,6 +2571,15 @@
      "titolo_originale": "Aesculus hippocastanum in Golden Valley Tree Park, May 2022 02.jpg"
     },
     {
+     "tipo": "foglia",
+     "file": "img/aesculus-hippocastanum-foglia.jpg",
+     "fonte": "Wikimedia Commons",
+     "autore": "Alvesgaspar",
+     "licenza": "CC BY 2.5",
+     "url_originale": "https://commons.wikimedia.org/wiki/File:Aesculus_hippocastanum-1.jpg",
+     "titolo_originale": "Aesculus hippocastanum-1.jpg"
+    },
+    {
      "tipo": "fiore_o_frutto",
      "file": "img/aesculus-hippocastanum-fiore_o_frutto.jpg",
      "fonte": "Wikimedia Commons",
@@ -2594,6 +2587,15 @@
      "licenza": "CC BY 2.0",
      "url_originale": "https://commons.wikimedia.org/wiki/File:Beautiful_Horse_Chestnut_tree_%22candle%22_(50526113396).jpg",
      "titolo_originale": "Beautiful Horse Chestnut tree \"candle\" (50526113396).jpg"
+    },
+    {
+     "tipo": "corteccia",
+     "file": "img/aesculus-hippocastanum-corteccia.jpg",
+     "fonte": "Wikimedia Commons",
+     "autore": "Adrian Tync",
+     "licenza": "CC BY-SA 4.0",
+     "url_originale": "https://commons.wikimedia.org/wiki/File:Aesculus_hippocastanum_bark_Siemianowice.jpg",
+     "titolo_originale": "Aesculus hippocastanum bark Siemianowice.jpg"
     },
     {
      "tipo": "gemme",
@@ -2761,6 +2763,15 @@
    "curiosita_e_usi": "Legno durissimo e pesante, ottimo come combustibile e per il carbone. Le leccete erano pascolo tradizionale dei maiali. Sopporta bene le potature, per questo è usato per siepi e forme topiarie.",
    "immagini": [
     {
+     "tipo": "silhouette",
+     "file": "img/quercus-ilex-silhouette.jpg",
+     "fonte": "Wikimedia Commons",
+     "autore": "Basotxerri",
+     "licenza": "CC BY-SA 4.0",
+     "url_originale": "https://commons.wikimedia.org/wiki/File:Montes_de_Vitoria_-_Quercus_ilex_01.jpg",
+     "titolo_originale": "Montes de Vitoria - Quercus ilex 01.jpg"
+    },
+    {
      "tipo": "foglia",
      "file": "img/quercus-ilex-foglia.jpg",
      "fonte": "Wikimedia Commons",
@@ -2779,24 +2790,6 @@
      "titolo_originale": "Quercus ilex leaves 02 by Line1.jpg"
     },
     {
-     "tipo": "corteccia",
-     "file": "img/quercus-ilex-corteccia.jpg",
-     "fonte": "Wikimedia Commons",
-     "autore": "Agnieszka Kwiecień, Nova",
-     "licenza": "CC BY-SA 4.0",
-     "url_originale": "https://commons.wikimedia.org/wiki/File:Quercus_ilex_D%C4%85b_ostrolistny_2021-06-09_02.jpg",
-     "titolo_originale": "Quercus ilex Dąb ostrolistny 2021-06-09 02.jpg"
-    },
-    {
-     "tipo": "silhouette",
-     "file": "img/quercus-ilex-silhouette.jpg",
-     "fonte": "Wikimedia Commons",
-     "autore": "Basotxerri",
-     "licenza": "CC BY-SA 4.0",
-     "url_originale": "https://commons.wikimedia.org/wiki/File:Montes_de_Vitoria_-_Quercus_ilex_01.jpg",
-     "titolo_originale": "Montes de Vitoria - Quercus ilex 01.jpg"
-    },
-    {
      "tipo": "fiore_o_frutto",
      "file": "img/quercus-ilex-fiore_o_frutto.jpg",
      "fonte": "Wikimedia Commons",
@@ -2804,6 +2797,15 @@
      "licenza": "CC BY 2.0",
      "url_originale": "https://commons.wikimedia.org/wiki/File:Holly_Oak_(Quercus_ilex)_acorns,_April,_Sydney_Royal_Botanic_Gardens,_Australia_(16498239613).jpg",
      "titolo_originale": "Holly Oak (Quercus ilex) acorns, April, Sydney Royal Botanic Gardens, Australia (16498239613).jpg"
+    },
+    {
+     "tipo": "corteccia",
+     "file": "img/quercus-ilex-corteccia.jpg",
+     "fonte": "Wikimedia Commons",
+     "autore": "Agnieszka Kwiecień, Nova",
+     "licenza": "CC BY-SA 4.0",
+     "url_originale": "https://commons.wikimedia.org/wiki/File:Quercus_ilex_D%C4%85b_ostrolistny_2021-06-09_02.jpg",
+     "titolo_originale": "Quercus ilex Dąb ostrolistny 2021-06-09 02.jpg"
     }
    ],
    "fonti": [
@@ -2960,6 +2962,14 @@
    "curiosita_e_usi": "I polloni diritti e flessibili servivano per cesti, graticci e bastoni; tradizionalmente anche per le bacchette dei rabdomanti. Le radici del nocciolo si associano ai tartufi, e per questo è usato nelle tartufaie coltivate.",
    "immagini": [
     {
+     "tipo": "silhouette",
+     "file": "img/corylus-avellana-silhouette-utente.jpg",
+     "fonte": "Foto fornita dall'utente",
+     "autore": "non indicato",
+     "licenza": "da verificare (uso personale)",
+     "url_originale": ""
+    },
+    {
      "tipo": "foglia",
      "file": "img/corylus-avellana-foglia.jpg",
      "fonte": "Wikimedia Commons",
@@ -2967,14 +2977,6 @@
      "licenza": "CC BY-SA 4.0",
      "url_originale": "https://commons.wikimedia.org/wiki/File:2020_year._Herbarium._Corylus_avellana._img-033.jpg",
      "titolo_originale": "2020 year. Herbarium. Corylus avellana. img-033.jpg"
-    },
-    {
-     "tipo": "silhouette",
-     "file": "img/corylus-avellana-silhouette-utente.jpg",
-     "fonte": "Foto fornita dall'utente",
-     "autore": "non indicato",
-     "licenza": "da verificare (uso personale)",
-     "url_originale": ""
     },
     {
      "tipo": "fiore_o_frutto",
@@ -3169,6 +3171,15 @@
      "titolo_originale": "Leaves of Ulmus minor, Leiden (2660768555).jpg"
     },
     {
+     "tipo": "fiore_o_frutto",
+     "file": "img/ulmus-minor-fiore_o_frutto.jpg",
+     "fonte": "Wikimedia Commons",
+     "autore": "The original uploader was Gmihail at Serbian Wikipedia .",
+     "licenza": "CC BY-SA 3.0 rs",
+     "url_originale": "https://commons.wikimedia.org/wiki/File:U.campestris_orasice.jpg",
+     "titolo_originale": "U.campestris orasice.jpg"
+    },
+    {
      "tipo": "corteccia",
      "file": "img/ulmus-minor-corteccia.jpg",
      "fonte": "Wikimedia Commons",
@@ -3184,16 +3195,8 @@
      "autore": "Miguelgalm",
      "licenza": "CC BY-SA 3.0",
      "url_originale": "https://commons.wikimedia.org/wiki/File:Ulmus_minor_Nuevo_Baztan.JPG",
-     "titolo_originale": "Ulmus minor Nuevo Baztan.JPG"
-    },
-    {
-     "tipo": "fiore_o_frutto",
-     "file": "img/ulmus-minor-fiore_o_frutto.jpg",
-     "fonte": "Wikimedia Commons",
-     "autore": "The original uploader was Gmihail at Serbian Wikipedia .",
-     "licenza": "CC BY-SA 3.0 rs",
-     "url_originale": "https://commons.wikimedia.org/wiki/File:U.campestris_orasice.jpg",
-     "titolo_originale": "U.campestris orasice.jpg"
+     "titolo_originale": "Ulmus minor Nuevo Baztan.JPG",
+     "stagione": "inverno"
     }
    ],
    "fonti": [
@@ -3352,24 +3355,6 @@
    "curiosita_e_usi": "Il legno resiste molto a lungo sott'acqua: insieme ad altri legni fu usato per palafitte e fondazioni, anche a Venezia. Appena tagliato vira dal bianco all'arancio-rosso.",
    "immagini": [
     {
-     "tipo": "foglia",
-     "file": "img/alnus-glutinosa-foglia.jpg",
-     "fonte": "Wikimedia Commons",
-     "autore": "Krzysztof Ziarnek, Kenraiz",
-     "licenza": "CC BY-SA 4.0",
-     "url_originale": "https://commons.wikimedia.org/wiki/File:Alnus_glutinosa_kz32.jpg",
-     "titolo_originale": "Alnus glutinosa kz32.jpg"
-    },
-    {
-     "tipo": "corteccia",
-     "file": "img/alnus-glutinosa-corteccia.jpg",
-     "fonte": "Wikimedia Commons",
-     "autore": "user:Nikanos",
-     "licenza": "CC BY-SA 2.5",
-     "url_originale": "https://commons.wikimedia.org/wiki/File:Alnus_glutinosa_003.jpg",
-     "titolo_originale": "Alnus glutinosa 003.jpg"
-    },
-    {
      "tipo": "silhouette",
      "file": "img/alnus-glutinosa-silhouette.jpg",
      "fonte": "Wikimedia Commons",
@@ -3379,6 +3364,15 @@
      "titolo_originale": "Alnus glutinosa Olsza czarna 2020-05-31 01.jpg"
     },
     {
+     "tipo": "foglia",
+     "file": "img/alnus-glutinosa-foglia.jpg",
+     "fonte": "Wikimedia Commons",
+     "autore": "Krzysztof Ziarnek, Kenraiz",
+     "licenza": "CC BY-SA 4.0",
+     "url_originale": "https://commons.wikimedia.org/wiki/File:Alnus_glutinosa_kz32.jpg",
+     "titolo_originale": "Alnus glutinosa kz32.jpg"
+    },
+    {
      "tipo": "fiore_o_frutto",
      "file": "img/alnus-glutinosa-fiore_o_frutto.jpg",
      "fonte": "Wikimedia Commons",
@@ -3386,6 +3380,15 @@
      "licenza": "CC BY-SA 2.0",
      "url_originale": "https://commons.wikimedia.org/wiki/File:Alder_(Alnus_glutinosa)_Cones_and_Catkins_-_geograph.org.uk_-_7729216.jpg",
      "titolo_originale": "Alder (Alnus glutinosa) Cones and Catkins - geograph.org.uk - 7729216.jpg"
+    },
+    {
+     "tipo": "corteccia",
+     "file": "img/alnus-glutinosa-corteccia.jpg",
+     "fonte": "Wikimedia Commons",
+     "autore": "user:Nikanos",
+     "licenza": "CC BY-SA 2.5",
+     "url_originale": "https://commons.wikimedia.org/wiki/File:Alnus_glutinosa_003.jpg",
+     "titolo_originale": "Alnus glutinosa 003.jpg"
     },
     {
      "tipo": "gemme",
@@ -3546,24 +3549,6 @@
    "curiosita_e_usi": "La manna contiene mannitolo, uno zucchero che prende il nome proprio da lei. Il legno è buona legna da ardere e un tempo si usava per piccoli attrezzi.",
    "immagini": [
     {
-     "tipo": "foglia",
-     "file": "img/fraxinus-ornus-foglia.jpg",
-     "fonte": "Wikimedia Commons",
-     "autore": "Stefan.lefnaer",
-     "licenza": "CC BY-SA 4.0",
-     "url_originale": "https://commons.wikimedia.org/wiki/File:Fraxinus_ornus_(subsp._ornus)_sl10.jpg",
-     "titolo_originale": "Fraxinus ornus (subsp. ornus) sl10.jpg"
-    },
-    {
-     "tipo": "corteccia",
-     "file": "img/fraxinus-ornus-corteccia.jpg",
-     "fonte": "Wikimedia Commons",
-     "autore": "Димитър Найденов / Dimìtar Nàydenov",
-     "licenza": "CC BY-SA 4.0",
-     "url_originale": "https://commons.wikimedia.org/wiki/File:%D0%9C%D1%8A%D0%B6%D0%B4%D1%80%D1%8F%D0%BD_-_%D0%BA%D0%BE%D1%80%D0%B0.JPG",
-     "titolo_originale": "Мъждрян - кора.JPG"
-    },
-    {
      "tipo": "silhouette",
      "file": "img/fraxinus-ornus-silhouette.jpg",
      "fonte": "Wikimedia Commons",
@@ -3573,6 +3558,15 @@
      "titolo_originale": "Fraxinus ornus JPG1a.jpg"
     },
     {
+     "tipo": "foglia",
+     "file": "img/fraxinus-ornus-foglia.jpg",
+     "fonte": "Wikimedia Commons",
+     "autore": "Stefan.lefnaer",
+     "licenza": "CC BY-SA 4.0",
+     "url_originale": "https://commons.wikimedia.org/wiki/File:Fraxinus_ornus_(subsp._ornus)_sl10.jpg",
+     "titolo_originale": "Fraxinus ornus (subsp. ornus) sl10.jpg"
+    },
+    {
      "tipo": "fiore_o_frutto",
      "file": "img/fraxinus-ornus-fiore_o_frutto.jpg",
      "fonte": "Wikimedia Commons",
@@ -3580,6 +3574,15 @@
      "licenza": "CC BY-SA 4.0",
      "url_originale": "https://commons.wikimedia.org/wiki/File:Fraxinus_ornus_kz07.jpg",
      "titolo_originale": "Fraxinus ornus kz07.jpg"
+    },
+    {
+     "tipo": "corteccia",
+     "file": "img/fraxinus-ornus-corteccia.jpg",
+     "fonte": "Wikimedia Commons",
+     "autore": "Димитър Найденов / Dimìtar Nàydenov",
+     "licenza": "CC BY-SA 4.0",
+     "url_originale": "https://commons.wikimedia.org/wiki/File:%D0%9C%D1%8A%D0%B6%D0%B4%D1%80%D1%8F%D0%BD_-_%D0%BA%D0%BE%D1%80%D0%B0.JPG",
+     "titolo_originale": "Мъждрян - кора.JPG"
     },
     {
      "tipo": "gemme",
@@ -3751,24 +3754,6 @@
    "curiosita_e_usi": "Coltivato fin dall'antichità per i pinoli. La pineta di Classe, vicino a Ravenna, è citata da Dante nel Purgatorio («la pineta in su 'l lito di Chiassi»).",
    "immagini": [
     {
-     "tipo": "foglia",
-     "file": "img/pinus-pinea-foglia.jpg",
-     "fonte": "Wikimedia Commons",
-     "autore": "Javier martin",
-     "licenza": "Public domain",
-     "url_originale": "https://commons.wikimedia.org/wiki/File:Pinus_pinea_needles_2009-11-22_DehesaBoyaldePuertollano.jpg",
-     "titolo_originale": "Pinus pinea needles 2009-11-22 DehesaBoyaldePuertollano.jpg"
-    },
-    {
-     "tipo": "corteccia",
-     "file": "img/pinus-pinea-corteccia.jpg",
-     "fonte": "Wikimedia Commons",
-     "autore": "Zeynel Cebeci",
-     "licenza": "CC BY-SA 4.0",
-     "url_originale": "https://commons.wikimedia.org/wiki/File:Bark_details,_Pinus_pinea.jpg",
-     "titolo_originale": "Bark details, Pinus pinea.jpg"
-    },
-    {
      "tipo": "silhouette",
      "file": "img/pinus-pinea-silhouette.jpg",
      "fonte": "Wikimedia Commons",
@@ -3778,6 +3763,15 @@
      "titolo_originale": "Umbrella Pine (15238429225).jpg"
     },
     {
+     "tipo": "foglia",
+     "file": "img/pinus-pinea-foglia.jpg",
+     "fonte": "Wikimedia Commons",
+     "autore": "Javier martin",
+     "licenza": "Public domain",
+     "url_originale": "https://commons.wikimedia.org/wiki/File:Pinus_pinea_needles_2009-11-22_DehesaBoyaldePuertollano.jpg",
+     "titolo_originale": "Pinus pinea needles 2009-11-22 DehesaBoyaldePuertollano.jpg"
+    },
+    {
      "tipo": "fiore_o_frutto",
      "file": "img/pinus-pinea-fiore_o_frutto.jpg",
      "fonte": "Wikimedia Commons",
@@ -3785,6 +3779,15 @@
      "licenza": "CC BY-SA 4.0",
      "url_originale": "https://commons.wikimedia.org/wiki/File:Pinus_pinea_cone_A.jpg",
      "titolo_originale": "Pinus pinea cone A.jpg"
+    },
+    {
+     "tipo": "corteccia",
+     "file": "img/pinus-pinea-corteccia.jpg",
+     "fonte": "Wikimedia Commons",
+     "autore": "Zeynel Cebeci",
+     "licenza": "CC BY-SA 4.0",
+     "url_originale": "https://commons.wikimedia.org/wiki/File:Bark_details,_Pinus_pinea.jpg",
+     "titolo_originale": "Bark details, Pinus pinea.jpg"
     }
    ],
    "fonti": [
@@ -3940,24 +3943,6 @@
    "curiosita_e_usi": "Nei viali italiani è piantato dall'Ottocento. Il platano orientale, uno dei genitori, è presente in Italia meridionale ed è l'albero sotto cui, secondo la tradizione, insegnava Ippocrate.",
    "immagini": [
     {
-     "tipo": "foglia",
-     "file": "img/platanus-x-hispanica-foglia.jpg",
-     "fonte": "Wikimedia Commons",
-     "autore": "Krzysztof Golik",
-     "licenza": "CC BY-SA 4.0",
-     "url_originale": "https://commons.wikimedia.org/wiki/File:Fallen_leaf_of_Platanus_x_hispanica_(1).jpg",
-     "titolo_originale": "Fallen leaf of Platanus x hispanica (1).jpg"
-    },
-    {
-     "tipo": "corteccia",
-     "file": "img/platanus-x-hispanica-corteccia.jpg",
-     "fonte": "Wikimedia Commons",
-     "autore": "Spiritia",
-     "licenza": "CC BY-SA 4.0",
-     "url_originale": "https://commons.wikimedia.org/wiki/File:Platanus_x_hispanica_bark_5.jpg",
-     "titolo_originale": "Platanus x hispanica bark 5.jpg"
-    },
-    {
      "tipo": "silhouette",
      "file": "img/platanus-x-hispanica-silhouette.jpg",
      "fonte": "Wikimedia Commons",
@@ -3967,6 +3952,15 @@
      "titolo_originale": "2021 Plane tree of Rossio PT.jpg"
     },
     {
+     "tipo": "foglia",
+     "file": "img/platanus-x-hispanica-foglia.jpg",
+     "fonte": "Wikimedia Commons",
+     "autore": "Krzysztof Golik",
+     "licenza": "CC BY-SA 4.0",
+     "url_originale": "https://commons.wikimedia.org/wiki/File:Fallen_leaf_of_Platanus_x_hispanica_(1).jpg",
+     "titolo_originale": "Fallen leaf of Platanus x hispanica (1).jpg"
+    },
+    {
      "tipo": "fiore_o_frutto",
      "file": "img/platanus-x-hispanica-fiore_o_frutto.jpg",
      "fonte": "Wikimedia Commons",
@@ -3974,6 +3968,15 @@
      "licenza": "CC BY-SA 2.0",
      "url_originale": "https://commons.wikimedia.org/wiki/File:Fruit_and_leaves_of_London_Plane_at_Blenheim_-_geograph.org.uk_-_796799.jpg",
      "titolo_originale": "Fruit and leaves of London Plane at Blenheim - geograph.org.uk - 796799.jpg"
+    },
+    {
+     "tipo": "corteccia",
+     "file": "img/platanus-x-hispanica-corteccia.jpg",
+     "fonte": "Wikimedia Commons",
+     "autore": "Spiritia",
+     "licenza": "CC BY-SA 4.0",
+     "url_originale": "https://commons.wikimedia.org/wiki/File:Platanus_x_hispanica_bark_5.jpg",
+     "titolo_originale": "Platanus x hispanica bark 5.jpg"
     }
    ],
    "fonti": [
@@ -4134,6 +4137,14 @@
    "curiosita_e_usi": "Legno di pregio, durevole: travi, mobili e soprattutto doghe per le botti in cui invecchiano vini e distillati. Il nome scientifico petraea richiama i terreni sassosi su cui cresce.",
    "immagini": [
     {
+     "tipo": "silhouette",
+     "file": "img/quercus-petraea-silhouette-utente.jpg",
+     "fonte": "Foto fornita dall'utente",
+     "autore": "non indicato",
+     "licenza": "da verificare (uso personale)",
+     "url_originale": ""
+    },
+    {
      "tipo": "foglia",
      "file": "img/quercus-petraea-foglia.jpg",
      "fonte": "Wikimedia Commons",
@@ -4143,12 +4154,13 @@
      "titolo_originale": "Quercus petraea. Carbayu albar.jpg"
     },
     {
-     "tipo": "silhouette",
-     "file": "img/quercus-petraea-silhouette-utente.jpg",
-     "fonte": "Foto fornita dall'utente",
-     "autore": "non indicato",
-     "licenza": "da verificare (uso personale)",
-     "url_originale": ""
+     "tipo": "fiore_o_frutto",
+     "file": "img/quercus-petraea-fiore_o_frutto.jpg",
+     "fonte": "Wikimedia Commons",
+     "autore": "Sten",
+     "licenza": "CC BY-SA 3.0",
+     "url_originale": "https://commons.wikimedia.org/wiki/File:Quercus-petraea-acorns.jpg",
+     "titolo_originale": "Quercus-petraea-acorns.jpg"
     },
     {
      "tipo": "corteccia",
@@ -4158,15 +4170,6 @@
      "licenza": "CC BY-SA 4.0",
      "url_originale": "https://commons.wikimedia.org/wiki/File:Quercus_petraea_bark.jpg",
      "titolo_originale": "Quercus petraea bark.jpg"
-    },
-    {
-     "tipo": "fiore_o_frutto",
-     "file": "img/quercus-petraea-fiore_o_frutto.jpg",
-     "fonte": "Wikimedia Commons",
-     "autore": "Sten",
-     "licenza": "CC BY-SA 3.0",
-     "url_originale": "https://commons.wikimedia.org/wiki/File:Quercus-petraea-acorns.jpg",
-     "titolo_originale": "Quercus-petraea-acorns.jpg"
     },
     {
      "tipo": "gemme",
@@ -4340,24 +4343,6 @@
    "curiosita_e_usi": "È tra le piante simbionti del tartufo nero pregiato e di altri tartufi. Ottima legna da ardere, tradizionalmente ricavata dai boschi cedui. È un gruppo botanicamente complesso: forme intermedie e ibridi con altre querce sono frequenti, quindi non tutti gli esemplari corrispondono alla descrizione da manuale.",
    "immagini": [
     {
-     "tipo": "foglia",
-     "file": "img/quercus-pubescens-foglia.jpg",
-     "fonte": "Wikimedia Commons",
-     "autore": "Kenraiz",
-     "licenza": "Public domain",
-     "url_originale": "https://commons.wikimedia.org/wiki/File:Quercus_pubescens_leaves_kz2.jpg",
-     "titolo_originale": "Quercus pubescens leaves kz2.jpg"
-    },
-    {
-     "tipo": "corteccia",
-     "file": "img/quercus-pubescens-corteccia.jpg",
-     "fonte": "Wikimedia Commons",
-     "autore": "Stefan.lefnaer",
-     "licenza": "CC BY-SA 4.0",
-     "url_originale": "https://commons.wikimedia.org/wiki/File:Quercus_pubescens_sl32.jpg",
-     "titolo_originale": "Quercus pubescens sl32.jpg"
-    },
-    {
      "tipo": "silhouette",
      "file": "img/quercus-pubescens-silhouette.jpg",
      "fonte": "Wikimedia Commons",
@@ -4367,6 +4352,15 @@
      "titolo_originale": "MarmoreTerniRoverella3.jpg"
     },
     {
+     "tipo": "foglia",
+     "file": "img/quercus-pubescens-foglia.jpg",
+     "fonte": "Wikimedia Commons",
+     "autore": "Kenraiz",
+     "licenza": "Public domain",
+     "url_originale": "https://commons.wikimedia.org/wiki/File:Quercus_pubescens_leaves_kz2.jpg",
+     "titolo_originale": "Quercus pubescens leaves kz2.jpg"
+    },
+    {
      "tipo": "fiore_o_frutto",
      "file": "img/quercus-pubescens-fiore_o_frutto.jpg",
      "fonte": "Wikimedia Commons",
@@ -4374,6 +4368,15 @@
      "licenza": "CC BY-SA 4.0",
      "url_originale": "https://commons.wikimedia.org/wiki/File:Quercus_pubescens_acorns_illustration.jpg",
      "titolo_originale": "Quercus pubescens acorns illustration.jpg"
+    },
+    {
+     "tipo": "corteccia",
+     "file": "img/quercus-pubescens-corteccia.jpg",
+     "fonte": "Wikimedia Commons",
+     "autore": "Stefan.lefnaer",
+     "licenza": "CC BY-SA 4.0",
+     "url_originale": "https://commons.wikimedia.org/wiki/File:Quercus_pubescens_sl32.jpg",
+     "titolo_originale": "Quercus pubescens sl32.jpg"
     },
     {
      "tipo": "gemme",
@@ -4537,24 +4540,6 @@
    "curiosita_e_usi": "Legno tenero e chiaro per intaglio e sculture. In città si trovano spesso anche il tiglio argentato e ibridi tra le due specie nostrane, con caratteri intermedi.",
    "immagini": [
     {
-     "tipo": "foglia",
-     "file": "img/tilia-platyphyllos-foglia.jpg",
-     "fonte": "Wikimedia Commons",
-     "autore": "Dmitry Makeev",
-     "licenza": "CC BY-SA 4.0",
-     "url_originale": "https://commons.wikimedia.org/wiki/File:2020_year._Herbarium._Tilia_platyphyllos._img-004.jpg",
-     "titolo_originale": "2020 year. Herbarium. Tilia platyphyllos. img-004.jpg"
-    },
-    {
-     "tipo": "corteccia",
-     "file": "img/tilia-platyphyllos-corteccia.jpg",
-     "fonte": "Wikimedia Commons",
-     "autore": "Gmihail at Serbian Wikipedia",
-     "licenza": "CC BY-SA 3.0 rs",
-     "url_originale": "https://commons.wikimedia.org/wiki/File:Tilia_platyphyllos_bark.jpg",
-     "titolo_originale": "Tilia platyphyllos bark.jpg"
-    },
-    {
      "tipo": "silhouette",
      "file": "img/tilia-platyphyllos-silhouette.jpg",
      "fonte": "Wikimedia Commons",
@@ -4564,6 +4549,15 @@
      "titolo_originale": "Tilia platyphyllos(01).jpg"
     },
     {
+     "tipo": "foglia",
+     "file": "img/tilia-platyphyllos-foglia.jpg",
+     "fonte": "Wikimedia Commons",
+     "autore": "Dmitry Makeev",
+     "licenza": "CC BY-SA 4.0",
+     "url_originale": "https://commons.wikimedia.org/wiki/File:2020_year._Herbarium._Tilia_platyphyllos._img-004.jpg",
+     "titolo_originale": "2020 year. Herbarium. Tilia platyphyllos. img-004.jpg"
+    },
+    {
      "tipo": "fiore_o_frutto",
      "file": "img/tilia-platyphyllos-fiore_o_frutto.jpg",
      "fonte": "Wikimedia Commons",
@@ -4571,6 +4565,15 @@
      "licenza": "CC BY-SA 3.0 rs",
      "url_originale": "https://commons.wikimedia.org/wiki/File:Tilia_platyphyllos_fruits.jpg",
      "titolo_originale": "Tilia platyphyllos fruits.jpg"
+    },
+    {
+     "tipo": "corteccia",
+     "file": "img/tilia-platyphyllos-corteccia.jpg",
+     "fonte": "Wikimedia Commons",
+     "autore": "Gmihail at Serbian Wikipedia",
+     "licenza": "CC BY-SA 3.0 rs",
+     "url_originale": "https://commons.wikimedia.org/wiki/File:Tilia_platyphyllos_bark.jpg",
+     "titolo_originale": "Tilia platyphyllos bark.jpg"
     },
     {
      "tipo": "gemme",
@@ -4738,24 +4741,6 @@
    "curiosita_e_usi": "Il legno è tenero, chiaro e omogeneo: il preferito per scolpire e intagliare. Dalla corteccia interna si ricavava una fibra per corde e stuoie. Il miele di tiglio è molto apprezzato. Albero di piazze e sagrati, spesso legato a feste e riunioni di comunità.",
    "immagini": [
     {
-     "tipo": "foglia",
-     "file": "img/tilia-cordata-foglia.jpg",
-     "fonte": "Wikimedia Commons",
-     "autore": "Dmitry Makeev",
-     "licenza": "CC BY-SA 4.0",
-     "url_originale": "https://commons.wikimedia.org/wiki/File:2020_year._Herbarium._Tilia_cordata._img-020.jpg",
-     "titolo_originale": "2020 year. Herbarium. Tilia cordata. img-020.jpg"
-    },
-    {
-     "tipo": "corteccia",
-     "file": "img/tilia-cordata-corteccia.jpg",
-     "fonte": "Wikimedia Commons",
-     "autore": "Sten Porse",
-     "licenza": "CC BY-SA 3.0",
-     "url_originale": "https://commons.wikimedia.org/wiki/File:Tilia-cordata-bark-young-tree.JPG",
-     "titolo_originale": "Tilia-cordata-bark-young-tree.JPG"
-    },
-    {
      "tipo": "silhouette",
      "file": "img/tilia-cordata-silhouette.jpg",
      "fonte": "Wikimedia Commons",
@@ -4765,12 +4750,30 @@
      "titolo_originale": "Tilia cordata tree, Ada Ciganlija.jpg"
     },
     {
+     "tipo": "foglia",
+     "file": "img/tilia-cordata-foglia.jpg",
+     "fonte": "Wikimedia Commons",
+     "autore": "Dmitry Makeev",
+     "licenza": "CC BY-SA 4.0",
+     "url_originale": "https://commons.wikimedia.org/wiki/File:2020_year._Herbarium._Tilia_cordata._img-020.jpg",
+     "titolo_originale": "2020 year. Herbarium. Tilia cordata. img-020.jpg"
+    },
+    {
      "tipo": "fiore_o_frutto",
      "file": "img/tilia-cordata-fiore_o_frutto-utente.jpg",
      "fonte": "Foto fornita dall'utente",
      "autore": "non indicato",
      "licenza": "da verificare (uso personale)",
      "url_originale": ""
+    },
+    {
+     "tipo": "corteccia",
+     "file": "img/tilia-cordata-corteccia.jpg",
+     "fonte": "Wikimedia Commons",
+     "autore": "Sten Porse",
+     "licenza": "CC BY-SA 3.0",
+     "url_originale": "https://commons.wikimedia.org/wiki/File:Tilia-cordata-bark-young-tree.JPG",
+     "titolo_originale": "Tilia-cordata-bark-young-tree.JPG"
     },
     {
      "tipo": "gemme",

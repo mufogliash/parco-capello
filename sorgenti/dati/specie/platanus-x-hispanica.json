@@ -1,0 +1,189 @@
+{
+  "id": "platanus-x-hispanica",
+  "nome_comune": "Platano",
+  "nome_scientifico": "Platanus × hispanica",
+  "famiglia": "Platanaceae",
+  "genere": "Platanus",
+  "sinonimi": [
+    "Platano comune",
+    "Platanus × acerifolia",
+    "Platano ibrido"
+  ],
+  "nomi_locali": [],
+  "stato": "bozza",
+  "aggiornato": "2026-09-24",
+  "chiave": {
+    "gruppo": "latifoglia",
+    "persistenza": "caduca",
+    "foglia_tipo": "semplice",
+    "foglia_disposizione": "alterna",
+    "foglia_margine": [
+      "lobato",
+      "dentato"
+    ],
+    "foglia_forma": [
+      "palmata"
+    ],
+    "frutto": "infruttescenza",
+    "corteccia_texture": [
+      "desquamante"
+    ],
+    "habitat": [
+      "urbano_parchi",
+      "ripariale_umido"
+    ],
+    "altitudine_m": [
+      0,
+      800
+    ],
+    "ramificazione": "simpodiale",
+    "ruolo_ecologico": [
+      "non_accertato"
+    ],
+    "luce": "eliofila"
+  },
+  "tratti_chiave": [
+    "Corteccia che si stacca a grandi placche, lasciando il tronco chiazzato di verde, crema e grigio",
+    "Foglia palmata simile a quella di un acero, ma alterna",
+    "Frutti a pallina appesi a un lungo filo, spesso a coppie, che restano tutto l'inverno"
+  ],
+  "origine": {
+    "stato": "esotica_coltivata",
+    "note": "Ibrido tra il platano orientale e quello americano, nato in coltivazione nel Seicento; talvolta si inselvatichisce lungo i fiumi."
+  },
+  "foglie": {
+    "tipo": "semplice",
+    "disposizione": "alterna",
+    "forma": "palmata, 12-25 cm, con 3-5 lobi appuntiti",
+    "margine": "lobato, con pochi denti grandi",
+    "venatura": "palmata",
+    "colore_stagionale": {
+      "primavera_estate": "verde lucido sopra; da giovane coperta sotto da una peluria che si stacca",
+      "autunno": "giallo-bruno"
+    },
+    "descrizione": "La base del picciolo è cava e copre completamente la gemma, che si vede solo quando la foglia cade."
+  },
+  "corteccia": {
+    "colore": "a chiazze verde oliva, crema, grigio e bruno",
+    "texture": "sottile, si stacca in grandi placche irregolari",
+    "evoluzione_con_eta": "alla base dei tronchi molto vecchi può diventare spessa e fessurata",
+    "descrizione": "Il tronco «mimetico» a chiazze lo rende riconoscibile a colpo d'occhio."
+  },
+  "rami_e_portamento": {
+    "disposizione_rami": "alterna; rametti a zig-zag",
+    "angolo_di_crescita": "grosse branche ascendenti e poi aperte",
+    "forma_chioma": "ampia e alta",
+    "silhouette_invernale": "tronco chiazzato, grandi branche e palline dei frutti appese ai rami spogli",
+    "descrizione": "Nei viali è spesso potato in forme regolari; lasciato libero diventa un albero enorme.",
+    "ramificazione": "Rametti simpodiali a zig-zag: la gemma in cima è laterale."
+  },
+  "gemme": {
+    "forma": "coniche, a cappuccio, con una sola squama",
+    "colore": "bruno-rossastre",
+    "disposizione": "alterne, circondate dalla cicatrice fogliare ad anello",
+    "descrizione": "D'estate sono nascoste nella base cava del picciolo."
+  },
+  "fiori_e_frutti": {
+    "tipo_fiore": "fiori minuscoli in capolini sferici penduli",
+    "periodo_fioritura": "aprile-maggio",
+    "tipo_frutto": "infruttescenza sferica di 2,5-3,5 cm, di solito 2 per peduncolo, formata da tanti piccoli acheni con peli",
+    "periodo_fruttificazione": "matura in autunno; le palline restano appese fino alla primavera e poi si sfaldano",
+    "descrizione": "Quando le palline si disfano liberano acheni con ciuffi di peli sottili."
+  },
+  "dimensioni": {
+    "altezza_tipica_m": [
+      25,
+      35
+    ],
+    "altezza_max_m": 40,
+    "eta_massima_anni": null,
+    "note": "Età massima non accertata; esistono platani monumentali di alcuni secoli."
+  },
+  "habitat_e_distribuzione": {
+    "regioni_italia": [
+      "Tutta Italia in viali, piazze, parchi e lungofiume",
+      "Talvolta inselvatichito lungo i corsi d'acqua"
+    ],
+    "altitudine": "0-800 m",
+    "terreno_preferito": "fresco e profondo; tollera suoli compatti e l'ambiente urbano",
+    "descrizione": "L'albero dei viali per eccellenza. Nel Nord è minacciato dal cancro colorato, una malattia fungina contro cui la lotta è obbligatoria per legge."
+  },
+  "ecologia": {
+    "descrizione": "Specie ibrida coltivata: da noi non ha un ruolo definito nei boschi. Vuole piena luce e acqua disponibile."
+  },
+  "stagionalita": {
+    "primavera": "Foglie nuove lanuginose; peli in volo dalle foglie e dai frutti vecchi.",
+    "estate": "Chioma ampia e ombrosa; corteccia che si stacca a placche.",
+    "autunno": "Foglie giallo-brune, grandi e coriacee.",
+    "inverno": "Tronco chiazzato e palline appese ai rami spogli."
+  },
+  "specie_simili": [
+    {
+      "id_specie": "acer-pseudoplatanus",
+      "come_distinguere": "L'acero montano ha foglie opposte, frutti a due ali e corteccia grigia che si sfalda meno vistosamente."
+    },
+    {
+      "id_specie": "acer-platanoides",
+      "come_distinguere": "L'acero riccio ha foglie opposte con lattice nel picciolo e frutti a due ali."
+    }
+  ],
+  "commestibilita": {
+    "parti": "",
+    "note": "Nessuna parte commestibile.",
+    "avvertenze": ""
+  },
+  "tossicita": {
+    "livello": "bassa",
+    "parti": "peli di foglie giovani e frutti",
+    "note": "Non è velenoso, ma i peli sottili che si staccano in primavera irritano occhi, naso e gola e possono dare fastidio a chi soffre di allergie."
+  },
+  "curiosita_e_usi": "Nei viali italiani è piantato dall'Ottocento. Il platano orientale, uno dei genitori, è presente in Italia meridionale ed è l'albero sotto cui, secondo la tradizione, insegnava Ippocrate.",
+  "immagini": [
+    {
+      "tipo": "silhouette",
+      "file": "img/platanus-x-hispanica-silhouette.jpg",
+      "fonte": "Wikimedia Commons",
+      "autore": "João Martins",
+      "licenza": "CC BY-SA 4.0",
+      "url_originale": "https://commons.wikimedia.org/wiki/File:2021_Plane_tree_of_Rossio_PT.jpg",
+      "titolo_originale": "2021 Plane tree of Rossio PT.jpg"
+    },
+    {
+      "tipo": "foglia",
+      "file": "img/platanus-x-hispanica-foglia.jpg",
+      "fonte": "Wikimedia Commons",
+      "autore": "Krzysztof Golik",
+      "licenza": "CC BY-SA 4.0",
+      "url_originale": "https://commons.wikimedia.org/wiki/File:Fallen_leaf_of_Platanus_x_hispanica_(1).jpg",
+      "titolo_originale": "Fallen leaf of Platanus x hispanica (1).jpg"
+    },
+    {
+      "tipo": "fiore_o_frutto",
+      "file": "img/platanus-x-hispanica-fiore_o_frutto.jpg",
+      "fonte": "Wikimedia Commons",
+      "autore": "David Hawgood",
+      "licenza": "CC BY-SA 2.0",
+      "url_originale": "https://commons.wikimedia.org/wiki/File:Fruit_and_leaves_of_London_Plane_at_Blenheim_-_geograph.org.uk_-_796799.jpg",
+      "titolo_originale": "Fruit and leaves of London Plane at Blenheim - geograph.org.uk - 796799.jpg"
+    },
+    {
+      "tipo": "corteccia",
+      "file": "img/platanus-x-hispanica-corteccia.jpg",
+      "fonte": "Wikimedia Commons",
+      "autore": "Spiritia",
+      "licenza": "CC BY-SA 4.0",
+      "url_originale": "https://commons.wikimedia.org/wiki/File:Platanus_x_hispanica_bark_5.jpg",
+      "titolo_originale": "Platanus x hispanica bark 5.jpg"
+    }
+  ],
+  "fonti": [
+    {
+      "titolo": "Platanus × hispanica – Wikipedia (it)",
+      "url": "https://it.wikipedia.org/wiki/Platanus_%C3%97_hispanica"
+    },
+    {
+      "titolo": "Platanus × hispanica – Wikipedia (en)",
+      "url": "https://en.wikipedia.org/wiki/Platanus_%C3%97_hispanica"
+    }
+  ]
+}

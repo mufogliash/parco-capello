@@ -1,0 +1,27 @@
+{
+  "id": "organ-rami",
+  "nome": "Rami",
+  "descrizione_generale": "I rami raccontano come cresce un albero: se continua ogni anno dalla stessa punta o se cambia strada, quanto la cima comanda sui rami laterali, come la pianta cerca la luce. In inverno, senza foglie, rametti e gemme sono lo strumento migliore per riconoscere le latifoglie.",
+  "ordine_osservazione": [
+    "Punta del rametto: gemma centrata (monopodiale) o spostata di lato con una piccola cicatrice accanto (simpodiale)?",
+    "Gemme e rami opposti o alterni?",
+    "Rametto diritto o a zig-zag tra una gemma e l'altra?",
+    "Ci sono rami corti a cuscinetto, fitti di cicatrici?",
+    "Sul fusto delle conifere: rami raccolti in verticilli, uno per anno?",
+    "Rami bassi: salgono, stanno orizzontali o ricadono?"
+  ],
+  "concetti": [
+    { "termine": "ramificazione monopodiale", "alias": ["monopodiale", "monopodiali"], "definizione": "Il ramo cresce ogni anno dalla stessa gemma all'apice (gemma terminale vera) e l'asse continua diritto. Sui rametti: querce, faggio, aceri, frassini, ippocastano, pini e abeti." },
+    { "termine": "ramificazione simpodiale", "alias": ["simpodiale", "simpodiali"], "definizione": "A fine stagione la punta del rametto muore e l'anno dopo la crescita riparte da una gemma laterale subito sotto: l'asse è una catena di tratti, spesso a zig-zag. Esempi: tiglio, olmo, carpini, nocciolo, betulla, castagno, salici, platano, robinia." },
+    { "termine": "gemma terminale", "alias": ["gemma apicale"], "definizione": "Gemma vera all'apice del rametto, centrata e spesso più grande delle laterali. Indica crescita monopodiale." },
+    { "termine": "gemma pseudoterminale", "definizione": "Gemma laterale che si trova in punta solo perché l'apice è morto: è un po' spostata di lato e accanto si vede la piccola cicatrice della punta seccata. Indica crescita simpodiale." },
+    { "termine": "dominanza apicale", "definizione": "Il germoglio in cima frena la crescita di quelli laterali. È forte nelle conifere giovani (chioma a cono con un fusto guida) e più debole in molte latifoglie adulte, che formano chiome tondeggianti con molte branche." },
+    { "termine": "verticillo", "alias": ["verticilli"], "definizione": "Gruppo di rami che partono dallo stesso punto del fusto. Pini e abeti ne formano in genere uno all'anno: nelle piante giovani contarli dà un'idea dell'età." },
+    { "termine": "ramo lungo e ramo corto", "alias": ["rami corti", "ramo corto", "brachiblasto", "brachiblasti"], "definizione": "I rami lunghi allungano la chioma; quelli corti crescono pochi millimetri l'anno, sono fitti di cicatrici e portano ciuffi di foglie o fiori (larice, cedro, meli e peri)." },
+    { "termine": "cicatrice fogliare", "definizione": "Il segno lasciato dalla foglia caduta, sotto ogni gemma. Forma e puntini al suo interno aiutano a riconoscere le specie in inverno." },
+    { "termine": "rametto a zig-zag", "alias": ["zig-zag"], "definizione": "Rametto che piega leggermente a ogni gemma. È tipico di molte specie simpodiali (tiglio, olmo, carpini) ma compare anche in qualche monopodiale, come il faggio." },
+    { "termine": "rami epicormici", "definizione": "Getti che spuntano da gemme dormienti sul tronco o sulle branche, spesso dopo stress, potature o un'improvvisa esposizione alla luce." },
+    { "termine": "reiterazione", "definizione": "Un albero adulto che, da una gemma dormiente, ricostruisce un piccolo «albero» con la propria architettura: succede per esempio dopo la rottura di una branca." }
+  ],
+  "campo_comparativo_riferimento": "rami_e_portamento"
+}

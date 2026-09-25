@@ -1,0 +1,16 @@
+{
+  "id": "landscape-pioniere",
+  "categoria": "eta_e_storia",
+  "titolo": "Pioniere e colonizzatrici: chi arriva per primo",
+  "descrizione": "Dopo una frana, un incendio, una piena o l'abbandono di un campo, la vegetazione ritorna seguendo una successione. Prima erbe e arbusti, poi le specie pioniere: alberi che vogliono piena luce, crescono in fretta, vivono relativamente poco e producono moltissimi semi leggeri portati dal vento (betulla, pioppo tremulo, salici, ontani, pino silvestre; larice in montagna). Sotto la loro ombra leggera si insediano specie che tollerano più ombra (querce, aceri, frassini, carpini) e infine quelle del bosco maturo (faggio e abete bianco in montagna, leccio nel Mediterraneo). Le colonizzatrici sono specie che si espandono rapidamente in coltivi e pascoli abbandonati o in boschi disturbati: nocciolo, frassino maggiore, orniello, carpino nero, e tra le esotiche robinia e ailanto.",
+  "come_riconoscerlo": "Un gruppo di betulle o pioppi tremuli tutti della stessa taglia indica un terreno aperto o disturbato qualche decennio fa. Grandi pioniere isolate dentro una faggeta segnalano una vecchia radura. Giovani lecci o faggi sotto una pineta mostrano che il bosco sta cambiando. Muretti a secco e terrazzamenti dentro un bosco di nocciolo, frassino o robinia raccontano campi abbandonati. Le pioniere si vedono soprattutto ai margini: bordi di strade, greti, frane, piste da sci.",
+  "concetti": [
+    { "termine": "successione ecologica", "alias": ["successione"], "definizione": "La sequenza di comunità vegetali che si danno il cambio su un terreno nel tempo, dalle prime erbe fino al bosco maturo." },
+    { "termine": "specie pioniera", "alias": ["pioniera", "pioniere"], "definizione": "Specie che si insedia per prima su terreno nudo o disturbato: ama la piena luce, cresce in fretta, produce molti semi leggeri e di solito vive meno delle specie del bosco maturo." },
+    { "termine": "specie colonizzatrice", "alias": ["colonizzatrice", "colonizzatrici", "colonizza", "ricolonizza"], "definizione": "Specie che si espande rapidamente in ambienti liberi o disturbati, come coltivi e pascoli abbandonati. Include anche esotiche invasive come robinia e ailanto." },
+    { "termine": "specie del bosco maturo", "alias": ["climax", "bosco maturo"], "definizione": "Specie che si afferma nelle ultime fasi della successione: tollera l'ombra da giovane e forma boschi stabili se non intervengono disturbi." },
+    { "termine": "eliofila", "alias": ["eliofile"], "definizione": "Pianta che ha bisogno di piena luce, soprattutto da giovane." },
+    { "termine": "sciafila", "alias": ["sciafile"], "definizione": "Pianta che tollera bene l'ombra e riesce a crescere sotto altri alberi." }
+  ],
+  "immagini": []
+}

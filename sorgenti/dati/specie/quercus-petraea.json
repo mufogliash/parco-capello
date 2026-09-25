@@ -1,0 +1,202 @@
+{
+  "id": "quercus-petraea",
+  "nome_comune": "Rovere",
+  "nome_scientifico": "Quercus petraea",
+  "famiglia": "Fagaceae",
+  "genere": "Quercus",
+  "sinonimi": [
+    "Quercia rovere",
+    "Quercia sessile"
+  ],
+  "nomi_locali": [],
+  "stato": "bozza",
+  "aggiornato": "2026-09-24",
+  "chiave": {
+    "gruppo": "latifoglia",
+    "persistenza": "caduca",
+    "foglia_tipo": "semplice",
+    "foglia_disposizione": "alterna",
+    "foglia_margine": [
+      "lobato"
+    ],
+    "foglia_forma": [
+      "obovata"
+    ],
+    "frutto": "ghianda",
+    "corteccia_texture": [
+      "fessurata"
+    ],
+    "habitat": [
+      "collinare",
+      "montano"
+    ],
+    "altitudine_m": [
+      100,
+      1200
+    ],
+    "ramificazione": "monopodiale",
+    "ruolo_ecologico": [
+      "climax"
+    ],
+    "luce": "semisciafila"
+  },
+  "tratti_chiave": [
+    "Picciolo ben visibile, lungo 1-2,5 cm",
+    "Base della foglia a cuneo, senza orecchiette; lobi regolari",
+    "Ghiande quasi senza peduncolo, attaccate al rametto"
+  ],
+  "origine": {
+    "stato": "autoctona",
+    "note": ""
+  },
+  "foglie": {
+    "tipo": "semplice",
+    "disposizione": "alterna, un po' addensate all'apice dei rametti",
+    "forma": "obovata, 7-14 cm, con 5-8 paia di lobi regolari e poco profondi",
+    "margine": "lobato, con lobi arrotondati disposti in modo regolare",
+    "venatura": "pennata; le nervature laterali arrivano solo alle punte dei lobi, non ai seni",
+    "colore_stagionale": {
+      "primavera_estate": "verde scuro lucido sopra; sotto più chiara, con peli sparsi soprattutto lungo le nervature",
+      "autunno": "giallo-bruno"
+    },
+    "descrizione": "La foglia ha un aspetto più ordinato e simmetrico di quella della farnia. Il picciolo lungo e la base a cuneo sono i dettagli da controllare per primi."
+  },
+  "corteccia": {
+    "colore": "grigio",
+    "texture": "fessurata in creste strette e regolari, più fini di quelle della farnia",
+    "evoluzione_con_eta": "liscia e grigia da giovane, poi fessurata in solchi verticali poco profondi",
+    "descrizione": "Nel complesso appare più fine e regolare della corteccia della farnia, con placche strette e allungate."
+  },
+  "rami_e_portamento": {
+    "disposizione_rami": "alterna; rami più diritti che nella farnia",
+    "angolo_di_crescita": "branche ascendenti",
+    "forma_chioma": "ovale e regolare",
+    "silhouette_invernale": "fusto diritto che prosegue a lungo dentro la chioma; rami meno contorti",
+    "descrizione": "In bosco forma fusti alti e diritti, molto apprezzati per il legname.",
+    "ramificazione": "Rametti con gemma terminale vera (monopodiali), con gemme raggruppate in punta."
+  },
+  "gemme": {
+    "forma": "ovoidali, appuntite, più grandi di quelle della farnia",
+    "colore": "bruno chiaro, con molte squame",
+    "disposizione": "alterne, raggruppate all'apice del rametto",
+    "descrizione": "Gemme grosse, appuntite e con numerose squame; glabre o solo leggermente pelose."
+  },
+  "fiori_e_frutti": {
+    "tipo_fiore": "pianta monoica: amenti maschili penduli; fiori femminili piccoli",
+    "periodo_fioritura": "aprile-maggio",
+    "tipo_frutto": "ghianda ovoide di 1,5-3 cm, sessile o su peduncolo molto corto, in gruppetti; cupola a squame appressate",
+    "periodo_fruttificazione": "matura nello stesso anno, settembre-ottobre",
+    "descrizione": "Le ghiande stanno attaccate direttamente al rametto (da qui il nome «quercia sessile»): è l'opposto della farnia."
+  },
+  "dimensioni": {
+    "altezza_tipica_m": [
+      25,
+      35
+    ],
+    "altezza_max_m": 40,
+    "eta_massima_anni": [
+      500,
+      1000
+    ],
+    "note": "Molto longeva; le età estreme sono stime."
+  },
+  "habitat_e_distribuzione": {
+    "regioni_italia": [
+      "Nord: fascia collinare e prealpina, soprattutto su suoli acidi (pedemontana piemontese e lombarda, colline moreniche, Colli Euganei)",
+      "Appennino e Centro-Sud: più sporadica, in boschi misti di collina e bassa montagna"
+    ],
+    "altitudine": "circa 100-1000 m; fino a 1200 m localmente",
+    "terreno_preferito": "sciolto, ben drenato, spesso acido; non tollera i ristagni d'acqua",
+    "descrizione": "Vive sui versanti e sulle colline, mentre la farnia preferisce la pianura con suoli umidi. Dove si incontrano si ibridano facilmente e compaiono forme intermedie."
+  },
+  "ecologia": {
+    "descrizione": "Tollera un po' più d'ombra della farnia e forma boschi maturi di collina, spesso con castagno, betulla e carpino bianco."
+  },
+  "stagionalita": {
+    "primavera": "Foglie nuove e amenti (aprile-maggio).",
+    "estate": "Foglie regolari con picciolo evidente; ghiande in formazione attaccate ai rametti.",
+    "autunno": "Ghiande sessili a gruppetti; foglie giallo-brune.",
+    "inverno": "Gemme grosse e appuntite in gruppo all'apice; fusto diritto."
+  },
+  "specie_simili": [
+    {
+      "id_specie": "quercus-robur",
+      "come_distinguere": "La farnia ha picciolo quasi assente, base con orecchiette e ghiande su un peduncolo lungo 3-8 cm. Le forme intermedie (ibridi) sono frequenti."
+    },
+    {
+      "id_specie": "quercus-pubescens",
+      "come_distinguere": "La roverella ha pagina inferiore e rametti giovani fittamente pelosi, foglie più piccole e vive in ambienti più caldi e asciutti."
+    },
+    {
+      "id_specie": "quercus-cerris",
+      "come_distinguere": "Il cerro ha foglie ruvide con lobi appuntiti, cupola capelluta e filamenti attorno alle gemme."
+    }
+  ],
+  "commestibilita": {
+    "parti": "ghiande",
+    "note": "Come per le altre querce, vanno private dei tannini con ammolli o bolliture ripetute; poi si possono tostare o macinare in farina.",
+    "avvertenze": "Non consumarle crude o non trattate."
+  },
+  "tossicita": {
+    "livello": "bassa",
+    "parti": "ghiande e foglie giovani",
+    "note": "Astringenti per l'uomo; tossiche per il bestiame in grandi quantità."
+  },
+  "curiosita_e_usi": "Legno di pregio, durevole: travi, mobili e soprattutto doghe per le botti in cui invecchiano vini e distillati. Il nome scientifico petraea richiama i terreni sassosi su cui cresce.",
+  "immagini": [
+    {
+      "tipo": "silhouette",
+      "file": "img/quercus-petraea-silhouette-utente.jpg",
+      "fonte": "Foto fornita dall'utente",
+      "autore": "non indicato",
+      "licenza": "da verificare (uso personale)",
+      "url_originale": ""
+    },
+    {
+      "tipo": "foglia",
+      "file": "img/quercus-petraea-foglia.jpg",
+      "fonte": "Wikimedia Commons",
+      "autore": "SABENCIA Guillermo César Ruiz",
+      "licenza": "CC BY-SA 4.0",
+      "url_originale": "https://commons.wikimedia.org/wiki/File:Quercus_petraea._Carbayu_albar.jpg",
+      "titolo_originale": "Quercus petraea. Carbayu albar.jpg"
+    },
+    {
+      "tipo": "fiore_o_frutto",
+      "file": "img/quercus-petraea-fiore_o_frutto.jpg",
+      "fonte": "Wikimedia Commons",
+      "autore": "Sten",
+      "licenza": "CC BY-SA 3.0",
+      "url_originale": "https://commons.wikimedia.org/wiki/File:Quercus-petraea-acorns.jpg",
+      "titolo_originale": "Quercus-petraea-acorns.jpg"
+    },
+    {
+      "tipo": "corteccia",
+      "file": "img/quercus-petraea-corteccia.jpg",
+      "fonte": "Wikimedia Commons",
+      "autore": "Nefronus",
+      "licenza": "CC BY-SA 4.0",
+      "url_originale": "https://commons.wikimedia.org/wiki/File:Quercus_petraea_bark.jpg",
+      "titolo_originale": "Quercus petraea bark.jpg"
+    },
+    {
+      "tipo": "gemme",
+      "file": "img/quercus-petraea-gemme.jpg",
+      "fonte": "Wikimedia Commons",
+      "autore": "T. C. Woodeggs",
+      "licenza": "CC BY-SA 4.0",
+      "url_originale": "https://commons.wikimedia.org/wiki/File:Quercus_petraea,_Knospen,_freigestellt,_remixed.png",
+      "titolo_originale": "Quercus petraea, Knospen, freigestellt, remixed.png"
+    }
+  ],
+  "fonti": [
+    {
+      "titolo": "Quercus petraea – Wikipedia (it)",
+      "url": "https://it.wikipedia.org/wiki/Quercus_petraea"
+    },
+    {
+      "titolo": "Quercus petraea – Wikipedia (en)",
+      "url": "https://en.wikipedia.org/wiki/Quercus_petraea"
+    }
+  ]
+}

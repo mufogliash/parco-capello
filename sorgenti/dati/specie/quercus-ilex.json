@@ -1,0 +1,201 @@
+{
+  "id": "quercus-ilex",
+  "nome_comune": "Leccio",
+  "nome_scientifico": "Quercus ilex",
+  "famiglia": "Fagaceae",
+  "genere": "Quercus",
+  "sinonimi": [
+    "Elce"
+  ],
+  "nomi_locali": [],
+  "stato": "bozza",
+  "aggiornato": "2026-09-24",
+  "chiave": {
+    "gruppo": "latifoglia",
+    "persistenza": "sempreverde",
+    "foglia_tipo": "semplice",
+    "foglia_disposizione": "alterna",
+    "foglia_margine": [
+      "intero",
+      "dentato",
+      "spinoso"
+    ],
+    "foglia_forma": [
+      "ellittica",
+      "lanceolata",
+      "ovata"
+    ],
+    "frutto": "ghianda",
+    "corteccia_texture": [
+      "fessurata",
+      "a_placche"
+    ],
+    "habitat": [
+      "mediterraneo_costiero",
+      "collinare",
+      "rupestre_arido",
+      "urbano_parchi"
+    ],
+    "altitudine_m": [
+      0,
+      1400
+    ],
+    "ramificazione": "monopodiale",
+    "ruolo_ecologico": [
+      "climax"
+    ],
+    "luce": "sciafila"
+  },
+  "tratti_chiave": [
+    "Quercia sempreverde con foglie coriacee verde scuro sopra",
+    "Pagina inferiore grigio-biancastra e feltrosa",
+    "Foglie intere negli adulti, spinose sui polloni e nei giovani"
+  ],
+  "origine": {
+    "stato": "autoctona",
+    "note": "Nel Nord è spontaneo in aree a clima mite; altrove è molto piantato in parchi e viali."
+  },
+  "foglie": {
+    "tipo": "semplice",
+    "disposizione": "alterna",
+    "forma": "da ellittica a lanceolata, 3-7 cm, coriacea; molto variabile anche sulla stessa pianta",
+    "margine": "intero o dentato negli adulti; spinoso nelle foglie dei polloni e delle piante giovani",
+    "venatura": "pennata",
+    "colore_stagionale": {
+      "primavera_estate": "verde scuro lucido sopra, grigio-biancastro feltroso sotto; le foglie nuove primaverili sono grigio-argentee e pelose",
+      "autunno": "nessun cambio (sempreverde); le foglie vecchie cadono gradualmente, soprattutto tra primavera ed estate"
+    },
+    "descrizione": "Ogni foglia vive in genere 2-3 anni. Le foglie spinose dei ricacci ricordano l'agrifoglio, che però è lucido su entrambe le facce e non ha la pagina inferiore feltrosa."
+  },
+  "corteccia": {
+    "colore": "grigio scuro, quasi nerastro",
+    "texture": "dura, finemente screpolata in piccole placche quadrangolari",
+    "evoluzione_con_eta": "liscia e grigia nei giovani, poi fittamente reticolata",
+    "descrizione": "Non è mai spessa e spugnosa: questo la distingue subito dalla sughera, che ha corteccia di sughero."
+  },
+  "rami_e_portamento": {
+    "disposizione_rami": "alterna; rametti giovani grigio-tomentosi",
+    "angolo_di_crescita": "branche ascendenti e poi espanse",
+    "forma_chioma": "densa, globosa, verde molto scuro",
+    "silhouette_invernale": "invariata tutto l'anno: chioma compatta e scura, spesso con più fusti che partono dalla ceppaia",
+    "descrizione": "Nei boschi cedui si presenta con più fusti dalla stessa ceppaia. Isolato forma una chioma ampia e cupa, riconoscibile a distanza per il colore scuro.",
+    "ramificazione": "Rametti con gemma terminale vera (monopodiali), fitti e corti, che formano una chioma compatta."
+  },
+  "gemme": {
+    "forma": "piccole (pochi mm), ovoidali",
+    "colore": "brunastre, tomentose",
+    "disposizione": "alterne, un po' raggruppate all'apice",
+    "descrizione": "Poco appariscenti; per il riconoscimento contano molto di più foglie e corteccia."
+  },
+  "fiori_e_frutti": {
+    "tipo_fiore": "pianta monoica: amenti maschili giallo-dorati molto abbondanti; fiori femminili piccoli",
+    "periodo_fioritura": "aprile-giugno",
+    "tipo_frutto": "ghianda allungata di 1,5-3 cm, con cupola a squame grigie appressate, su peduncolo corto",
+    "periodo_fruttificazione": "matura nello stesso anno, ottobre-novembre",
+    "descrizione": "In fioritura gli amenti colorano di giallo-bronzo tutta la chioma per qualche settimana."
+  },
+  "dimensioni": {
+    "altezza_tipica_m": [
+      10,
+      20
+    ],
+    "altezza_max_m": 25,
+    "eta_massima_anni": [
+      500,
+      1000
+    ],
+    "note": "Specie longeva; esistono lecci monumentali plurisecolari, ma le età estreme sono stime."
+  },
+  "habitat_e_distribuzione": {
+    "regioni_italia": [
+      "Coste e colline di tutta l'Italia peninsulare e delle isole",
+      "Nord: Liguria, sponde dei grandi laghi prealpini (per esempio il Garda), Colli Euganei, costa triestina; molto piantato in città, parchi e viali"
+    ],
+    "altitudine": "0-600 m nel Nord; fino a circa 1000-1400 m al Sud e nelle isole",
+    "terreno_preferito": "indifferente al substrato, anche roccioso e povero; tollera la siccità, meno i ristagni d'acqua",
+    "descrizione": "Albero chiave della lecceta e della macchia mediterranea. Nel Nord vive in «isole» a clima mite. Da giovane tollera l'ombra; teme gelate intense e prolungate."
+  },
+  "ecologia": {
+    "descrizione": "Da giovane sopporta l'ombra fitta e si rinnova sotto la propria chioma: la lecceta è la forma matura del bosco mediterraneo. Dopo incendi o tagli ricaccia con vigore dalla ceppaia."
+  },
+  "stagionalita": {
+    "primavera": "Foglie nuove grigio-argentee e amenti dorati su tutta la chioma.",
+    "estate": "Chioma scura e compatta; caduta graduale delle foglie vecchie.",
+    "autunno": "Ghiande allungate che maturano tra ottobre e novembre.",
+    "inverno": "Unica quercia comune ancora verde scuro; si riconosce a distanza tra gli alberi spogli."
+  },
+  "specie_simili": [
+    {
+      "id_specie": "quercus-suber",
+      "come_distinguere": "La sughera ha corteccia spessa, chiara e spugnosa di sughero; dove è stata decorticata il tronco appare rosso-bruno."
+    }
+  ],
+  "commestibilita": {
+    "parti": "ghiande",
+    "note": "In Italia le ghiande sono in genere amare e vanno private dei tannini con ammolli o bolliture. In Spagna e Portogallo alcune popolazioni (sottospecie rotundifolia) producono ghiande dolci, mangiate anche arrostite.",
+    "avvertenze": "Non consumare crude le ghiande amare."
+  },
+  "tossicita": {
+    "livello": "bassa",
+    "parti": "ghiande",
+    "note": "Astringenti per l'uomo; tossiche per il bestiame in grandi quantità."
+  },
+  "curiosita_e_usi": "Legno durissimo e pesante, ottimo come combustibile e per il carbone. Le leccete erano pascolo tradizionale dei maiali. Sopporta bene le potature, per questo è usato per siepi e forme topiarie.",
+  "immagini": [
+    {
+      "tipo": "silhouette",
+      "file": "img/quercus-ilex-silhouette.jpg",
+      "fonte": "Wikimedia Commons",
+      "autore": "Basotxerri",
+      "licenza": "CC BY-SA 4.0",
+      "url_originale": "https://commons.wikimedia.org/wiki/File:Montes_de_Vitoria_-_Quercus_ilex_01.jpg",
+      "titolo_originale": "Montes de Vitoria - Quercus ilex 01.jpg"
+    },
+    {
+      "tipo": "foglia",
+      "file": "img/quercus-ilex-foglia.jpg",
+      "fonte": "Wikimedia Commons",
+      "autore": "Krzysztof Ziarnek, Kenraiz",
+      "licenza": "CC BY-SA 4.0",
+      "url_originale": "https://commons.wikimedia.org/wiki/File:Quercus_ilex_kz07.jpg",
+      "titolo_originale": "Quercus ilex kz07.jpg"
+    },
+    {
+      "tipo": "foglia",
+      "file": "img/quercus-ilex-foglia-2.jpg",
+      "fonte": "Wikimedia Commons",
+      "autore": "Liné1",
+      "licenza": "CC BY-SA 3.0",
+      "url_originale": "https://commons.wikimedia.org/wiki/File:Quercus_ilex_leaves_02_by_Line1.jpg",
+      "titolo_originale": "Quercus ilex leaves 02 by Line1.jpg"
+    },
+    {
+      "tipo": "fiore_o_frutto",
+      "file": "img/quercus-ilex-fiore_o_frutto.jpg",
+      "fonte": "Wikimedia Commons",
+      "autore": "Derek Keats from Johannesburg, South Africa",
+      "licenza": "CC BY 2.0",
+      "url_originale": "https://commons.wikimedia.org/wiki/File:Holly_Oak_(Quercus_ilex)_acorns,_April,_Sydney_Royal_Botanic_Gardens,_Australia_(16498239613).jpg",
+      "titolo_originale": "Holly Oak (Quercus ilex) acorns, April, Sydney Royal Botanic Gardens, Australia (16498239613).jpg"
+    },
+    {
+      "tipo": "corteccia",
+      "file": "img/quercus-ilex-corteccia.jpg",
+      "fonte": "Wikimedia Commons",
+      "autore": "Agnieszka Kwiecień, Nova",
+      "licenza": "CC BY-SA 4.0",
+      "url_originale": "https://commons.wikimedia.org/wiki/File:Quercus_ilex_D%C4%85b_ostrolistny_2021-06-09_02.jpg",
+      "titolo_originale": "Quercus ilex Dąb ostrolistny 2021-06-09 02.jpg"
+    }
+  ],
+  "fonti": [
+    {
+      "titolo": "Quercus ilex – Wikipedia (it)",
+      "url": "https://it.wikipedia.org/wiki/Quercus_ilex"
+    },
+    {
+      "titolo": "Quercus ilex – Wikipedia (en)",
+      "url": "https://en.wikipedia.org/wiki/Quercus_ilex"
+    }
+  ]
+}

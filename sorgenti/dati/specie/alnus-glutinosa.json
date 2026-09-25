@@ -1,0 +1,201 @@
+{
+  "id": "alnus-glutinosa",
+  "nome_comune": "Ontano nero",
+  "nome_scientifico": "Alnus glutinosa",
+  "famiglia": "Betulaceae",
+  "genere": "Alnus",
+  "sinonimi": [
+    "Ontano comune"
+  ],
+  "nomi_locali": [],
+  "stato": "bozza",
+  "aggiornato": "2026-09-24",
+  "chiave": {
+    "gruppo": "latifoglia",
+    "persistenza": "caduca",
+    "foglia_tipo": "semplice",
+    "foglia_disposizione": "alterna",
+    "foglia_margine": [
+      "doppiamente_seghettato"
+    ],
+    "foglia_forma": [
+      "obovata",
+      "orbicolare"
+    ],
+    "frutto": "strobilo",
+    "corteccia_texture": [
+      "fessurata",
+      "a_placche"
+    ],
+    "habitat": [
+      "ripariale_umido",
+      "planiziale",
+      "collinare"
+    ],
+    "altitudine_m": [
+      0,
+      1200
+    ],
+    "ramificazione": "non_accertata",
+    "ruolo_ecologico": [
+      "pioniera"
+    ],
+    "luce": "eliofila"
+  },
+  "tratti_chiave": [
+    "Foglia tondeggiante con l'apice arrotondato o un po' incavato, non appuntito",
+    "Piccoli «coni» legnosi neri che restano sui rami tutto l'inverno",
+    "Gemme viola su un corto peduncolo; vive con i piedi nell'acqua"
+  ],
+  "origine": {
+    "stato": "autoctona",
+    "note": ""
+  },
+  "foglie": {
+    "tipo": "semplice",
+    "disposizione": "alterna",
+    "forma": "obovata o tondeggiante, 4-10 cm, con apice arrotondato, troncato o leggermente incavato",
+    "margine": "doppiamente seghettato, spesso irregolare",
+    "venatura": "pennata, con 5-8 paia di nervature",
+    "colore_stagionale": {
+      "primavera_estate": "verde scuro lucido, glabra; appiccicosa quando è giovane",
+      "autunno": "cadono ancora verdi o appena brunite, senza colori autunnali"
+    },
+    "descrizione": "L'apice «tagliato» o incavato è quasi unico tra gli alberi comuni. Il nome glutinosa ricorda le foglie e i germogli giovani appiccicosi."
+  },
+  "corteccia": {
+    "colore": "grigio-bruno scuro",
+    "texture": "fessurata in piccole placche squadrate",
+    "evoluzione_con_eta": "liscia, verdastra o bruna e con lenticelle da giovane; poi sempre più scura e screpolata",
+    "descrizione": "Negli alberi adulti il tronco scuro dà il nome «ontano nero»."
+  },
+  "rami_e_portamento": {
+    "disposizione_rami": "alterna; rami regolari attorno al fusto",
+    "angolo_di_crescita": "rami quasi orizzontali o poco ascendenti",
+    "forma_chioma": "conica o ovale, con un fusto diritto che prosegue fino in cima",
+    "silhouette_invernale": "sagoma a cono sorprendente per una latifoglia, punteggiata da piccoli coni neri e amenti bruni",
+    "descrizione": "Lungo fossi e fiumi forma filari fitti; spesso più fusti dalla stessa ceppaia.",
+    "ramificazione": "Dato non accertato: le fonti consultate non sono concordi su monopodiale o simpodiale. Si vede un fusto guida evidente con chioma conica e gemme peduncolate in punta ai rametti; per verificarlo sul campo guarda se la gemma in cima al rametto è centrata (monopodiale) o spostata di lato con una piccola cicatrice accanto (simpodiale)."
+  },
+  "gemme": {
+    "forma": "a clava, su un corto peduncolo, 5-8 mm",
+    "colore": "violacee o bruno-violacee, un po' appiccicose",
+    "disposizione": "alterne",
+    "descrizione": "Le gemme peduncolate viola sono tra le più facili da riconoscere in inverno."
+  },
+  "fiori_e_frutti": {
+    "tipo_fiore": "pianta monoica: amenti maschili penduli violacei poi gialli; amenti femminili piccoli, rossastri e ovali",
+    "periodo_fioritura": "febbraio-marzo, prima delle foglie",
+    "tipo_frutto": "piccolo strobilo legnoso ovale (1-2 cm), verde poi nero, simile a una minuscola pigna; contiene semi appiattiti",
+    "periodo_fruttificazione": "matura in autunno; gli strobili vuoti restano sui rami fino all'anno dopo",
+    "descrizione": "I semi, leggeri e con piccole camere d'aria, galleggiano e vengono trasportati dall'acqua."
+  },
+  "dimensioni": {
+    "altezza_tipica_m": [
+      15,
+      25
+    ],
+    "altezza_max_m": 30,
+    "eta_massima_anni": [
+      80,
+      150
+    ],
+    "note": "Di vita relativamente breve; raramente supera i 100-150 anni."
+  },
+  "habitat_e_distribuzione": {
+    "regioni_italia": [
+      "Tutta Italia lungo fiumi, torrenti, fossi, laghi e paludi",
+      "Nord: comune lungo i corsi d'acqua di pianura e collina e nei boschi umidi"
+    ],
+    "altitudine": "0-1000 m, localmente fino a 1200 m",
+    "terreno_preferito": "umido o inzuppato, anche con acqua ferma per lunghi periodi",
+    "descrizione": "L'albero delle sponde: vive con le radici nell'acqua e consolida le rive. Forma boschi palustri (alnete) nelle zone paludose."
+  },
+  "ecologia": {
+    "descrizione": "Pioniera dei suoli umidi e delle sponde: vuole piena luce e grazie a batteri che vivono nei noduli delle radici fissa l'azoto dell'aria, arricchendo il terreno."
+  },
+  "stagionalita": {
+    "primavera": "Amenti penduli già a febbraio-marzo; foglie nuove appiccicose.",
+    "estate": "Strobili verdi; chioma verde scuro lungo l'acqua.",
+    "autunno": "Le foglie cadono ancora verdi; strobili che diventano neri.",
+    "inverno": "Sagoma conica con strobili neri, amenti bruni e gemme viola peduncolate."
+  },
+  "specie_simili": [
+    {
+      "id_specie": "corylus-avellana",
+      "come_distinguere": "Il nocciolo è un arbusto a molti fusti, con foglia pelosa a base cuoriforme e punta breve; non ha coni legnosi."
+    },
+    {
+      "id_specie": "betula-pendula",
+      "come_distinguere": "La betulla ha corteccia bianca, foglia romboidale appuntita e amenti fruttiferi che si sfaldano, senza coni legnosi."
+    }
+  ],
+  "commestibilita": {
+    "parti": "",
+    "note": "",
+    "avvertenze": ""
+  },
+  "tossicita": {
+    "livello": "nessuna_nota",
+    "parti": "",
+    "note": "Nessuna tossicità significativa nota. Il polline, a fine inverno, è allergenico."
+  },
+  "curiosita_e_usi": "Il legno resiste molto a lungo sott'acqua: insieme ad altri legni fu usato per palafitte e fondazioni, anche a Venezia. Appena tagliato vira dal bianco all'arancio-rosso.",
+  "immagini": [
+    {
+      "tipo": "silhouette",
+      "file": "img/alnus-glutinosa-silhouette.jpg",
+      "fonte": "Wikimedia Commons",
+      "autore": "Agnieszka Kwiecień, Nova",
+      "licenza": "CC BY-SA 4.0",
+      "url_originale": "https://commons.wikimedia.org/wiki/File:Alnus_glutinosa_Olsza_czarna_2020-05-31_01.jpg",
+      "titolo_originale": "Alnus glutinosa Olsza czarna 2020-05-31 01.jpg"
+    },
+    {
+      "tipo": "foglia",
+      "file": "img/alnus-glutinosa-foglia.jpg",
+      "fonte": "Wikimedia Commons",
+      "autore": "Krzysztof Ziarnek, Kenraiz",
+      "licenza": "CC BY-SA 4.0",
+      "url_originale": "https://commons.wikimedia.org/wiki/File:Alnus_glutinosa_kz32.jpg",
+      "titolo_originale": "Alnus glutinosa kz32.jpg"
+    },
+    {
+      "tipo": "fiore_o_frutto",
+      "file": "img/alnus-glutinosa-fiore_o_frutto.jpg",
+      "fonte": "Wikimedia Commons",
+      "autore": "Anne Burgess",
+      "licenza": "CC BY-SA 2.0",
+      "url_originale": "https://commons.wikimedia.org/wiki/File:Alder_(Alnus_glutinosa)_Cones_and_Catkins_-_geograph.org.uk_-_7729216.jpg",
+      "titolo_originale": "Alder (Alnus glutinosa) Cones and Catkins - geograph.org.uk - 7729216.jpg"
+    },
+    {
+      "tipo": "corteccia",
+      "file": "img/alnus-glutinosa-corteccia.jpg",
+      "fonte": "Wikimedia Commons",
+      "autore": "user:Nikanos",
+      "licenza": "CC BY-SA 2.5",
+      "url_originale": "https://commons.wikimedia.org/wiki/File:Alnus_glutinosa_003.jpg",
+      "titolo_originale": "Alnus glutinosa 003.jpg"
+    },
+    {
+      "tipo": "gemme",
+      "file": "img/alnus-glutinosa-gemme.jpg",
+      "fonte": "Wikimedia Commons",
+      "autore": "MurielBendel",
+      "licenza": "CC BY-SA 4.0",
+      "url_originale": "https://commons.wikimedia.org/wiki/File:Alnus_glutinosa_bud2.jpg",
+      "titolo_originale": "Alnus glutinosa bud2.jpg"
+    }
+  ],
+  "fonti": [
+    {
+      "titolo": "Alnus glutinosa – Wikipedia (it)",
+      "url": "https://it.wikipedia.org/wiki/Alnus_glutinosa"
+    },
+    {
+      "titolo": "Alnus glutinosa – Wikipedia (en)",
+      "url": "https://en.wikipedia.org/wiki/Alnus_glutinosa"
+    }
+  ]
+}

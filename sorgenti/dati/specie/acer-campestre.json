@@ -1,0 +1,198 @@
+{
+  "id": "acer-campestre",
+  "nome_comune": "Acero campestre",
+  "nome_scientifico": "Acer campestre",
+  "famiglia": "Sapindaceae",
+  "genere": "Acer",
+  "sinonimi": [
+    "Oppio",
+    "Loppio"
+  ],
+  "nomi_locali": [],
+  "stato": "bozza",
+  "aggiornato": "2026-09-24",
+  "chiave": {
+    "gruppo": "latifoglia",
+    "persistenza": "caduca",
+    "foglia_tipo": "semplice",
+    "foglia_disposizione": "opposta",
+    "foglia_margine": [
+      "lobato",
+      "intero"
+    ],
+    "foglia_forma": [
+      "palmata"
+    ],
+    "frutto": "disamara",
+    "corteccia_texture": [
+      "fessurata",
+      "a_placche"
+    ],
+    "habitat": [
+      "planiziale",
+      "collinare",
+      "urbano_parchi"
+    ],
+    "altitudine_m": [
+      0,
+      1300
+    ],
+    "ramificazione": "monopodiale",
+    "ruolo_ecologico": [
+      "intermedia"
+    ],
+    "luce": "semisciafila"
+  },
+  "tratti_chiave": [
+    "Foglia opposta, piccola (5-10 cm), con 3-5 lobi arrotondati",
+    "Picciolo che, spezzato, fa uscire un lattice bianco",
+    "Frutti a due ali disposte in linea retta, quasi orizzontali"
+  ],
+  "origine": {
+    "stato": "autoctona",
+    "note": ""
+  },
+  "foglie": {
+    "tipo": "semplice",
+    "disposizione": "opposta",
+    "forma": "palmata, 5-10 cm, con 3-5 lobi arrotondati e ottusi",
+    "margine": "lobato, con lobi a margine intero o con pochi dentelli arrotondati",
+    "venatura": "palmata: 5 nervature principali dalla base",
+    "colore_stagionale": {
+      "primavera_estate": "verde scuro opaco, spesso rossastra da giovane",
+      "autunno": "giallo oro brillante"
+    },
+    "descrizione": "È la più piccola foglia tra gli aceri nostrani. Il picciolo, spezzato, emette un lattice bianco."
+  },
+  "corteccia": {
+    "colore": "bruno chiaro o grigio-bruno",
+    "texture": "fessurata in piccole placche rettangolari, un po' sugherosa",
+    "evoluzione_con_eta": "i rametti giovani possono avere creste di sughero; il tronco si screpola presto",
+    "descrizione": "Le creste sugherose sui rametti ricordano quelle dell'olmo campestre, che però ha foglie alterne."
+  },
+  "rami_e_portamento": {
+    "disposizione_rami": "opposta; rametti sottili, a volte con creste sugherose",
+    "angolo_di_crescita": "rami ascendenti",
+    "forma_chioma": "tondeggiante e densa",
+    "silhouette_invernale": "piccolo albero dalla chioma fitta; frequente nelle siepi e nei filari",
+    "descrizione": "Sopporta molto bene le potature: è comune nelle siepi campestri.",
+    "ramificazione": "Rametti monopodiali con gemma terminale."
+  },
+  "gemme": {
+    "forma": "piccole, ovoidali",
+    "colore": "bruno-rossastre, con squame pelose sul bordo",
+    "disposizione": "opposte",
+    "descrizione": "Piccole e poco appariscenti, con la terminale leggermente più grande."
+  },
+  "fiori_e_frutti": {
+    "tipo_fiore": "fiori verde-giallastri in corimbi eretti",
+    "periodo_fioritura": "aprile-maggio, con le foglie",
+    "tipo_frutto": "disamara con ali allineate quasi a 180°",
+    "periodo_fruttificazione": "settembre-ottobre",
+    "descrizione": "Le ali del frutto formano una linea quasi orizzontale: negli altri aceri formano un angolo."
+  },
+  "dimensioni": {
+    "altezza_tipica_m": [
+      8,
+      15
+    ],
+    "altezza_max_m": 20,
+    "eta_massima_anni": null,
+    "note": "Età massima non accertata."
+  },
+  "habitat_e_distribuzione": {
+    "regioni_italia": [
+      "Tutta Italia in pianura e collina",
+      "Nord: siepi, boschi di pianura con farnia e carpino bianco, colline"
+    ],
+    "altitudine": "0-1000 m, localmente fino a 1300 m",
+    "terreno_preferito": "fresco e fertile, anche calcareo o argilloso",
+    "descrizione": "Albero di siepi, filari e margini di bosco; piantato anche in città."
+  },
+  "ecologia": {
+    "descrizione": "Tollera una certa ombra e vive sparso nei boschi di latifoglie di pianura e collina e nelle siepi."
+  },
+  "stagionalita": {
+    "primavera": "Foglie nuove rossastre e fiori verde-gialli.",
+    "estate": "Frutti a due ali orizzontali, spesso arrossati.",
+    "autunno": "Giallo oro tra i più belli delle siepi.",
+    "inverno": "Rametti opposti, a volte con creste di sughero."
+  },
+  "specie_simili": [
+    {
+      "id_specie": "acer-platanoides",
+      "come_distinguere": "L'acero riccio ha foglie molto più grandi con lobi terminati da lunghe punte e frutti ad ali larghe e divaricate."
+    },
+    {
+      "id_specie": "acer-pseudoplatanus",
+      "come_distinguere": "L'acero montano ha foglie grandi e dentate, senza lattice nel picciolo, e ali dei frutti ad angolo acuto."
+    }
+  ],
+  "commestibilita": {
+    "parti": "",
+    "note": "",
+    "avvertenze": ""
+  },
+  "tossicita": {
+    "livello": "nessuna_nota",
+    "parti": "",
+    "note": "Nessuna tossicità significativa nota."
+  },
+  "curiosita_e_usi": "Nella piantata padana l'acero campestre (oppio) era il tutore vivo più usato per le viti, con l'olmo. Il legno compatto serviva per piccoli oggetti torniti e strumenti.",
+  "immagini": [
+    {
+      "tipo": "silhouette",
+      "file": "img/acer-campestre-silhouette-utente.jpg",
+      "fonte": "Foto fornita dall'utente",
+      "autore": "non indicato",
+      "licenza": "da verificare (uso personale)",
+      "url_originale": ""
+    },
+    {
+      "tipo": "foglia",
+      "file": "img/acer-campestre-foglia.jpg",
+      "fonte": "Wikimedia Commons",
+      "autore": "Krzysztof Golik",
+      "licenza": "CC BY-SA 4.0",
+      "url_originale": "https://commons.wikimedia.org/wiki/File:Leaves_of_Acer_campestre_04.jpg",
+      "titolo_originale": "Leaves of Acer campestre 04.jpg"
+    },
+    {
+      "tipo": "fiore_o_frutto",
+      "file": "img/acer-campestre-fiore_o_frutto.jpg",
+      "fonte": "Wikimedia Commons",
+      "autore": "AnemoneProjectors ( talk )",
+      "licenza": "CC BY-SA 2.0",
+      "url_originale": "https://commons.wikimedia.org/wiki/File:Samara_and_leaf_(3830883078).jpg",
+      "titolo_originale": "Samara and leaf (3830883078).jpg"
+    },
+    {
+      "tipo": "corteccia",
+      "file": "img/acer-campestre-corteccia.jpg",
+      "fonte": "Wikimedia Commons",
+      "autore": "Spiritia",
+      "licenza": "CC BY 4.0",
+      "url_originale": "https://commons.wikimedia.org/wiki/File:Acer_campestre_bark_2.jpg",
+      "titolo_originale": "Acer campestre bark 2.jpg"
+    },
+    {
+      "tipo": "gemme",
+      "file": "img/acer-campestre-gemme.jpg",
+      "fonte": "Wikimedia Commons",
+      "autore": "Stefan.lefnaer",
+      "licenza": "CC BY-SA 4.0",
+      "url_originale": "https://commons.wikimedia.org/wiki/File:Acer_campestre_sl1.jpg",
+      "titolo_originale": "Acer campestre sl1.jpg"
+    }
+  ],
+  "fonti": [
+    {
+      "titolo": "Acer campestre – Wikipedia (it)",
+      "url": "https://it.wikipedia.org/wiki/Acer_campestre"
+    },
+    {
+      "titolo": "Acer campestre – Wikipedia (en)",
+      "url": "https://en.wikipedia.org/wiki/Acer_campestre"
+    }
+  ]
+}

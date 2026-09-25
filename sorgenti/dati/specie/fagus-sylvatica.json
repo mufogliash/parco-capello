@@ -1,0 +1,198 @@
+{
+  "id": "fagus-sylvatica",
+  "nome_comune": "Faggio",
+  "nome_scientifico": "Fagus sylvatica",
+  "famiglia": "Fagaceae",
+  "genere": "Fagus",
+  "sinonimi": [
+    "Faggio comune"
+  ],
+  "nomi_locali": [],
+  "stato": "bozza",
+  "aggiornato": "2026-09-24",
+  "chiave": {
+    "gruppo": "latifoglia",
+    "persistenza": "caduca",
+    "foglia_tipo": "semplice",
+    "foglia_disposizione": "alterna",
+    "foglia_margine": [
+      "intero",
+      "ondulato"
+    ],
+    "foglia_forma": [
+      "ovata",
+      "ellittica"
+    ],
+    "frutto": "faggiola",
+    "corteccia_texture": [
+      "liscia"
+    ],
+    "habitat": [
+      "montano",
+      "collinare",
+      "urbano_parchi"
+    ],
+    "altitudine_m": [
+      600,
+      2000
+    ],
+    "ramificazione": "monopodiale",
+    "ruolo_ecologico": [
+      "climax"
+    ],
+    "luce": "sciafila"
+  },
+  "tratti_chiave": [
+    "Corteccia grigio-argento liscia anche negli alberi vecchi",
+    "Foglia ovale a margine intero-ondulato, con ciglia sul bordo da giovane",
+    "Gemme lunghe, sottili e appuntite come piccoli sigari"
+  ],
+  "origine": {
+    "stato": "autoctona",
+    "note": ""
+  },
+  "foglie": {
+    "tipo": "semplice",
+    "disposizione": "alterna, su due file lungo i rametti orizzontali",
+    "forma": "ovata-ellittica, 5-10 cm, con apice appuntito",
+    "margine": "intero o leggermente ondulato; da giovane con sottili ciglia (peli) lungo il bordo",
+    "venatura": "pennata, con 5-9 paia di nervature parallele e diritte",
+    "colore_stagionale": {
+      "primavera_estate": "verde chiaro brillante e quasi traslucido in primavera, poi verde intenso lucido",
+      "autunno": "giallo-arancio, poi bronzo-rame"
+    },
+    "descrizione": "Foglia liscia e lucida, con nervature laterali regolari come le lische di un pesce. I giovani faggi e i rami bassi trattengono spesso in inverno le foglie secche color rame."
+  },
+  "corteccia": {
+    "colore": "grigio argento, a volte chiazzato di licheni",
+    "texture": "liscia e sottile",
+    "evoluzione_con_eta": "resta liscia per tutta la vita; con l'età compaiono piccole rugosità e cicatrici",
+    "descrizione": "È il carattere più immediato: pochi alberi adulti hanno un tronco così liscio. Le incisioni restano visibili per decenni. Essendo sottile, soffre le scottature quando un tronco a lungo in ombra viene esposto di colpo al sole."
+  },
+  "rami_e_portamento": {
+    "disposizione_rami": "alterna; rametti sottili a zig-zag",
+    "angolo_di_crescita": "rami ascendenti, poi orizzontali o leggermente penduli verso l'esterno",
+    "forma_chioma": "ampia, densa, ovoidale; in bosco fusto lungo, diritto e colonnare",
+    "silhouette_invernale": "tronco grigio e cilindrico, rametti fini e fitti con lunghe gemme appuntite ben visibili",
+    "descrizione": "La chioma fa molta ombra: sotto le faggete il sottobosco è scarso e il suolo coperto di foglie secche.",
+    "ramificazione": "Rametti con gemma terminale (monopodiali), leggermente a zig-zag e disposti su due file; i rami laterali crescono quasi orizzontali, a strati che intercettano la luce."
+  },
+  "gemme": {
+    "forma": "fusiformi, lunghe 1,5-3 cm, molto appuntite",
+    "colore": "bruno-rossiccio, lucide, con molte squame sovrapposte",
+    "disposizione": "alterne, nettamente divergenti dal rametto",
+    "descrizione": "Tra le gemme più facili da riconoscere in inverno: sottili e allungate come lance. Il carpino bianco le ha più corte e aderenti al rametto."
+  },
+  "fiori_e_frutti": {
+    "tipo_fiore": "pianta monoica: fiori maschili in piccoli capolini globosi penduli su lungo peduncolo; femminili a coppie dentro una cupola",
+    "periodo_fioritura": "aprile-maggio, insieme alle foglie",
+    "tipo_frutto": "faggiola: 2 (raramente 3) piccole noci triangolari bruno-lucide dentro una cupola legnosa con aculei morbidi, che si apre in 4 valve",
+    "periodo_fruttificazione": "settembre-ottobre",
+    "descrizione": "La produzione è molto irregolare: annate abbondanti si alternano a diversi anni quasi senza frutti. A terra si trovano le cupole aperte a quattro punte."
+  },
+  "dimensioni": {
+    "altezza_tipica_m": [
+      25,
+      35
+    ],
+    "altezza_max_m": 45,
+    "eta_massima_anni": [
+      250,
+      500
+    ],
+    "note": "Di solito vive 200-300 anni; nelle faggete vetuste dell'Appennino esistono esemplari di oltre 500 anni."
+  },
+  "habitat_e_distribuzione": {
+    "regioni_italia": [
+      "Alpi e Prealpi, soprattutto tra circa 600 e 1500 m (fino a circa 1700 m)",
+      "Appennino, soprattutto tra circa 900 e 1800 m (localmente fino a 2000 m)",
+      "Sicilia: Madonie, Nebrodi, Etna"
+    ],
+    "altitudine": "circa 600-2000 m a seconda della latitudine; più in basso nei versanti freschi e nei parchi",
+    "terreno_preferito": "fresco e ben drenato; non tollera ristagni né siccità prolungata; cresce sia su calcare sia su silice",
+    "descrizione": "Ama l'umidità dell'aria (nebbie, piogge frequenti) e teme le gelate tardive. Forma boschi puri, le faggete, spesso misti con abete bianco. Il faggio rosso a foglia porpora dei parchi è una sua varietà ornamentale."
+  },
+  "ecologia": {
+    "descrizione": "Tollera molto bene l'ombra: le giovani piante crescono lentamente per anni sotto gli alberi adulti, pronte a sfruttare un varco. È la specie tipica del bosco maturo di montagna e con la sua ombra fitta ostacola l'arrivo di altre specie."
+  },
+  "stagionalita": {
+    "primavera": "Foglie nuove verde chiaro, tenere e cigliate sul bordo.",
+    "estate": "Chioma densa e ombrosa; faggiole in formazione.",
+    "autunno": "Colori giallo-arancio e rame; cupole a quattro valve a terra.",
+    "inverno": "Tronco liscio grigio-argento, gemme lunghe e appuntite; giovani piante con foglie secche color rame."
+  },
+  "specie_simili": [
+    {
+      "id_specie": "carpinus-betulus",
+      "come_distinguere": "Il carpino bianco ha foglie doppiamente seghettate e pieghettate, tronco grigio ma scanalato («muscoloso»), frutti con una brattea a tre lobi e gemme più corte appoggiate al rametto."
+    }
+  ],
+  "commestibilita": {
+    "parti": "faggiole (semi)",
+    "note": "Commestibili in piccole quantità, meglio tostate. In passato se ne ricavava un olio alimentare.",
+    "avvertenze": "Crude e in grande quantità possono dare disturbi gastrointestinali."
+  },
+  "tossicita": {
+    "livello": "bassa",
+    "parti": "faggiole crude in quantità",
+    "note": "Contengono sostanze irritanti che la tostatura riduce."
+  },
+  "curiosita_e_usi": "Legno chiaro e omogeneo, facile da curvare col vapore: mobili, sedie, utensili. Ottima legna da ardere e da carbone. Diverse faggete vetuste dell'Appennino fanno parte dal 2017 del sito UNESCO delle faggete antiche e primordiali d'Europa.",
+  "immagini": [
+    {
+      "tipo": "silhouette",
+      "file": "img/fagus-sylvatica-silhouette.jpg",
+      "fonte": "Wikimedia Commons",
+      "autore": "J.-H. Janßen",
+      "licenza": "CC BY-SA 3.0",
+      "url_originale": "https://commons.wikimedia.org/wiki/File:Fagus_sylvatica_Bockraden_5.jpg",
+      "titolo_originale": "Fagus sylvatica Bockraden 5.jpg"
+    },
+    {
+      "tipo": "foglia",
+      "file": "img/fagus-sylvatica-foglia.jpg",
+      "fonte": "Wikimedia Commons",
+      "autore": "Dominicus Johannes Bergsma",
+      "licenza": "CC BY-SA 3.0",
+      "url_originale": "https://commons.wikimedia.org/wiki/File:Blad_van_beuk_(Fagus_sylvatica)_02.JPG",
+      "titolo_originale": "Blad van beuk (Fagus sylvatica) 02.JPG"
+    },
+    {
+      "tipo": "fiore_o_frutto",
+      "file": "img/fagus-sylvatica-fiore_o_frutto.jpg",
+      "fonte": "Wikimedia Commons",
+      "autore": "Dominicus Johannes Bergsma",
+      "licenza": "CC BY-SA 4.0",
+      "url_originale": "https://commons.wikimedia.org/wiki/File:Zaaddozen_van_een_beuk_(Fagus_sylvatica)_13-09-2024_(d.j.b.).jpg",
+      "titolo_originale": "Zaaddozen van een beuk (Fagus sylvatica) 13-09-2024 (d.j.b.).jpg"
+    },
+    {
+      "tipo": "corteccia",
+      "file": "img/fagus-sylvatica-corteccia.jpg",
+      "fonte": "Wikimedia Commons",
+      "autore": "Fraxinus Croat",
+      "licenza": "CC BY-SA 3.0",
+      "url_originale": "https://commons.wikimedia.org/wiki/File:Fagus_sylvatica_(bark)1.JPG",
+      "titolo_originale": "Fagus sylvatica (bark)1.JPG"
+    },
+    {
+      "tipo": "gemme",
+      "file": "img/fagus-sylvatica-gemme.jpg",
+      "fonte": "Wikimedia Commons",
+      "autore": "El Grafo",
+      "licenza": "CC BY-SA 3.0",
+      "url_originale": "https://commons.wikimedia.org/wiki/File:Fagus_sylvatica_bud.jpg",
+      "titolo_originale": "Fagus sylvatica bud.jpg"
+    }
+  ],
+  "fonti": [
+    {
+      "titolo": "Fagus sylvatica – Wikipedia (it)",
+      "url": "https://it.wikipedia.org/wiki/Fagus_sylvatica"
+    },
+    {
+      "titolo": "Fagus sylvatica – Wikipedia (en)",
+      "url": "https://en.wikipedia.org/wiki/Fagus_sylvatica"
+    }
+  ]
+}

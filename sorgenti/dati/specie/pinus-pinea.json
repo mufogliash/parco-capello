@@ -1,0 +1,196 @@
+{
+  "id": "pinus-pinea",
+  "nome_comune": "Pino domestico",
+  "nome_scientifico": "Pinus pinea",
+  "famiglia": "Pinaceae",
+  "genere": "Pinus",
+  "sinonimi": [
+    "Pino da pinoli",
+    "Pino a ombrello"
+  ],
+  "nomi_locali": [],
+  "stato": "bozza",
+  "aggiornato": "2026-09-24",
+  "chiave": {
+    "gruppo": "conifera",
+    "persistenza": "sempreverde",
+    "foglia_tipo": "aghiforme",
+    "foglia_disposizione": "fascicolata",
+    "foglia_margine": [
+      "intero"
+    ],
+    "foglia_forma": [
+      "aghi"
+    ],
+    "frutto": "cono",
+    "corteccia_texture": [
+      "fessurata",
+      "a_placche"
+    ],
+    "habitat": [
+      "mediterraneo_costiero",
+      "urbano_parchi"
+    ],
+    "altitudine_m": [
+      0,
+      600
+    ],
+    "ramificazione": "monopodiale",
+    "ruolo_ecologico": [
+      "pioniera"
+    ],
+    "luce": "eliofila"
+  },
+  "tratti_chiave": [
+    "Chioma appiattita «a ombrello» sopra un fusto nudo",
+    "Aghi a coppie, lunghi 10-20 cm",
+    "Pigne grandi, tondeggianti e pesanti, con pinoli dal guscio duro"
+  ],
+  "origine": {
+    "stato": "autoctona",
+    "note": "L'indigenato in Italia è discusso: molte pinete costiere sono antiche piantagioni."
+  },
+  "foglie": {
+    "tipo": "aghiforme",
+    "disposizione": "a coppie (fascetti di 2 aghi) con guaina alla base",
+    "forma": "aghi lunghi 10-20 cm, rigidi, spesso leggermente ritorti",
+    "margine": "intero, finemente ruvido al tatto",
+    "venatura": "non visibile (aghi)",
+    "colore_stagionale": {
+      "primavera_estate": "verde chiaro-medio, meno scuro di pino nero e pino marittimo",
+      "autunno": "invariato (sempreverde)"
+    },
+    "descrizione": "Gli aghi restano sulla pianta 2-3 anni. Le piantine hanno per alcuni anni aghi giovanili singoli, corti e azzurrognoli, molto diversi da quelli adulti."
+  },
+  "corteccia": {
+    "colore": "bruno-rossiccio con placche grigiastre; il fondo delle fessure è arancio-rossastro",
+    "texture": "spessa, profondamente fessurata in grandi placche piatte e allungate",
+    "evoluzione_con_eta": "più sottile e grigiastra nei giovani; le placche si allargano con l'età",
+    "descrizione": "Le placche si staccano a scaglie sottili lasciando zone più chiare. Il contrasto tra placche grigie e fessure rossastre è tipico."
+  },
+  "rami_e_portamento": {
+    "disposizione_rami": "rami in verticilli attorno al fusto",
+    "angolo_di_crescita": "branche principali ascendenti che si aprono a candelabro",
+    "forma_chioma": "a ombrello, larga e piatta negli adulti; globosa nei giovani",
+    "silhouette_invernale": "inconfondibile tutto l'anno: fusto nudo e chioma piatta a ombrello",
+    "descrizione": "Con l'età il fusto perde i rami bassi e la chioma si concentra in alto, larga e appiattita. Le radici superficiali sollevano spesso l'asfalto dei viali.",
+    "ramificazione": "Monopodiale da giovane: un fusto guida e rami in verticilli, uno all'anno. Da adulto la cima perde la dominanza e la chioma si appiattisce a ombrello."
+  },
+  "gemme": {
+    "forma": "ovoidali-cilindriche, circa 1 cm",
+    "colore": "bruno-rossastre, con squame orlate di bianco e ripiegate all'indietro",
+    "disposizione": "gemma apicale circondata da gemme laterali disposte in cerchio",
+    "descrizione": "Le squame delle gemme con il margine bianco e sfrangiato sono un buon carattere per distinguerlo dagli altri pini."
+  },
+  "fiori_e_frutti": {
+    "tipo_fiore": "pianta monoica: coni maschili giallo-arancio a grappolo alla base dei getti nuovi, con molto polline; coni femminili piccoli e verdi all'apice",
+    "periodo_fioritura": "aprile-giugno",
+    "tipo_frutto": "pigna grande (8-15 cm), ovoide-globosa, pesante, bruno-rossiccia e lucida; semi grandi (pinoli) con guscio legnoso duro e ala rudimentale",
+    "periodo_fruttificazione": "matura nel terzo anno dopo la fioritura (circa 36 mesi)",
+    "descrizione": "Sullo stesso albero convivono pigne di tre età diverse. Le pigne mature si aprono con il caldo e liberano i pinoli."
+  },
+  "dimensioni": {
+    "altezza_tipica_m": [
+      15,
+      25
+    ],
+    "altezza_max_m": 30,
+    "eta_massima_anni": [
+      200,
+      300
+    ],
+    "note": "Raramente supera i 300 anni."
+  },
+  "habitat_e_distribuzione": {
+    "regioni_italia": [
+      "Coste tirreniche (Toscana, Lazio, Campania), Liguria, Sardegna, Sicilia, Puglia",
+      "Adriatico: pinete di Ravenna e Cervia e altri litorali",
+      "Nord: pinete litoranee, parchi, ville e rive dei laghi"
+    ],
+    "altitudine": "0-600 m",
+    "terreno_preferito": "sabbioso, sciolto, profondo e ben drenato; tollera suoli poveri ma non quelli compatti o argillosi",
+    "descrizione": "Ama il caldo e la luce; resiste a siccità e salsedine moderata ma soffre il freddo intenso. Le pinete costiere sono state piantate nei secoli per pinoli e legname e per consolidare le dune."
+  },
+  "ecologia": {
+    "descrizione": "Specie di piena luce che non si rinnova sotto la propria chioma. Sui suoli sabbiosi si comporta da pioniera, ma quasi tutte le pinete italiane sono state piantate; se lasciate evolvere, sotto i pini crescono leccio e macchia."
+  },
+  "stagionalita": {
+    "primavera": "Candele di getti nuovi e coni maschili gialli; nuvole di polline.",
+    "estate": "Pigne in accrescimento di diverse età; resina profumata.",
+    "autunno": "Pigne mature pronte alla raccolta (dal terzo anno).",
+    "inverno": "Chioma sempreverde a ombrello; periodo tradizionale di raccolta delle pigne chiuse."
+  },
+  "specie_simili": [
+    {
+      "id_specie": "pinus-pinaster",
+      "come_distinguere": "Il pino marittimo ha aghi più lunghi (15-25 cm), spessi e scuri, pigne coniche e appuntite che restano a lungo sui rami e chioma irregolare, non a ombrello."
+    },
+    {
+      "id_specie": "pinus-halepensis",
+      "come_distinguere": "Il pino d'Aleppo ha aghi sottili e corti (6-10 cm), pigne su un peduncolo ricurvo e corteccia grigio-argentea da giovane."
+    },
+    {
+      "id_specie": "pinus-nigra",
+      "come_distinguere": "Il pino nero ha aghi scuri e rigidi, chioma conica e cupa e pigne piccole; è un pino di collina e montagna."
+    }
+  ],
+  "commestibilita": {
+    "parti": "pinoli (semi)",
+    "note": "Si mangiano crudi o tostati. Si ricavano dalle pigne mature, che si aprono al calore; il guscio legnoso va rotto e la pellicina scura si toglie.",
+    "avvertenze": "Possibili allergie alla frutta a guscio. Non raccogliere in aree protette o private senza permesso. Attenzione alle pigne che cadono dagli alberi alti."
+  },
+  "tossicita": {
+    "livello": "nessuna_nota",
+    "parti": "",
+    "note": "Nessuna tossicità significativa nota. Sui pini fai attenzione ai nidi bianchi della processionaria: i peli dei bruchi sono molto urticanti per persone e cani."
+  },
+  "curiosita_e_usi": "Coltivato fin dall'antichità per i pinoli. La pineta di Classe, vicino a Ravenna, è citata da Dante nel Purgatorio («la pineta in su 'l lito di Chiassi»).",
+  "immagini": [
+    {
+      "tipo": "silhouette",
+      "file": "img/pinus-pinea-silhouette.jpg",
+      "fonte": "Wikimedia Commons",
+      "autore": "daryl_mitchell from Saskatoon, Saskatchewan, Canada",
+      "licenza": "CC BY-SA 2.0",
+      "url_originale": "https://commons.wikimedia.org/wiki/File:Umbrella_Pine_(15238429225).jpg",
+      "titolo_originale": "Umbrella Pine (15238429225).jpg"
+    },
+    {
+      "tipo": "foglia",
+      "file": "img/pinus-pinea-foglia.jpg",
+      "fonte": "Wikimedia Commons",
+      "autore": "Javier martin",
+      "licenza": "Public domain",
+      "url_originale": "https://commons.wikimedia.org/wiki/File:Pinus_pinea_needles_2009-11-22_DehesaBoyaldePuertollano.jpg",
+      "titolo_originale": "Pinus pinea needles 2009-11-22 DehesaBoyaldePuertollano.jpg"
+    },
+    {
+      "tipo": "fiore_o_frutto",
+      "file": "img/pinus-pinea-fiore_o_frutto.jpg",
+      "fonte": "Wikimedia Commons",
+      "autore": "Wouter Hagens",
+      "licenza": "CC BY-SA 4.0",
+      "url_originale": "https://commons.wikimedia.org/wiki/File:Pinus_pinea_cone_A.jpg",
+      "titolo_originale": "Pinus pinea cone A.jpg"
+    },
+    {
+      "tipo": "corteccia",
+      "file": "img/pinus-pinea-corteccia.jpg",
+      "fonte": "Wikimedia Commons",
+      "autore": "Zeynel Cebeci",
+      "licenza": "CC BY-SA 4.0",
+      "url_originale": "https://commons.wikimedia.org/wiki/File:Bark_details,_Pinus_pinea.jpg",
+      "titolo_originale": "Bark details, Pinus pinea.jpg"
+    }
+  ],
+  "fonti": [
+    {
+      "titolo": "Pinus pinea – Wikipedia (it)",
+      "url": "https://it.wikipedia.org/wiki/Pinus_pinea"
+    },
+    {
+      "titolo": "Pinus pinea – Wikipedia (en)",
+      "url": "https://en.wikipedia.org/wiki/Pinus_pinea"
+    }
+  ]
+}

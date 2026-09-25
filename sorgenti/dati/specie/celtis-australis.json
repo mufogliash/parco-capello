@@ -1,0 +1,184 @@
+{
+  "id": "celtis-australis",
+  "nome_comune": "Bagolaro",
+  "nome_scientifico": "Celtis australis",
+  "famiglia": "Cannabaceae",
+  "genere": "Celtis",
+  "sinonimi": [
+    "Spaccasassi"
+  ],
+  "nomi_locali": [],
+  "stato": "bozza",
+  "aggiornato": "2026-09-24",
+  "chiave": {
+    "gruppo": "latifoglia",
+    "persistenza": "caduca",
+    "foglia_tipo": "semplice",
+    "foglia_disposizione": "alterna",
+    "foglia_margine": [
+      "seghettato"
+    ],
+    "foglia_forma": [
+      "lanceolata",
+      "ovata"
+    ],
+    "frutto": "drupa",
+    "corteccia_texture": [
+      "liscia"
+    ],
+    "habitat": [
+      "collinare",
+      "rupestre_arido",
+      "urbano_parchi",
+      "mediterraneo_costiero"
+    ],
+    "altitudine_m": [
+      0,
+      1000
+    ],
+    "ramificazione": "simpodiale",
+    "ruolo_ecologico": [
+      "colonizzatrice"
+    ],
+    "luce": "eliofila"
+  },
+  "tratti_chiave": [
+    "Corteccia grigia liscia, come pelle d'elefante, anche negli alberi vecchi",
+    "Foglia allungata con punta lunga e piegata, base asimmetrica, ruvida sopra",
+    "Piccoli frutti a pallina su un lungo peduncolo, da verdi a nero-violacei"
+  ],
+  "origine": {
+    "stato": "autoctona",
+    "note": ""
+  },
+  "foglie": {
+    "tipo": "semplice",
+    "disposizione": "alterna, su due file",
+    "forma": "lanceolata o ovata, 5-15 cm, con punta lunga, sottile e spesso piegata di lato",
+    "margine": "seghettato, a denti acuti",
+    "venatura": "tre nervature principali partono dalla base",
+    "colore_stagionale": {
+      "primavera_estate": "verde scuro e ruvida sopra, grigio-verde e pelosa sotto",
+      "autunno": "giallo pallido"
+    },
+    "descrizione": "La base asimmetrica ricorda l'olmo, ma la punta lunga e le tre nervature dalla base sono tipiche del bagolaro."
+  },
+  "corteccia": {
+    "colore": "grigio chiaro o grigio-argento",
+    "texture": "liscia, a volte con piccole rughe o bitorzoli",
+    "evoluzione_con_eta": "resta liscia per tutta la vita",
+    "descrizione": "Il tronco grigio e liscio, spesso scanalato, lo rende riconoscibile anche d'inverno nei viali."
+  },
+  "rami_e_portamento": {
+    "disposizione_rami": "alterna; rametti sottili a zig-zag",
+    "angolo_di_crescita": "rami ascendenti, poi ricadenti in punta",
+    "forma_chioma": "ampia, tondeggiante, leggera",
+    "silhouette_invernale": "tronco grigio e liscio, chioma ampia di rametti sottili e penduli",
+    "descrizione": "Molto usato nei viali delle città italiane perché resiste bene a caldo, siccità e smog.",
+    "ramificazione": "Rametti simpodiali a zig-zag."
+  },
+  "gemme": {
+    "forma": "piccole, appuntite, appressate al rametto",
+    "colore": "brune, pelose",
+    "disposizione": "alterne",
+    "descrizione": "Piccole e poco appariscenti."
+  },
+  "fiori_e_frutti": {
+    "tipo_fiore": "piccoli fiori verdastri poco visibili, all'ascella delle foglie nuove",
+    "periodo_fioritura": "aprile-maggio",
+    "tipo_frutto": "drupa tonda di circa 1 cm su un peduncolo lungo, verde poi nero-violacea, con polpa sottile e dolce e un nocciolo duro",
+    "periodo_fruttificazione": "settembre-ottobre; i frutti restano a lungo sui rami",
+    "descrizione": "Gli uccelli mangiano i frutti e disperdono i noccioli: così nascono bagolari su muri e rocce."
+  },
+  "dimensioni": {
+    "altezza_tipica_m": [
+      15,
+      25
+    ],
+    "altezza_max_m": 30,
+    "eta_massima_anni": null,
+    "note": "Età massima non accertata; è considerato longevo ed esistono bagolari monumentali plurisecolari."
+  },
+  "habitat_e_distribuzione": {
+    "regioni_italia": [
+      "Tutta Italia, soprattutto in ambiente mediterraneo e submediterraneo",
+      "Nord: versanti caldi e rocciosi delle Prealpi e dei laghi, Carso; comunissimo nei viali cittadini"
+    ],
+    "altitudine": "0-800 m, localmente fino a 1000 m",
+    "terreno_preferito": "sassoso, anche povero e arido; si insinua nelle fessure delle rocce",
+    "descrizione": "Resiste bene alla siccità; cresce su rupi, muri a secco e scarpate."
+  },
+  "ecologia": {
+    "descrizione": "Ama luce e calore. Grazie agli uccelli che ne disperdono i semi colonizza muri, rupi, scarpate e incolti."
+  },
+  "stagionalita": {
+    "primavera": "Foglie nuove e fiori poco visibili.",
+    "estate": "Frutti verdi appesi a lunghi peduncoli.",
+    "autunno": "Frutti nero-violacei dolci; foglie giallo pallido.",
+    "inverno": "Tronco grigio liscio; spesso frutti secchi ancora sui rami."
+  },
+  "specie_simili": [
+    {
+      "id_specie": "ulmus-minor",
+      "come_distinguere": "L'olmo campestre ha foglie doppiamente seghettate senza punta lunga, corteccia fessurata e frutti a disco piatto."
+    }
+  ],
+  "commestibilita": {
+    "parti": "frutti (bagole)",
+    "note": "La polpa è sottile, dolce e farinosa, con un grande nocciolo: si mangia cruda direttamente dall'albero.",
+    "avvertenze": "Nei viali raccogli solo frutti lontani dal traffico."
+  },
+  "tossicita": {
+    "livello": "nessuna_nota",
+    "parti": "",
+    "note": "Nessuna tossicità significativa nota."
+  },
+  "curiosita_e_usi": "Il nome spaccasassi viene dalle radici che si infilano nelle fessure delle rocce e le allargano. Il legno è molto elastico: un tempo se ne facevano fruste, manici e forche.",
+  "immagini": [
+    {
+      "tipo": "silhouette",
+      "file": "img/celtis-australis-silhouette.jpg",
+      "fonte": "Wikimedia Commons",
+      "autore": "Consultaplantas",
+      "licenza": "CC BY-SA 4.0",
+      "url_originale": "https://commons.wikimedia.org/wiki/File:Celtis_australis_1w.jpg",
+      "titolo_originale": "Celtis australis 1w.jpg"
+    },
+    {
+      "tipo": "foglia",
+      "file": "img/celtis-australis-foglia.jpg",
+      "fonte": "Wikimedia Commons",
+      "autore": "DiHri",
+      "licenza": "CC BY-SA 3.0",
+      "url_originale": "https://commons.wikimedia.org/wiki/File:Celtis_australis_leaves_and_fruits.jpg",
+      "titolo_originale": "Celtis australis leaves and fruits.jpg"
+    },
+    {
+      "tipo": "fiore_o_frutto",
+      "file": "img/celtis-australis-fiore_o_frutto-utente.jpg",
+      "fonte": "Foto fornita dall'utente",
+      "autore": "non indicato",
+      "licenza": "da verificare (uso personale)",
+      "url_originale": ""
+    },
+    {
+      "tipo": "corteccia",
+      "file": "img/celtis-australis-corteccia.jpg",
+      "fonte": "Wikimedia Commons",
+      "autore": "Pablo Alberto Salguero Quiles",
+      "licenza": "CC BY-SA 3.0",
+      "url_originale": "https://commons.wikimedia.org/wiki/File:Celtis_australis_textura_del_tronco.jpg",
+      "titolo_originale": "Celtis australis textura del tronco.jpg"
+    }
+  ],
+  "fonti": [
+    {
+      "titolo": "Celtis australis – Wikipedia (it)",
+      "url": "https://it.wikipedia.org/wiki/Celtis_australis"
+    },
+    {
+      "titolo": "Celtis australis – Wikipedia (en)",
+      "url": "https://en.wikipedia.org/wiki/Celtis_australis"
+    }
+  ]
+}

@@ -1,0 +1,175 @@
+{
+  "id": "organ-foglie",
+  "nome": "Foglie",
+  "descrizione_generale": "La foglia è l'organo più usato per riconoscere un albero, ma anche il più variabile: sulla stessa pianta cambiano forma e dimensione tra luce e ombra, tra rami giovani e adulti. Conviene guardare più foglie e partire dai caratteri più stabili: se è semplice o composta, come è disposta sul rametto, com'è il margine.",
+  "ordine_osservazione": [
+    "Ago, squama o lamina larga?",
+    "Semplice o composta? (dove sta la gemma: alla base della foglia, non delle foglioline)",
+    "Disposizione sul rametto: alterna, opposta, verticillata o a fascetti",
+    "Margine: intero, seghettato, dentato, lobato, spinoso",
+    "Forma generale, base e apice",
+    "Picciolo (lungo, corto, assente) e peli sulla pagina inferiore"
+  ],
+  "concetti": [
+    {
+      "termine": "lamina",
+      "definizione": "La parte larga e piatta della foglia, dove avviene la fotosintesi."
+    },
+    {
+      "termine": "picciolo",
+      "definizione": "Il «gambo» che unisce la lamina al rametto. Lunghezza e presenza sono utili: la farnia l'ha cortissimo, la rovere evidente."
+    },
+    {
+      "termine": "stipole",
+      "definizione": "Piccole appendici alla base del picciolo; in molte specie cadono presto, in altre restano (per esempio i filamenti attorno alle gemme del cerro).",
+      "alias": [
+        "stipola"
+      ]
+    },
+    {
+      "termine": "foglia semplice",
+      "definizione": "Una sola lamina per picciolo, anche se profondamente lobata (querce, faggio, aceri).",
+      "alias": [
+        "semplice"
+      ]
+    },
+    {
+      "termine": "foglia composta",
+      "definizione": "Formata da più foglioline su un asse comune. Si riconosce perché la gemma si trova solo alla base dell'intera foglia, non di ogni fogliolina (frassino, robinia, noce, ippocastano).",
+      "alias": [
+        "composta",
+        "composte"
+      ]
+    },
+    {
+      "termine": "composta pennata",
+      "definizione": "Foglioline disposte a coppie lungo un asse centrale, come le barbe di una piuma (frassino, noce, robinia)."
+    },
+    {
+      "termine": "composta palmata",
+      "definizione": "Foglioline che partono tutte dallo stesso punto, come le dita di una mano (ippocastano)."
+    },
+    {
+      "termine": "disposizione alterna",
+      "definizione": "Una foglia per nodo, alternata ai due lati o a spirale lungo il rametto. È la più comune (querce, faggio, betulla).",
+      "alias": [
+        "alterna",
+        "alterne"
+      ]
+    },
+    {
+      "termine": "disposizione opposta",
+      "definizione": "Due foglie una di fronte all'altra allo stesso nodo. Tra gli alberi comuni riguarda soprattutto aceri, frassini e ippocastano: un gruppo piccolo e quindi molto utile.",
+      "alias": [
+        "opposta",
+        "opposte"
+      ]
+    },
+    {
+      "termine": "disposizione verticillata",
+      "definizione": "Tre o più foglie allo stesso nodo, disposte in cerchio (per esempio in alcuni ginepri)."
+    },
+    {
+      "termine": "a fascetti",
+      "definizione": "Aghi raggruppati alla base in una piccola guaina: 2 nei pini più comuni, 5 nel pino cembro; a ciuffi numerosi su corti rametti nel larice e nel cedro.",
+      "alias": [
+        "fascetti"
+      ]
+    },
+    {
+      "termine": "margine intero",
+      "definizione": "Bordo liscio, senza denti (faggio, alloro, leccio adulto).",
+      "alias": [
+        "intero"
+      ]
+    },
+    {
+      "termine": "margine seghettato",
+      "definizione": "Denti piccoli e inclinati verso l'apice, come una sega (ciliegio, olmo).",
+      "alias": [
+        "seghettato",
+        "seghettata"
+      ]
+    },
+    {
+      "termine": "margine doppiamente seghettato",
+      "definizione": "Denti grandi che portano a loro volta denti più piccoli (carpino bianco, olmo, betulla).",
+      "alias": [
+        "doppiamente seghettate",
+        "doppiamente seghettato",
+        "doppiamente seghettata"
+      ]
+    },
+    {
+      "termine": "margine dentato",
+      "definizione": "Denti rivolti in fuori, non inclinati verso la punta (castagno).",
+      "alias": [
+        "dentato",
+        "dentata"
+      ]
+    },
+    {
+      "termine": "margine crenato",
+      "definizione": "Dentelli arrotondati invece che appuntiti."
+    },
+    {
+      "termine": "margine lobato",
+      "definizione": "Lamina divisa in lobi, sporgenze ampie separate da insenature (seni) (querce caducifoglie).",
+      "alias": [
+        "lobato",
+        "lobata"
+      ]
+    },
+    {
+      "termine": "venatura pennata",
+      "definizione": "Una nervatura centrale da cui partono nervature laterali, come in una piuma.",
+      "alias": [
+        "pennata"
+      ]
+    },
+    {
+      "termine": "venatura palmata",
+      "definizione": "Più nervature principali che partono dallo stesso punto alla base della lamina (aceri, platano)."
+    },
+    {
+      "termine": "base auricolata",
+      "definizione": "Base della lamina con due piccoli lobi arrotondati, come orecchiette (farnia).",
+      "alias": [
+        "orecchiette",
+        "auricolata"
+      ]
+    },
+    {
+      "termine": "foglia marcescente",
+      "definizione": "Foglia che secca in autunno ma resta attaccata al ramo fino alla primavera (roverella, giovani faggi e carpini).",
+      "alias": [
+        "marcescente",
+        "marcescenza",
+        "marcescenti"
+      ]
+    },
+    {
+      "termine": "eterofillia",
+      "definizione": "Foglie di forma diversa sulla stessa pianta. Esempio classico: il leccio, con foglie spinose sui ricacci e intere sui rami adulti."
+    },
+    {
+      "termine": "foglie di luce e d'ombra",
+      "definizione": "Le foglie esposte al sole sono in genere più piccole, spesse e a volte più incise; quelle all'ombra più grandi, sottili e intere. Per confrontare due alberi usa foglie in posizione simile."
+    },
+    {
+      "termine": "tomentosa / pubescente",
+      "definizione": "Coperta di peli: feltrosa e fitta (tomentosa) o più leggera (pubescente). Da controllare soprattutto sulla pagina inferiore.",
+      "alias": [
+        "tomentosa",
+        "tomentose",
+        "tomentosi",
+        "tomentoso",
+        "feltrosa",
+        "feltroso",
+        "pubescente",
+        "pubescenti"
+      ]
+    }
+  ],
+  "campo_comparativo_riferimento": "foglie"
+}

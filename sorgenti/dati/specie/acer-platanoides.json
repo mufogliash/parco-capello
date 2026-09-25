@@ -1,0 +1,205 @@
+{
+  "id": "acer-platanoides",
+  "nome_comune": "Acero riccio",
+  "nome_scientifico": "Acer platanoides",
+  "famiglia": "Sapindaceae",
+  "genere": "Acer",
+  "sinonimi": [
+    "Acero platanoide"
+  ],
+  "nomi_locali": [],
+  "stato": "bozza",
+  "aggiornato": "2026-09-24",
+  "chiave": {
+    "gruppo": "latifoglia",
+    "persistenza": "caduca",
+    "foglia_tipo": "semplice",
+    "foglia_disposizione": "opposta",
+    "foglia_margine": [
+      "lobato",
+      "dentato"
+    ],
+    "foglia_forma": [
+      "palmata"
+    ],
+    "frutto": "disamara",
+    "corteccia_texture": [
+      "fessurata"
+    ],
+    "habitat": [
+      "montano",
+      "collinare",
+      "urbano_parchi"
+    ],
+    "altitudine_m": [
+      200,
+      1300
+    ],
+    "ramificazione": "monopodiale",
+    "ruolo_ecologico": [
+      "intermedia"
+    ],
+    "luce": "semisciafila"
+  },
+  "tratti_chiave": [
+    "Foglia opposta, sottile, con 5-7 lobi terminati da lunghe punte sottili",
+    "Picciolo che, spezzato, fa uscire un lattice bianco",
+    "Fiori giallo-verdi vistosi prima delle foglie; frutti ad ali molto aperte"
+  ],
+  "origine": {
+    "stato": "autoctona",
+    "note": ""
+  },
+  "foglie": {
+    "tipo": "semplice",
+    "disposizione": "opposta",
+    "forma": "palmata, 10-18 cm, con 5-7 lobi separati da seni ampi e arrotondati",
+    "margine": "lobato, con pochi denti grandi terminati da punte sottili",
+    "venatura": "palmata",
+    "colore_stagionale": {
+      "primavera_estate": "verde brillante, sottile e lucida su entrambe le facce",
+      "autunno": "giallo e arancio vivi"
+    },
+    "descrizione": "Le punte sottili dei lobi e dei denti danno il nome «riccio». Il picciolo spezzato emette lattice bianco, come nell'acero campestre."
+  },
+  "corteccia": {
+    "colore": "grigio-bruno",
+    "texture": "fessurata in creste fini e regolari, non si stacca a placche",
+    "evoluzione_con_eta": "liscia da giovane, poi finemente solcata",
+    "descrizione": "Diversa da quella dell'acero montano, che si sfalda a placche."
+  },
+  "rami_e_portamento": {
+    "disposizione_rami": "opposta; rametti lisci e lucidi",
+    "angolo_di_crescita": "rami ascendenti",
+    "forma_chioma": "tondeggiante, regolare e densa",
+    "silhouette_invernale": "chioma ovale regolare; rametti opposti con gemme rossastre",
+    "descrizione": "Tra gli alberi più piantati nei viali; esistono varietà a foglia porpora.",
+    "ramificazione": "Rametti monopodiali con gemma terminale."
+  },
+  "gemme": {
+    "forma": "ovoidali",
+    "colore": "rosso-brune, lucide",
+    "disposizione": "opposte",
+    "descrizione": "Rossastre e lucide, mai verdi come quelle dell'acero montano."
+  },
+  "fiori_e_frutti": {
+    "tipo_fiore": "fiori giallo-verdi in corimbi eretti",
+    "periodo_fioritura": "marzo-aprile, prima delle foglie",
+    "tipo_frutto": "disamara con ali larghe e molto divaricate (angolo ottuso)",
+    "periodo_fruttificazione": "settembre-ottobre",
+    "descrizione": "A inizio primavera l'albero ancora spoglio si copre di una nuvola giallo-verde di fiori."
+  },
+  "dimensioni": {
+    "altezza_tipica_m": [
+      20,
+      25
+    ],
+    "altezza_max_m": 30,
+    "eta_massima_anni": [
+      150,
+      250
+    ],
+    "note": "Stima indicativa."
+  },
+  "habitat_e_distribuzione": {
+    "regioni_italia": [
+      "Nord: Alpi e Prealpi, in boschi misti, forre e detriti di versante",
+      "Appennino: sporadico",
+      "Molto piantato in città"
+    ],
+    "altitudine": "circa 200-1300 m",
+    "terreno_preferito": "fresco e fertile, anche sassoso",
+    "descrizione": "In natura è quasi sempre sparso, mai dominante."
+  },
+  "ecologia": {
+    "descrizione": "Tollera una discreta ombra da giovane e cresce sparso nei boschi misti di latifoglie di montagna."
+  },
+  "stagionalita": {
+    "primavera": "Fioritura giallo-verde prima delle foglie (marzo-aprile).",
+    "estate": "Foglie sottili e lucide; frutti ad ali aperte.",
+    "autunno": "Giallo e arancio tra i più vivaci.",
+    "inverno": "Gemme rossastre lucide, opposte."
+  },
+  "specie_simili": [
+    {
+      "id_specie": "acer-pseudoplatanus",
+      "come_distinguere": "L'acero montano ha foglie spesse con dentatura arrotondata, niente lattice, frutti ad ali a V e gemme verdi."
+    },
+    {
+      "id_specie": "acer-campestre",
+      "come_distinguere": "L'acero campestre ha foglie piccole a lobi arrotondati e frutti con ali in linea retta."
+    },
+    {
+      "id_specie": "platanus-x-hispanica",
+      "come_distinguere": "Il platano ha foglie alterne, frutti a pallina e corteccia a chiazze."
+    }
+  ],
+  "commestibilita": {
+    "parti": "",
+    "note": "",
+    "avvertenze": ""
+  },
+  "tossicita": {
+    "livello": "nessuna_nota",
+    "parti": "",
+    "note": "Nessuna tossicità significativa nota per l'uomo."
+  },
+  "curiosita_e_usi": "La fioritura precoce è preziosa per le api a inizio primavera. Legno chiaro usato per mobili e oggetti torniti.",
+  "immagini": [
+    {
+      "tipo": "silhouette",
+      "file": "img/acer-platanoides-silhouette.jpg",
+      "fonte": "Wikimedia Commons",
+      "autore": "Bob Harvey",
+      "licenza": "CC BY-SA 2.0",
+      "url_originale": "https://commons.wikimedia.org/wiki/File:Norway_Maple_-_geograph.org.uk_-_7001507.jpg",
+      "titolo_originale": "Norway Maple - geograph.org.uk - 7001507.jpg"
+    },
+    {
+      "tipo": "foglia",
+      "file": "img/acer-platanoides-foglia.jpg",
+      "fonte": "Wikimedia Commons",
+      "autore": "Dmitry Makeev",
+      "licenza": "CC BY-SA 4.0",
+      "url_originale": "https://commons.wikimedia.org/wiki/File:2020_year._Herbarium._Acer_platanoides._img-011.jpg",
+      "titolo_originale": "2020 year. Herbarium. Acer platanoides. img-011.jpg"
+    },
+    {
+      "tipo": "fiore_o_frutto",
+      "file": "img/acer-platanoides-fiore_o_frutto.jpg",
+      "fonte": "Wikimedia Commons",
+      "autore": "kallerna",
+      "licenza": "CC BY-SA 3.0",
+      "url_originale": "https://commons.wikimedia.org/wiki/File:Acer_platanoides_spring_7.jpg",
+      "titolo_originale": "Acer platanoides spring 7.jpg"
+    },
+    {
+      "tipo": "corteccia",
+      "file": "img/acer-platanoides-corteccia.jpg",
+      "fonte": "Wikimedia Commons",
+      "autore": "Gmihail at Serbian Wikipedia",
+      "licenza": "CC BY-SA 3.0 rs",
+      "url_originale": "https://commons.wikimedia.org/wiki/File:Acer_platanoides_bark_Bgd.jpg",
+      "titolo_originale": "Acer platanoides bark Bgd.jpg"
+    },
+    {
+      "tipo": "gemme",
+      "file": "img/acer-platanoides-gemme.jpg",
+      "fonte": "Wikimedia Commons",
+      "autore": "Dominicus Johannes Bergsma",
+      "licenza": "CC BY-SA 4.0",
+      "url_originale": "https://commons.wikimedia.org/wiki/File:Knop_van_een_esdoorn_(Acer_platanoides)._03-04-2023_(d.j.b.).jpg",
+      "titolo_originale": "Knop van een esdoorn (Acer platanoides). 03-04-2023 (d.j.b.).jpg"
+    }
+  ],
+  "fonti": [
+    {
+      "titolo": "Acer platanoides – Wikipedia (it)",
+      "url": "https://it.wikipedia.org/wiki/Acer_platanoides"
+    },
+    {
+      "titolo": "Acer platanoides – Wikipedia (en)",
+      "url": "https://en.wikipedia.org/wiki/Acer_platanoides"
+    }
+  ]
+}

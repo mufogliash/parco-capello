@@ -1,0 +1,305 @@
+{
+  "_nota": "Frasi del riquadro 'Lo sapevi che…' in Home: una a caso a ogni apertura. 'specie' (facoltativo) collega la frase a una o più schede; 'stagione' (facoltativo: primavera, estate, autunno, inverno) la fa comparire più spesso in quella stagione.",
+  "curiosita": [
+    {
+      "id": "c001",
+      "testo": "La corteccia del faggio è così sottile che un tronco cresciuto sempre all'ombra può scottarsi al sole se gli alberi vicini vengono tagliati.",
+      "specie": [
+        "fagus-sylvatica"
+      ]
+    },
+    {
+      "id": "c002",
+      "testo": "Le querce non producono ghiande ogni anno allo stesso modo: in certe annate, dette di pasciona, le producono in massa tutte insieme. Gli animali non riescono a mangiarle tutte e molte possono germogliare.",
+      "specie": [
+        "quercus-robur",
+        "quercus-pubescens"
+      ],
+      "stagione": "autunno"
+    },
+    {
+      "id": "c003",
+      "testo": "Una pigna di pino domestico impiega circa tre anni a maturare: sullo stesso albero trovi pigne di tre età diverse.",
+      "specie": [
+        "pinus-pinea"
+      ]
+    },
+    {
+      "id": "c004",
+      "testo": "Il leccio ha foglie spinose sui ricacci bassi e foglie intere in alto: la stessa pianta porta due forme di foglia.",
+      "specie": [
+        "quercus-ilex"
+      ]
+    },
+    {
+      "id": "c005",
+      "testo": "Le foglie secche che restano sulla roverella per tutto l'inverno si chiamano marcescenti: cadono solo in primavera, quando spuntano quelle nuove.",
+      "specie": [
+        "quercus-pubescens"
+      ],
+      "stagione": "inverno"
+    },
+    {
+      "id": "c006",
+      "testo": "Sullo stesso albero, una foglia d'ombra è di solito più grande e sottile di una foglia di sole: deve catturare la poca luce che le arriva."
+    },
+    {
+      "id": "c007",
+      "testo": "Tra gli alberi comuni, pochi hanno le foglie opposte: soprattutto aceri, frassini e ippocastano. Guardare come sono attaccate al rametto restringe subito la ricerca."
+    },
+    {
+      "id": "c008",
+      "testo": "Il larice è una conifera che perde gli aghi in inverno: in autunno i lariceti delle Alpi diventano giallo oro.",
+      "stagione": "autunno"
+    },
+    {
+      "id": "c009",
+      "testo": "Il tasso è tra le piante più tossiche d'Europa: quasi tutte le sue parti sono velenose, compreso il seme. Fa eccezione solo la polpa rossa che lo avvolge."
+    },
+    {
+      "id": "c010",
+      "testo": "Su un ceppo tagliato, ogni anello corrisponde in genere a un anno di crescita: anelli larghi raccontano annate favorevoli, anelli stretti anni di siccità o di competizione."
+    },
+    {
+      "id": "c011",
+      "testo": "Senza tagliare un albero se ne può stimare l'età dalla circonferenza del tronco: molti alberi isolati crescono di circa 2,5 cm di circonferenza all'anno. È solo una regola indicativa: specie e luogo contano molto."
+    },
+    {
+      "id": "c012",
+      "testo": "Un bosco ceduo si riconosce dai gruppi di fusti che nascono dalla stessa ceppaia: sono ricacci di un taglio fatto anni prima."
+    },
+    {
+      "id": "c013",
+      "testo": "I licheni a barba o a cespuglietto sui rami sono un indizio di aria pulita: sono tra i più sensibili all'inquinamento."
+    },
+    {
+      "id": "c014",
+      "testo": "Il muschio non è una bussola affidabile: cresce dove resta più umido, e questo dipende da pendenza, vento e alberi vicini più che dal nord."
+    },
+    {
+      "id": "c015",
+      "testo": "Il pioppo tremulo deve il nome al picciolo appiattito delle foglie: basta un filo di vento perché tutta la chioma tremi e frusci."
+    },
+    {
+      "id": "c016",
+      "testo": "Il platano dei viali italiani è quasi sempre un ibrido tra il platano orientale e quello americano, nato in coltivazione."
+    },
+    {
+      "id": "c017",
+      "testo": "L'ippocastano non è parente del castagno: i suoi semi lucidi somigliano alle castagne ma non sono commestibili."
+    },
+    {
+      "id": "c018",
+      "testo": "Per secoli il castagno è stato l'albero del pane delle montagne italiane: con le castagne secche si faceva la farina per l'inverno.",
+      "stagione": "autunno"
+    },
+    {
+      "id": "c019",
+      "testo": "La robinia, arrivata dal Nord America nel Seicento, ospita sulle radici batteri che fissano l'azoto: per questo colonizza facilmente scarpate e terreni poveri."
+    },
+    {
+      "id": "c020",
+      "testo": "L'ailanto è tra le specie invasive più difficili da eliminare: se lo tagli, ricaccia con molti polloni dalle radici."
+    },
+    {
+      "id": "c021",
+      "testo": "Sugli alberi a bandiera dei crinali i rami più lunghi puntano nella direzione verso cui soffia il vento dominante."
+    },
+    {
+      "id": "c022",
+      "testo": "In inverno il faggio si riconosce anche senza foglie: le sue gemme lunghe e appuntite sembrano piccoli sigari.",
+      "specie": [
+        "fagus-sylvatica"
+      ],
+      "stagione": "inverno"
+    },
+    {
+      "id": "c023",
+      "testo": "Gli aghi delle conifere sono rivestiti da uno strato ceroso che limita la perdita d'acqua: è uno dei motivi per cui resistono al freddo e alla siccità."
+    },
+    {
+      "id": "c024",
+      "testo": "In montagna molti alberi hanno il tronco curvo alla base: da giovani sono stati piegati dalla neve o dal terreno che scivola, poi sono tornati a crescere verso l'alto."
+    },
+    {
+      "id": "c025",
+      "testo": "La corteccia bianca della betulla contiene una sostanza, la betulina, che riflette la luce: la protegge dal sole e dagli sbalzi di temperatura."
+    },
+    {
+      "id": "c026",
+      "testo": "In Italia ci sono olivi monumentali stimati oltre i mille anni. L'età esatta è difficile da misurare perché con il tempo il tronco si svuota."
+    },
+    {
+      "id": "c027",
+      "testo": "Il cipresso comune ha due forme: quella stretta a colonna, piantata in viali e cimiteri, e quella a rami aperti, più vicina alla forma selvatica."
+    },
+    {
+      "id": "c028",
+      "testo": "Il sughero si può staccare dalla sughera senza ucciderla: ricresce e si raccoglie di nuovo dopo circa 9-12 anni."
+    },
+    {
+      "id": "c029",
+      "testo": "Un tempo gran parte della Pianura Padana era coperta da boschi di farnia e carpino bianco: oggi ne restano solo piccoli lembi.",
+      "specie": [
+        "quercus-robur"
+      ]
+    },
+    {
+      "id": "c030",
+      "testo": "Il giallo delle foglie d'autunno era già nella foglia: quando la clorofilla verde si degrada, emergono i pigmenti gialli e arancioni. I rossi, invece, la pianta li produce proprio in autunno.",
+      "stagione": "autunno"
+    },
+    {
+      "id": "c031",
+      "testo": "Il pino domestico deve la sua chioma a ombrello all'età: da giovane è tondeggiante, poi perde i rami bassi e si allarga in alto.",
+      "specie": [
+        "pinus-pinea"
+      ]
+    },
+    {
+      "id": "c032",
+      "testo": "In primavera i lecci fioriti si riconoscono da lontano: gli amenti maschili colorano di giallo-bronzo tutta la chioma per qualche settimana.",
+      "specie": [
+        "quercus-ilex"
+      ],
+      "stagione": "primavera"
+    },
+    {
+      "id": "c033",
+      "testo": "Il cerro è l'unica grande quercia caducifoglia dei nostri boschi le cui ghiande impiegano due anni a maturare: in estate sullo stesso ramo trovi ghiande piccole e grandi.",
+      "specie": [
+        "quercus-cerris"
+      ],
+      "stagione": "estate"
+    },
+    {
+      "id": "c034",
+      "testo": "Il nocciolo fiorisce già a gennaio: i suoi amenti gialli sono tra i primi segni di vita nel bosco spoglio. I fiori femminili sono minuscoli ciuffi rossi.",
+      "specie": [
+        "corylus-avellana"
+      ],
+      "stagione": "inverno"
+    },
+    {
+      "id": "c035",
+      "testo": "I semi dell'ontano nero galleggiano: cadono in acqua e vengono portati dalla corrente fino a nuove sponde.",
+      "specie": [
+        "alnus-glutinosa"
+      ]
+    },
+    {
+      "id": "c036",
+      "testo": "L'ontano nero ha sulle radici dei noduli con batteri che catturano l'azoto dell'aria: per questo cresce anche su suoli poveri e li arricchisce.",
+      "specie": [
+        "alnus-glutinosa"
+      ]
+    },
+    {
+      "id": "c037",
+      "testo": "Le ghiandaie seppelliscono migliaia di ghiande per l'inverno e molte non le ritrovano più: così piantano nuove querce, anche lontano dal bosco.",
+      "specie": [
+        "quercus-robur",
+        "quercus-petraea"
+      ],
+      "stagione": "autunno"
+    },
+    {
+      "id": "c038",
+      "testo": "Il carpino nero prepara i fiori maschili già in autunno: in inverno pendono dai rametti come piccoli sigari bruni.",
+      "specie": [
+        "ostrya-carpinifolia"
+      ],
+      "stagione": "inverno"
+    },
+    {
+      "id": "c039",
+      "testo": "Il castagno è tra gli ultimi alberi a fiorire: a giugno-luglio i boschi di castagno si coprono di amenti chiari dal profumo intenso.",
+      "specie": [
+        "castanea-sativa"
+      ],
+      "stagione": "estate"
+    },
+    {
+      "id": "c040",
+      "testo": "Tra gli alberi comuni, a foglie opposte ci sono quasi solo aceri, frassini e ippocastano: se le foglie sono una di fronte all'altra, la ricerca è già molto ristretta."
+    },
+    {
+      "id": "c041",
+      "testo": "L'olmo fiorisce e fa i frutti prima ancora di mettere le foglie: a marzo-aprile i rami si coprono di dischetti verdi che sembrano foglioline.",
+      "specie": [
+        "ulmus-minor"
+      ],
+      "stagione": "primavera"
+    },
+    {
+      "id": "c042",
+      "testo": "Il frassino maggiore ha gemme nere e vellutate come fuliggine: d'inverno basta questo per riconoscerlo.",
+      "specie": [
+        "fraxinus-excelsior"
+      ],
+      "stagione": "inverno"
+    },
+    {
+      "id": "c043",
+      "testo": "La manna dell'orniello è una linfa dolce che si rapprende all'aria in stalattiti bianche; in Sicilia si raccoglie ancora a mano.",
+      "specie": [
+        "fraxinus-ornus"
+      ]
+    },
+    {
+      "id": "c044",
+      "testo": "Spezza il picciolo di una foglia d'acero: se esce un lattice bianco è un acero campestre o un acero riccio, se no è probabilmente un acero montano.",
+      "specie": [
+        "acer-campestre",
+        "acer-platanoides",
+        "acer-pseudoplatanus"
+      ]
+    },
+    {
+      "id": "c045",
+      "testo": "Le macchie brune sulle foglie degli ippocastani in estate sono gallerie scavate dalle larve di una minuscola farfalla, la minatrice, arrivata in Italia negli anni '90.",
+      "specie": [
+        "aesculus-hippocastanum"
+      ],
+      "stagione": "estate"
+    },
+    {
+      "id": "c046",
+      "testo": "Nei fiori dell'ippocastano le macchie gialle diventano rosse dopo l'impollinazione: un segnale per gli insetti, che visitano soprattutto i fiori ancora gialli.",
+      "specie": [
+        "aesculus-hippocastanum"
+      ],
+      "stagione": "primavera"
+    },
+    {
+      "id": "c047",
+      "testo": "Il platano nasconde le gemme dentro la base cava del picciolo: le vedi solo quando la foglia cade.",
+      "specie": [
+        "platanus-x-hispanica"
+      ]
+    },
+    {
+      "id": "c048",
+      "testo": "Il bagolaro è detto spaccasassi perché le sue radici si infilano nelle fessure delle rocce e dei muri e le allargano.",
+      "specie": [
+        "celtis-australis"
+      ]
+    },
+    {
+      "id": "c049",
+      "testo": "Il legno dell'acero montano, con le sue venature a onde, è il legno classico per il fondo dei violini.",
+      "specie": [
+        "acer-pseudoplatanus"
+      ]
+    },
+    {
+      "id": "c050",
+      "testo": "Il frutto del tiglio pende da una brattea allungata che, cadendo, fa da elica e lo porta lontano dal vento.",
+      "specie": [
+        "tilia-cordata",
+        "tilia-platyphyllos"
+      ],
+      "stagione": "autunno"
+    }
+  ]
+}

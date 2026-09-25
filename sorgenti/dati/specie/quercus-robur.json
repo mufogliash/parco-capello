@@ -1,0 +1,217 @@
+{
+  "id": "quercus-robur",
+  "nome_comune": "Farnia",
+  "nome_scientifico": "Quercus robur",
+  "famiglia": "Fagaceae",
+  "genere": "Quercus",
+  "sinonimi": [
+    "Quercia comune",
+    "Quercia peduncolata"
+  ],
+  "nomi_locali": [],
+  "stato": "bozza",
+  "aggiornato": "2026-09-24",
+  "chiave": {
+    "gruppo": "latifoglia",
+    "persistenza": "caduca",
+    "foglia_tipo": "semplice",
+    "foglia_disposizione": "alterna",
+    "foglia_margine": [
+      "lobato"
+    ],
+    "foglia_forma": [
+      "obovata"
+    ],
+    "frutto": "ghianda",
+    "corteccia_texture": [
+      "fessurata",
+      "a_placche"
+    ],
+    "habitat": [
+      "planiziale",
+      "collinare",
+      "ripariale_umido",
+      "urbano_parchi"
+    ],
+    "altitudine_m": [
+      0,
+      800
+    ],
+    "ramificazione": "monopodiale",
+    "ruolo_ecologico": [
+      "climax"
+    ],
+    "luce": "eliofila"
+  },
+  "tratti_chiave": [
+    "Foglia lobata quasi senza picciolo (2-7 mm)",
+    "Base della foglia con due piccole «orecchiette»",
+    "Ghiande appese a un peduncolo lungo 3-8 cm"
+  ],
+  "origine": {
+    "stato": "autoctona",
+    "note": ""
+  },
+  "foglie": {
+    "tipo": "semplice",
+    "disposizione": "alterna, addensate verso l'apice dei rametti",
+    "forma": "obovata, più larga nella metà superiore, con 4-7 paia di lobi arrotondati",
+    "margine": "lobato, con lobi arrotondati e seni poco profondi e irregolari",
+    "venatura": "pennata; alcune nervature secondarie arrivano ai seni tra i lobi, non solo alle punte",
+    "colore_stagionale": {
+      "primavera_estate": "verde scuro sopra, più chiaro e glabro sotto",
+      "autunno": "giallo-bruno poi marrone; cadono tardi, a volte a inizio inverno"
+    },
+    "descrizione": "Foglie lunghe in genere 5-12 cm, glabre anche sulla pagina inferiore. Il picciolo è cortissimo, spesso quasi invisibile, e la base della lamina forma due piccoli lobi ripiegati (orecchiette). Su uno stesso albero la forma varia molto tra foglie di luce e d'ombra."
+  },
+  "corteccia": {
+    "colore": "grigio chiaro nei giovani, poi grigio-brunastro scuro",
+    "texture": "profondamente solcata in verticale, con creste spesse e placche allungate",
+    "evoluzione_con_eta": "liscia e lucida da giovane; dopo i primi decenni si fessura e ispessisce sempre più",
+    "descrizione": "Negli alberi adulti la corteccia è spessa e segnata da solchi longitudinali regolari. Non si stacca a scaglie e non è spugnosa."
+  },
+  "rami_e_portamento": {
+    "disposizione_rami": "alterna; rami robusti, nodosi, con andamento a zig-zag",
+    "angolo_di_crescita": "branche principali ascendenti o quasi orizzontali, spesso tortuose",
+    "forma_chioma": "ampia e irregolare, globosa negli esemplari isolati; più stretta e alta in bosco",
+    "silhouette_invernale": "tronco corto e massiccio che si divide presto in grosse branche contorte; rametti fitti e angolosi",
+    "descrizione": "Da isolata forma chiome larghe quanto alte, con rami bassi molto sviluppati. In bosco sviluppa un fusto più lungo e diritto. Specie esigente di luce.",
+    "ramificazione": "Rametti con gemma terminale vera, quindi crescita monopodiale; la crescita a scatti e la perdita frequente degli apici rendono però i rami tortuosi e la chioma irregolare."
+  },
+  "gemme": {
+    "forma": "ovoidali, ottuse, piccole (pochi mm)",
+    "colore": "bruno chiaro, glabre",
+    "disposizione": "alterne, raggruppate all'apice del rametto",
+    "descrizione": "Come in tutte le querce, le gemme si affollano sulla punta dei rametti. Sono tondeggianti, con molte squame embricate e prive di peli."
+  },
+  "fiori_e_frutti": {
+    "tipo_fiore": "pianta monoica: amenti maschili penduli giallo-verdi; fiori femminili minuscoli all'apice di un lungo peduncolo",
+    "periodo_fioritura": "aprile-maggio, insieme alle prime foglie",
+    "tipo_frutto": "ghianda ovoide-allungata di 2-3,5 cm, con cupola emisferica a squame appressate, su peduncolo lungo 3-8 cm",
+    "periodo_fruttificazione": "matura nello stesso anno, settembre-ottobre",
+    "descrizione": "Le ghiande pendono a gruppi di 1-3 da un lungo peduncolo: è il carattere più affidabile per riconoscerla in autunno. La produzione varia molto da un anno all'altro, con annate di abbondanza (pasciona)."
+  },
+  "dimensioni": {
+    "altezza_tipica_m": [
+      25,
+      35
+    ],
+    "altezza_max_m": 45,
+    "eta_massima_anni": [
+      500,
+      1000
+    ],
+    "note": "Esemplari plurisecolari sono frequenti; alcune farnie monumentali europee sono stimate oltre i 1000 anni, ma le stime di età sono spesso incerte."
+  },
+  "habitat_e_distribuzione": {
+    "regioni_italia": [
+      "Nord: soprattutto Pianura Padana, fondovalle e colline prealpine",
+      "Centro: più sporadica",
+      "Sud: rara e localizzata"
+    ],
+    "altitudine": "0-800 m, per lo più sotto i 500 m",
+    "terreno_preferito": "profondo, fresco e fertile, anche argilloso; tollera falda superficiale e brevi ristagni d'acqua",
+    "descrizione": "È la quercia del bosco di pianura padano, oggi ridotto a pochi relitti (per esempio Bosco della Mesola e Bosco Fontana). Cresce spesso con carpino bianco, olmo campestre e frassini. Comune anche in parchi, filari e campagne."
+  },
+  "ecologia": {
+    "descrizione": "Specie esigente di luce: le giovani piante crescono male sotto una chioma fitta. È una delle specie del bosco maturo di pianura (con carpino bianco e frassini), ma ricolonizza anche radure e campi abbandonati, spesso grazie alle ghiandaie che nascondono le ghiande e poi le dimenticano."
+  },
+  "stagionalita": {
+    "primavera": "Foglie nuove verde-bronzo e amenti penduli (aprile-maggio).",
+    "estate": "Chioma densa verde scuro; frequenti galle tondeggianti su rami e foglie.",
+    "autunno": "Ghiande su lungo peduncolo; foglie che ingialliscono e cadono tardi.",
+    "inverno": "Gemme raggruppate in punta ai rametti, rami tortuosi; i giovani esemplari trattengono a volte foglie secche."
+  },
+  "specie_simili": [
+    {
+      "id_specie": "quercus-petraea",
+      "come_distinguere": "La rovere ha picciolo evidente (1-2,5 cm), base della foglia a cuneo senza orecchiette e ghiande quasi senza peduncolo. È l'opposto esatto della farnia."
+    },
+    {
+      "id_specie": "quercus-pubescens",
+      "come_distinguere": "La roverella ha pagina inferiore e rametti giovani pelosi, ghiande quasi sessili, e vive su versanti asciutti e soleggiati."
+    },
+    {
+      "id_specie": "quercus-cerris",
+      "come_distinguere": "Il cerro ha lobi più appuntiti, cupola «capelluta» con squame lunghe e arricciate, e sottili filamenti (stipole) attorno alle gemme."
+    }
+  ],
+  "commestibilita": {
+    "parti": "ghiande",
+    "note": "Crude sono amare e astringenti per l'alto contenuto di tannini. Tradizionalmente si rendevano edibili con lunghi ammolli o bolliture, cambiando l'acqua più volte, per poi macinarle in farina o tostarle come surrogato del caffè.",
+    "avvertenze": "Non consumarle crude o non trattate: i tannini in quantità irritano stomaco e reni."
+  },
+  "tossicita": {
+    "livello": "bassa",
+    "parti": "ghiande e foglie giovani",
+    "note": "Per l'uomo sono soprattutto amare e astringenti. In grandi quantità sono tossiche per il bestiame, in particolare equini e bovini."
+  },
+  "curiosita_e_usi": "Legno duro, pesante e durevole, usato per travi, botti, parquet e traversine. La corteccia ricca di tannini serviva a conciare le pelli e le galle a produrre inchiostro. È uno degli alberi europei che ospita più specie di insetti e altri organismi.",
+  "immagini": [
+    {
+      "tipo": "silhouette",
+      "file": "img/quercus-robur-silhouette.jpg",
+      "fonte": "Wikimedia Commons",
+      "autore": "ZarlokX",
+      "licenza": "CC BY-SA 4.0",
+      "url_originale": "https://commons.wikimedia.org/wiki/File:Ch%C3%AAne,_colza,_Jura_(horizontal).jpg",
+      "titolo_originale": "Chêne, colza, Jura (horizontal).jpg"
+    },
+    {
+      "tipo": "foglia",
+      "file": "img/quercus-robur-foglia.jpg",
+      "fonte": "Wikimedia Commons",
+      "autore": "Bob Harvey",
+      "licenza": "CC BY-SA 2.0",
+      "url_originale": "https://commons.wikimedia.org/wiki/File:Quercus_robur_-_Leaf_-_geograph.org.uk_-_4227261.jpg",
+      "titolo_originale": "Quercus robur - Leaf - geograph.org.uk - 4227261.jpg"
+    },
+    {
+      "tipo": "fiore_o_frutto",
+      "file": "img/quercus-robur-fiore_o_frutto.jpg",
+      "fonte": "Wikimedia Commons",
+      "autore": "böhringer friedrich",
+      "licenza": "CC BY-SA 3.0 at",
+      "url_originale": "https://commons.wikimedia.org/wiki/File:Acorns_of_Quercus_robur,_Eichel_der_Stieleiche_06.JPG",
+      "titolo_originale": "Acorns of Quercus robur, Eichel der Stieleiche 06.JPG"
+    },
+    {
+      "tipo": "corteccia",
+      "file": "img/quercus-robur-corteccia.jpg",
+      "fonte": "Wikimedia Commons",
+      "autore": "Dominicus Johannes Bergsma",
+      "licenza": "CC BY-SA 4.0",
+      "url_originale": "https://commons.wikimedia.org/wiki/File:Herstelde_wond_van_beschadiging_veroorzaakt_door_een_landbouwwertuig._Zomereik_(Quercus_robur)._Locatie,_Natuurterrein_De_Famberhorst_01.jpg",
+      "titolo_originale": "Herstelde wond van beschadiging veroorzaakt door een landbouwwertuig. Zomereik (Quercus robur). Locatie, Natuurterrein De Famberhorst 01.jpg"
+    },
+    {
+      "tipo": "gemme",
+      "file": "img/quercus-robur-gemme.jpg",
+      "fonte": "Wikimedia Commons",
+      "autore": "JonRichfield",
+      "licenza": "CC BY-SA 3.0",
+      "url_originale": "https://commons.wikimedia.org/wiki/File:Dormant_buds_on_twig_of_English_Oak_Quercus_robur_5523.jpg",
+      "titolo_originale": "Dormant buds on twig of English Oak Quercus robur 5523.jpg"
+    },
+    {
+      "tipo": "silhouette",
+      "file": "img/quercus-robur-silhouette-2.jpg",
+      "fonte": "Wikimedia Commons",
+      "autore": "Dominicus Johannes Bergsma",
+      "licenza": "CC BY-SA 4.0",
+      "url_originale": "https://commons.wikimedia.org/wiki/File:Solitaire_eik_(Quercus_robur)_in_een_imponerend_landschap._Locatie,_natuurgebied_Delleboersterheide_%E2%80%93_Catspoele_03.jpg",
+      "titolo_originale": "Solitaire eik (Quercus robur) in een imponerend landschap. Locatie, natuurgebied Delleboersterheide – Catspoele 03.jpg",
+      "stagione": "inverno"
+    }
+  ],
+  "fonti": [
+    {
+      "titolo": "Quercus robur – Wikipedia (it)",
+      "url": "https://it.wikipedia.org/wiki/Quercus_robur"
+    },
+    {
+      "titolo": "Quercus robur – Wikipedia (en)",
+      "url": "https://en.wikipedia.org/wiki/Quercus_robur"
+    }
+  ]
+}

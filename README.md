@@ -3,47 +3,48 @@
 App personale per riconoscere e leggere gli alberi d'Italia (soprattutto del Nord), usabile offline su smartphone.
 È una PWA: una pagina web che si installa sulla schermata Home e poi funziona senza connessione.
 
-## Cartelle
+**Indirizzo dell'app:** https://mufogliash.github.io/parco-capello/
+
+## Installarla sul telefono
+
+1. Apri l'indirizzo sopra in Chrome sul telefono → menu ⋮ → **Installa app**.
+2. Aprila una volta con la connessione: da quel momento funziona anche offline.
+3. Gli aggiornamenti arrivano da soli alla prima apertura con rete (compare "App aggiornata").
+
+Le note del Taccuino restano solo sul telefono: ogni tanto fai **Taccuino → Esporta backup**.
+
+## Contenuto del repository
+
+| Percorso | Cosa contiene |
+|---|---|
+| `index.html`, `app.js`, `style.css`, `sw.js`, `manifest.webmanifest` | l'app pubblicata |
+| `dati/alberi-data.json` | tutti i dati dell'app, generati dalle schede |
+| `img/`, `fonts/`, `icons/` | foto, caratteri e icone |
+| `sorgenti/` | il progetto: codice (`src/`), schede (`dati/`), script (`strumenti/`) |
+| `CHANGELOG.md` | registro delle versioni e lista delle cose da fare |
+| `MANUTENZIONE.md` | come aggiungere specie e foto, correggere errori, pubblicare |
+
+## Cartella di lavoro sul PC (`tree/app/`)
 
 | Cartella / file | Cosa contiene |
 |---|---|
 | `dati/specie/` | una scheda JSON per specie (`<id>.json`, es. `quercus-robur.json`) |
-| `dati/organi/` | sezioni teoriche per organo (foglie, corteccia, …) con glossario |
-| `dati/paesaggio/` | segnali per leggere il paesaggio |
-| `dati/elenco-specie.json` | tutte le specie previste, con lotto e stato |
-| `dati/vocabolari.json` | valori ammessi per i campi a scelta fissa (filtri, identificazione) |
-| `dati/alberi-data.json` | **generato**: tutti i dati uniti (non modificarlo a mano) |
-| `img/` | foto finali, già ridotte (max 1024 px) |
-| `src/` | il codice dell'app: `index.html`, `style.css`, `app.js`, `sw.js`, `manifest.webmanifest`, icone, caratteri |
-| `strumenti/` | script: `componi_dati.py`, `build.py`, `scarica-immagini.bat/.ps1`, `immagini-ricerca.json` |
+| `dati/organi/`, `dati/paesaggio/`, `dati/curiosita.json` | teoria, segnali del paesaggio, "Lo sapevi che…" |
+| `dati/elenco-specie.json`, `dati/vocabolari.json` | elenco delle specie previste e valori ammessi |
+| `img/` | foto, già ridotte (max 1024 px) |
+| `src/` | il codice dell'app |
+| `strumenti/` | `componi_dati.py` (controlli), `build.py` (costruzione), `pubblica.py` (prepara il repository), `scarica-immagini.bat` (foto candidate) |
 | `dist/` | **generato**: l'app pronta da pubblicare |
-| `dist-singolo/parco-capello.html` | **generato**: tutta l'app in un solo file (anteprima o riserva) |
-| `candidati/` | foto scaricate da scegliere (si può svuotare dopo la scelta) |
-| `MANUTENZIONE.md` | come aggiornare dati e software |
-| `CHANGELOG.md` | registro delle versioni |
+| `da_caricare/` | **generato**: `dist/` divisa in gruppi da max 100 file, per caricare a mano dal browser |
+| `candidati/` | foto scaricate dallo script, da scegliere |
 
 ## Comandi (dalla cartella `app/`)
 
 ```
-python3 strumenti/componi_dati.py   # unisce e controlla i dati
-python3 strumenti/build.py          # controlla i dati e crea dist/ e dist-singolo/
+python3 strumenti/componi_dati.py        # unisce e controlla i dati
+python3 strumenti/build.py               # controlla i dati e crea dist/
+python3 strumenti/pubblica.py <repo>     # copia dist/ e sorgenti nella cartella del repository clonato
 ```
 
-## Metterla sul telefono (una volta sola)
-
-L'app ha bisogno di essere servita da un indirizzo https per potersi installare e funzionare offline.
-La via gratuita consigliata è GitHub Pages:
-
-1. Crea un account su github.com (se non l'hai) e un repository nuovo, per esempio `parco-capello`.
-   Deve essere **pubblico** per usare Pages gratis: contiene solo l'app e le schede, mai le tue note
-   (quelle restano sul telefono).
-2. Nel repository: *Add file → Upload files*, trascina **il contenuto** della cartella `dist/`
-   (non la cartella stessa), poi *Commit changes*.
-3. *Settings → Pages → Branch: main, cartella / (root) → Save*. Dopo 1-2 minuti l'indirizzo è
-   `https://<tuo-utente>.github.io/parco-capello/`.
-4. Sul Pixel apri l'indirizzo in Chrome → menu ⋮ → **Installa app** (o *Aggiungi a schermata Home*).
-5. Apri l'app una volta con la connessione: da quel momento funziona anche offline.
-
-Per aggiornare: rifai `build.py` e ricarica i file di `dist/` nel repository (sostituendo i vecchi).
-Il telefono scarica la nuova versione alla prima apertura con rete e mostra "App aggiornata".
-
+La pubblicazione (commit e invio su GitHub) la fa Claude con un token limitato a questo repository.
+Dettagli e alternativa manuale in `MANUTENZIONE.md`, sezione 5.

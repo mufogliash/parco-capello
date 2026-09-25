@@ -1,0 +1,200 @@
+{
+  "id": "fraxinus-excelsior",
+  "nome_comune": "Frassino maggiore",
+  "nome_scientifico": "Fraxinus excelsior",
+  "famiglia": "Oleaceae",
+  "genere": "Fraxinus",
+  "sinonimi": [
+    "Frassino comune"
+  ],
+  "nomi_locali": [],
+  "stato": "bozza",
+  "aggiornato": "2026-09-24",
+  "chiave": {
+    "gruppo": "latifoglia",
+    "persistenza": "caduca",
+    "foglia_tipo": "composta_pennata",
+    "foglia_disposizione": "opposta",
+    "foglia_margine": [
+      "seghettato"
+    ],
+    "foglia_forma": [
+      "lanceolata"
+    ],
+    "frutto": "samara",
+    "corteccia_texture": [
+      "liscia",
+      "fessurata"
+    ],
+    "habitat": [
+      "montano",
+      "collinare",
+      "ripariale_umido",
+      "planiziale"
+    ],
+    "altitudine_m": [
+      0,
+      1500
+    ],
+    "ramificazione": "monopodiale",
+    "ruolo_ecologico": [
+      "colonizzatrice"
+    ],
+    "luce": "semisciafila"
+  },
+  "tratti_chiave": [
+    "Gemme nere e vellutate, opposte: inconfondibili d'inverno",
+    "Foglie opposte, composte da 7-13 foglioline seghettate senza picciolo",
+    "Grappoli di frutti alati che restano appesi anche d'inverno"
+  ],
+  "origine": {
+    "stato": "autoctona",
+    "note": ""
+  },
+  "foglie": {
+    "tipo": "composta pennata",
+    "disposizione": "opposta",
+    "forma": "foglia di 20-35 cm con 7-13 foglioline lanceolate e appuntite, quasi senza picciolo",
+    "margine": "seghettato",
+    "venatura": "pennata in ogni fogliolina",
+    "colore_stagionale": {
+      "primavera_estate": "verde scuro",
+      "autunno": "cadono spesso ancora verdi o appena ingiallite"
+    },
+    "descrizione": "Le foglie spuntano tardi in primavera e cadono presto in autunno, a volte senza cambiare colore."
+  },
+  "corteccia": {
+    "colore": "grigio chiaro, a volte verdastro",
+    "texture": "liscia da giovane; poi fessurata in una rete regolare di creste",
+    "evoluzione_con_eta": "il reticolo di solchi diventa più profondo con gli anni",
+    "descrizione": "La rete di creste incrociate, simile a un tessuto, è tipica dei frassini adulti."
+  },
+  "rami_e_portamento": {
+    "disposizione_rami": "opposta; rametti grigio-verdi, robusti, un po' appiattiti ai nodi",
+    "angolo_di_crescita": "rami ascendenti che poi si incurvano verso l'alto",
+    "forma_chioma": "ovale, ariosa e poco densa",
+    "silhouette_invernale": "fusto diritto e chioma leggera; rametti grossi con punte nere, spesso con grappoli di frutti secchi",
+    "descrizione": "Albero slanciato che lascia passare molta luce.",
+    "ramificazione": "Rametti monopodiali, con una grossa gemma terminale nera."
+  },
+  "gemme": {
+    "forma": "a piramide, la terminale più grande",
+    "colore": "nere, vellutate come fuliggine",
+    "disposizione": "opposte",
+    "descrizione": "Il dettaglio più facile di tutti per riconoscerlo in inverno."
+  },
+  "fiori_e_frutti": {
+    "tipo_fiore": "fiori senza petali, in ciuffi porpora-violacei, impollinati dal vento",
+    "periodo_fioritura": "marzo-aprile, prima delle foglie",
+    "tipo_frutto": "samara singola, allungata a forma di linguetta (3-4 cm), in grappoli penduli",
+    "periodo_fruttificazione": "matura in autunno; i grappoli restano sull'albero fino all'inverno",
+    "descrizione": "Alcuni alberi portano soprattutto fiori maschili e pochi frutti, altri moltissimi frutti."
+  },
+  "dimensioni": {
+    "altezza_tipica_m": [
+      25,
+      35
+    ],
+    "altezza_max_m": 40,
+    "eta_massima_anni": [
+      200,
+      300
+    ],
+    "note": "Stima indicativa."
+  },
+  "habitat_e_distribuzione": {
+    "regioni_italia": [
+      "Nord: comune su Alpi e Prealpi, in valli fresche, boschi misti e ai margini dei prati di montagna",
+      "Appennino: più localizzato, in boschi freschi e forre"
+    ],
+    "altitudine": "0-1500 m",
+    "terreno_preferito": "fresco, profondo e ricco, con acqua disponibile",
+    "descrizione": "Ama i suoli umidi dei fondovalle, dei canaloni e delle sponde. Dal 2000 circa è colpito dal deperimento del frassino, una malattia fungina che secca i rami."
+  },
+  "ecologia": {
+    "descrizione": "Tollera l'ombra da giovane e ha bisogno di luce da adulto. Invade in fretta prati e pascoli di montagna abbandonati: molti boschi giovani delle valli alpine sono frassineti nati così."
+  },
+  "stagionalita": {
+    "primavera": "Fiori porpora prima delle foglie; foglie tra le ultime a spuntare.",
+    "estate": "Chioma leggera e grappoli di frutti verdi.",
+    "autunno": "Foglie che cadono presto, spesso ancora verdi.",
+    "inverno": "Gemme nere vellutate e grappoli di frutti secchi."
+  },
+  "specie_simili": [
+    {
+      "id_specie": "fraxinus-ornus",
+      "come_distinguere": "L'orniello ha gemme grigio-brune e pelose (non nere), meno foglioline con un corto picciolo, fiori bianchi vistosi a maggio ed è un albero piccolo di versanti asciutti."
+    },
+    {
+      "id_specie": "sorbus-aucuparia",
+      "come_distinguere": "Il sorbo degli uccellatori ha foglie composte simili ma alterne, fiori bianchi e bacche rosse."
+    }
+  ],
+  "commestibilita": {
+    "parti": "",
+    "note": "",
+    "avvertenze": ""
+  },
+  "tossicita": {
+    "livello": "nessuna_nota",
+    "parti": "",
+    "note": "Nessuna tossicità significativa nota."
+  },
+  "curiosita_e_usi": "Legno elastico e resistente agli urti: manici di attrezzi, sci, remi, racchette. Le foglie erano un foraggio importante per il bestiame in montagna: i frassini venivano capitozzati e sfrondati a fine estate.",
+  "immagini": [
+    {
+      "tipo": "silhouette",
+      "file": "img/fraxinus-excelsior-silhouette.jpg",
+      "fonte": "Wikimedia Commons",
+      "autore": "Willow",
+      "licenza": "CC BY 2.5",
+      "url_originale": "https://commons.wikimedia.org/wiki/File:Fraxinus_excelsior_001.jpg",
+      "titolo_originale": "Fraxinus excelsior 001.jpg"
+    },
+    {
+      "tipo": "foglia",
+      "file": "img/fraxinus-excelsior-foglia.jpg",
+      "fonte": "Wikimedia Commons",
+      "autore": "Jebulon",
+      "licenza": "CC0",
+      "url_originale": "https://commons.wikimedia.org/wiki/File:Fraxinus_excelsior_L._Fr%C3%AAne_commun_JdP.jpg",
+      "titolo_originale": "Fraxinus excelsior L. Frêne commun JdP.jpg"
+    },
+    {
+      "tipo": "fiore_o_frutto",
+      "file": "img/fraxinus-excelsior-fiore_o_frutto.jpg",
+      "fonte": "Wikimedia Commons",
+      "autore": "Kieran Roy Powell",
+      "licenza": "CC BY 4.0",
+      "url_originale": "https://commons.wikimedia.org/wiki/File:Fraxinus_excelsior_Lincolnshire_2026_Samara.jpg",
+      "titolo_originale": "Fraxinus excelsior Lincolnshire 2026 Samara.jpg"
+    },
+    {
+      "tipo": "corteccia",
+      "file": "img/fraxinus-excelsior-corteccia-utente.jpg",
+      "fonte": "Foto fornita dall'utente",
+      "autore": "non indicato",
+      "licenza": "da verificare (uso personale)",
+      "url_originale": ""
+    },
+    {
+      "tipo": "gemme",
+      "file": "img/fraxinus-excelsior-gemme.jpg",
+      "fonte": "Wikimedia Commons",
+      "autore": "Agnes Monkelbaan",
+      "licenza": "CC BY-SA 4.0",
+      "url_originale": "https://commons.wikimedia.org/wiki/File:Knoppen_van_een_es_(Fraxinus_excelsior)._03-03-2026._(actm.)_02.jpg",
+      "titolo_originale": "Knoppen van een es (Fraxinus excelsior). 03-03-2026. (actm.) 02.jpg"
+    }
+  ],
+  "fonti": [
+    {
+      "titolo": "Fraxinus excelsior – Wikipedia (it)",
+      "url": "https://it.wikipedia.org/wiki/Fraxinus_excelsior"
+    },
+    {
+      "titolo": "Fraxinus excelsior – Wikipedia (en)",
+      "url": "https://en.wikipedia.org/wiki/Fraxinus_excelsior"
+    }
+  ]
+}

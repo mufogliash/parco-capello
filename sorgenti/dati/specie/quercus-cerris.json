@@ -1,0 +1,204 @@
+{
+  "id": "quercus-cerris",
+  "nome_comune": "Cerro",
+  "nome_scientifico": "Quercus cerris",
+  "famiglia": "Fagaceae",
+  "genere": "Quercus",
+  "sinonimi": [],
+  "nomi_locali": [],
+  "stato": "bozza",
+  "aggiornato": "2026-09-24",
+  "chiave": {
+    "gruppo": "latifoglia",
+    "persistenza": "caduca",
+    "foglia_tipo": "semplice",
+    "foglia_disposizione": "alterna",
+    "foglia_margine": [
+      "lobato"
+    ],
+    "foglia_forma": [
+      "ellittica",
+      "obovata"
+    ],
+    "frutto": "ghianda",
+    "corteccia_texture": [
+      "fessurata",
+      "a_placche"
+    ],
+    "habitat": [
+      "collinare",
+      "montano",
+      "planiziale"
+    ],
+    "altitudine_m": [
+      0,
+      1200
+    ],
+    "ramificazione": "monopodiale",
+    "ruolo_ecologico": [
+      "non_accertato"
+    ],
+    "luce": "eliofila"
+  },
+  "tratti_chiave": [
+    "Gemme circondate da lunghi filamenti arricciati (stipole) che restano anche d'inverno",
+    "Cupola della ghianda «capelluta», con squame lunghe e ricurve",
+    "Foglia ruvida al tatto, con lobi appuntiti e irregolari",
+    "Fessure della corteccia con il fondo rosso-arancio"
+  ],
+  "origine": {
+    "stato": "autoctona",
+    "note": ""
+  },
+  "foglie": {
+    "tipo": "semplice",
+    "disposizione": "alterna, addensate verso l'apice dei rametti",
+    "forma": "oblunga o ellittica, 6-12 cm (fino a 15), con 4-9 paia di lobi appuntiti o triangolari, spesso irregolari",
+    "margine": "lobato, con lobi acuti e seni di profondità variabile",
+    "venatura": "pennata",
+    "colore_stagionale": {
+      "primavera_estate": "verde scuro e ruvida sopra per piccoli peli a stella; grigiastra e pelosa sotto",
+      "autunno": "giallo-bruno, poi marrone"
+    },
+    "descrizione": "Il picciolo è lungo 0,5-2 cm. Passando le dita sulla pagina superiore si sente una ruvidezza simile a carta vetrata fine. La forma dei lobi è molto variabile, anche sullo stesso albero."
+  },
+  "corteccia": {
+    "colore": "grigio scuro; il fondo delle fessure è rossastro-arancio",
+    "texture": "profondamente fessurata in placche allungate e spesse",
+    "evoluzione_con_eta": "grigia e liscia da giovane, si fessura presto",
+    "descrizione": "Le fessure che mostrano un colore rosso-arancio sul fondo sono tipiche del cerro: guarda da vicino le spaccature più profonde."
+  },
+  "rami_e_portamento": {
+    "disposizione_rami": "alterna; rami robusti e abbastanza diritti",
+    "angolo_di_crescita": "branche ascendenti",
+    "forma_chioma": "ovale, più stretta e regolare di quella di farnia e roverella",
+    "silhouette_invernale": "fusto diritto e slanciato, chioma ovale; ai rametti restano i filamenti delle stipole",
+    "descrizione": "In bosco sviluppa un fusto lungo e diritto. Cresce più in fretta delle altre querce nostrane.",
+    "ramificazione": "Rametti con gemma terminale vera (monopodiali), con le gemme raggruppate in punta come in tutte le querce."
+  },
+  "gemme": {
+    "forma": "piccole, ovoidali, pelose",
+    "colore": "bruno-grigiastre",
+    "disposizione": "alterne, raggruppate all'apice, circondate da lunghe stipole filiformi",
+    "descrizione": "Le stipole sottili e arricciate, lunghe anche 1-2 cm, restano attorno alle gemme per tutto l'inverno: è il modo più sicuro per riconoscere il cerro senza foglie."
+  },
+  "fiori_e_frutti": {
+    "tipo_fiore": "pianta monoica: amenti maschili penduli; fiori femminili piccoli",
+    "periodo_fioritura": "aprile-maggio",
+    "tipo_frutto": "ghianda di 2-4 cm con cupola coperta da squame lunghe, lineari e ricurve («capelluta»)",
+    "periodo_fruttificazione": "matura nel secondo anno dopo la fioritura, tra settembre e ottobre",
+    "descrizione": "A differenza di farnia, rovere e roverella, le ghiande impiegano due stagioni a maturare: in estate sui rami si vedono ghiandine piccole dell'anno e ghiande grandi dell'anno prima."
+  },
+  "dimensioni": {
+    "altezza_tipica_m": [
+      20,
+      30
+    ],
+    "altezza_max_m": 35,
+    "eta_massima_anni": [
+      150,
+      300
+    ],
+    "note": "Meno longevo delle altre grandi querce; la maggior parte dei cerri vive in boschi cedui e viene tagliata giovane."
+  },
+  "habitat_e_distribuzione": {
+    "regioni_italia": [
+      "Tutta la penisola, più comune al Centro e al Sud, soprattutto sull'Appennino",
+      "Nord: colline e Prealpi, Carso, colli emiliani e piemontesi, Oltrepò"
+    ],
+    "altitudine": "0-1000 m; fino a circa 1200 m al Sud",
+    "terreno_preferito": "profondo, anche argilloso e pesante; preferisce suoli poveri di calcare",
+    "descrizione": "Forma boschi misti con roverella, carpino nero, orniello e castagno, spesso governati a ceduo. Tollera suoli compatti che altre querce evitano."
+  },
+  "ecologia": {
+    "descrizione": "Ruolo nella successione non accertato. Specie di luce ma meno esigente della roverella; cresce in fretta ed è frequente nei boschi cedui di collina con altre querce e con il carpino nero."
+  },
+  "stagionalita": {
+    "primavera": "Foglie nuove pelose e amenti penduli (aprile-maggio).",
+    "estate": "Sui rami convivono ghiande piccole dell'anno e ghiande grandi dell'anno prima.",
+    "autunno": "Ghiande con cupola capelluta a terra; foglie giallo-brune.",
+    "inverno": "Filamenti arricciati attorno alle gemme; fessure della corteccia rosso-arancio."
+  },
+  "specie_simili": [
+    {
+      "id_specie": "quercus-pubescens",
+      "come_distinguere": "La roverella ha lobi arrotondati, foglia morbida e non ruvida, cupola a squame corte e appressate e nessun filamento attorno alle gemme."
+    },
+    {
+      "id_specie": "quercus-petraea",
+      "come_distinguere": "La rovere ha lobi regolari e arrotondati, foglia liscia, cupola a squame appressate e ghiande che maturano in un solo anno."
+    },
+    {
+      "id_specie": "quercus-robur",
+      "come_distinguere": "La farnia ha foglia quasi senza picciolo con base a orecchiette, lobi arrotondati e ghiande su un lungo peduncolo."
+    }
+  ],
+  "commestibilita": {
+    "parti": "ghiande",
+    "note": "Molto amare per l'alto contenuto di tannini; come per le altre querce vanno trattate con ammolli o bolliture ripetute prima di tostarle o macinarle.",
+    "avvertenze": "Non consumarle crude o non trattate."
+  },
+  "tossicita": {
+    "livello": "bassa",
+    "parti": "ghiande e foglie giovani",
+    "note": "Astringenti per l'uomo; tossiche per il bestiame in grandi quantità."
+  },
+  "curiosita_e_usi": "Legno pesante ma poco durevole all'aperto e soggetto a spaccature: si usa soprattutto come legna da ardere, per carbone e, dopo trattamento, per traversine. I boschi di cerro sono tra i cedui più diffusi dell'Appennino.",
+  "immagini": [
+    {
+      "tipo": "silhouette",
+      "file": "img/quercus-cerris-silhouette-estate.jpg",
+      "fonte": "Wikimedia Commons",
+      "autore": "Christo Tzontchev",
+      "licenza": "CC BY-SA 4.0",
+      "url_originale": "https://commons.wikimedia.org/wiki/File:-Quercus_cerris_in_Begle%C5%BE_(Q106632121)_2.jpg",
+      "titolo_originale": "-Quercus cerris in Beglež (Q106632121) 2.jpg"
+    },
+    {
+      "tipo": "foglia",
+      "file": "img/quercus-cerris-foglia.jpg",
+      "fonte": "Wikimedia Commons",
+      "autore": "Hladac",
+      "licenza": "CC BY-SA 4.0",
+      "url_originale": "https://commons.wikimedia.org/wiki/File:(ms)_Quercus_cerris_4.jpg",
+      "titolo_originale": "(ms) Quercus cerris 4.jpg"
+    },
+    {
+      "tipo": "fiore_o_frutto",
+      "file": "img/quercus-cerris-fiore_o_frutto.jpg",
+      "fonte": "Wikimedia Commons",
+      "autore": "Hladac",
+      "licenza": "CC BY-SA 4.0",
+      "url_originale": "https://commons.wikimedia.org/wiki/File:(ms)_Quercus_cerris_1.jpg",
+      "titolo_originale": "(ms) Quercus cerris 1.jpg"
+    },
+    {
+      "tipo": "corteccia",
+      "file": "img/quercus-cerris-corteccia.jpg",
+      "fonte": "Wikimedia Commons",
+      "autore": "Hladac",
+      "licenza": "CC BY-SA 4.0",
+      "url_originale": "https://commons.wikimedia.org/wiki/File:(ms)_Quercus_cerris_10.jpg",
+      "titolo_originale": "(ms) Quercus cerris 10.jpg"
+    },
+    {
+      "tipo": "gemme",
+      "file": "img/quercus-cerris-gemme.jpg",
+      "fonte": "Wikimedia Commons",
+      "autore": "Stefan.lefnaer",
+      "licenza": "CC BY-SA 4.0",
+      "url_originale": "https://commons.wikimedia.org/wiki/File:Quercus_cerris_sl8.jpg",
+      "titolo_originale": "Quercus cerris sl8.jpg"
+    }
+  ],
+  "fonti": [
+    {
+      "titolo": "Quercus cerris – Wikipedia (it)",
+      "url": "https://it.wikipedia.org/wiki/Quercus_cerris"
+    },
+    {
+      "titolo": "Quercus cerris – Wikipedia (en)",
+      "url": "https://en.wikipedia.org/wiki/Quercus_cerris"
+    }
+  ]
+}

@@ -1,5 +1,5 @@
 /* Service worker: rende l'app utilizzabile offline.
-   build.py sostituisce 263c389828 e [
+   build.py sostituisce 9d4711015d e [
  "./",
  "app.js",
  "dati/alberi-data.json",
@@ -134,7 +134,7 @@
  "manifest.webmanifest",
  "style.css"
 ] a ogni build: una nuova versione = una nuova cache. */
-const CACHE = 'parco-capello-263c389828';
+const CACHE = 'parco-capello-9d4711015d';
 const FILES = [
  "./",
  "app.js",
@@ -272,7 +272,7 @@ const FILES = [
 ];
 
 self.addEventListener('install', (e) => {
-  e.waitUntil(caches.open(CACHE).then((c) => c.addAll(FILES)).then(() => self.skipWaiting()));
+  e.waitUntil(caches.open(CACHE).then((c) => c.addAll(FILES.map((f) => new Request(f, { cache: 'reload' })))).then(() => self.skipWaiting()));
 });
 
 self.addEventListener('activate', (e) => {

@@ -1,0 +1,200 @@
+{
+  "id": "tilia-cordata",
+  "nome_comune": "Tiglio selvatico",
+  "nome_scientifico": "Tilia cordata",
+  "famiglia": "Malvaceae",
+  "genere": "Tilia",
+  "sinonimi": [
+    "Tiglio a foglie piccole"
+  ],
+  "nomi_locali": [],
+  "stato": "bozza",
+  "aggiornato": "2026-09-24",
+  "chiave": {
+    "gruppo": "latifoglia",
+    "persistenza": "caduca",
+    "foglia_tipo": "semplice",
+    "foglia_disposizione": "alterna",
+    "foglia_margine": [
+      "seghettato"
+    ],
+    "foglia_forma": [
+      "cordata"
+    ],
+    "frutto": "nocula",
+    "corteccia_texture": [
+      "liscia",
+      "fessurata"
+    ],
+    "habitat": [
+      "collinare",
+      "montano",
+      "urbano_parchi"
+    ],
+    "altitudine_m": [
+      0,
+      1400
+    ],
+    "ramificazione": "simpodiale",
+    "ruolo_ecologico": [
+      "climax"
+    ],
+    "luce": "semisciafila"
+  },
+  "tratti_chiave": [
+    "Foglia piccola (3-8 cm) a cuore, glabra, con ciuffetti di peli rossicci agli angoli delle nervature sotto",
+    "Fiori profumati appesi a una brattea allungata, come una piccola ala",
+    "Frutti piccoli e lisci che si schiacciano con le dita"
+  ],
+  "origine": {
+    "stato": "autoctona",
+    "note": ""
+  },
+  "foglie": {
+    "tipo": "semplice",
+    "disposizione": "alterna, su due file",
+    "forma": "a cuore, 3-8 cm, un po' asimmetrica, con punta breve",
+    "margine": "seghettato, con denti fini e regolari",
+    "venatura": "palmato-pennata: alcune nervature partono dalla base",
+    "colore_stagionale": {
+      "primavera_estate": "verde scuro sopra, glauca (grigio-azzurrina) sotto, con ciuffi di peli bruno-rossicci all'incrocio delle nervature",
+      "autunno": "giallo"
+    },
+    "descrizione": "Glabra su tutta la superficie tranne i ciuffetti di peli rossicci sotto: guarda controluce la pagina inferiore."
+  },
+  "corteccia": {
+    "colore": "grigio",
+    "texture": "liscia da giovane, poi con solchi verticali poco profondi e creste piatte",
+    "evoluzione_con_eta": "si fessura in modo regolare con l'età",
+    "descrizione": "Alla base dei tronchi vecchi spuntano spesso molti polloni."
+  },
+  "rami_e_portamento": {
+    "disposizione_rami": "alterna; rametti a zig-zag, rossastri al sole",
+    "angolo_di_crescita": "rami ascendenti, poi arcuati",
+    "forma_chioma": "ovale o a cupola, densa",
+    "silhouette_invernale": "chioma fitta di rametti sottili; spesso ciuffi di polloni alla base del tronco",
+    "descrizione": "Molto usato nei viali e nelle piazze; tollera le potature.",
+    "ramificazione": "Rametti simpodiali a zig-zag: in cima resta una gemma laterale."
+  },
+  "gemme": {
+    "forma": "ovoidali, un po' asimmetriche, con 2-3 squame visibili",
+    "colore": "rosso vivo o bruno-rossastre, lucide",
+    "disposizione": "alterne, su due file",
+    "descrizione": "Le gemme rosse e «gonfie» da un lato sono tipiche di tutti i tigli."
+  },
+  "fiori_e_frutti": {
+    "tipo_fiore": "fiori giallo-crema molto profumati, 4-15 per gruppo, su un peduncolo saldato a una brattea verde chiara allungata",
+    "periodo_fioritura": "fine giugno-luglio, circa due settimane dopo il tiglio nostrano",
+    "tipo_frutto": "piccola nocula tonda di 5-6 mm, liscia o appena costoluta, con guscio sottile",
+    "periodo_fruttificazione": "settembre-ottobre; i frutti cadono insieme alla brattea, che fa da elica",
+    "descrizione": "In fioritura l'albero ronza di api: il profumo si sente a distanza."
+  },
+  "dimensioni": {
+    "altezza_tipica_m": [
+      20,
+      30
+    ],
+    "altezza_max_m": 35,
+    "eta_massima_anni": [
+      500,
+      1000
+    ],
+    "note": "Molto longevo; alcuni tigli monumentali sono stimati di diversi secoli, ma le età estreme sono incerte."
+  },
+  "habitat_e_distribuzione": {
+    "regioni_italia": [
+      "Nord: boschi misti di latifoglie delle Prealpi e delle valli alpine, colline",
+      "Appennino: sporadico",
+      "Ovunque nei viali, nei parchi e nelle piazze"
+    ],
+    "altitudine": "0-1400 m",
+    "terreno_preferito": "fresco e profondo, anche sassoso",
+    "descrizione": "Nei boschi è quasi sempre sparso, insieme a querce, aceri, frassini e carpini."
+  },
+  "ecologia": {
+    "descrizione": "Tollera una discreta ombra e cresce nei boschi maturi di latifoglie; ricaccia con vigore dalla ceppaia."
+  },
+  "stagionalita": {
+    "primavera": "Foglie nuove verde chiaro.",
+    "estate": "Fioritura profumatissima tra fine giugno e luglio.",
+    "autunno": "Frutti appesi alle brattee; foglie gialle.",
+    "inverno": "Rametti a zig-zag e gemme rosso vivo."
+  },
+  "specie_simili": [
+    {
+      "id_specie": "tilia-platyphyllos",
+      "come_distinguere": "Il tiglio nostrano ha foglie più grandi (6-12 cm), pelose e morbide sotto con ciuffi di peli biancastri, fiori in gruppi più piccoli, fioritura più precoce e frutti duri con 4-5 coste evidenti."
+    },
+    {
+      "id_specie": "corylus-avellana",
+      "come_distinguere": "Il nocciolo ha foglia tondeggiante ma pelosa e doppiamente seghettata, ed è un arbusto a molti fusti."
+    }
+  ],
+  "commestibilita": {
+    "parti": "fiori (con brattea), foglie giovani",
+    "note": "I fiori essiccati si usano per l'infuso di tiglio, rilassante; le foglie giovanissime si mangiano in insalata.",
+    "avvertenze": "Raccogli solo da alberi lontani dal traffico. Usa l'infuso con moderazione e chiedi al medico se hai problemi cardiaci o assumi farmaci."
+  },
+  "tossicita": {
+    "livello": "nessuna_nota",
+    "parti": "",
+    "note": "Nessuna tossicità significativa nota."
+  },
+  "curiosita_e_usi": "Il legno è tenero, chiaro e omogeneo: il preferito per scolpire e intagliare. Dalla corteccia interna si ricavava una fibra per corde e stuoie. Il miele di tiglio è molto apprezzato. Albero di piazze e sagrati, spesso legato a feste e riunioni di comunità.",
+  "immagini": [
+    {
+      "tipo": "silhouette",
+      "file": "img/tilia-cordata-silhouette.jpg",
+      "fonte": "Wikimedia Commons",
+      "autore": "Gmihail at Serbian Wikipedia",
+      "licenza": "CC BY-SA 3.0 rs",
+      "url_originale": "https://commons.wikimedia.org/wiki/File:Tilia_cordata_tree,_Ada_Ciganlija.jpg",
+      "titolo_originale": "Tilia cordata tree, Ada Ciganlija.jpg"
+    },
+    {
+      "tipo": "foglia",
+      "file": "img/tilia-cordata-foglia.jpg",
+      "fonte": "Wikimedia Commons",
+      "autore": "Dmitry Makeev",
+      "licenza": "CC BY-SA 4.0",
+      "url_originale": "https://commons.wikimedia.org/wiki/File:2020_year._Herbarium._Tilia_cordata._img-020.jpg",
+      "titolo_originale": "2020 year. Herbarium. Tilia cordata. img-020.jpg"
+    },
+    {
+      "tipo": "fiore_o_frutto",
+      "file": "img/tilia-cordata-fiore_o_frutto-utente.jpg",
+      "fonte": "Foto fornita dall'utente",
+      "autore": "non indicato",
+      "licenza": "da verificare (uso personale)",
+      "url_originale": ""
+    },
+    {
+      "tipo": "corteccia",
+      "file": "img/tilia-cordata-corteccia.jpg",
+      "fonte": "Wikimedia Commons",
+      "autore": "Sten Porse",
+      "licenza": "CC BY-SA 3.0",
+      "url_originale": "https://commons.wikimedia.org/wiki/File:Tilia-cordata-bark-young-tree.JPG",
+      "titolo_originale": "Tilia-cordata-bark-young-tree.JPG"
+    },
+    {
+      "tipo": "gemme",
+      "file": "img/tilia-cordata-gemme.jpg",
+      "fonte": "Wikimedia Commons",
+      "autore": "Sten Porse",
+      "licenza": "CC BY-SA 3.0",
+      "url_originale": "https://commons.wikimedia.org/wiki/File:Tilia-cordata-bud.jpg",
+      "titolo_originale": "Tilia-cordata-bud.jpg"
+    }
+  ],
+  "fonti": [
+    {
+      "titolo": "Tilia cordata – Wikipedia (it)",
+      "url": "https://it.wikipedia.org/wiki/Tilia_cordata"
+    },
+    {
+      "titolo": "Tilia cordata – Wikipedia (en)",
+      "url": "https://en.wikipedia.org/wiki/Tilia_cordata"
+    }
+  ]
+}

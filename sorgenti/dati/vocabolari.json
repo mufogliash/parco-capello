@@ -1,0 +1,135 @@
+{
+  "_nota": "Valori ammessi per i campi a scelta fissa (usati per filtri e identificazione). Per aggiungere un valore: inseriscilo qui con la sua etichetta, poi usalo nelle schede.",
+  "gruppo": {
+    "latifoglia": "Latifoglia",
+    "conifera": "Conifera"
+  },
+  "persistenza": {
+    "caduca": "Caduca (perde le foglie in inverno)",
+    "marcescente": "Marcescente (foglie secche restano sui rami in inverno)",
+    "sempreverde": "Sempreverde"
+  },
+  "origine": {
+    "autoctona": "Autoctona",
+    "archeofita": "Introdotta anticamente e naturalizzata",
+    "esotica_naturalizzata": "Esotica naturalizzata",
+    "esotica_coltivata": "Esotica, solo coltivata",
+    "invasiva": "Esotica invasiva"
+  },
+  "foglia_tipo": {
+    "semplice": "Semplice",
+    "composta_pennata": "Composta pennata",
+    "composta_bipennata": "Composta bipennata",
+    "composta_palmata": "Composta palmata",
+    "aghiforme": "Ad ago",
+    "squamiforme": "A squama"
+  },
+  "foglia_disposizione": {
+    "alterna": "Alterna",
+    "opposta": "Opposta",
+    "verticillata": "Verticillata",
+    "fascicolata": "A fascetti",
+    "spiralata": "A spirale"
+  },
+  "foglia_margine": {
+    "intero": "Intero",
+    "ondulato": "Ondulato",
+    "seghettato": "Seghettato",
+    "doppiamente_seghettato": "Doppiamente seghettato",
+    "dentato": "Dentato",
+    "crenato": "Crenato",
+    "lobato": "Lobato",
+    "spinoso": "Spinoso"
+  },
+  "foglia_forma": {
+    "lineare": "Lineare",
+    "lanceolata": "Lanceolata",
+    "ellittica": "Ellittica",
+    "ovata": "Ovata",
+    "obovata": "Obovata",
+    "cordata": "Cuoriforme",
+    "orbicolare": "Tondeggiante",
+    "rombica": "Romboidale",
+    "palmata": "Palmata",
+    "aghi": "Aghi",
+    "squame": "Squame"
+  },
+  "frutto": {
+    "ghianda": "Ghianda",
+    "faggiola": "Faggiola",
+    "castagna": "Castagna (riccio)",
+    "noce": "Noce",
+    "nocula": "Nocula",
+    "samara": "Samara (frutto alato)",
+    "disamara": "Disamara (doppia ala)",
+    "cono": "Cono (pigna)",
+    "galbulo": "Galbulo (bacca delle cupressacee)",
+    "arillo": "Arillo (tasso)",
+    "drupa": "Drupa",
+    "bacca": "Bacca",
+    "pomo": "Pomo",
+    "capsula": "Capsula",
+    "legume": "Legume (baccello)",
+    "achenio": "Achenio",
+    "infruttescenza": "Infruttescenza",
+    "nocciola": "Nocciola",
+    "strobilo": "Piccolo cono legnoso (strobilo)"
+  },
+  "corteccia_texture": {
+    "liscia": "Liscia",
+    "fessurata": "Fessurata",
+    "a_placche": "A placche",
+    "squamosa": "A scaglie",
+    "desquamante": "Si stacca a chiazze",
+    "suberosa": "Sugherosa",
+    "fibrosa": "Fibrosa, a strisce",
+    "lenticelle_orizzontali": "Con linee orizzontali (lenticelle)"
+  },
+  "ramificazione": {
+    "monopodiale": "Monopodiale (gemma terminale vera)",
+    "simpodiale": "Simpodiale (l'apice muore, prosegue una gemma laterale)",
+    "non_accertata": "Non accertata"
+  },
+  "ruolo_ecologico": {
+    "pioniera": "Pioniera",
+    "colonizzatrice": "Colonizzatrice",
+    "intermedia": "Di transizione",
+    "climax": "Del bosco maturo",
+    "non_accertato": "Non accertato"
+  },
+  "luce": {
+    "eliofila": "Ama la piena luce (eliofila)",
+    "semisciafila": "Tollera un po' d'ombra",
+    "sciafila": "Tollera bene l'ombra (sciafila)"
+  },
+  "habitat": {
+    "planiziale": "Pianura",
+    "collinare": "Collina",
+    "montano": "Montagna",
+    "subalpino": "Alta montagna",
+    "mediterraneo_costiero": "Costa e macchia mediterranea",
+    "ripariale_umido": "Fiumi e zone umide",
+    "rupestre_arido": "Versanti aridi e rocciosi",
+    "urbano_parchi": "Città, parchi e viali"
+  },
+  "tossicita_livello": {
+    "nessuna_nota": "Nessuna tossicità significativa nota",
+    "bassa": "Bassa",
+    "moderata": "Moderata",
+    "alta": "Alta"
+  },
+  "tipo_immagine": {
+    "foglia": "Foglia",
+    "corteccia": "Corteccia",
+    "silhouette": "Portamento",
+    "fiore_o_frutto": "Fiore o frutto",
+    "gemme": "Gemme",
+    "dettaglio": "Dettaglio"
+  },
+  "categoria_paesaggio": {
+    "forma_e_crescita": "Forma e crescita",
+    "indicatori_tronco_corteccia": "Tronco e corteccia",
+    "eta_e_storia": "Età e storia",
+    "orientamento_bussola": "Orientamento"
+  }
+}

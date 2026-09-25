@@ -1,0 +1,194 @@
+{
+  "id": "fraxinus-ornus",
+  "nome_comune": "Orniello",
+  "nome_scientifico": "Fraxinus ornus",
+  "famiglia": "Oleaceae",
+  "genere": "Fraxinus",
+  "sinonimi": [
+    "Frassino da manna",
+    "Avornello"
+  ],
+  "nomi_locali": [],
+  "stato": "bozza",
+  "aggiornato": "2026-09-24",
+  "chiave": {
+    "gruppo": "latifoglia",
+    "persistenza": "caduca",
+    "foglia_tipo": "composta_pennata",
+    "foglia_disposizione": "opposta",
+    "foglia_margine": [
+      "seghettato"
+    ],
+    "foglia_forma": [
+      "ellittica",
+      "lanceolata"
+    ],
+    "frutto": "samara",
+    "corteccia_texture": [
+      "liscia"
+    ],
+    "habitat": [
+      "collinare",
+      "rupestre_arido",
+      "montano"
+    ],
+    "altitudine_m": [
+      0,
+      1400
+    ],
+    "ramificazione": "monopodiale",
+    "ruolo_ecologico": [
+      "colonizzatrice"
+    ],
+    "luce": "eliofila"
+  },
+  "tratti_chiave": [
+    "Foglie opposte, composte da 5-9 foglioline con un corto picciolo",
+    "A maggio pannocchie di fiori bianco-crema profumati che coprono la chioma",
+    "Gemme grigio-brune e pelose; corteccia grigia liscia anche da adulto"
+  ],
+  "origine": {
+    "stato": "autoctona",
+    "note": ""
+  },
+  "foglie": {
+    "tipo": "composta pennata",
+    "disposizione": "opposta",
+    "forma": "foglia di 15-25 cm con 5-9 foglioline ellittiche o lanceolate, ognuna con un corto picciolo",
+    "margine": "seghettato, a denti fini e irregolari",
+    "venatura": "pennata in ogni fogliolina",
+    "colore_stagionale": {
+      "primavera_estate": "verde scuro, più chiara sotto con peli brunastri lungo la nervatura centrale",
+      "autunno": "giallo, a volte rosso-violaceo"
+    },
+    "descrizione": "Rispetto al frassino maggiore le foglioline sono meno numerose, più larghe e picciolate."
+  },
+  "corteccia": {
+    "colore": "grigio chiaro",
+    "texture": "liscia, anche negli esemplari adulti",
+    "evoluzione_con_eta": "resta liscia a lungo; solo alla base può screpolarsi un po'",
+    "descrizione": "Nei boschi da manna del Sud la corteccia viene incisa per raccogliere la linfa zuccherina."
+  },
+  "rami_e_portamento": {
+    "disposizione_rami": "opposta; rametti grigi",
+    "angolo_di_crescita": "rami ascendenti",
+    "forma_chioma": "tondeggiante, irregolare",
+    "silhouette_invernale": "piccolo albero, spesso con più fusti da ceppaia, con rametti opposti e gemme grigie",
+    "descrizione": "Quasi sempre in boschi cedui su versanti caldi, insieme a carpino nero e roverella.",
+    "ramificazione": "Rametti monopodiali con gemma terminale."
+  },
+  "gemme": {
+    "forma": "ovoidali, piccole",
+    "colore": "grigio-brune, pelose e opache",
+    "disposizione": "opposte",
+    "descrizione": "Mai nere: è la differenza più rapida dal frassino maggiore."
+  },
+  "fiori_e_frutti": {
+    "tipo_fiore": "fiori bianco-crema con 4 petali sottili, in pannocchie dense e profumate, impollinati dagli insetti",
+    "periodo_fioritura": "aprile-maggio, insieme alle foglie",
+    "tipo_frutto": "samara singola, stretta e allungata (2-3 cm), in grappoli penduli",
+    "periodo_fruttificazione": "estate-autunno",
+    "descrizione": "In fioritura i versanti con molti ornielli appaiono punteggiati di bianco crema."
+  },
+  "dimensioni": {
+    "altezza_tipica_m": [
+      8,
+      15
+    ],
+    "altezza_max_m": 20,
+    "eta_massima_anni": null,
+    "note": "Età massima non accertata."
+  },
+  "habitat_e_distribuzione": {
+    "regioni_italia": [
+      "Tutta Italia, dalla costa alla bassa montagna",
+      "Nord: comunissimo su Prealpi calcaree, Carso e colli, negli orno-ostrieti"
+    ],
+    "altitudine": "0-1300 m, localmente fino a 1400 m",
+    "terreno_preferito": "calcareo, sassoso e asciutto; tollera bene la siccità",
+    "descrizione": "Specie dei boschi di versante caldi e rocciosi; frequente anche nella macchia mediterranea."
+  },
+  "ecologia": {
+    "descrizione": "Ama luce e calore. Con il carpino nero ricolonizza rapidamente pascoli e terrazzamenti abbandonati su calcare."
+  },
+  "stagionalita": {
+    "primavera": "Fioritura bianca e profumata tra aprile e maggio.",
+    "estate": "Grappoli di frutti verdi.",
+    "autunno": "Foglie gialle o violacee.",
+    "inverno": "Rametti opposti con gemme grigie pelose; corteccia liscia."
+  },
+  "specie_simili": [
+    {
+      "id_specie": "fraxinus-excelsior",
+      "come_distinguere": "Il frassino maggiore ha gemme nere, 7-13 foglioline senza picciolo, fiori porpora poco vistosi prima delle foglie ed è un albero alto di ambienti freschi."
+    }
+  ],
+  "commestibilita": {
+    "parti": "manna (linfa essiccata)",
+    "note": "Dalle incisioni sulla corteccia cola una linfa che si rapprende in stalattiti bianche e dolci, la manna, ancora prodotta sulle Madonie in Sicilia. È un blando lassativo naturale.",
+    "avvertenze": "Non incidere alberi che non sono tuoi: la raccolta richiede tecnica per non danneggiare la pianta."
+  },
+  "tossicita": {
+    "livello": "nessuna_nota",
+    "parti": "",
+    "note": "Nessuna tossicità significativa nota."
+  },
+  "curiosita_e_usi": "La manna contiene mannitolo, uno zucchero che prende il nome proprio da lei. Il legno è buona legna da ardere e un tempo si usava per piccoli attrezzi.",
+  "immagini": [
+    {
+      "tipo": "silhouette",
+      "file": "img/fraxinus-ornus-silhouette.jpg",
+      "fonte": "Wikimedia Commons",
+      "autore": "Jean-Pol GRANDMONT",
+      "licenza": "CC BY 3.0",
+      "url_originale": "https://commons.wikimedia.org/wiki/File:Fraxinus_ornus_JPG1a.jpg",
+      "titolo_originale": "Fraxinus ornus JPG1a.jpg"
+    },
+    {
+      "tipo": "foglia",
+      "file": "img/fraxinus-ornus-foglia.jpg",
+      "fonte": "Wikimedia Commons",
+      "autore": "Stefan.lefnaer",
+      "licenza": "CC BY-SA 4.0",
+      "url_originale": "https://commons.wikimedia.org/wiki/File:Fraxinus_ornus_(subsp._ornus)_sl10.jpg",
+      "titolo_originale": "Fraxinus ornus (subsp. ornus) sl10.jpg"
+    },
+    {
+      "tipo": "fiore_o_frutto",
+      "file": "img/fraxinus-ornus-fiore_o_frutto.jpg",
+      "fonte": "Wikimedia Commons",
+      "autore": "Krzysztof Ziarnek, Kenraiz",
+      "licenza": "CC BY-SA 4.0",
+      "url_originale": "https://commons.wikimedia.org/wiki/File:Fraxinus_ornus_kz07.jpg",
+      "titolo_originale": "Fraxinus ornus kz07.jpg"
+    },
+    {
+      "tipo": "corteccia",
+      "file": "img/fraxinus-ornus-corteccia.jpg",
+      "fonte": "Wikimedia Commons",
+      "autore": "Димитър Найденов / Dimìtar Nàydenov",
+      "licenza": "CC BY-SA 4.0",
+      "url_originale": "https://commons.wikimedia.org/wiki/File:%D0%9C%D1%8A%D0%B6%D0%B4%D1%80%D1%8F%D0%BD_-_%D0%BA%D0%BE%D1%80%D0%B0.JPG",
+      "titolo_originale": "Мъждрян - кора.JPG"
+    },
+    {
+      "tipo": "gemme",
+      "file": "img/fraxinus-ornus-gemme.jpg",
+      "fonte": "Wikimedia Commons",
+      "autore": "Stefan.lefnaer",
+      "licenza": "CC BY-SA 4.0",
+      "url_originale": "https://commons.wikimedia.org/wiki/File:Fraxinus_ornus_(subsp._ornus)_sl21.jpg",
+      "titolo_originale": "Fraxinus ornus (subsp. ornus) sl21.jpg"
+    }
+  ],
+  "fonti": [
+    {
+      "titolo": "Fraxinus ornus – Wikipedia (it)",
+      "url": "https://it.wikipedia.org/wiki/Fraxinus_ornus"
+    },
+    {
+      "titolo": "Fraxinus ornus – Wikipedia (en)",
+      "url": "https://en.wikipedia.org/wiki/Fraxinus_ornus"
+    }
+  ]
+}
