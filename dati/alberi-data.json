@@ -1,7 +1,418 @@
 {
  "schema_version": "1.2",
- "generato": "2026-09-25",
+ "generato": "2026-09-27",
  "species": [
+  {
+   "id": "abies-alba",
+   "nome_comune": "Abete bianco",
+   "nome_scientifico": "Abies alba",
+   "famiglia": "Pinaceae",
+   "genere": "Abies",
+   "sinonimi": [
+    "Abete comune"
+   ],
+   "nomi_locali": [],
+   "stato": "bozza",
+   "aggiornato": "2026-09-25",
+   "chiave": {
+    "gruppo": "conifera",
+    "persistenza": "sempreverde",
+    "foglia_tipo": "aghiforme",
+    "foglia_disposizione": "spiralata",
+    "foglia_margine": [
+     "intero"
+    ],
+    "foglia_forma": [
+     "aghi",
+     "lineare"
+    ],
+    "frutto": "cono",
+    "corteccia_texture": [
+     "liscia",
+     "a_placche"
+    ],
+    "habitat": [
+     "montano"
+    ],
+    "altitudine_m": [
+     600,
+     1900
+    ],
+    "ramificazione": "monopodiale",
+    "ruolo_ecologico": [
+     "climax"
+    ],
+    "luce": "sciafila"
+   },
+   "tratti_chiave": [
+    "Aghi piatti con la punta incavata e due strisce bianche sotto, disposti a pettine su due file",
+    "Pigne erette sui rami alti, che si sfaldano sull'albero: a terra non se ne trovano di intere",
+    "Corteccia grigio-argento, liscia da giovane"
+   ],
+   "origine": {
+    "stato": "autoctona",
+    "note": ""
+   },
+   "foglie": {
+    "tipo": "aghiforme",
+    "disposizione": "inseriti a spirale ma girati su due file ai lati del rametto (a pettine)",
+    "forma": "aghi piatti di 2-3 cm, punta smussata e incavata",
+    "margine": "intero",
+    "venatura": "una nervatura centrale; sotto due strisce bianche",
+    "colore_stagionale": {
+     "primavera_estate": "verde scuro lucido sopra, due bande bianche sotto",
+     "autunno": "invariato (sempreverde)"
+    },
+    "descrizione": "Staccando un ago rimane sul rametto una piccola cicatrice rotonda e piatta: il rametto resta liscio (nell'abete rosso invece è ruvido)."
+   },
+   "corteccia": {
+    "colore": "grigio-argento o grigio chiaro",
+    "texture": "liscia, con vescichette di resina da giovane; poi fessurata in piccole placche",
+    "evoluzione_con_eta": "resta chiara anche nei tronchi grandi",
+    "descrizione": "Il nome 'bianco' viene dalla corteccia chiara, molto diversa da quella bruno-rossa dell'abete rosso."
+   },
+   "rami_e_portamento": {
+    "disposizione_rami": "verticillata: rami in palchi regolari",
+    "angolo_di_crescita": "rami orizzontali, rigidi",
+    "forma_chioma": "conica regolare da giovane; negli alberi vecchi la cima si appiattisce 'a nido di cicogna'",
+    "silhouette_invernale": "sempreverde; sagoma scura con la cima piatta negli esemplari vecchi",
+    "descrizione": "Tollera l'ombra: i giovani abeti aspettano anche decenni sotto il bosco prima di crescere.",
+    "ramificazione": "Monopodiale, con palchi di rami annuali; i rametti laterali sono disposti in piano."
+   },
+   "gemme": {
+    "forma": "ovoidali, piccole (5 mm)",
+    "colore": "bruno-rossastre, poco o nulla resinose",
+    "disposizione": "all'apice dei rametti, una centrale e due-tre laterali",
+    "descrizione": ""
+   },
+   "fiori_e_frutti": {
+    "tipo_fiore": "pianta monoica: coni maschili gialli sotto i rametti; coni femminili verdi, eretti, solo in cima alla chioma",
+    "periodo_fioritura": "aprile-maggio",
+    "tipo_frutto": "pigna cilindrica di 10-15 cm, eretta, verde poi bruna, con brattee sporgenti ripiegate",
+    "periodo_fruttificazione": "settembre-ottobre dello stesso anno; si disfa sul ramo liberando semi e squame",
+    "descrizione": "Sui rami resta solo l'asse centrale della pigna, dritto come una candela."
+   },
+   "dimensioni": {
+    "altezza_tipica_m": [
+     30,
+     45
+    ],
+    "altezza_max_m": 60,
+    "eta_massima_anni": null,
+    "note": "Età massima non accertata (stima indicativa: alcuni secoli)."
+   },
+   "habitat_e_distribuzione": {
+    "regioni_italia": [
+     "Alpi, soprattutto versanti umidi e freschi",
+     "Appennino fino alla Calabria, spesso con il faggio"
+    ],
+    "altitudine": "circa 600-1900 m",
+    "terreno_preferito": "profondo e fresco, con buona umidità dell'aria",
+    "descrizione": "Forma abetine pure o boschi misti con faggio e abete rosso; ama climi umidi senza siccità estiva."
+   },
+   "ecologia": {
+    "descrizione": "Specie d'ombra e di bosco maturo: si rinnova sotto la copertura degli altri alberi ed è tipica delle foreste stabili di montagna."
+   },
+   "stagionalita": {
+    "primavera": "Getti nuovi verde chiaro.",
+    "estate": "Pigne erette in cima.",
+    "autunno": "Pigne che si disfano; squame a terra.",
+    "inverno": "Sagoma scura; corteccia chiara."
+   },
+   "specie_simili": [
+    {
+     "id_specie": "picea-abies",
+     "come_distinguere": "L'abete rosso ha aghi a sezione quadrata, pungenti, tutto intorno al rametto, pigne pendenti che cadono intere e corteccia bruno-rossa."
+    },
+    {
+     "id_specie": "taxus-baccata",
+     "come_distinguere": "Il tasso ha aghi appuntiti senza strisce bianche sotto, bacche rosse (arilli) e niente pigne."
+    }
+   ],
+   "commestibilita": {
+    "parti": "germogli giovani",
+    "note": "In alcune tradizioni alpine i getti primaverili si usano per sciroppi e liquori.",
+    "avvertenze": "Raccoglierne pochi, senza danneggiare le piante giovani."
+   },
+   "tossicita": {
+    "livello": "nessuna_nota",
+    "parti": "",
+    "note": "Nessuna tossicità nota."
+   },
+   "curiosita_e_usi": "Dal legno leggero e senza resina si ricavavano tavole di risonanza per strumenti. Le abetine di Vallombrosa e Camaldoli furono curate per secoli dai monaci.",
+   "immagini": [
+    {
+     "tipo": "silhouette",
+     "file": "img/abies-alba-silhouette.jpg",
+     "fonte": "Wikimedia Commons",
+     "autore": "Crusier",
+     "licenza": "CC BY-SA 3.0",
+     "url_originale": "https://commons.wikimedia.org/wiki/File:Abies_alba_Wis%C5%82a_1.jpg",
+     "titolo_originale": "Abies alba Wisła 1.jpg"
+    },
+    {
+     "tipo": "foglia",
+     "file": "img/abies-alba-foglia.jpg",
+     "fonte": "Wikimedia Commons",
+     "autore": "Radio Tonreg from Vienna, Austria",
+     "licenza": "CC BY 2.0",
+     "url_originale": "https://commons.wikimedia.org/wiki/File:Abies_alba_(8454369114).jpg",
+     "titolo_originale": "Abies alba (8454369114).jpg"
+    },
+    {
+     "tipo": "fiore_o_frutto",
+     "file": "img/abies-alba-fiore_o_frutto.jpg",
+     "fonte": "Wikimedia Commons",
+     "autore": "Gmihail at Serbian Wikipedia",
+     "licenza": "CC BY-SA 3.0 rs",
+     "url_originale": "https://commons.wikimedia.org/wiki/File:Abies_alba_cones_Goc.jpg",
+     "titolo_originale": "Abies alba cones Goc.jpg"
+    },
+    {
+     "tipo": "corteccia",
+     "file": "img/abies-alba-corteccia.jpg",
+     "fonte": "Wikimedia Commons",
+     "autore": "T. Kebert",
+     "licenza": "CC BY-SA 4.0",
+     "url_originale": "https://commons.wikimedia.org/wiki/File:Abies_alba_bark_TK_2021-05-15_1.jpg",
+     "titolo_originale": "Abies alba bark TK 2021-05-15 1.jpg"
+    },
+    {
+     "tipo": "gemme",
+     "file": "img/abies-alba-gemme.jpg",
+     "fonte": "Wikimedia Commons",
+     "autore": "Fr.Latreille",
+     "licenza": "CC BY-SA 3.0",
+     "url_originale": "https://commons.wikimedia.org/wiki/File:Pousses_de_sapin-58.JPG",
+     "titolo_originale": "Pousses de sapin-58.JPG"
+    },
+    {
+     "tipo": "dettaglio",
+     "file": "img/abies-alba-dettaglio.jpg",
+     "fonte": "Wikimedia Commons",
+     "autore": "Gerarcalis",
+     "licenza": "CC BY-SA 4.0",
+     "url_originale": "https://commons.wikimedia.org/wiki/File:Abies_alba_eix_pinya.jpg",
+     "titolo_originale": "Abies alba eix pinya.jpg"
+    }
+   ],
+   "fonti": [
+    {
+     "titolo": "Abies alba – Wikipedia (it)",
+     "url": "https://it.wikipedia.org/wiki/Abies_alba"
+    },
+    {
+     "titolo": "Abies alba – Wikipedia (en)",
+     "url": "https://en.wikipedia.org/wiki/Abies_alba"
+    }
+   ]
+  },
+  {
+   "id": "picea-abies",
+   "nome_comune": "Abete rosso",
+   "nome_scientifico": "Picea abies",
+   "famiglia": "Pinaceae",
+   "genere": "Picea",
+   "sinonimi": [
+    "Peccio"
+   ],
+   "nomi_locali": [],
+   "stato": "bozza",
+   "aggiornato": "2026-09-25",
+   "chiave": {
+    "gruppo": "conifera",
+    "persistenza": "sempreverde",
+    "foglia_tipo": "aghiforme",
+    "foglia_disposizione": "spiralata",
+    "foglia_margine": [
+     "intero"
+    ],
+    "foglia_forma": [
+     "aghi"
+    ],
+    "frutto": "cono",
+    "corteccia_texture": [
+     "squamosa",
+     "desquamante"
+    ],
+    "habitat": [
+     "montano",
+     "subalpino"
+    ],
+    "altitudine_m": [
+     800,
+     2200
+    ],
+    "ramificazione": "monopodiale",
+    "ruolo_ecologico": [
+     "climax"
+    ],
+    "luce": "semisciafila"
+   },
+   "tratti_chiave": [
+    "Aghi a sezione quadrata, pungenti, disposti tutto intorno al rametto",
+    "Pigne lunghe (10-15 cm) che pendono dai rami e cadono intere",
+    "Corteccia bruno-rossastra, sottile, a piccole scaglie tonde"
+   ],
+   "origine": {
+    "stato": "autoctona",
+    "note": "Spontaneo sulle Alpi; nell'Appennino solo pochi nuclei relitti (Abetone). Molto piantato fuori dal suo areale."
+   },
+   "foglie": {
+    "tipo": "aghiforme",
+    "disposizione": "a spirale tutto intorno al rametto",
+    "forma": "aghi di 1-2,5 cm, rigidi e appuntiti, a sezione quadrata",
+    "margine": "intero",
+    "venatura": "non visibile",
+    "colore_stagionale": {
+     "primavera_estate": "verde scuro lucido su tutte le facce",
+     "autunno": "invariato (sempreverde)"
+    },
+    "descrizione": "Ogni ago sta su un piccolo cuscinetto legnoso: quando cadono, il rametto resta ruvido come una grattugia."
+   },
+   "corteccia": {
+    "colore": "bruno-rossastro",
+    "texture": "sottile, a piccole scaglie tondeggianti",
+    "evoluzione_con_eta": "nei tronchi vecchi più grigia e scagliosa",
+    "descrizione": ""
+   },
+   "rami_e_portamento": {
+    "disposizione_rami": "verticillata: rami in palchi",
+    "angolo_di_crescita": "rami principali orizzontali o un po' ricadenti, rametti spesso pendenti 'a tenda'",
+    "forma_chioma": "conica e appuntita, stretta ad alta quota",
+    "silhouette_invernale": "sempreverde; sagoma a punta, scura, con cima sempre appuntita",
+    "descrizione": "In alta montagna la chioma stretta aiuta a scaricare la neve.",
+    "ramificazione": "Monopodiale, con palchi annuali; la cima resta appuntita anche negli alberi vecchi."
+   },
+   "gemme": {
+    "forma": "coniche, 5-7 mm",
+    "colore": "bruno-rossastre, non resinose",
+    "disposizione": "all'apice dei rametti",
+    "descrizione": ""
+   },
+   "fiori_e_frutti": {
+    "tipo_fiore": "pianta monoica: coni maschili rossastri poi gialli; coni femminili rosso vivo, eretti, in cima",
+    "periodo_fioritura": "maggio-giugno",
+    "tipo_frutto": "pigna cilindrica di 10-15 cm, pendente, bruna, con squame sottili a bordo irregolare",
+    "periodo_fruttificazione": "ottobre dello stesso anno; cade intera durante l'inverno",
+    "descrizione": "Le pigne a terra rosicchiate a spirale sono opera degli scoiattoli; quelle sfilacciate, del picchio o del crociere."
+   },
+   "dimensioni": {
+    "altezza_tipica_m": [
+     30,
+     45
+    ],
+    "altezza_max_m": 55,
+    "eta_massima_anni": null,
+    "note": "Età massima non accertata (stima indicativa: alcuni secoli)."
+   },
+   "habitat_e_distribuzione": {
+    "regioni_italia": [
+     "Alpi, dalle valli fino al limite del bosco",
+     "Appennino settentrionale: nuclei relitti (Abetone)",
+     "Rimboschimenti e parchi in altre zone"
+    ],
+    "altitudine": "circa 800-2200 m",
+    "terreno_preferito": "fresco, anche acido e poco profondo; teme la siccità",
+    "descrizione": "Forma peccete estese, spesso con larice o abete bianco; le radici superficiali lo rendono sensibile al vento."
+   },
+   "ecologia": {
+    "descrizione": "Specie delle foreste di montagna ad alta quota, dove forma boschi stabili; da giovane tollera una certa ombra. Soffre siccità e caldo, che favoriscono il bostrico."
+   },
+   "stagionalita": {
+    "primavera": "Getti nuovi verde chiaro; coni femminili rossi in cima.",
+    "estate": "Pigne verdi pendenti.",
+    "autunno": "Pigne mature brune.",
+    "inverno": "Sagoma appuntita coperta di neve."
+   },
+   "specie_simili": [
+    {
+     "id_specie": "abies-alba",
+     "come_distinguere": "L'abete bianco ha aghi piatti con strisce bianche sotto, pigne erette che si disfano sul ramo e corteccia grigio-argento."
+    },
+    {
+     "id_specie": "larix-decidua",
+     "come_distinguere": "Il larice perde gli aghi in inverno e li ha morbidi, a ciuffi."
+    }
+   ],
+   "commestibilita": {
+    "parti": "germogli giovani",
+    "note": "I getti primaverili si usano per il 'miele di abete' (sciroppo con zucchero) e caramelle balsamiche.",
+    "avvertenze": "Raccoglierne pochi per pianta."
+   },
+   "tossicita": {
+    "livello": "nessuna_nota",
+    "parti": "",
+    "note": "Nessuna tossicità nota."
+   },
+   "curiosita_e_usi": "Il suo legno, leggero ed elastico, è il legno di risonanza dei violini: in Val di Fiemme si trova la 'foresta dei violini'. È l'albero di Natale tradizionale.",
+   "immagini": [
+    {
+     "tipo": "silhouette",
+     "file": "img/picea-abies-silhouette.jpg",
+     "fonte": "Wikimedia Commons",
+     "autore": "Ivar Leidus",
+     "licenza": "CC BY-SA 3.0 ee",
+     "url_originale": "https://commons.wikimedia.org/wiki/File:Kuusk_Keila-Paldiski_rdt_%C3%A4%C3%A4res.jpg",
+     "titolo_originale": "Kuusk Keila-Paldiski rdt ääres.jpg"
+    },
+    {
+     "tipo": "foglia",
+     "file": "img/picea-abies-foglia.jpg",
+     "fonte": "Wikimedia Commons",
+     "autore": "Dmitry Makeev",
+     "licenza": "CC BY-SA 4.0",
+     "url_originale": "https://commons.wikimedia.org/wiki/File:2020_year._Herbarium._Picea_abies._img-001.jpg",
+     "titolo_originale": "2020 year. Herbarium. Picea abies. img-001.jpg"
+    },
+    {
+     "tipo": "fiore_o_frutto",
+     "file": "img/picea-abies-fiore_o_frutto.jpg",
+     "fonte": "Wikimedia Commons",
+     "autore": "AnRo0002",
+     "licenza": "CC0",
+     "url_originale": "https://commons.wikimedia.org/wiki/File:20180324Picea_abies3.jpg",
+     "titolo_originale": "20180324Picea abies3.jpg"
+    },
+    {
+     "tipo": "fiore_o_frutto",
+     "file": "img/picea-abies-fiore_o_frutto-2.jpg",
+     "fonte": "Wikimedia Commons",
+     "autore": "Famartin",
+     "licenza": "CC BY-SA 4.0",
+     "url_originale": "https://commons.wikimedia.org/wiki/File:2021-04-18_10_41_27_Immature_female_(seed)_cone_on_a_Norway_Spruce_along_Briargate_Court_in_the_Franklin_Farm_section_of_Oak_Hill,_Fairfax_County,_Virginia.jpg",
+     "titolo_originale": "2021-04-18 10 41 27 Immature female (seed) cone on a Norway Spruce along Briargate Court in the Franklin Farm section of Oak Hill, Fairfax County, Virginia.jpg"
+    },
+    {
+     "tipo": "corteccia",
+     "file": "img/picea-abies-corteccia.jpg",
+     "fonte": "Wikimedia Commons",
+     "autore": "Famartin",
+     "licenza": "CC BY-SA 4.0",
+     "url_originale": "https://commons.wikimedia.org/wiki/File:2021-02-23_16_46_06_Norway_Spruce_bark_along_Tranquility_Court_in_the_Franklin_Farm_section_of_Oak_Hill,_Fairfax_County,_Virginia.jpg",
+     "titolo_originale": "2021-02-23 16 46 06 Norway Spruce bark along Tranquility Court in the Franklin Farm section of Oak Hill, Fairfax County, Virginia.jpg"
+    },
+    {
+     "tipo": "gemme",
+     "file": "img/picea-abies-gemme.jpg",
+     "fonte": "Wikimedia Commons",
+     "autore": "Bjørn Erik Pedersen",
+     "licenza": "CC BY-SA 4.0",
+     "url_originale": "https://commons.wikimedia.org/wiki/File:Picea_abies_shoot_with_buds,_Sogndal,_Norway.jpg",
+     "titolo_originale": "Picea abies shoot with buds, Sogndal, Norway.jpg"
+    }
+   ],
+   "fonti": [
+    {
+     "titolo": "Picea abies – Wikipedia (it)",
+     "url": "https://it.wikipedia.org/wiki/Picea_abies"
+    },
+    {
+     "titolo": "Picea abies – Wikipedia (en)",
+     "url": "https://en.wikipedia.org/wiki/Picea_abies"
+    }
+   ]
+  },
   {
    "id": "acer-campestre",
    "nome_comune": "Acero campestre",
@@ -2604,6 +3015,199 @@
    ]
   },
   {
+   "id": "cupressus-sempervirens",
+   "nome_comune": "Cipresso",
+   "nome_scientifico": "Cupressus sempervirens",
+   "famiglia": "Cupressaceae",
+   "genere": "Cupressus",
+   "sinonimi": [
+    "Cipresso comune",
+    "Cipresso italiano"
+   ],
+   "nomi_locali": [],
+   "stato": "bozza",
+   "aggiornato": "2026-09-25",
+   "chiave": {
+    "gruppo": "conifera",
+    "persistenza": "sempreverde",
+    "foglia_tipo": "squamiforme",
+    "foglia_disposizione": "opposta",
+    "foglia_margine": [
+     "intero"
+    ],
+    "foglia_forma": [
+     "squame"
+    ],
+    "frutto": "galbulo",
+    "corteccia_texture": [
+     "fibrosa"
+    ],
+    "habitat": [
+     "collinare",
+     "mediterraneo_costiero",
+     "urbano_parchi"
+    ],
+    "altitudine_m": [
+     0,
+     800
+    ],
+    "ramificazione": "non_accertata",
+    "ruolo_ecologico": [
+     "non_accertato"
+    ],
+    "luce": "eliofila"
+   },
+   "tratti_chiave": [
+    "Foglie a piccole squame strette sui rametti, disposte in tutte le direzioni",
+    "Frutti sferici e legnosi (2-4 cm) a squame poligonali, come un piccolo pallone",
+    "Di solito forma a colonna stretta, scura, inconfondibile"
+   ],
+   "origine": {
+    "stato": "archeofita",
+    "note": "Originario del Mediterraneo orientale; coltivato in Italia almeno dall'epoca etrusca e romana, oggi naturalizzato qua e là."
+   },
+   "foglie": {
+    "tipo": "squamiforme",
+    "disposizione": "opposta a coppie incrociate",
+    "forma": "squame di 0,5-1 mm, strettamente aderenti al rametto",
+    "margine": "intero",
+    "venatura": "non visibile",
+    "colore_stagionale": {
+     "primavera_estate": "verde scuro",
+     "autunno": "invariato (sempreverde)"
+    },
+    "descrizione": ""
+   },
+   "corteccia": {
+    "colore": "grigio-bruno",
+    "texture": "sottile, fibrosa, a strisce verticali",
+    "evoluzione_con_eta": "nei tronchi vecchi più grigia e solcata",
+    "descrizione": ""
+   },
+   "rami_e_portamento": {
+    "disposizione_rami": "rami eretti e stretti al tronco (forma a colonna) o aperti (forma espansa)",
+    "angolo_di_crescita": "molto ascendenti nella forma a colonna",
+    "forma_chioma": "colonnare stretta o, più di rado, ampia e irregolare",
+    "silhouette_invernale": "sempreverde; colonna scura e appuntita",
+    "descrizione": "La forma a colonna è la più piantata; quella con rami aperti è più simile alle piante selvatiche.",
+    "ramificazione": "Tipo di ramificazione: dato non accertato."
+   },
+   "gemme": {
+    "forma": "piccolissime, nascoste tra le squame",
+    "colore": "verdi",
+    "disposizione": "",
+    "descrizione": "Non visibili a occhio nudo."
+   },
+   "fiori_e_frutti": {
+    "tipo_fiore": "pianta monoica: coni maschili piccoli, gialli, all'apice dei rametti; coni femminili verdi, tondi",
+    "periodo_fioritura": "febbraio-aprile",
+    "tipo_frutto": "galbulo (piccola pigna tonda) di 2-4 cm, verde poi grigio-bruno, con 8-14 squame poligonali",
+    "periodo_fruttificazione": "matura nel secondo anno; si apre e libera semi piccoli",
+    "descrizione": ""
+   },
+   "dimensioni": {
+    "altezza_tipica_m": [
+     20,
+     30
+    ],
+    "altezza_max_m": 35,
+    "eta_massima_anni": null,
+    "note": "Età massima non accertata; esistono cipressi monumentali di molti secoli (stima indicativa)."
+   },
+   "habitat_e_distribuzione": {
+    "regioni_italia": [
+     "Tutta Italia: Toscana e Umbria soprattutto, colline, cimiteri, viali, ville",
+     "Nord: laghi, colline e parchi"
+    ],
+    "altitudine": "0-800 m",
+    "terreno_preferito": "ben drenato, anche povero e calcareo; resistente alla siccità",
+    "descrizione": "Specie coltivata, legata al paesaggio agricolo e ai viali."
+   },
+   "ecologia": {
+    "descrizione": "Molto resistente a siccità e vento; per questo è usato per frangivento. Ruolo nella successione: dato non accertato (specie coltivata)."
+   },
+   "stagionalita": {
+    "primavera": "Polline giallo in fine inverno.",
+    "estate": "Galbuli verdi.",
+    "autunno": "Galbuli grigi maturi.",
+    "inverno": "Sempreverde."
+   },
+   "specie_simili": [
+    {
+     "id_specie": "juniperus-communis",
+     "come_distinguere": "Il ginepro comune ha aghi pungenti a gruppi di tre e bacche blu-nere, e di solito è un arbusto."
+    }
+   ],
+   "commestibilita": {
+    "parti": "nessuna",
+    "note": "",
+    "avvertenze": ""
+   },
+   "tossicita": {
+    "livello": "bassa",
+    "parti": "galbuli, foglie",
+    "note": "Non si mangia; il polline è allergenico a fine inverno."
+   },
+   "curiosita_e_usi": "Il cipresso è legato ai cimiteri fin dall'antichità, perché sempreverde e longevo. I viali di cipressi toscani sono un paesaggio simbolo d'Italia. Il cancro del cipresso, una malattia fungina, ha ucciso molti esemplari dagli anni Cinquanta.",
+   "immagini": [
+    {
+     "tipo": "silhouette",
+     "file": "img/cupressus-sempervirens-silhouette.jpg",
+     "fonte": "Wikimedia Commons",
+     "autore": "sailko",
+     "licenza": "CC BY-SA 3.0",
+     "url_originale": "https://commons.wikimedia.org/wiki/File:Villa_cetinale,_parco,_via_dei_cipressi_00.JPG",
+     "titolo_originale": "Villa cetinale, parco, via dei cipressi 00.JPG"
+    },
+    {
+     "tipo": "silhouette",
+     "file": "img/cupressus-sempervirens-silhouette-2.jpg",
+     "fonte": "Wikimedia Commons",
+     "autore": "Cascafico",
+     "licenza": "CC0",
+     "url_originale": "https://commons.wikimedia.org/wiki/File:Cipresso_monumentale.jpg",
+     "titolo_originale": "Cipresso monumentale.jpg"
+    },
+    {
+     "tipo": "foglia",
+     "file": "img/cupressus-sempervirens-foglia.jpg",
+     "fonte": "Wikimedia Commons",
+     "autore": "Forest and Kim Starr",
+     "licenza": "CC BY 3.0 us",
+     "url_originale": "https://commons.wikimedia.org/wiki/File:Starr-080117-2021-Cupressus_sempervirens-leaves-Home_Depot_Nursery_Kahului-Maui_(24901615215).jpg",
+     "titolo_originale": "Starr-080117-2021-Cupressus sempervirens-leaves-Home Depot Nursery Kahului-Maui (24901615215).jpg"
+    },
+    {
+     "tipo": "fiore_o_frutto",
+     "file": "img/cupressus-sempervirens-fiore_o_frutto.jpg",
+     "fonte": "Wikimedia Commons",
+     "autore": "Philmarin",
+     "licenza": "CC BY-SA 4.0",
+     "url_originale": "https://commons.wikimedia.org/wiki/File:(ALB)_C._sempervirens_-_flow_male_-_1.jpg",
+     "titolo_originale": "(ALB) C. sempervirens - flow male - 1.jpg"
+    },
+    {
+     "tipo": "corteccia",
+     "file": "img/cupressus-sempervirens-corteccia.jpg",
+     "fonte": "Wikimedia Commons",
+     "autore": "Spiritia",
+     "licenza": "CC BY-SA 4.0",
+     "url_originale": "https://commons.wikimedia.org/wiki/File:Cupressus_sempervirens_bark_4.jpg",
+     "titolo_originale": "Cupressus sempervirens bark 4.jpg"
+    }
+   ],
+   "fonti": [
+    {
+     "titolo": "Cupressus sempervirens – Wikipedia (it)",
+     "url": "https://it.wikipedia.org/wiki/Cupressus_sempervirens"
+    },
+    {
+     "titolo": "Cupressus sempervirens – Wikipedia (en)",
+     "url": "https://en.wikipedia.org/wiki/Cupressus_sempervirens"
+    }
+   ]
+  },
+  {
    "id": "arbutus-unedo",
    "nome_comune": "Corbezzolo",
    "nome_scientifico": "Arbutus unedo",
@@ -3610,6 +4214,186 @@
    ]
   },
   {
+   "id": "juniperus-communis",
+   "nome_comune": "Ginepro comune",
+   "nome_scientifico": "Juniperus communis",
+   "famiglia": "Cupressaceae",
+   "genere": "Juniperus",
+   "sinonimi": [
+    "Ginepro"
+   ],
+   "nomi_locali": [],
+   "stato": "bozza",
+   "aggiornato": "2026-09-25",
+   "chiave": {
+    "gruppo": "conifera",
+    "persistenza": "sempreverde",
+    "foglia_tipo": "aghiforme",
+    "foglia_disposizione": "verticillata",
+    "foglia_margine": [
+     "intero"
+    ],
+    "foglia_forma": [
+     "aghi"
+    ],
+    "frutto": "galbulo",
+    "corteccia_texture": [
+     "fibrosa",
+     "desquamante"
+    ],
+    "habitat": [
+     "collinare",
+     "montano",
+     "subalpino",
+     "rupestre_arido"
+    ],
+    "altitudine_m": [
+     0,
+     2500
+    ],
+    "ramificazione": "non_accertata",
+    "ruolo_ecologico": [
+     "colonizzatrice"
+    ],
+    "luce": "eliofila"
+   },
+   "tratti_chiave": [
+    "Aghi pungenti a gruppi di tre, con una sola striscia bianca sulla faccia superiore",
+    "Bacche (galbuli) prima verdi poi blu-nere e brinate, sulle piante femminili",
+    "Di solito arbusto; in alta montagna forma prostrata che striscia sul terreno"
+   ],
+   "origine": {
+    "stato": "autoctona",
+    "note": ""
+   },
+   "foglie": {
+    "tipo": "aghiforme",
+    "disposizione": "a verticilli di tre",
+    "forma": "aghi di 1-2 cm, rigidi, molto pungenti",
+    "margine": "intero",
+    "venatura": "non visibile",
+    "colore_stagionale": {
+     "primavera_estate": "verde-grigio, con una banda bianca sopra",
+     "autunno": "invariato (sempreverde)"
+    },
+    "descrizione": ""
+   },
+   "corteccia": {
+    "colore": "bruno-rossastro",
+    "texture": "sottile, fibrosa, si sfalda in strisce",
+    "evoluzione_con_eta": "",
+    "descrizione": ""
+   },
+   "rami_e_portamento": {
+    "disposizione_rami": "rami fitti, spesso dalla base",
+    "angolo_di_crescita": "ascendenti o prostrati",
+    "forma_chioma": "colonnare, cespugliosa o prostrata",
+    "silhouette_invernale": "sempreverde; cespuglio grigio-verde, pungente",
+    "descrizione": "In pascoli e brughiere forma macchie sparse che il bestiame evita per gli aghi pungenti.",
+    "ramificazione": "Tipo di ramificazione: dato non accertato."
+   },
+   "gemme": {
+    "forma": "piccole, nude",
+    "colore": "verdi",
+    "disposizione": "all'apice dei rametti",
+    "descrizione": ""
+   },
+   "fiori_e_frutti": {
+    "tipo_fiore": "pianta dioica: coni maschili gialli piccoli; coni femminili verdi",
+    "periodo_fioritura": "marzo-maggio",
+    "tipo_frutto": "galbulo carnoso ('coccola') di 6-9 mm, verde poi blu-nero brinato",
+    "periodo_fruttificazione": "matura in 2-3 anni: sulla stessa pianta ci sono bacche verdi e blu",
+    "descrizione": ""
+   },
+   "dimensioni": {
+    "altezza_tipica_m": [
+     1,
+     5
+    ],
+    "altezza_max_m": 12,
+    "eta_massima_anni": null,
+    "note": "Età massima non accertata."
+   },
+   "habitat_e_distribuzione": {
+    "regioni_italia": [
+     "Tutta Italia, dalla collina all'alta montagna",
+     "Alpi: sottospecie nana prostrata oltre il limite del bosco"
+    ],
+    "altitudine": "0-2500 m",
+    "terreno_preferito": "povero, sassoso, acido o calcareo; ama la luce",
+    "descrizione": "Pascoli, brughiere, radure, boschi radi di pino e larice."
+   },
+   "ecologia": {
+    "descrizione": "Colonizzatrice di pascoli abbandonati e terreni poveri: protegge con gli aghi pungenti le giovani piante che crescono sotto, dagli animali al pascolo."
+   },
+   "stagionalita": {
+    "primavera": "Polline.",
+    "estate": "Bacche verdi e blu insieme.",
+    "autunno": "Bacche blu-nere mature.",
+    "inverno": "Sempreverde."
+   },
+   "specie_simili": [
+    {
+     "id_specie": "cupressus-sempervirens",
+     "come_distinguere": "Il cipresso ha foglie a squama, non pungenti, e frutti legnosi tondi."
+    },
+    {
+     "id_specie": "taxus-baccata",
+     "come_distinguere": "Il tasso ha aghi piatti e non pungenti, su due file, e bacche rosse."
+    }
+   ],
+   "commestibilita": {
+    "parti": "bacche mature (come spezia)",
+    "note": "Le bacche blu si usano come aromatica per selvaggina, crauti e marinate, e per aromatizzare il gin e le grappe.",
+    "avvertenze": "Usarne poche: in quantità irritano i reni; sconsigliate in gravidanza."
+   },
+   "tossicita": {
+    "livello": "bassa",
+    "parti": "bacche in quantità, olio essenziale",
+    "note": "Irritanti per i reni se consumate in quantità o come olio essenziale."
+   },
+   "curiosita_e_usi": "Il gin prende il nome dal ginepro (in olandese genever). Il suo fumo era usato per affumicare carni e speck.",
+   "immagini": [
+    {
+     "tipo": "silhouette",
+     "file": "img/juniperus-communis-silhouette.jpg",
+     "fonte": "Wikimedia Commons",
+     "autore": "Rasbak at Dutch Wikipedia",
+     "licenza": "CC BY-SA 3.0",
+     "url_originale": "https://commons.wikimedia.org/wiki/File:Jeneverbes.jpg",
+     "titolo_originale": "Jeneverbes.jpg"
+    },
+    {
+     "tipo": "foglia",
+     "file": "img/juniperus-communis-foglia.jpg",
+     "fonte": "Wikimedia Commons",
+     "autore": "Joanna Boisse",
+     "licenza": "CC BY-SA 4.0",
+     "url_originale": "https://commons.wikimedia.org/wiki/File:Atlas_roslin_pl_Ja%C5%82owiec_pospolity_11475_7239.jpg",
+     "titolo_originale": "Atlas roslin pl Jałowiec pospolity 11475 7239.jpg"
+    },
+    {
+     "tipo": "corteccia",
+     "file": "img/juniperus-communis-corteccia.jpg",
+     "fonte": "Wikimedia Commons",
+     "autore": "Wilhelm Zimmerling PAR",
+     "licenza": "CC BY-SA 4.0",
+     "url_originale": "https://commons.wikimedia.org/wiki/File:Ruhland,_Rosa-Luxemburg-Str._19,_Gew%C3%B6hnlicher_Wacholder,_Stamm_und_Rinde,_02.jpg",
+     "titolo_originale": "Ruhland, Rosa-Luxemburg-Str. 19, Gewöhnlicher Wacholder, Stamm und Rinde, 02.jpg"
+    }
+   ],
+   "fonti": [
+    {
+     "titolo": "Juniperus communis – Wikipedia (it)",
+     "url": "https://it.wikipedia.org/wiki/Juniperus_communis"
+    },
+    {
+     "titolo": "Juniperus communis – Wikipedia (en)",
+     "url": "https://en.wikipedia.org/wiki/Juniperus_communis"
+    }
+   ]
+  },
+  {
    "id": "aesculus-hippocastanum",
    "nome_comune": "Ippocastano",
    "nome_scientifico": "Aesculus hippocastanum",
@@ -3797,6 +4581,194 @@
     {
      "titolo": "Aesculus hippocastanum – Wikipedia (en)",
      "url": "https://en.wikipedia.org/wiki/Aesculus_hippocastanum"
+    }
+   ]
+  },
+  {
+   "id": "larix-decidua",
+   "nome_comune": "Larice",
+   "nome_scientifico": "Larix decidua",
+   "famiglia": "Pinaceae",
+   "genere": "Larix",
+   "sinonimi": [
+    "Larice europeo"
+   ],
+   "nomi_locali": [],
+   "stato": "bozza",
+   "aggiornato": "2026-09-25",
+   "chiave": {
+    "gruppo": "conifera",
+    "persistenza": "caduca",
+    "foglia_tipo": "aghiforme",
+    "foglia_disposizione": "fascicolata",
+    "foglia_margine": [
+     "intero"
+    ],
+    "foglia_forma": [
+     "aghi"
+    ],
+    "frutto": "cono",
+    "corteccia_texture": [
+     "fessurata",
+     "a_placche"
+    ],
+    "habitat": [
+     "montano",
+     "subalpino"
+    ],
+    "altitudine_m": [
+     1000,
+     2400
+    ],
+    "ramificazione": "monopodiale",
+    "ruolo_ecologico": [
+     "pioniera"
+    ],
+    "luce": "eliofila"
+   },
+   "tratti_chiave": [
+    "L'unica conifera italiana che perde gli aghi in inverno: in autunno diventa giallo-oro",
+    "Aghi morbidi, a ciuffi di 20-40 su piccoli cuscinetti dei rametti",
+    "Piccole pigne erette (2-4 cm) che restano sui rami per anni"
+   ],
+   "origine": {
+    "stato": "autoctona",
+    "note": ""
+   },
+   "foglie": {
+    "tipo": "aghiforme",
+    "disposizione": "a ciuffi di 20-40 sui rametti corti; singoli sui getti dell'anno",
+    "forma": "aghi di 2-4 cm, morbidi, non pungenti",
+    "margine": "intero",
+    "venatura": "non visibile",
+    "colore_stagionale": {
+     "primavera_estate": "verde chiaro tenero in primavera, poi verde medio",
+     "autunno": "giallo-oro, poi cadono"
+    },
+    "descrizione": ""
+   },
+   "corteccia": {
+    "colore": "bruno-rossastro, rosso vivo nei solchi",
+    "texture": "spessa, fessurata in placche",
+    "evoluzione_con_eta": "molto spessa negli alberi vecchi, protegge dal fuoco e dal freddo",
+    "descrizione": ""
+   },
+   "rami_e_portamento": {
+    "disposizione_rami": "verticillata irregolare; rametti corti a cuscinetto",
+    "angolo_di_crescita": "rami orizzontali, rametti un po' ricadenti",
+    "forma_chioma": "conica e leggera, rada",
+    "silhouette_invernale": "spoglio: rami con tanti cuscinetti scuri e piccole pigne; si distingue da tutte le altre conifere",
+    "descrizione": "Chioma leggera che lascia passare molta luce: sotto crescono prati (i lariceti pascolati).",
+    "ramificazione": "Monopodiale."
+   },
+   "gemme": {
+    "forma": "piccole, tondeggianti",
+    "colore": "bruno-rossastre",
+    "disposizione": "all'apice dei rametti corti",
+    "descrizione": ""
+   },
+   "fiori_e_frutti": {
+    "tipo_fiore": "pianta monoica: coni maschili gialli; coni femminili rosa-rossi eretti, molto belli",
+    "periodo_fioritura": "aprile-maggio, con i primi aghi",
+    "tipo_frutto": "pigna ovoide di 2-4 cm, eretta, bruna, con squame arrotondate",
+    "periodo_fruttificazione": "settembre-ottobre; i semi cadono nell'inverno, le pigne vuote restano sui rami anni",
+    "descrizione": ""
+   },
+   "dimensioni": {
+    "altezza_tipica_m": [
+     25,
+     35
+    ],
+    "altezza_max_m": 50,
+    "eta_massima_anni": null,
+    "note": "Può vivere molti secoli: alcuni larici delle Alpi (per esempio in Val d'Ultimo) sono considerati millenari, ma le età più alte sono stime."
+   },
+   "habitat_e_distribuzione": {
+    "regioni_italia": [
+     "Alpi, soprattutto versanti soleggiati e valli interne",
+     "Piantato qua e là in Appennino"
+    ],
+    "altitudine": "circa 1000-2400 m, fino al limite degli alberi",
+    "terreno_preferito": "vario, anche povero e sassoso; ama la luce e l'aria secca",
+    "descrizione": "Forma lariceti puri o con cembro e abete rosso; i lariceti pascolati sono un paesaggio tipico delle Alpi."
+   },
+   "ecologia": {
+    "descrizione": "Pioniera di luce di alta quota: colonizza frane, morene e pascoli abbandonati; nel tempo può essere sostituito da abete rosso o cembro."
+   },
+   "stagionalita": {
+    "primavera": "Aghi nuovi verde tenero; coni rosa.",
+    "estate": "Verde chiaro, chioma leggera.",
+    "autunno": "Giallo-oro, poi aghi a terra.",
+    "inverno": "Spoglio, con piccole pigne sui rami."
+   },
+   "specie_simili": [
+    {
+     "id_specie": "picea-abies",
+     "come_distinguere": "L'abete rosso è sempreverde, con aghi pungenti singoli e pigne lunghe pendenti."
+    },
+    {
+     "id_specie": "pinus-sylvestris",
+     "come_distinguere": "Il pino silvestre è sempreverde, con aghi a coppie e corteccia arancione in alto."
+    }
+   ],
+   "commestibilita": {
+    "parti": "nessuna",
+    "note": "",
+    "avvertenze": ""
+   },
+   "tossicita": {
+    "livello": "nessuna_nota",
+    "parti": "",
+    "note": "Nessuna tossicità nota."
+   },
+   "curiosita_e_usi": "La resina di larice, detta 'trementina di Venezia', era usata in pittura e farmacia. Il legno, resistente all'acqua, è usato per tetti in scandole, balconi e fontane.",
+   "immagini": [
+    {
+     "tipo": "silhouette",
+     "file": "img/larix-decidua-silhouette.jpg",
+     "fonte": "Wikimedia Commons",
+     "autore": "Dominicus Johannes Bergsma",
+     "licenza": "CC BY-SA 4.0",
+     "url_originale": "https://commons.wikimedia.org/wiki/File:L%27A_de_Bran,_(1798_m)_Val_d%27Anniviers._Europese_larix_(Larix_decidua)_01.JPG",
+     "titolo_originale": "L'A de Bran, (1798 m) Val d'Anniviers. Europese larix (Larix decidua) 01.JPG"
+    },
+    {
+     "tipo": "silhouette",
+     "file": "img/larix-decidua-silhouette-2.jpg",
+     "fonte": "Wikimedia Commons",
+     "autore": "Jérôme Bon from Paris, France",
+     "licenza": "CC BY 2.0",
+     "url_originale": "https://commons.wikimedia.org/wiki/File:Larix_decidua_Embrun2.jpg",
+     "titolo_originale": "Larix decidua Embrun2.jpg",
+     "stagione": "autunno"
+    },
+    {
+     "tipo": "foglia",
+     "file": "img/larix-decidua-foglia.jpg",
+     "fonte": "Wikimedia Commons",
+     "autore": "Fulvio Spada from Torino, Italy",
+     "licenza": "CC BY-SA 2.0",
+     "url_originale": "https://commons.wikimedia.org/wiki/File:2014-07-03_Larix_decidua_cone_%26_foliage,_Valle_di_Cogne,_Italian_Alps.jpg",
+     "titolo_originale": "2014-07-03 Larix decidua cone & foliage, Valle di Cogne, Italian Alps.jpg"
+    },
+    {
+     "tipo": "corteccia",
+     "file": "img/larix-decidua-corteccia.jpg",
+     "fonte": "Wikimedia Commons",
+     "autore": "sconosciuto",
+     "licenza": "Public domain",
+     "url_originale": "https://commons.wikimedia.org/wiki/File:Bark_of_Larix_decidua.jpg",
+     "titolo_originale": "Bark of Larix decidua.jpg"
+    }
+   ],
+   "fonti": [
+    {
+     "titolo": "Larix decidua – Wikipedia (it)",
+     "url": "https://it.wikipedia.org/wiki/Larix_decidua"
+    },
+    {
+     "titolo": "Larix decidua – Wikipedia (en)",
+     "url": "https://en.wikipedia.org/wiki/Larix_decidua"
     }
    ]
   },
@@ -5407,6 +6379,567 @@
     {
      "titolo": "Pinus pinea – Wikipedia (en)",
      "url": "https://en.wikipedia.org/wiki/Pinus_pinea"
+    }
+   ]
+  },
+  {
+   "id": "pinus-pinaster",
+   "nome_comune": "Pino marittimo",
+   "nome_scientifico": "Pinus pinaster",
+   "famiglia": "Pinaceae",
+   "genere": "Pinus",
+   "sinonimi": [
+    "Pinastro"
+   ],
+   "nomi_locali": [],
+   "stato": "bozza",
+   "aggiornato": "2026-09-25",
+   "chiave": {
+    "gruppo": "conifera",
+    "persistenza": "sempreverde",
+    "foglia_tipo": "aghiforme",
+    "foglia_disposizione": "fascicolata",
+    "foglia_margine": [
+     "intero"
+    ],
+    "foglia_forma": [
+     "aghi"
+    ],
+    "frutto": "cono",
+    "corteccia_texture": [
+     "fessurata",
+     "a_placche"
+    ],
+    "habitat": [
+     "mediterraneo_costiero",
+     "collinare"
+    ],
+    "altitudine_m": [
+     0,
+     800
+    ],
+    "ramificazione": "monopodiale",
+    "ruolo_ecologico": [
+     "pioniera"
+    ],
+    "luce": "eliofila"
+   },
+   "tratti_chiave": [
+    "Aghi a coppie lunghissimi (15-25 cm), grossi e rigidi",
+    "Pigne grandi (8-22 cm), coniche e lucide, spesso a gruppi, che restano per anni sui rami",
+    "Corteccia spessa, bruno-rossastra, profondamente solcata in grandi placche"
+   ],
+   "origine": {
+    "stato": "autoctona",
+    "note": "Spontaneo in Liguria, Toscana costiera, Sardegna e Pantelleria; altrove piantato."
+   },
+   "foglie": {
+    "tipo": "aghiforme",
+    "disposizione": "a coppie (fascetti di 2 aghi) con guaina alla base",
+    "forma": "aghi di 15-25 cm, spessi (circa 2 mm), rigidi e pungenti",
+    "margine": "intero, finemente seghettato al tatto",
+    "venatura": "non visibile (aghi)",
+    "colore_stagionale": {
+     "primavera_estate": "verde scuro o verde-grigio lucido",
+     "autunno": "invariato (sempreverde)"
+    },
+    "descrizione": ""
+   },
+   "corteccia": {
+    "colore": "bruno-rossastro scuro, violaceo nei solchi",
+    "texture": "molto spessa, a grandi placche separate da solchi profondi",
+    "evoluzione_con_eta": "le placche si allargano con l'età",
+    "descrizione": ""
+   },
+   "rami_e_portamento": {
+    "disposizione_rami": "verticillata: rami in palchi",
+    "angolo_di_crescita": "rami ascendenti",
+    "forma_chioma": "conica e piramidale da giovane, poi irregolare; tronco spesso inclinato",
+    "silhouette_invernale": "sempreverde; chioma rada con le pigne ben visibili",
+    "descrizione": "Nelle pinete costiere cresce spesso piegato dal vento.",
+    "ramificazione": "Monopodiale, con un palco di rami per anno."
+   },
+   "gemme": {
+    "forma": "grosse, fusiformi, fino a 3 cm",
+    "colore": "bruno-rossastre",
+    "disposizione": "gemma apicale con gemme laterali in cerchio",
+    "descrizione": "Non resinose; squame con i margini sfrangiati e bianchi, ripiegati all'indietro."
+   },
+   "fiori_e_frutti": {
+    "tipo_fiore": "pianta monoica: coni maschili gialli numerosi; coni femminili rossastri",
+    "periodo_fioritura": "aprile-maggio",
+    "tipo_frutto": "pigna di 8-22 cm, conica e appuntita, bruno-rossa lucida, con squame a punta",
+    "periodo_fruttificazione": "matura nel secondo anno; spesso resta chiusa sui rami per anni e si apre con il caldo o il fuoco",
+    "descrizione": ""
+   },
+   "dimensioni": {
+    "altezza_tipica_m": [
+     20,
+     30
+    ],
+    "altezza_max_m": 35,
+    "eta_massima_anni": null,
+    "note": "Età massima non accertata."
+   },
+   "habitat_e_distribuzione": {
+    "regioni_italia": [
+     "Liguria, Toscana (Maremma, isola d'Elba), Sardegna, Pantelleria",
+     "Piantato su dune e colline costiere in altre regioni"
+    ],
+    "altitudine": "0-800 m",
+    "terreno_preferito": "acido, sabbioso o silicatico; evita il calcare",
+    "descrizione": "Tipico delle colline costiere acide e delle dune."
+   },
+   "ecologia": {
+    "descrizione": "Pioniera di luce dei suoli acidi e sabbiosi; dopo gli incendi i semi, liberati dalle pigne aperte dal calore, ricolonizzano rapidamente il terreno."
+   },
+   "stagionalita": {
+    "primavera": "Fioritura; getti nuovi.",
+    "estate": "Pigne verdi.",
+    "autunno": "Pigne mature.",
+    "inverno": "Chioma verde scuro."
+   },
+   "specie_simili": [
+    {
+     "id_specie": "pinus-pinea",
+     "come_distinguere": "Il pino domestico ha chioma a ombrello, aghi più corti e chiari, pigne tonde con pinoli grandi."
+    },
+    {
+     "id_specie": "pinus-nigra",
+     "come_distinguere": "Il pino nero ha aghi più corti (8-16 cm), gemme resinose e pigne piccole (5-8 cm)."
+    }
+   ],
+   "commestibilita": {
+    "parti": "nessuna",
+    "note": "I semi sono piccoli e non si usano come cibo.",
+    "avvertenze": ""
+   },
+   "tossicita": {
+    "livello": "nessuna_nota",
+    "parti": "",
+    "note": "Nessuna tossicità nota."
+   },
+   "curiosita_e_usi": "È stato a lungo il pino della resina: incidendo il tronco si raccoglieva la resina per ricavarne trementina e colofonia. Le Landes, in Francia, sono la più grande foresta piantata d'Europa, fatta quasi solo di pino marittimo.",
+   "immagini": [
+    {
+     "tipo": "silhouette",
+     "file": "img/pinus-pinaster-silhouette.jpg",
+     "fonte": "Wikimedia Commons",
+     "autore": "jacilluch",
+     "licenza": "CC BY-SA 2.0",
+     "url_originale": "https://commons.wikimedia.org/wiki/File:Pino_resinero_(6344573367).jpg",
+     "titolo_originale": "Pino resinero (6344573367).jpg"
+    },
+    {
+     "tipo": "corteccia",
+     "file": "img/pinus-pinaster-corteccia.jpg",
+     "fonte": "Wikimedia Commons",
+     "autore": "Les Meloures at lb.wikipedia",
+     "licenza": "CC BY-SA 3.0",
+     "url_originale": "https://commons.wikimedia.org/wiki/File:Korsesch_Kiefer_Stamm_JCW.jpg",
+     "titolo_originale": "Korsesch Kiefer Stamm JCW.jpg"
+    }
+   ],
+   "fonti": [
+    {
+     "titolo": "Pinus pinaster – Wikipedia (it)",
+     "url": "https://it.wikipedia.org/wiki/Pinus_pinaster"
+    },
+    {
+     "titolo": "Pinus pinaster – Wikipedia (en)",
+     "url": "https://en.wikipedia.org/wiki/Pinus_pinaster"
+    }
+   ]
+  },
+  {
+   "id": "pinus-nigra",
+   "nome_comune": "Pino nero",
+   "nome_scientifico": "Pinus nigra",
+   "famiglia": "Pinaceae",
+   "genere": "Pinus",
+   "sinonimi": [
+    "Pino austriaco",
+    "Pino laricio (sottospecie laricio)"
+   ],
+   "nomi_locali": [],
+   "stato": "bozza",
+   "aggiornato": "2026-09-25",
+   "chiave": {
+    "gruppo": "conifera",
+    "persistenza": "sempreverde",
+    "foglia_tipo": "aghiforme",
+    "foglia_disposizione": "fascicolata",
+    "foglia_margine": [
+     "intero"
+    ],
+    "foglia_forma": [
+     "aghi"
+    ],
+    "frutto": "cono",
+    "corteccia_texture": [
+     "a_placche",
+     "fessurata"
+    ],
+    "habitat": [
+     "montano",
+     "collinare",
+     "rupestre_arido"
+    ],
+    "altitudine_m": [
+     300,
+     1800
+    ],
+    "ramificazione": "monopodiale",
+    "ruolo_ecologico": [
+     "pioniera"
+    ],
+    "luce": "eliofila"
+   },
+   "tratti_chiave": [
+    "Aghi a coppie, lunghi 8-16 cm, verde scuro, rigidi e dritti",
+    "Corteccia grigio scuro (grigio-argento nel laricio) a grandi placche, senza tratto arancione",
+    "Chioma scura e densa; pigne di 5-8 cm, giallo-brune e lucide, quasi senza peduncolo"
+   ],
+   "origine": {
+    "stato": "autoctona",
+    "note": "Spontaneo nelle Alpi orientali (Friuli) e, come sottospecie laricio, in Calabria, Sicilia e Corsica; altrove piantato in grandi rimboschimenti."
+   },
+   "foglie": {
+    "tipo": "aghiforme",
+    "disposizione": "a coppie (fascetti di 2 aghi) con guaina alla base",
+    "forma": "aghi di 8-16 cm, rigidi, dritti o appena curvi, pungenti",
+    "margine": "intero, finemente seghettato al tatto",
+    "venatura": "non visibile (aghi)",
+    "colore_stagionale": {
+     "primavera_estate": "verde scuro",
+     "autunno": "invariato (sempreverde)"
+    },
+    "descrizione": "Nel pino laricio gli aghi sono più sottili, flessibili e spesso ritorti."
+   },
+   "corteccia": {
+    "colore": "grigio scuro o nerastro; grigio-argento nel laricio",
+    "texture": "fessurata in grandi placche separate da solchi profondi",
+    "evoluzione_con_eta": "negli alberi vecchi le placche diventano chiare e piatte",
+    "descrizione": ""
+   },
+   "rami_e_portamento": {
+    "disposizione_rami": "verticillata: rami in palchi",
+    "angolo_di_crescita": "rami ascendenti da giovane, poi orizzontali",
+    "forma_chioma": "conica e densa da giovane; negli alberi vecchi appiattita in cima",
+    "silhouette_invernale": "sempreverde; chioma cupa, quasi nera da lontano",
+    "descrizione": "Nei rimboschimenti forma boschi fitti e scuri, con pochissima vita nel sottobosco.",
+    "ramificazione": "Monopodiale, con un palco di rami per anno."
+   },
+   "gemme": {
+    "forma": "ovoidali-appuntite, 1-2 cm",
+    "colore": "bruno chiaro, coperte di resina biancastra",
+    "disposizione": "gemma apicale con gemme laterali in cerchio",
+    "descrizione": "Squame strettamente aderenti, impiastrate di resina: le distingue da quelle del pino marittimo, sfrangiate e non resinose."
+   },
+   "fiori_e_frutti": {
+    "tipo_fiore": "pianta monoica: coni maschili gialli a grappolo; coni femminili rossastri all'apice dei getti",
+    "periodo_fioritura": "maggio-giugno",
+    "tipo_frutto": "pigna di 5-8 cm, ovoide-conica, giallo-bruna lucida, quasi sessile, orizzontale sul ramo",
+    "periodo_fruttificazione": "matura nel secondo autunno",
+    "descrizione": ""
+   },
+   "dimensioni": {
+    "altezza_tipica_m": [
+     20,
+     35
+    ],
+    "altezza_max_m": 45,
+    "eta_massima_anni": null,
+    "note": "Età massima non accertata; gli esemplari di laricio in Sila possono superare alcuni secoli (stima indicativa)."
+   },
+   "habitat_e_distribuzione": {
+    "regioni_italia": [
+     "Alpi orientali (Friuli, Veneto), su calcare",
+     "Calabria (Sila, Aspromonte) e Sicilia (Etna): pino laricio",
+     "Rimboschimenti in tutta Italia, soprattutto Appennino"
+    ],
+    "altitudine": "circa 300-1800 m",
+    "terreno_preferito": "calcareo o dolomitico, anche sassoso e povero; il laricio anche su graniti e lave",
+    "descrizione": "Sopporta siccità, freddo e vento: per questo è stato piantato ovunque per consolidare versanti franosi."
+   },
+   "ecologia": {
+    "descrizione": "Pioniera di luce su suoli poveri e rocciosi. Nei rimboschimenti prepara il suolo: sotto la sua copertura si reinsediano col tempo latifoglie come roverella, orniello e faggio."
+   },
+   "stagionalita": {
+    "primavera": "Getti nuovi ('candele') chiari e dritti.",
+    "estate": "Pigne verdi.",
+    "autunno": "Pigne mature lucide.",
+    "inverno": "Chioma scura e densa."
+   },
+   "specie_simili": [
+    {
+     "id_specie": "pinus-sylvestris",
+     "come_distinguere": "Il pino silvestre ha aghi corti grigio-azzurri e corteccia arancione nella parte alta del tronco."
+    },
+    {
+     "id_specie": "pinus-pinaster",
+     "come_distinguere": "Il pino marittimo ha aghi ancora più lunghi e grossi, gemme non resinose e pigne grandi (8-22 cm)."
+    },
+    {
+     "id_specie": "pinus-pinea",
+     "come_distinguere": "Il pino domestico ha chioma a ombrello, aghi verde chiaro e pigne grandi e tonde con pinoli."
+    }
+   ],
+   "commestibilita": {
+    "parti": "nessuna",
+    "note": "I semi sono piccoli e non si usano come cibo.",
+    "avvertenze": ""
+   },
+   "tossicita": {
+    "livello": "nessuna_nota",
+    "parti": "",
+    "note": "Nessuna tossicità nota."
+   },
+   "curiosita_e_usi": "Il pino laricio della Sila fornì per secoli tronchi dritti per navi e travature. La resina del pino nero austriaco era raccolta per ricavarne trementina e pece.",
+   "immagini": [
+    {
+     "tipo": "silhouette",
+     "file": "img/pinus-nigra-silhouette.jpg",
+     "fonte": "Wikimedia Commons",
+     "autore": "Jean-Pol GRANDMONT",
+     "licenza": "CC BY 3.0",
+     "url_originale": "https://commons.wikimedia.org/wiki/File:Pinus_nigra_JPG2A.jpg",
+     "titolo_originale": "Pinus nigra JPG2A.jpg"
+    },
+    {
+     "tipo": "foglia",
+     "file": "img/pinus-nigra-foglia.jpg",
+     "fonte": "Wikimedia Commons",
+     "autore": "AnRo0002",
+     "licenza": "CC0",
+     "url_originale": "https://commons.wikimedia.org/wiki/File:20180404Pinus_nigra3.jpg",
+     "titolo_originale": "20180404Pinus nigra3.jpg"
+    },
+    {
+     "tipo": "fiore_o_frutto",
+     "file": "img/pinus-nigra-fiore_o_frutto.jpg",
+     "fonte": "Wikimedia Commons",
+     "autore": "ElenaLitera",
+     "licenza": "CC BY-SA 4.0",
+     "url_originale": "https://commons.wikimedia.org/wiki/File:%D0%9A%D0%B0%D0%B7%D0%B0%D1%85%D1%81%D1%82%D0%B0%D0%BD,_%D0%90%D0%BB%D0%BC%D0%B0%D1%82%D1%8B,_%D0%90%D0%BB%D0%BC%D0%B0%D1%82%D0%B8%D0%BD%D1%81%D0%BA%D0%B8%D0%B9_%D0%B1%D0%BE%D1%82%D1%81%D0%B0%D0%B4,_%D1%81%D0%BE%D1%81%D0%BD%D0%BE%D0%B2%D1%8B%D0%B5_%D1%88%D0%B8%D1%88%D0%BA%D0%B8.jpg",
+     "titolo_originale": "Казахстан, Алматы, Алматинский ботсад, сосновые шишки.jpg"
+    },
+    {
+     "tipo": "corteccia",
+     "file": "img/pinus-nigra-corteccia.jpg",
+     "fonte": "Wikimedia Commons",
+     "autore": "Famartin",
+     "licenza": "CC BY-SA 4.0",
+     "url_originale": "https://commons.wikimedia.org/wiki/File:2021-03-05_12_00_11_Austrian_Pine_bark_along_Elevation_Lane_in_the_Franklin_Farm_section_of_Oak_Hill,_Fairfax_County,_Virginia.jpg",
+     "titolo_originale": "2021-03-05 12 00 11 Austrian Pine bark along Elevation Lane in the Franklin Farm section of Oak Hill, Fairfax County, Virginia.jpg"
+    },
+    {
+     "tipo": "gemme",
+     "file": "img/pinus-nigra-gemme.jpg",
+     "fonte": "Wikimedia Commons",
+     "autore": "Kiril Kapustin",
+     "licenza": "CC BY 2.5",
+     "url_originale": "https://commons.wikimedia.org/wiki/File:Pinus_nigra_buds_Bulgaria.jpg",
+     "titolo_originale": "Pinus nigra buds Bulgaria.jpg"
+    }
+   ],
+   "fonti": [
+    {
+     "titolo": "Pinus nigra – Wikipedia (it)",
+     "url": "https://it.wikipedia.org/wiki/Pinus_nigra"
+    },
+    {
+     "titolo": "Pinus nigra – Wikipedia (en)",
+     "url": "https://en.wikipedia.org/wiki/Pinus_nigra"
+    }
+   ]
+  },
+  {
+   "id": "pinus-sylvestris",
+   "nome_comune": "Pino silvestre",
+   "nome_scientifico": "Pinus sylvestris",
+   "famiglia": "Pinaceae",
+   "genere": "Pinus",
+   "sinonimi": [
+    "Pino di Scozia"
+   ],
+   "nomi_locali": [],
+   "stato": "bozza",
+   "aggiornato": "2026-09-25",
+   "chiave": {
+    "gruppo": "conifera",
+    "persistenza": "sempreverde",
+    "foglia_tipo": "aghiforme",
+    "foglia_disposizione": "fascicolata",
+    "foglia_margine": [
+     "intero"
+    ],
+    "foglia_forma": [
+     "aghi"
+    ],
+    "frutto": "cono",
+    "corteccia_texture": [
+     "a_placche",
+     "desquamante"
+    ],
+    "habitat": [
+     "montano",
+     "collinare",
+     "subalpino"
+    ],
+    "altitudine_m": [
+     200,
+     2000
+    ],
+    "ramificazione": "monopodiale",
+    "ruolo_ecologico": [
+     "pioniera"
+    ],
+    "luce": "eliofila"
+   },
+   "tratti_chiave": [
+    "Nella parte alta del tronco e sui rami la corteccia è arancione e si sfoglia in lamine sottili",
+    "Aghi a coppie, corti (3-7 cm), grigio-azzurri e un po' ritorti",
+    "Pigne piccole (3-7 cm), grigio-brune e opache, su un corto peduncolo ricurvo all'indietro"
+   ],
+   "origine": {
+    "stato": "autoctona",
+    "note": ""
+   },
+   "foglie": {
+    "tipo": "aghiforme",
+    "disposizione": "a coppie (fascetti di 2 aghi) con guaina alla base",
+    "forma": "aghi di 3-7 cm, rigidi, un po' ritorti",
+    "margine": "intero, finemente seghettato al tatto",
+    "venatura": "non visibile (aghi)",
+    "colore_stagionale": {
+     "primavera_estate": "verde-grigio o verde-azzurro, con righe biancastre",
+     "autunno": "invariato (sempreverde)"
+    },
+    "descrizione": "Gli aghi restano sulla pianta 2-4 anni."
+   },
+   "corteccia": {
+    "colore": "grigio-bruno alla base, arancione vivo in alto",
+    "texture": "alla base spessa e fessurata in placche; in alto sottile, liscia, si sfoglia in lamine come carta",
+    "evoluzione_con_eta": "il tratto arancione resta visibile anche negli alberi vecchi",
+    "descrizione": "Il 'tronco arancione' in cima si vede da lontano: è il carattere più rapido per riconoscerlo."
+   },
+   "rami_e_portamento": {
+    "disposizione_rami": "verticillata: rami in palchi, uno per anno",
+    "angolo_di_crescita": "rami orizzontali o un po' ascendenti",
+    "forma_chioma": "conica da giovane, poi irregolare e appiattita, spesso con tronco lungo e spoglio",
+    "silhouette_invernale": "sempreverde; chioma rada e grigio-azzurra in cima a un tronco arancione",
+    "descrizione": "In bosco perde presto i rami bassi; isolato o sulle rocce assume forme contorte.",
+    "ramificazione": "Monopodiale: la gemma apicale allunga il fusto ogni anno e intorno nasce un nuovo palco di rami."
+   },
+   "gemme": {
+    "forma": "ovoidali-appuntite, 6-12 mm",
+    "colore": "bruno-rossastre, un po' resinose",
+    "disposizione": "gemma apicale con gemme laterali in cerchio",
+    "descrizione": ""
+   },
+   "fiori_e_frutti": {
+    "tipo_fiore": "pianta monoica: coni maschili gialli a grappolo alla base dei getti nuovi; coni femminili piccoli, rossastri, all'apice",
+    "periodo_fioritura": "maggio-giugno",
+    "tipo_frutto": "pigna (cono) di 3-7 cm, ovoide-appuntita, grigio-bruna e opaca, su breve peduncolo ricurvo",
+    "periodo_fruttificazione": "matura nel secondo autunno dopo la fioritura; si apre alla fine dell'inverno",
+    "descrizione": "I semi, piccoli e alati, sono mangiati da scoiattoli, crocieri e picchi."
+   },
+   "dimensioni": {
+    "altezza_tipica_m": [
+     20,
+     35
+    ],
+    "altezza_max_m": 40,
+    "eta_massima_anni": null,
+    "note": "Età massima non accertata (stima indicativa: alcuni secoli)."
+   },
+   "habitat_e_distribuzione": {
+    "regioni_italia": [
+     "Alpi, soprattutto valli interne più secche (Valle d'Aosta, Valtellina, Val Venosta, Alto Adige)",
+     "Appennino settentrionale: pochi nuclei relitti",
+     "Spesso piantato nei rimboschimenti"
+    ],
+    "altitudine": "circa 200-2000 m",
+    "terreno_preferito": "povero, anche sabbioso o sassoso, acido o calcareo; tollera la siccità",
+    "descrizione": "Forma pinete rade su versanti soleggiati e secchi, dove altri alberi faticano."
+   },
+   "ecologia": {
+    "descrizione": "Tipica pioniera di luce: colonizza frane, greti, pascoli abbandonati e suoli poverissimi; col tempo, dove il suolo migliora, lascia spazio ad abeti, faggi e querce."
+   },
+   "stagionalita": {
+    "primavera": "Getti nuovi chiari; nuvole di polline giallo.",
+    "estate": "Pigne verdi dell'anno prima.",
+    "autunno": "Pigne mature grigio-brune.",
+    "inverno": "Chioma grigio-azzurra; tronco arancione ben visibile nella neve."
+   },
+   "specie_simili": [
+    {
+     "id_specie": "pinus-nigra",
+     "come_distinguere": "Il pino nero ha aghi più lunghi (8-16 cm), verde scuro e dritti, e corteccia grigia fino in cima, senza tratto arancione."
+    },
+    {
+     "id_specie": "pinus-pinaster",
+     "come_distinguere": "Il pino marittimo ha aghi lunghissimi (15-25 cm) e pigne grandi (8-22 cm) lucide."
+    }
+   ],
+   "commestibilita": {
+    "parti": "nessuna parte di uso comune",
+    "note": "I germogli giovani si usano in sciroppi e caramelle balsamiche in alcune tradizioni.",
+    "avvertenze": "Evitare preparazioni casalinghe concentrate: la resina può irritare."
+   },
+   "tossicita": {
+    "livello": "nessuna_nota",
+    "parti": "",
+    "note": "Nessuna tossicità nota per l'uso normale."
+   },
+   "curiosita_e_usi": "È il pino con la distribuzione più vasta al mondo: dalla Spagna alla Siberia orientale. Il legno, resinoso, era usato per travi, pali e fiaccole.",
+   "immagini": [
+    {
+     "tipo": "silhouette",
+     "file": "img/pinus-sylvestris-silhouette.jpg",
+     "fonte": "Wikimedia Commons",
+     "autore": "Agnes Monkelbaan",
+     "licenza": "CC BY-SA 4.0",
+     "url_originale": "https://commons.wikimedia.org/wiki/File:Delleboersterheide,_natuurgebied_van_het_It_Fryske_Gea._25-12-2019._(actm.)_10.jpg",
+     "titolo_originale": "Delleboersterheide, natuurgebied van het It Fryske Gea. 25-12-2019. (actm.) 10.jpg"
+    },
+    {
+     "tipo": "foglia",
+     "file": "img/pinus-sylvestris-foglia.jpg",
+     "fonte": "Wikimedia Commons",
+     "autore": "AnRo0002",
+     "licenza": "CC0",
+     "url_originale": "https://commons.wikimedia.org/wiki/File:20151215Pinus_sylvestris2.jpg",
+     "titolo_originale": "20151215Pinus sylvestris2.jpg"
+    },
+    {
+     "tipo": "corteccia",
+     "file": "img/pinus-sylvestris-corteccia.jpg",
+     "fonte": "Wikimedia Commons",
+     "autore": "Roy Zuo",
+     "licenza": "CC BY-SA 4.0",
+     "url_originale": "https://commons.wikimedia.org/wiki/File:(202412)_Fischtalpark_06.jpg",
+     "titolo_originale": "(202412) Fischtalpark 06.jpg"
+    },
+    {
+     "tipo": "gemme",
+     "file": "img/pinus-sylvestris-gemme.jpg",
+     "fonte": "Wikimedia Commons",
+     "autore": "Douglas Goldman",
+     "licenza": "CC BY-SA 4.0",
+     "url_originale": "https://commons.wikimedia.org/wiki/File:PinusSylvestris10.jpg",
+     "titolo_originale": "PinusSylvestris10.jpg"
+    }
+   ],
+   "fonti": [
+    {
+     "titolo": "Pinus sylvestris – Wikipedia (it)",
+     "url": "https://it.wikipedia.org/wiki/Pinus_sylvestris"
+    },
+    {
+     "titolo": "Pinus sylvestris – Wikipedia (en)",
+     "url": "https://en.wikipedia.org/wiki/Pinus_sylvestris"
     }
    ]
   },
@@ -7661,6 +9194,202 @@
    ]
   },
   {
+   "id": "taxus-baccata",
+   "nome_comune": "Tasso",
+   "nome_scientifico": "Taxus baccata",
+   "famiglia": "Taxaceae",
+   "genere": "Taxus",
+   "sinonimi": [
+    "Albero della morte"
+   ],
+   "nomi_locali": [],
+   "stato": "bozza",
+   "aggiornato": "2026-09-25",
+   "chiave": {
+    "gruppo": "conifera",
+    "persistenza": "sempreverde",
+    "foglia_tipo": "aghiforme",
+    "foglia_disposizione": "spiralata",
+    "foglia_margine": [
+     "intero"
+    ],
+    "foglia_forma": [
+     "lineare"
+    ],
+    "frutto": "arillo",
+    "corteccia_texture": [
+     "desquamante",
+     "a_placche"
+    ],
+    "habitat": [
+     "montano",
+     "collinare"
+    ],
+    "altitudine_m": [
+     200,
+     1800
+    ],
+    "ramificazione": "non_accertata",
+    "ruolo_ecologico": [
+     "non_accertato"
+    ],
+    "luce": "sciafila"
+   },
+   "tratti_chiave": [
+    "Aghi piatti, appuntiti ma non pungenti, verde scuro lucido sopra e verde chiaro sotto, senza strisce bianche",
+    "Frutti rossi a coppa carnosa (arilli) con il seme scuro visibile, sulle piante femminili",
+    "Corteccia rosso-bruna sottile che si sfalda in placche; nessuna resina"
+   ],
+   "origine": {
+    "stato": "autoctona",
+    "note": ""
+   },
+   "foglie": {
+    "tipo": "aghiforme",
+    "disposizione": "a spirale, ma girati su due file ai lati del rametto",
+    "forma": "aghi lineari di 1-3 cm, piatti, con punta breve",
+    "margine": "intero",
+    "venatura": "una nervatura centrale in rilievo",
+    "colore_stagionale": {
+     "primavera_estate": "verde scuro lucido sopra, verde più chiaro sotto",
+     "autunno": "invariato (sempreverde)"
+    },
+    "descrizione": "ATTENZIONE: tutta la pianta è molto velenosa, tranne la polpa rossa del frutto."
+   },
+   "corteccia": {
+    "colore": "rosso-bruno",
+    "texture": "sottile, liscia, si sfalda in placche mostrando zone più chiare e rossastre",
+    "evoluzione_con_eta": "il tronco diventa scanalato e contorto, spesso cavo",
+    "descrizione": ""
+   },
+   "rami_e_portamento": {
+    "disposizione_rami": "rami numerosi, spesso dalla base",
+    "angolo_di_crescita": "rami orizzontali o ascendenti",
+    "forma_chioma": "densa, tondeggiante o ovale, molto scura",
+    "silhouette_invernale": "sempreverde; chioma cupa e fitta",
+    "descrizione": "Sopporta la potatura più di ogni altra conifera: per questo è usato in siepi e sculture da giardino.",
+    "ramificazione": "Tipo di ramificazione: dato non accertato."
+   },
+   "gemme": {
+    "forma": "piccole, ovoidali",
+    "colore": "verdi",
+    "disposizione": "alterne",
+    "descrizione": ""
+   },
+   "fiori_e_frutti": {
+    "tipo_fiore": "pianta dioica: coni maschili giallastri sotto i rametti; fiori femminili piccolissimi",
+    "periodo_fioritura": "febbraio-aprile",
+    "tipo_frutto": "seme scuro avvolto parzialmente da un arillo rosso, carnoso e mucillaginoso",
+    "periodo_fruttificazione": "agosto-ottobre",
+    "descrizione": "Il seme è velenosissimo; gli uccelli mangiano l'arillo ed espellono il seme intatto."
+   },
+   "dimensioni": {
+    "altezza_tipica_m": [
+     10,
+     15
+    ],
+    "altezza_max_m": 20,
+    "eta_massima_anni": null,
+    "note": "Età massima non accertata: è tra gli alberi più longevi d'Europa, ma il tronco cavo rende le età molto incerte (alcuni esemplari sono stimati millenari)."
+   },
+   "habitat_e_distribuzione": {
+    "regioni_italia": [
+     "Tutta Italia, sparso nelle faggete, nelle forre e sui versanti freschi",
+     "Coltivato in parchi, giardini e cimiteri"
+    ],
+    "altitudine": "circa 200-1800 m",
+    "terreno_preferito": "fresco, spesso calcareo; ama l'umidità dell'aria",
+    "descrizione": "Raro in natura, di solito come alberi isolati nel sottobosco di faggio o in valloni ombrosi."
+   },
+   "ecologia": {
+    "descrizione": "Tra le conifere più tolleranti all'ombra: cresce lentamente sotto gli altri alberi. Ruolo nella successione: dato non accertato."
+   },
+   "stagionalita": {
+    "primavera": "Polline dai coni maschili (fine inverno).",
+    "estate": "Arilli verdi.",
+    "autunno": "Arilli rossi.",
+    "inverno": "Chioma scura."
+   },
+   "specie_simili": [
+    {
+     "id_specie": "abies-alba",
+     "come_distinguere": "L'abete bianco ha aghi con due strisce bianche sotto e punta incavata, e porta pigne."
+    },
+    {
+     "id_specie": "juniperus-communis",
+     "come_distinguere": "Il ginepro ha aghi pungenti a gruppi di tre e bacche blu-nere."
+    }
+   ],
+   "commestibilita": {
+    "parti": "nessuna (sconsigliato)",
+    "note": "La polpa rossa dell'arillo non è velenosa, ma il seme al suo interno sì.",
+    "avvertenze": "NON mangiare nessuna parte: aghi, corteccia e semi sono mortalmente velenosi; attenzione ai bambini e agli animali (cavalli, bovini)."
+   },
+   "tossicita": {
+    "livello": "alta",
+    "parti": "aghi, corteccia, rametti, semi",
+    "note": "Contengono taxine, alcaloidi che bloccano il cuore; anche piccole quantità di aghi possono essere mortali."
+   },
+   "curiosita_e_usi": "Dal tasso si ricava il paclitaxel (taxolo), un farmaco antitumorale. Il suo legno elastico serviva per gli archi lunghi medievali.",
+   "immagini": [
+    {
+     "tipo": "silhouette",
+     "file": "img/taxus-baccata-silhouette.jpg",
+     "fonte": "Wikimedia Commons",
+     "autore": "Eirian Evans",
+     "licenza": "CC BY-SA 2.0",
+     "url_originale": "https://commons.wikimedia.org/wiki/File:Yew_Tree,_Melverley_Churchyard_-_geograph.org.uk_-_582914.jpg",
+     "titolo_originale": "Yew Tree, Melverley Churchyard - geograph.org.uk - 582914.jpg"
+    },
+    {
+     "tipo": "foglia",
+     "file": "img/taxus-baccata-foglia.jpg",
+     "fonte": "Wikimedia Commons",
+     "autore": "Agnieszka Kwiecień, Nova",
+     "licenza": "CC BY-SA 4.0",
+     "url_originale": "https://commons.wikimedia.org/wiki/File:Taxus_baccata_Cis_pospolity_2024-05-26_08.jpg",
+     "titolo_originale": "Taxus baccata Cis pospolity 2024-05-26 08.jpg"
+    },
+    {
+     "tipo": "fiore_o_frutto",
+     "file": "img/taxus-baccata-fiore_o_frutto.jpg",
+     "fonte": "Wikimedia Commons",
+     "autore": "AnRo0002",
+     "licenza": "CC0",
+     "url_originale": "https://commons.wikimedia.org/wiki/File:20130903Taxus_baccata6.jpg",
+     "titolo_originale": "20130903Taxus baccata6.jpg"
+    },
+    {
+     "tipo": "fiore_o_frutto",
+     "file": "img/taxus-baccata-fiore_o_frutto-2.jpg",
+     "fonte": "Wikimedia Commons",
+     "autore": "Didier Descouens",
+     "licenza": "CC BY-SA 4.0",
+     "url_originale": "https://commons.wikimedia.org/wiki/File:Taxus_baccata_MHNT.jpg",
+     "titolo_originale": "Taxus baccata MHNT.jpg"
+    },
+    {
+     "tipo": "corteccia",
+     "file": "img/taxus-baccata-corteccia.jpg",
+     "fonte": "Wikimedia Commons",
+     "autore": "AnRo0002",
+     "licenza": "CC0",
+     "url_originale": "https://commons.wikimedia.org/wiki/File:20130903Taxus_baccata4.jpg",
+     "titolo_originale": "20130903Taxus baccata4.jpg"
+    }
+   ],
+   "fonti": [
+    {
+     "titolo": "Taxus baccata – Wikipedia (it)",
+     "url": "https://it.wikipedia.org/wiki/Taxus_baccata"
+    },
+    {
+     "titolo": "Taxus baccata – Wikipedia (en)",
+     "url": "https://en.wikipedia.org/wiki/Taxus_baccata"
+    }
+   ]
+  },
+  {
    "id": "tilia-platyphyllos",
    "nome_comune": "Tiglio nostrano",
    "nome_scientifico": "Tilia platyphyllos",
@@ -8821,6 +10550,66 @@
     "ceratonia-siliqua"
    ],
    "stagione": "autunno"
+  },
+  {
+   "id": "c068",
+   "testo": "Le pigne dell'abete bianco non cadono mai intere: si disfano sul ramo. Se trovi a terra una pigna intera pendente, è di abete rosso.",
+   "specie": [
+    "abies-alba",
+    "picea-abies"
+   ]
+  },
+  {
+   "id": "c069",
+   "testo": "Il larice è l'unica conifera delle Alpi che perde gli aghi: in ottobre interi versanti diventano color oro.",
+   "specie": [
+    "larix-decidua"
+   ],
+   "stagione": "autunno"
+  },
+  {
+   "id": "c070",
+   "testo": "Il pino silvestre si riconosce da lontano: la parte alta del tronco è arancione, come se fosse illuminata dal tramonto.",
+   "specie": [
+    "pinus-sylvestris"
+   ]
+  },
+  {
+   "id": "c071",
+   "testo": "Gli abeti rossi della Val di Fiemme, cresciuti lentamente al freddo, danno il legno di risonanza usato per i violini.",
+   "specie": [
+    "picea-abies"
+   ]
+  },
+  {
+   "id": "c072",
+   "testo": "Del tasso quasi tutto è velenoso, tranne la polpa rossa del frutto; i merli la mangiano e disperdono il seme intatto.",
+   "specie": [
+    "taxus-baccata"
+   ],
+   "stagione": "autunno"
+  },
+  {
+   "id": "c073",
+   "testo": "Le bacche di ginepro impiegano due o tre anni a maturare: sulla stessa pianta ce ne sono di verdi e di blu.",
+   "specie": [
+    "juniperus-communis"
+   ]
+  },
+  {
+   "id": "c074",
+   "testo": "Il pino marittimo tiene chiuse per anni molte pigne: il calore di un incendio le apre, e i semi ricolonizzano il terreno bruciato.",
+   "specie": [
+    "pinus-pinaster"
+   ],
+   "stagione": "estate"
+  },
+  {
+   "id": "c075",
+   "testo": "Il pino nero è stato piantato su migliaia di ettari di Appennino per fermare le frane: sotto la sua ombra oggi tornano le latifoglie.",
+   "specie": [
+    "pinus-nigra"
+   ]
   }
  ],
  "elenco_specie": [
@@ -9142,7 +10931,7 @@
    "nome_scientifico": "Pinus sylvestris",
    "gruppo": "conifera",
    "lotto": 5,
-   "stato": "pianificata"
+   "stato": "compilata"
   },
   {
    "id": "pinus-nigra",
@@ -9150,7 +10939,7 @@
    "nome_scientifico": "Pinus nigra",
    "gruppo": "conifera",
    "lotto": 5,
-   "stato": "pianificata"
+   "stato": "compilata"
   },
   {
    "id": "pinus-pinaster",
@@ -9158,7 +10947,7 @@
    "nome_scientifico": "Pinus pinaster",
    "gruppo": "conifera",
    "lotto": 5,
-   "stato": "pianificata"
+   "stato": "compilata"
   },
   {
    "id": "pinus-pinea",
@@ -9174,7 +10963,7 @@
    "nome_scientifico": "Abies alba",
    "gruppo": "conifera",
    "lotto": 5,
-   "stato": "pianificata"
+   "stato": "compilata"
   },
   {
    "id": "picea-abies",
@@ -9182,7 +10971,7 @@
    "nome_scientifico": "Picea abies",
    "gruppo": "conifera",
    "lotto": 5,
-   "stato": "pianificata"
+   "stato": "compilata"
   },
   {
    "id": "larix-decidua",
@@ -9190,7 +10979,7 @@
    "nome_scientifico": "Larix decidua",
    "gruppo": "conifera",
    "lotto": 5,
-   "stato": "pianificata"
+   "stato": "compilata"
   },
   {
    "id": "cupressus-sempervirens",
@@ -9198,7 +10987,7 @@
    "nome_scientifico": "Cupressus sempervirens",
    "gruppo": "conifera",
    "lotto": 5,
-   "stato": "pianificata"
+   "stato": "compilata"
   },
   {
    "id": "juniperus-communis",
@@ -9206,7 +10995,7 @@
    "nome_scientifico": "Juniperus communis",
    "gruppo": "conifera",
    "lotto": 5,
-   "stato": "pianificata"
+   "stato": "compilata"
   },
   {
    "id": "taxus-baccata",
@@ -9214,7 +11003,7 @@
    "nome_scientifico": "Taxus baccata",
    "gruppo": "conifera",
    "lotto": 5,
-   "stato": "pianificata"
+   "stato": "compilata"
   },
   {
    "id": "robinia-pseudoacacia",

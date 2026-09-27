@@ -1,0 +1,203 @@
+{
+  "id": "pinus-nigra",
+  "nome_comune": "Pino nero",
+  "nome_scientifico": "Pinus nigra",
+  "famiglia": "Pinaceae",
+  "genere": "Pinus",
+  "sinonimi": [
+    "Pino austriaco",
+    "Pino laricio (sottospecie laricio)"
+  ],
+  "nomi_locali": [],
+  "stato": "bozza",
+  "aggiornato": "2026-09-25",
+  "chiave": {
+    "gruppo": "conifera",
+    "persistenza": "sempreverde",
+    "foglia_tipo": "aghiforme",
+    "foglia_disposizione": "fascicolata",
+    "foglia_margine": [
+      "intero"
+    ],
+    "foglia_forma": [
+      "aghi"
+    ],
+    "frutto": "cono",
+    "corteccia_texture": [
+      "a_placche",
+      "fessurata"
+    ],
+    "habitat": [
+      "montano",
+      "collinare",
+      "rupestre_arido"
+    ],
+    "altitudine_m": [
+      300,
+      1800
+    ],
+    "ramificazione": "monopodiale",
+    "ruolo_ecologico": [
+      "pioniera"
+    ],
+    "luce": "eliofila"
+  },
+  "tratti_chiave": [
+    "Aghi a coppie, lunghi 8-16 cm, verde scuro, rigidi e dritti",
+    "Corteccia grigio scuro (grigio-argento nel laricio) a grandi placche, senza tratto arancione",
+    "Chioma scura e densa; pigne di 5-8 cm, giallo-brune e lucide, quasi senza peduncolo"
+  ],
+  "origine": {
+    "stato": "autoctona",
+    "note": "Spontaneo nelle Alpi orientali (Friuli) e, come sottospecie laricio, in Calabria, Sicilia e Corsica; altrove piantato in grandi rimboschimenti."
+  },
+  "foglie": {
+    "tipo": "aghiforme",
+    "disposizione": "a coppie (fascetti di 2 aghi) con guaina alla base",
+    "forma": "aghi di 8-16 cm, rigidi, dritti o appena curvi, pungenti",
+    "margine": "intero, finemente seghettato al tatto",
+    "venatura": "non visibile (aghi)",
+    "colore_stagionale": {
+      "primavera_estate": "verde scuro",
+      "autunno": "invariato (sempreverde)"
+    },
+    "descrizione": "Nel pino laricio gli aghi sono più sottili, flessibili e spesso ritorti."
+  },
+  "corteccia": {
+    "colore": "grigio scuro o nerastro; grigio-argento nel laricio",
+    "texture": "fessurata in grandi placche separate da solchi profondi",
+    "evoluzione_con_eta": "negli alberi vecchi le placche diventano chiare e piatte",
+    "descrizione": ""
+  },
+  "rami_e_portamento": {
+    "disposizione_rami": "verticillata: rami in palchi",
+    "angolo_di_crescita": "rami ascendenti da giovane, poi orizzontali",
+    "forma_chioma": "conica e densa da giovane; negli alberi vecchi appiattita in cima",
+    "silhouette_invernale": "sempreverde; chioma cupa, quasi nera da lontano",
+    "descrizione": "Nei rimboschimenti forma boschi fitti e scuri, con pochissima vita nel sottobosco.",
+    "ramificazione": "Monopodiale, con un palco di rami per anno."
+  },
+  "gemme": {
+    "forma": "ovoidali-appuntite, 1-2 cm",
+    "colore": "bruno chiaro, coperte di resina biancastra",
+    "disposizione": "gemma apicale con gemme laterali in cerchio",
+    "descrizione": "Squame strettamente aderenti, impiastrate di resina: le distingue da quelle del pino marittimo, sfrangiate e non resinose."
+  },
+  "fiori_e_frutti": {
+    "tipo_fiore": "pianta monoica: coni maschili gialli a grappolo; coni femminili rossastri all'apice dei getti",
+    "periodo_fioritura": "maggio-giugno",
+    "tipo_frutto": "pigna di 5-8 cm, ovoide-conica, giallo-bruna lucida, quasi sessile, orizzontale sul ramo",
+    "periodo_fruttificazione": "matura nel secondo autunno",
+    "descrizione": ""
+  },
+  "dimensioni": {
+    "altezza_tipica_m": [
+      20,
+      35
+    ],
+    "altezza_max_m": 45,
+    "eta_massima_anni": null,
+    "note": "Età massima non accertata; gli esemplari di laricio in Sila possono superare alcuni secoli (stima indicativa)."
+  },
+  "habitat_e_distribuzione": {
+    "regioni_italia": [
+      "Alpi orientali (Friuli, Veneto), su calcare",
+      "Calabria (Sila, Aspromonte) e Sicilia (Etna): pino laricio",
+      "Rimboschimenti in tutta Italia, soprattutto Appennino"
+    ],
+    "altitudine": "circa 300-1800 m",
+    "terreno_preferito": "calcareo o dolomitico, anche sassoso e povero; il laricio anche su graniti e lave",
+    "descrizione": "Sopporta siccità, freddo e vento: per questo è stato piantato ovunque per consolidare versanti franosi."
+  },
+  "ecologia": {
+    "descrizione": "Pioniera di luce su suoli poveri e rocciosi. Nei rimboschimenti prepara il suolo: sotto la sua copertura si reinsediano col tempo latifoglie come roverella, orniello e faggio."
+  },
+  "stagionalita": {
+    "primavera": "Getti nuovi ('candele') chiari e dritti.",
+    "estate": "Pigne verdi.",
+    "autunno": "Pigne mature lucide.",
+    "inverno": "Chioma scura e densa."
+  },
+  "specie_simili": [
+    {
+      "id_specie": "pinus-sylvestris",
+      "come_distinguere": "Il pino silvestre ha aghi corti grigio-azzurri e corteccia arancione nella parte alta del tronco."
+    },
+    {
+      "id_specie": "pinus-pinaster",
+      "come_distinguere": "Il pino marittimo ha aghi ancora più lunghi e grossi, gemme non resinose e pigne grandi (8-22 cm)."
+    },
+    {
+      "id_specie": "pinus-pinea",
+      "come_distinguere": "Il pino domestico ha chioma a ombrello, aghi verde chiaro e pigne grandi e tonde con pinoli."
+    }
+  ],
+  "commestibilita": {
+    "parti": "nessuna",
+    "note": "I semi sono piccoli e non si usano come cibo.",
+    "avvertenze": ""
+  },
+  "tossicita": {
+    "livello": "nessuna_nota",
+    "parti": "",
+    "note": "Nessuna tossicità nota."
+  },
+  "curiosita_e_usi": "Il pino laricio della Sila fornì per secoli tronchi dritti per navi e travature. La resina del pino nero austriaco era raccolta per ricavarne trementina e pece.",
+  "immagini": [
+    {
+      "tipo": "silhouette",
+      "file": "img/pinus-nigra-silhouette.jpg",
+      "fonte": "Wikimedia Commons",
+      "autore": "Jean-Pol GRANDMONT",
+      "licenza": "CC BY 3.0",
+      "url_originale": "https://commons.wikimedia.org/wiki/File:Pinus_nigra_JPG2A.jpg",
+      "titolo_originale": "Pinus nigra JPG2A.jpg"
+    },
+    {
+      "tipo": "foglia",
+      "file": "img/pinus-nigra-foglia.jpg",
+      "fonte": "Wikimedia Commons",
+      "autore": "AnRo0002",
+      "licenza": "CC0",
+      "url_originale": "https://commons.wikimedia.org/wiki/File:20180404Pinus_nigra3.jpg",
+      "titolo_originale": "20180404Pinus nigra3.jpg"
+    },
+    {
+      "tipo": "corteccia",
+      "file": "img/pinus-nigra-corteccia.jpg",
+      "fonte": "Wikimedia Commons",
+      "autore": "Famartin",
+      "licenza": "CC BY-SA 4.0",
+      "url_originale": "https://commons.wikimedia.org/wiki/File:2021-03-05_12_00_11_Austrian_Pine_bark_along_Elevation_Lane_in_the_Franklin_Farm_section_of_Oak_Hill,_Fairfax_County,_Virginia.jpg",
+      "titolo_originale": "2021-03-05 12 00 11 Austrian Pine bark along Elevation Lane in the Franklin Farm section of Oak Hill, Fairfax County, Virginia.jpg"
+    },
+    {
+      "tipo": "fiore_o_frutto",
+      "file": "img/pinus-nigra-fiore_o_frutto.jpg",
+      "fonte": "Wikimedia Commons",
+      "autore": "ElenaLitera",
+      "licenza": "CC BY-SA 4.0",
+      "url_originale": "https://commons.wikimedia.org/wiki/File:%D0%9A%D0%B0%D0%B7%D0%B0%D1%85%D1%81%D1%82%D0%B0%D0%BD,_%D0%90%D0%BB%D0%BC%D0%B0%D1%82%D1%8B,_%D0%90%D0%BB%D0%BC%D0%B0%D1%82%D0%B8%D0%BD%D1%81%D0%BA%D0%B8%D0%B9_%D0%B1%D0%BE%D1%82%D1%81%D0%B0%D0%B4,_%D1%81%D0%BE%D1%81%D0%BD%D0%BE%D0%B2%D1%8B%D0%B5_%D1%88%D0%B8%D1%88%D0%BA%D0%B8.jpg",
+      "titolo_originale": "Казахстан, Алматы, Алматинский ботсад, сосновые шишки.jpg"
+    },
+    {
+      "tipo": "gemme",
+      "file": "img/pinus-nigra-gemme.jpg",
+      "fonte": "Wikimedia Commons",
+      "autore": "Kiril Kapustin",
+      "licenza": "CC BY 2.5",
+      "url_originale": "https://commons.wikimedia.org/wiki/File:Pinus_nigra_buds_Bulgaria.jpg",
+      "titolo_originale": "Pinus nigra buds Bulgaria.jpg"
+    }
+  ],
+  "fonti": [
+    {
+      "titolo": "Pinus nigra – Wikipedia (it)",
+      "url": "https://it.wikipedia.org/wiki/Pinus_nigra"
+    },
+    {
+      "titolo": "Pinus nigra – Wikipedia (en)",
+      "url": "https://en.wikipedia.org/wiki/Pinus_nigra"
+    }
+  ]
+}

@@ -15,21 +15,34 @@ Versioni: terza cifra = correzioni; seconda = funzioni o lotti nuovi; prima = ca
 - Lotto 3 — ramificazione: biancospino. Ruolo nel bosco: salice piangente, sorbo domestico, noce, gelso bianco.
   Età massima: pioppo bianco, pioppo nero, salice bianco, salice piangente, ciliegio, sorbo domestico,
   biancospino, noce, gelso bianco.
+- Lotto 5 — ramificazione: cipresso, ginepro, tasso. Ruolo nel bosco: cipresso, tasso. Età massima: tutte le conifere
+  del lotto (per larice e tasso esistono esemplari stimati millenari, ma sono stime).
 - Lotto 4 — ramificazione: corbezzolo, alloro, olivo, carrubo. Ruolo nel bosco: tutte e 5 (sughera, corbezzolo, alloro,
   olivo, carrubo). Età massima: sughera, corbezzolo, alloro, carrubo; olivo (le età millenarie sono stime).
 
 
 - [ ] Foto mancanti: gemme del pino domestico; gemme del gelso bianco.
       Lotto 4: gemme di corbezzolo, olivo e carrubo.
+      Lotto 5: foglie, pigne e gemme del pino marittimo; pigne del pino silvestre; galbuli del cipresso; bacche
+      del ginepro; gemme di larice, cipresso, ginepro e tasso.
       Portamento estivo di pioppo tremolo e ciliegio (le candidate erano cultivar, altre specie o foto invernali).
 - [ ] Foto fornite dall'utente (v0.4.1, v0.7.1): indicare la fonte delle 8 foto della v0.4.1; foglia del noce e corteccia
       del salice bianco (v0.7.1) sono foto dell'utente.
-- [ ] Fase 2: lotti 5 e 6, poi le aggiunte proposte (lotto 7). Lotti 1-4 fatti.
+- [ ] Fase 2: lotto 6, poi le aggiunte proposte (lotto 7). Lotti 1-5 fatti.
 - [ ] Da valutare per il lotto 7: lauroceraso e oleandro, velenosi e facili da confondere con l'alloro.
 - [ ] Fase 3: organi corteccia, rami, radici, gemme, portamento; altri 8-10 segnali del paesaggio; disegni del glossario.
 - [ ] Da valutare dopo il test: modalità inverno nell'identificazione (gemme e sagome), confronto dalla sezione Organi.
 
 ---
+
+## 0.8.0 · 2026-09-26 · Lotto 5 (conifere)
+
+- **9 nuove schede (bozza):** pino silvestre, pino nero, pino marittimo, abete bianco, abete rosso, larice, cipresso,
+  ginepro comune, tasso. Totale 49 specie.
+- **8 curiosità** in più (totale 75).
+- Tasso con tossicità alta e avvertenza; ginepro con uso delle bacche e cautele.
+- **40 foto** per le 9 conifere, con il portamento come prima foto (larice anche in autunno, dorato); abete bianco con
+  il dettaglio degli assi delle pigne rimasti sul ramo.
 
 ## 0.7.1 · 2026-09-25 · Foto aggiunte
 

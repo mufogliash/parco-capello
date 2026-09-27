@@ -1,0 +1,188 @@
+{
+  "id": "larix-decidua",
+  "nome_comune": "Larice",
+  "nome_scientifico": "Larix decidua",
+  "famiglia": "Pinaceae",
+  "genere": "Larix",
+  "sinonimi": [
+    "Larice europeo"
+  ],
+  "nomi_locali": [],
+  "stato": "bozza",
+  "aggiornato": "2026-09-25",
+  "chiave": {
+    "gruppo": "conifera",
+    "persistenza": "caduca",
+    "foglia_tipo": "aghiforme",
+    "foglia_disposizione": "fascicolata",
+    "foglia_margine": [
+      "intero"
+    ],
+    "foglia_forma": [
+      "aghi"
+    ],
+    "frutto": "cono",
+    "corteccia_texture": [
+      "fessurata",
+      "a_placche"
+    ],
+    "habitat": [
+      "montano",
+      "subalpino"
+    ],
+    "altitudine_m": [
+      1000,
+      2400
+    ],
+    "ramificazione": "monopodiale",
+    "ruolo_ecologico": [
+      "pioniera"
+    ],
+    "luce": "eliofila"
+  },
+  "tratti_chiave": [
+    "L'unica conifera italiana che perde gli aghi in inverno: in autunno diventa giallo-oro",
+    "Aghi morbidi, a ciuffi di 20-40 su piccoli cuscinetti dei rametti",
+    "Piccole pigne erette (2-4 cm) che restano sui rami per anni"
+  ],
+  "origine": {
+    "stato": "autoctona",
+    "note": ""
+  },
+  "foglie": {
+    "tipo": "aghiforme",
+    "disposizione": "a ciuffi di 20-40 sui rametti corti; singoli sui getti dell'anno",
+    "forma": "aghi di 2-4 cm, morbidi, non pungenti",
+    "margine": "intero",
+    "venatura": "non visibile",
+    "colore_stagionale": {
+      "primavera_estate": "verde chiaro tenero in primavera, poi verde medio",
+      "autunno": "giallo-oro, poi cadono"
+    },
+    "descrizione": ""
+  },
+  "corteccia": {
+    "colore": "bruno-rossastro, rosso vivo nei solchi",
+    "texture": "spessa, fessurata in placche",
+    "evoluzione_con_eta": "molto spessa negli alberi vecchi, protegge dal fuoco e dal freddo",
+    "descrizione": ""
+  },
+  "rami_e_portamento": {
+    "disposizione_rami": "verticillata irregolare; rametti corti a cuscinetto",
+    "angolo_di_crescita": "rami orizzontali, rametti un po' ricadenti",
+    "forma_chioma": "conica e leggera, rada",
+    "silhouette_invernale": "spoglio: rami con tanti cuscinetti scuri e piccole pigne; si distingue da tutte le altre conifere",
+    "descrizione": "Chioma leggera che lascia passare molta luce: sotto crescono prati (i lariceti pascolati).",
+    "ramificazione": "Monopodiale."
+  },
+  "gemme": {
+    "forma": "piccole, tondeggianti",
+    "colore": "bruno-rossastre",
+    "disposizione": "all'apice dei rametti corti",
+    "descrizione": ""
+  },
+  "fiori_e_frutti": {
+    "tipo_fiore": "pianta monoica: coni maschili gialli; coni femminili rosa-rossi eretti, molto belli",
+    "periodo_fioritura": "aprile-maggio, con i primi aghi",
+    "tipo_frutto": "pigna ovoide di 2-4 cm, eretta, bruna, con squame arrotondate",
+    "periodo_fruttificazione": "settembre-ottobre; i semi cadono nell'inverno, le pigne vuote restano sui rami anni",
+    "descrizione": ""
+  },
+  "dimensioni": {
+    "altezza_tipica_m": [
+      25,
+      35
+    ],
+    "altezza_max_m": 50,
+    "eta_massima_anni": null,
+    "note": "Può vivere molti secoli: alcuni larici delle Alpi (per esempio in Val d'Ultimo) sono considerati millenari, ma le età più alte sono stime."
+  },
+  "habitat_e_distribuzione": {
+    "regioni_italia": [
+      "Alpi, soprattutto versanti soleggiati e valli interne",
+      "Piantato qua e là in Appennino"
+    ],
+    "altitudine": "circa 1000-2400 m, fino al limite degli alberi",
+    "terreno_preferito": "vario, anche povero e sassoso; ama la luce e l'aria secca",
+    "descrizione": "Forma lariceti puri o con cembro e abete rosso; i lariceti pascolati sono un paesaggio tipico delle Alpi."
+  },
+  "ecologia": {
+    "descrizione": "Pioniera di luce di alta quota: colonizza frane, morene e pascoli abbandonati; nel tempo può essere sostituito da abete rosso o cembro."
+  },
+  "stagionalita": {
+    "primavera": "Aghi nuovi verde tenero; coni rosa.",
+    "estate": "Verde chiaro, chioma leggera.",
+    "autunno": "Giallo-oro, poi aghi a terra.",
+    "inverno": "Spoglio, con piccole pigne sui rami."
+  },
+  "specie_simili": [
+    {
+      "id_specie": "picea-abies",
+      "come_distinguere": "L'abete rosso è sempreverde, con aghi pungenti singoli e pigne lunghe pendenti."
+    },
+    {
+      "id_specie": "pinus-sylvestris",
+      "come_distinguere": "Il pino silvestre è sempreverde, con aghi a coppie e corteccia arancione in alto."
+    }
+  ],
+  "commestibilita": {
+    "parti": "nessuna",
+    "note": "",
+    "avvertenze": ""
+  },
+  "tossicita": {
+    "livello": "nessuna_nota",
+    "parti": "",
+    "note": "Nessuna tossicità nota."
+  },
+  "curiosita_e_usi": "La resina di larice, detta 'trementina di Venezia', era usata in pittura e farmacia. Il legno, resistente all'acqua, è usato per tetti in scandole, balconi e fontane.",
+  "immagini": [
+    {
+      "tipo": "silhouette",
+      "file": "img/larix-decidua-silhouette.jpg",
+      "fonte": "Wikimedia Commons",
+      "autore": "Dominicus Johannes Bergsma",
+      "licenza": "CC BY-SA 4.0",
+      "url_originale": "https://commons.wikimedia.org/wiki/File:L%27A_de_Bran,_(1798_m)_Val_d%27Anniviers._Europese_larix_(Larix_decidua)_01.JPG",
+      "titolo_originale": "L'A de Bran, (1798 m) Val d'Anniviers. Europese larix (Larix decidua) 01.JPG"
+    },
+    {
+      "tipo": "silhouette",
+      "file": "img/larix-decidua-silhouette-2.jpg",
+      "fonte": "Wikimedia Commons",
+      "autore": "Jérôme Bon from Paris, France",
+      "licenza": "CC BY 2.0",
+      "url_originale": "https://commons.wikimedia.org/wiki/File:Larix_decidua_Embrun2.jpg",
+      "titolo_originale": "Larix decidua Embrun2.jpg",
+      "stagione": "autunno"
+    },
+    {
+      "tipo": "foglia",
+      "file": "img/larix-decidua-foglia.jpg",
+      "fonte": "Wikimedia Commons",
+      "autore": "Fulvio Spada from Torino, Italy",
+      "licenza": "CC BY-SA 2.0",
+      "url_originale": "https://commons.wikimedia.org/wiki/File:2014-07-03_Larix_decidua_cone_%26_foliage,_Valle_di_Cogne,_Italian_Alps.jpg",
+      "titolo_originale": "2014-07-03 Larix decidua cone & foliage, Valle di Cogne, Italian Alps.jpg"
+    },
+    {
+      "tipo": "corteccia",
+      "file": "img/larix-decidua-corteccia.jpg",
+      "fonte": "Wikimedia Commons",
+      "autore": "sconosciuto",
+      "licenza": "Public domain",
+      "url_originale": "https://commons.wikimedia.org/wiki/File:Bark_of_Larix_decidua.jpg",
+      "titolo_originale": "Bark of Larix decidua.jpg"
+    }
+  ],
+  "fonti": [
+    {
+      "titolo": "Larix decidua – Wikipedia (it)",
+      "url": "https://it.wikipedia.org/wiki/Larix_decidua"
+    },
+    {
+      "titolo": "Larix decidua – Wikipedia (en)",
+      "url": "https://en.wikipedia.org/wiki/Larix_decidua"
+    }
+  ]
+}

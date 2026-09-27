@@ -428,6 +428,66 @@
         "ceratonia-siliqua"
       ],
       "stagione": "autunno"
+    },
+    {
+      "id": "c068",
+      "testo": "Le pigne dell'abete bianco non cadono mai intere: si disfano sul ramo. Se trovi a terra una pigna intera pendente, è di abete rosso.",
+      "specie": [
+        "abies-alba",
+        "picea-abies"
+      ]
+    },
+    {
+      "id": "c069",
+      "testo": "Il larice è l'unica conifera delle Alpi che perde gli aghi: in ottobre interi versanti diventano color oro.",
+      "specie": [
+        "larix-decidua"
+      ],
+      "stagione": "autunno"
+    },
+    {
+      "id": "c070",
+      "testo": "Il pino silvestre si riconosce da lontano: la parte alta del tronco è arancione, come se fosse illuminata dal tramonto.",
+      "specie": [
+        "pinus-sylvestris"
+      ]
+    },
+    {
+      "id": "c071",
+      "testo": "Gli abeti rossi della Val di Fiemme, cresciuti lentamente al freddo, danno il legno di risonanza usato per i violini.",
+      "specie": [
+        "picea-abies"
+      ]
+    },
+    {
+      "id": "c072",
+      "testo": "Del tasso quasi tutto è velenoso, tranne la polpa rossa del frutto; i merli la mangiano e disperdono il seme intatto.",
+      "specie": [
+        "taxus-baccata"
+      ],
+      "stagione": "autunno"
+    },
+    {
+      "id": "c073",
+      "testo": "Le bacche di ginepro impiegano due o tre anni a maturare: sulla stessa pianta ce ne sono di verdi e di blu.",
+      "specie": [
+        "juniperus-communis"
+      ]
+    },
+    {
+      "id": "c074",
+      "testo": "Il pino marittimo tiene chiuse per anni molte pigne: il calore di un incendio le apre, e i semi ricolonizzano il terreno bruciato.",
+      "specie": [
+        "pinus-pinaster"
+      ],
+      "stagione": "estate"
+    },
+    {
+      "id": "c075",
+      "testo": "Il pino nero è stato piantato su migliaia di ettari di Appennino per fermare le frane: sotto la sua ombra oggi tornano le latifoglie.",
+      "specie": [
+        "pinus-nigra"
+      ]
     }
   ]
 }

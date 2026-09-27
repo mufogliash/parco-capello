@@ -1,0 +1,169 @@
+{
+  "id": "pinus-pinaster",
+  "nome_comune": "Pino marittimo",
+  "nome_scientifico": "Pinus pinaster",
+  "famiglia": "Pinaceae",
+  "genere": "Pinus",
+  "sinonimi": [
+    "Pinastro"
+  ],
+  "nomi_locali": [],
+  "stato": "bozza",
+  "aggiornato": "2026-09-25",
+  "chiave": {
+    "gruppo": "conifera",
+    "persistenza": "sempreverde",
+    "foglia_tipo": "aghiforme",
+    "foglia_disposizione": "fascicolata",
+    "foglia_margine": [
+      "intero"
+    ],
+    "foglia_forma": [
+      "aghi"
+    ],
+    "frutto": "cono",
+    "corteccia_texture": [
+      "fessurata",
+      "a_placche"
+    ],
+    "habitat": [
+      "mediterraneo_costiero",
+      "collinare"
+    ],
+    "altitudine_m": [
+      0,
+      800
+    ],
+    "ramificazione": "monopodiale",
+    "ruolo_ecologico": [
+      "pioniera"
+    ],
+    "luce": "eliofila"
+  },
+  "tratti_chiave": [
+    "Aghi a coppie lunghissimi (15-25 cm), grossi e rigidi",
+    "Pigne grandi (8-22 cm), coniche e lucide, spesso a gruppi, che restano per anni sui rami",
+    "Corteccia spessa, bruno-rossastra, profondamente solcata in grandi placche"
+  ],
+  "origine": {
+    "stato": "autoctona",
+    "note": "Spontaneo in Liguria, Toscana costiera, Sardegna e Pantelleria; altrove piantato."
+  },
+  "foglie": {
+    "tipo": "aghiforme",
+    "disposizione": "a coppie (fascetti di 2 aghi) con guaina alla base",
+    "forma": "aghi di 15-25 cm, spessi (circa 2 mm), rigidi e pungenti",
+    "margine": "intero, finemente seghettato al tatto",
+    "venatura": "non visibile (aghi)",
+    "colore_stagionale": {
+      "primavera_estate": "verde scuro o verde-grigio lucido",
+      "autunno": "invariato (sempreverde)"
+    },
+    "descrizione": ""
+  },
+  "corteccia": {
+    "colore": "bruno-rossastro scuro, violaceo nei solchi",
+    "texture": "molto spessa, a grandi placche separate da solchi profondi",
+    "evoluzione_con_eta": "le placche si allargano con l'età",
+    "descrizione": ""
+  },
+  "rami_e_portamento": {
+    "disposizione_rami": "verticillata: rami in palchi",
+    "angolo_di_crescita": "rami ascendenti",
+    "forma_chioma": "conica e piramidale da giovane, poi irregolare; tronco spesso inclinato",
+    "silhouette_invernale": "sempreverde; chioma rada con le pigne ben visibili",
+    "descrizione": "Nelle pinete costiere cresce spesso piegato dal vento.",
+    "ramificazione": "Monopodiale, con un palco di rami per anno."
+  },
+  "gemme": {
+    "forma": "grosse, fusiformi, fino a 3 cm",
+    "colore": "bruno-rossastre",
+    "disposizione": "gemma apicale con gemme laterali in cerchio",
+    "descrizione": "Non resinose; squame con i margini sfrangiati e bianchi, ripiegati all'indietro."
+  },
+  "fiori_e_frutti": {
+    "tipo_fiore": "pianta monoica: coni maschili gialli numerosi; coni femminili rossastri",
+    "periodo_fioritura": "aprile-maggio",
+    "tipo_frutto": "pigna di 8-22 cm, conica e appuntita, bruno-rossa lucida, con squame a punta",
+    "periodo_fruttificazione": "matura nel secondo anno; spesso resta chiusa sui rami per anni e si apre con il caldo o il fuoco",
+    "descrizione": ""
+  },
+  "dimensioni": {
+    "altezza_tipica_m": [
+      20,
+      30
+    ],
+    "altezza_max_m": 35,
+    "eta_massima_anni": null,
+    "note": "Età massima non accertata."
+  },
+  "habitat_e_distribuzione": {
+    "regioni_italia": [
+      "Liguria, Toscana (Maremma, isola d'Elba), Sardegna, Pantelleria",
+      "Piantato su dune e colline costiere in altre regioni"
+    ],
+    "altitudine": "0-800 m",
+    "terreno_preferito": "acido, sabbioso o silicatico; evita il calcare",
+    "descrizione": "Tipico delle colline costiere acide e delle dune."
+  },
+  "ecologia": {
+    "descrizione": "Pioniera di luce dei suoli acidi e sabbiosi; dopo gli incendi i semi, liberati dalle pigne aperte dal calore, ricolonizzano rapidamente il terreno."
+  },
+  "stagionalita": {
+    "primavera": "Fioritura; getti nuovi.",
+    "estate": "Pigne verdi.",
+    "autunno": "Pigne mature.",
+    "inverno": "Chioma verde scuro."
+  },
+  "specie_simili": [
+    {
+      "id_specie": "pinus-pinea",
+      "come_distinguere": "Il pino domestico ha chioma a ombrello, aghi più corti e chiari, pigne tonde con pinoli grandi."
+    },
+    {
+      "id_specie": "pinus-nigra",
+      "come_distinguere": "Il pino nero ha aghi più corti (8-16 cm), gemme resinose e pigne piccole (5-8 cm)."
+    }
+  ],
+  "commestibilita": {
+    "parti": "nessuna",
+    "note": "I semi sono piccoli e non si usano come cibo.",
+    "avvertenze": ""
+  },
+  "tossicita": {
+    "livello": "nessuna_nota",
+    "parti": "",
+    "note": "Nessuna tossicità nota."
+  },
+  "curiosita_e_usi": "È stato a lungo il pino della resina: incidendo il tronco si raccoglieva la resina per ricavarne trementina e colofonia. Le Landes, in Francia, sono la più grande foresta piantata d'Europa, fatta quasi solo di pino marittimo.",
+  "immagini": [
+    {
+      "tipo": "silhouette",
+      "file": "img/pinus-pinaster-silhouette.jpg",
+      "fonte": "Wikimedia Commons",
+      "autore": "jacilluch",
+      "licenza": "CC BY-SA 2.0",
+      "url_originale": "https://commons.wikimedia.org/wiki/File:Pino_resinero_(6344573367).jpg",
+      "titolo_originale": "Pino resinero (6344573367).jpg"
+    },
+    {
+      "tipo": "corteccia",
+      "file": "img/pinus-pinaster-corteccia.jpg",
+      "fonte": "Wikimedia Commons",
+      "autore": "Les Meloures at lb.wikipedia",
+      "licenza": "CC BY-SA 3.0",
+      "url_originale": "https://commons.wikimedia.org/wiki/File:Korsesch_Kiefer_Stamm_JCW.jpg",
+      "titolo_originale": "Korsesch Kiefer Stamm JCW.jpg"
+    }
+  ],
+  "fonti": [
+    {
+      "titolo": "Pinus pinaster – Wikipedia (it)",
+      "url": "https://it.wikipedia.org/wiki/Pinus_pinaster"
+    },
+    {
+      "titolo": "Pinus pinaster – Wikipedia (en)",
+      "url": "https://en.wikipedia.org/wiki/Pinus_pinaster"
+    }
+  ]
+}

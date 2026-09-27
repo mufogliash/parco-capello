@@ -1,0 +1,189 @@
+{
+  "id": "pinus-sylvestris",
+  "nome_comune": "Pino silvestre",
+  "nome_scientifico": "Pinus sylvestris",
+  "famiglia": "Pinaceae",
+  "genere": "Pinus",
+  "sinonimi": [
+    "Pino di Scozia"
+  ],
+  "nomi_locali": [],
+  "stato": "bozza",
+  "aggiornato": "2026-09-25",
+  "chiave": {
+    "gruppo": "conifera",
+    "persistenza": "sempreverde",
+    "foglia_tipo": "aghiforme",
+    "foglia_disposizione": "fascicolata",
+    "foglia_margine": [
+      "intero"
+    ],
+    "foglia_forma": [
+      "aghi"
+    ],
+    "frutto": "cono",
+    "corteccia_texture": [
+      "a_placche",
+      "desquamante"
+    ],
+    "habitat": [
+      "montano",
+      "collinare",
+      "subalpino"
+    ],
+    "altitudine_m": [
+      200,
+      2000
+    ],
+    "ramificazione": "monopodiale",
+    "ruolo_ecologico": [
+      "pioniera"
+    ],
+    "luce": "eliofila"
+  },
+  "tratti_chiave": [
+    "Nella parte alta del tronco e sui rami la corteccia è arancione e si sfoglia in lamine sottili",
+    "Aghi a coppie, corti (3-7 cm), grigio-azzurri e un po' ritorti",
+    "Pigne piccole (3-7 cm), grigio-brune e opache, su un corto peduncolo ricurvo all'indietro"
+  ],
+  "origine": {
+    "stato": "autoctona",
+    "note": ""
+  },
+  "foglie": {
+    "tipo": "aghiforme",
+    "disposizione": "a coppie (fascetti di 2 aghi) con guaina alla base",
+    "forma": "aghi di 3-7 cm, rigidi, un po' ritorti",
+    "margine": "intero, finemente seghettato al tatto",
+    "venatura": "non visibile (aghi)",
+    "colore_stagionale": {
+      "primavera_estate": "verde-grigio o verde-azzurro, con righe biancastre",
+      "autunno": "invariato (sempreverde)"
+    },
+    "descrizione": "Gli aghi restano sulla pianta 2-4 anni."
+  },
+  "corteccia": {
+    "colore": "grigio-bruno alla base, arancione vivo in alto",
+    "texture": "alla base spessa e fessurata in placche; in alto sottile, liscia, si sfoglia in lamine come carta",
+    "evoluzione_con_eta": "il tratto arancione resta visibile anche negli alberi vecchi",
+    "descrizione": "Il 'tronco arancione' in cima si vede da lontano: è il carattere più rapido per riconoscerlo."
+  },
+  "rami_e_portamento": {
+    "disposizione_rami": "verticillata: rami in palchi, uno per anno",
+    "angolo_di_crescita": "rami orizzontali o un po' ascendenti",
+    "forma_chioma": "conica da giovane, poi irregolare e appiattita, spesso con tronco lungo e spoglio",
+    "silhouette_invernale": "sempreverde; chioma rada e grigio-azzurra in cima a un tronco arancione",
+    "descrizione": "In bosco perde presto i rami bassi; isolato o sulle rocce assume forme contorte.",
+    "ramificazione": "Monopodiale: la gemma apicale allunga il fusto ogni anno e intorno nasce un nuovo palco di rami."
+  },
+  "gemme": {
+    "forma": "ovoidali-appuntite, 6-12 mm",
+    "colore": "bruno-rossastre, un po' resinose",
+    "disposizione": "gemma apicale con gemme laterali in cerchio",
+    "descrizione": ""
+  },
+  "fiori_e_frutti": {
+    "tipo_fiore": "pianta monoica: coni maschili gialli a grappolo alla base dei getti nuovi; coni femminili piccoli, rossastri, all'apice",
+    "periodo_fioritura": "maggio-giugno",
+    "tipo_frutto": "pigna (cono) di 3-7 cm, ovoide-appuntita, grigio-bruna e opaca, su breve peduncolo ricurvo",
+    "periodo_fruttificazione": "matura nel secondo autunno dopo la fioritura; si apre alla fine dell'inverno",
+    "descrizione": "I semi, piccoli e alati, sono mangiati da scoiattoli, crocieri e picchi."
+  },
+  "dimensioni": {
+    "altezza_tipica_m": [
+      20,
+      35
+    ],
+    "altezza_max_m": 40,
+    "eta_massima_anni": null,
+    "note": "Età massima non accertata (stima indicativa: alcuni secoli)."
+  },
+  "habitat_e_distribuzione": {
+    "regioni_italia": [
+      "Alpi, soprattutto valli interne più secche (Valle d'Aosta, Valtellina, Val Venosta, Alto Adige)",
+      "Appennino settentrionale: pochi nuclei relitti",
+      "Spesso piantato nei rimboschimenti"
+    ],
+    "altitudine": "circa 200-2000 m",
+    "terreno_preferito": "povero, anche sabbioso o sassoso, acido o calcareo; tollera la siccità",
+    "descrizione": "Forma pinete rade su versanti soleggiati e secchi, dove altri alberi faticano."
+  },
+  "ecologia": {
+    "descrizione": "Tipica pioniera di luce: colonizza frane, greti, pascoli abbandonati e suoli poverissimi; col tempo, dove il suolo migliora, lascia spazio ad abeti, faggi e querce."
+  },
+  "stagionalita": {
+    "primavera": "Getti nuovi chiari; nuvole di polline giallo.",
+    "estate": "Pigne verdi dell'anno prima.",
+    "autunno": "Pigne mature grigio-brune.",
+    "inverno": "Chioma grigio-azzurra; tronco arancione ben visibile nella neve."
+  },
+  "specie_simili": [
+    {
+      "id_specie": "pinus-nigra",
+      "come_distinguere": "Il pino nero ha aghi più lunghi (8-16 cm), verde scuro e dritti, e corteccia grigia fino in cima, senza tratto arancione."
+    },
+    {
+      "id_specie": "pinus-pinaster",
+      "come_distinguere": "Il pino marittimo ha aghi lunghissimi (15-25 cm) e pigne grandi (8-22 cm) lucide."
+    }
+  ],
+  "commestibilita": {
+    "parti": "nessuna parte di uso comune",
+    "note": "I germogli giovani si usano in sciroppi e caramelle balsamiche in alcune tradizioni.",
+    "avvertenze": "Evitare preparazioni casalinghe concentrate: la resina può irritare."
+  },
+  "tossicita": {
+    "livello": "nessuna_nota",
+    "parti": "",
+    "note": "Nessuna tossicità nota per l'uso normale."
+  },
+  "curiosita_e_usi": "È il pino con la distribuzione più vasta al mondo: dalla Spagna alla Siberia orientale. Il legno, resinoso, era usato per travi, pali e fiaccole.",
+  "immagini": [
+    {
+      "tipo": "silhouette",
+      "file": "img/pinus-sylvestris-silhouette.jpg",
+      "fonte": "Wikimedia Commons",
+      "autore": "Agnes Monkelbaan",
+      "licenza": "CC BY-SA 4.0",
+      "url_originale": "https://commons.wikimedia.org/wiki/File:Delleboersterheide,_natuurgebied_van_het_It_Fryske_Gea._25-12-2019._(actm.)_10.jpg",
+      "titolo_originale": "Delleboersterheide, natuurgebied van het It Fryske Gea. 25-12-2019. (actm.) 10.jpg"
+    },
+    {
+      "tipo": "foglia",
+      "file": "img/pinus-sylvestris-foglia.jpg",
+      "fonte": "Wikimedia Commons",
+      "autore": "AnRo0002",
+      "licenza": "CC0",
+      "url_originale": "https://commons.wikimedia.org/wiki/File:20151215Pinus_sylvestris2.jpg",
+      "titolo_originale": "20151215Pinus sylvestris2.jpg"
+    },
+    {
+      "tipo": "corteccia",
+      "file": "img/pinus-sylvestris-corteccia.jpg",
+      "fonte": "Wikimedia Commons",
+      "autore": "Roy Zuo",
+      "licenza": "CC BY-SA 4.0",
+      "url_originale": "https://commons.wikimedia.org/wiki/File:(202412)_Fischtalpark_06.jpg",
+      "titolo_originale": "(202412) Fischtalpark 06.jpg"
+    },
+    {
+      "tipo": "gemme",
+      "file": "img/pinus-sylvestris-gemme.jpg",
+      "fonte": "Wikimedia Commons",
+      "autore": "Douglas Goldman",
+      "licenza": "CC BY-SA 4.0",
+      "url_originale": "https://commons.wikimedia.org/wiki/File:PinusSylvestris10.jpg",
+      "titolo_originale": "PinusSylvestris10.jpg"
+    }
+  ],
+  "fonti": [
+    {
+      "titolo": "Pinus sylvestris – Wikipedia (it)",
+      "url": "https://it.wikipedia.org/wiki/Pinus_sylvestris"
+    },
+    {
+      "titolo": "Pinus sylvestris – Wikipedia (en)",
+      "url": "https://en.wikipedia.org/wiki/Pinus_sylvestris"
+    }
+  ]
+}

@@ -1,0 +1,196 @@
+{
+  "id": "taxus-baccata",
+  "nome_comune": "Tasso",
+  "nome_scientifico": "Taxus baccata",
+  "famiglia": "Taxaceae",
+  "genere": "Taxus",
+  "sinonimi": [
+    "Albero della morte"
+  ],
+  "nomi_locali": [],
+  "stato": "bozza",
+  "aggiornato": "2026-09-25",
+  "chiave": {
+    "gruppo": "conifera",
+    "persistenza": "sempreverde",
+    "foglia_tipo": "aghiforme",
+    "foglia_disposizione": "spiralata",
+    "foglia_margine": [
+      "intero"
+    ],
+    "foglia_forma": [
+      "lineare"
+    ],
+    "frutto": "arillo",
+    "corteccia_texture": [
+      "desquamante",
+      "a_placche"
+    ],
+    "habitat": [
+      "montano",
+      "collinare"
+    ],
+    "altitudine_m": [
+      200,
+      1800
+    ],
+    "ramificazione": "non_accertata",
+    "ruolo_ecologico": [
+      "non_accertato"
+    ],
+    "luce": "sciafila"
+  },
+  "tratti_chiave": [
+    "Aghi piatti, appuntiti ma non pungenti, verde scuro lucido sopra e verde chiaro sotto, senza strisce bianche",
+    "Frutti rossi a coppa carnosa (arilli) con il seme scuro visibile, sulle piante femminili",
+    "Corteccia rosso-bruna sottile che si sfalda in placche; nessuna resina"
+  ],
+  "origine": {
+    "stato": "autoctona",
+    "note": ""
+  },
+  "foglie": {
+    "tipo": "aghiforme",
+    "disposizione": "a spirale, ma girati su due file ai lati del rametto",
+    "forma": "aghi lineari di 1-3 cm, piatti, con punta breve",
+    "margine": "intero",
+    "venatura": "una nervatura centrale in rilievo",
+    "colore_stagionale": {
+      "primavera_estate": "verde scuro lucido sopra, verde più chiaro sotto",
+      "autunno": "invariato (sempreverde)"
+    },
+    "descrizione": "ATTENZIONE: tutta la pianta è molto velenosa, tranne la polpa rossa del frutto."
+  },
+  "corteccia": {
+    "colore": "rosso-bruno",
+    "texture": "sottile, liscia, si sfalda in placche mostrando zone più chiare e rossastre",
+    "evoluzione_con_eta": "il tronco diventa scanalato e contorto, spesso cavo",
+    "descrizione": ""
+  },
+  "rami_e_portamento": {
+    "disposizione_rami": "rami numerosi, spesso dalla base",
+    "angolo_di_crescita": "rami orizzontali o ascendenti",
+    "forma_chioma": "densa, tondeggiante o ovale, molto scura",
+    "silhouette_invernale": "sempreverde; chioma cupa e fitta",
+    "descrizione": "Sopporta la potatura più di ogni altra conifera: per questo è usato in siepi e sculture da giardino.",
+    "ramificazione": "Tipo di ramificazione: dato non accertato."
+  },
+  "gemme": {
+    "forma": "piccole, ovoidali",
+    "colore": "verdi",
+    "disposizione": "alterne",
+    "descrizione": ""
+  },
+  "fiori_e_frutti": {
+    "tipo_fiore": "pianta dioica: coni maschili giallastri sotto i rametti; fiori femminili piccolissimi",
+    "periodo_fioritura": "febbraio-aprile",
+    "tipo_frutto": "seme scuro avvolto parzialmente da un arillo rosso, carnoso e mucillaginoso",
+    "periodo_fruttificazione": "agosto-ottobre",
+    "descrizione": "Il seme è velenosissimo; gli uccelli mangiano l'arillo ed espellono il seme intatto."
+  },
+  "dimensioni": {
+    "altezza_tipica_m": [
+      10,
+      15
+    ],
+    "altezza_max_m": 20,
+    "eta_massima_anni": null,
+    "note": "Età massima non accertata: è tra gli alberi più longevi d'Europa, ma il tronco cavo rende le età molto incerte (alcuni esemplari sono stimati millenari)."
+  },
+  "habitat_e_distribuzione": {
+    "regioni_italia": [
+      "Tutta Italia, sparso nelle faggete, nelle forre e sui versanti freschi",
+      "Coltivato in parchi, giardini e cimiteri"
+    ],
+    "altitudine": "circa 200-1800 m",
+    "terreno_preferito": "fresco, spesso calcareo; ama l'umidità dell'aria",
+    "descrizione": "Raro in natura, di solito come alberi isolati nel sottobosco di faggio o in valloni ombrosi."
+  },
+  "ecologia": {
+    "descrizione": "Tra le conifere più tolleranti all'ombra: cresce lentamente sotto gli altri alberi. Ruolo nella successione: dato non accertato."
+  },
+  "stagionalita": {
+    "primavera": "Polline dai coni maschili (fine inverno).",
+    "estate": "Arilli verdi.",
+    "autunno": "Arilli rossi.",
+    "inverno": "Chioma scura."
+  },
+  "specie_simili": [
+    {
+      "id_specie": "abies-alba",
+      "come_distinguere": "L'abete bianco ha aghi con due strisce bianche sotto e punta incavata, e porta pigne."
+    },
+    {
+      "id_specie": "juniperus-communis",
+      "come_distinguere": "Il ginepro ha aghi pungenti a gruppi di tre e bacche blu-nere."
+    }
+  ],
+  "commestibilita": {
+    "parti": "nessuna (sconsigliato)",
+    "note": "La polpa rossa dell'arillo non è velenosa, ma il seme al suo interno sì.",
+    "avvertenze": "NON mangiare nessuna parte: aghi, corteccia e semi sono mortalmente velenosi; attenzione ai bambini e agli animali (cavalli, bovini)."
+  },
+  "tossicita": {
+    "livello": "alta",
+    "parti": "aghi, corteccia, rametti, semi",
+    "note": "Contengono taxine, alcaloidi che bloccano il cuore; anche piccole quantità di aghi possono essere mortali."
+  },
+  "curiosita_e_usi": "Dal tasso si ricava il paclitaxel (taxolo), un farmaco antitumorale. Il suo legno elastico serviva per gli archi lunghi medievali.",
+  "immagini": [
+    {
+      "tipo": "silhouette",
+      "file": "img/taxus-baccata-silhouette.jpg",
+      "fonte": "Wikimedia Commons",
+      "autore": "Eirian Evans",
+      "licenza": "CC BY-SA 2.0",
+      "url_originale": "https://commons.wikimedia.org/wiki/File:Yew_Tree,_Melverley_Churchyard_-_geograph.org.uk_-_582914.jpg",
+      "titolo_originale": "Yew Tree, Melverley Churchyard - geograph.org.uk - 582914.jpg"
+    },
+    {
+      "tipo": "foglia",
+      "file": "img/taxus-baccata-foglia.jpg",
+      "fonte": "Wikimedia Commons",
+      "autore": "Agnieszka Kwiecień, Nova",
+      "licenza": "CC BY-SA 4.0",
+      "url_originale": "https://commons.wikimedia.org/wiki/File:Taxus_baccata_Cis_pospolity_2024-05-26_08.jpg",
+      "titolo_originale": "Taxus baccata Cis pospolity 2024-05-26 08.jpg"
+    },
+    {
+      "tipo": "corteccia",
+      "file": "img/taxus-baccata-corteccia.jpg",
+      "fonte": "Wikimedia Commons",
+      "autore": "AnRo0002",
+      "licenza": "CC0",
+      "url_originale": "https://commons.wikimedia.org/wiki/File:20130903Taxus_baccata4.jpg",
+      "titolo_originale": "20130903Taxus baccata4.jpg"
+    },
+    {
+      "tipo": "fiore_o_frutto",
+      "file": "img/taxus-baccata-fiore_o_frutto.jpg",
+      "fonte": "Wikimedia Commons",
+      "autore": "AnRo0002",
+      "licenza": "CC0",
+      "url_originale": "https://commons.wikimedia.org/wiki/File:20130903Taxus_baccata6.jpg",
+      "titolo_originale": "20130903Taxus baccata6.jpg"
+    },
+    {
+      "tipo": "fiore_o_frutto",
+      "file": "img/taxus-baccata-fiore_o_frutto-2.jpg",
+      "fonte": "Wikimedia Commons",
+      "autore": "Didier Descouens",
+      "licenza": "CC BY-SA 4.0",
+      "url_originale": "https://commons.wikimedia.org/wiki/File:Taxus_baccata_MHNT.jpg",
+      "titolo_originale": "Taxus baccata MHNT.jpg"
+    }
+  ],
+  "fonti": [
+    {
+      "titolo": "Taxus baccata – Wikipedia (it)",
+      "url": "https://it.wikipedia.org/wiki/Taxus_baccata"
+    },
+    {
+      "titolo": "Taxus baccata – Wikipedia (en)",
+      "url": "https://en.wikipedia.org/wiki/Taxus_baccata"
+    }
+  ]
+}

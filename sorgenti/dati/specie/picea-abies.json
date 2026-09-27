@@ -1,0 +1,206 @@
+{
+  "id": "picea-abies",
+  "nome_comune": "Abete rosso",
+  "nome_scientifico": "Picea abies",
+  "famiglia": "Pinaceae",
+  "genere": "Picea",
+  "sinonimi": [
+    "Peccio"
+  ],
+  "nomi_locali": [],
+  "stato": "bozza",
+  "aggiornato": "2026-09-25",
+  "chiave": {
+    "gruppo": "conifera",
+    "persistenza": "sempreverde",
+    "foglia_tipo": "aghiforme",
+    "foglia_disposizione": "spiralata",
+    "foglia_margine": [
+      "intero"
+    ],
+    "foglia_forma": [
+      "aghi"
+    ],
+    "frutto": "cono",
+    "corteccia_texture": [
+      "squamosa",
+      "desquamante"
+    ],
+    "habitat": [
+      "montano",
+      "subalpino"
+    ],
+    "altitudine_m": [
+      800,
+      2200
+    ],
+    "ramificazione": "monopodiale",
+    "ruolo_ecologico": [
+      "climax"
+    ],
+    "luce": "semisciafila"
+  },
+  "tratti_chiave": [
+    "Aghi a sezione quadrata, pungenti, disposti tutto intorno al rametto",
+    "Pigne lunghe (10-15 cm) che pendono dai rami e cadono intere",
+    "Corteccia bruno-rossastra, sottile, a piccole scaglie tonde"
+  ],
+  "origine": {
+    "stato": "autoctona",
+    "note": "Spontaneo sulle Alpi; nell'Appennino solo pochi nuclei relitti (Abetone). Molto piantato fuori dal suo areale."
+  },
+  "foglie": {
+    "tipo": "aghiforme",
+    "disposizione": "a spirale tutto intorno al rametto",
+    "forma": "aghi di 1-2,5 cm, rigidi e appuntiti, a sezione quadrata",
+    "margine": "intero",
+    "venatura": "non visibile",
+    "colore_stagionale": {
+      "primavera_estate": "verde scuro lucido su tutte le facce",
+      "autunno": "invariato (sempreverde)"
+    },
+    "descrizione": "Ogni ago sta su un piccolo cuscinetto legnoso: quando cadono, il rametto resta ruvido come una grattugia."
+  },
+  "corteccia": {
+    "colore": "bruno-rossastro",
+    "texture": "sottile, a piccole scaglie tondeggianti",
+    "evoluzione_con_eta": "nei tronchi vecchi più grigia e scagliosa",
+    "descrizione": ""
+  },
+  "rami_e_portamento": {
+    "disposizione_rami": "verticillata: rami in palchi",
+    "angolo_di_crescita": "rami principali orizzontali o un po' ricadenti, rametti spesso pendenti 'a tenda'",
+    "forma_chioma": "conica e appuntita, stretta ad alta quota",
+    "silhouette_invernale": "sempreverde; sagoma a punta, scura, con cima sempre appuntita",
+    "descrizione": "In alta montagna la chioma stretta aiuta a scaricare la neve.",
+    "ramificazione": "Monopodiale, con palchi annuali; la cima resta appuntita anche negli alberi vecchi."
+  },
+  "gemme": {
+    "forma": "coniche, 5-7 mm",
+    "colore": "bruno-rossastre, non resinose",
+    "disposizione": "all'apice dei rametti",
+    "descrizione": ""
+  },
+  "fiori_e_frutti": {
+    "tipo_fiore": "pianta monoica: coni maschili rossastri poi gialli; coni femminili rosso vivo, eretti, in cima",
+    "periodo_fioritura": "maggio-giugno",
+    "tipo_frutto": "pigna cilindrica di 10-15 cm, pendente, bruna, con squame sottili a bordo irregolare",
+    "periodo_fruttificazione": "ottobre dello stesso anno; cade intera durante l'inverno",
+    "descrizione": "Le pigne a terra rosicchiate a spirale sono opera degli scoiattoli; quelle sfilacciate, del picchio o del crociere."
+  },
+  "dimensioni": {
+    "altezza_tipica_m": [
+      30,
+      45
+    ],
+    "altezza_max_m": 55,
+    "eta_massima_anni": null,
+    "note": "Età massima non accertata (stima indicativa: alcuni secoli)."
+  },
+  "habitat_e_distribuzione": {
+    "regioni_italia": [
+      "Alpi, dalle valli fino al limite del bosco",
+      "Appennino settentrionale: nuclei relitti (Abetone)",
+      "Rimboschimenti e parchi in altre zone"
+    ],
+    "altitudine": "circa 800-2200 m",
+    "terreno_preferito": "fresco, anche acido e poco profondo; teme la siccità",
+    "descrizione": "Forma peccete estese, spesso con larice o abete bianco; le radici superficiali lo rendono sensibile al vento."
+  },
+  "ecologia": {
+    "descrizione": "Specie delle foreste di montagna ad alta quota, dove forma boschi stabili; da giovane tollera una certa ombra. Soffre siccità e caldo, che favoriscono il bostrico."
+  },
+  "stagionalita": {
+    "primavera": "Getti nuovi verde chiaro; coni femminili rossi in cima.",
+    "estate": "Pigne verdi pendenti.",
+    "autunno": "Pigne mature brune.",
+    "inverno": "Sagoma appuntita coperta di neve."
+  },
+  "specie_simili": [
+    {
+      "id_specie": "abies-alba",
+      "come_distinguere": "L'abete bianco ha aghi piatti con strisce bianche sotto, pigne erette che si disfano sul ramo e corteccia grigio-argento."
+    },
+    {
+      "id_specie": "larix-decidua",
+      "come_distinguere": "Il larice perde gli aghi in inverno e li ha morbidi, a ciuffi."
+    }
+  ],
+  "commestibilita": {
+    "parti": "germogli giovani",
+    "note": "I getti primaverili si usano per il 'miele di abete' (sciroppo con zucchero) e caramelle balsamiche.",
+    "avvertenze": "Raccoglierne pochi per pianta."
+  },
+  "tossicita": {
+    "livello": "nessuna_nota",
+    "parti": "",
+    "note": "Nessuna tossicità nota."
+  },
+  "curiosita_e_usi": "Il suo legno, leggero ed elastico, è il legno di risonanza dei violini: in Val di Fiemme si trova la 'foresta dei violini'. È l'albero di Natale tradizionale.",
+  "immagini": [
+    {
+      "tipo": "silhouette",
+      "file": "img/picea-abies-silhouette.jpg",
+      "fonte": "Wikimedia Commons",
+      "autore": "Ivar Leidus",
+      "licenza": "CC BY-SA 3.0 ee",
+      "url_originale": "https://commons.wikimedia.org/wiki/File:Kuusk_Keila-Paldiski_rdt_%C3%A4%C3%A4res.jpg",
+      "titolo_originale": "Kuusk Keila-Paldiski rdt ääres.jpg"
+    },
+    {
+      "tipo": "foglia",
+      "file": "img/picea-abies-foglia.jpg",
+      "fonte": "Wikimedia Commons",
+      "autore": "Dmitry Makeev",
+      "licenza": "CC BY-SA 4.0",
+      "url_originale": "https://commons.wikimedia.org/wiki/File:2020_year._Herbarium._Picea_abies._img-001.jpg",
+      "titolo_originale": "2020 year. Herbarium. Picea abies. img-001.jpg"
+    },
+    {
+      "tipo": "corteccia",
+      "file": "img/picea-abies-corteccia.jpg",
+      "fonte": "Wikimedia Commons",
+      "autore": "Famartin",
+      "licenza": "CC BY-SA 4.0",
+      "url_originale": "https://commons.wikimedia.org/wiki/File:2021-02-23_16_46_06_Norway_Spruce_bark_along_Tranquility_Court_in_the_Franklin_Farm_section_of_Oak_Hill,_Fairfax_County,_Virginia.jpg",
+      "titolo_originale": "2021-02-23 16 46 06 Norway Spruce bark along Tranquility Court in the Franklin Farm section of Oak Hill, Fairfax County, Virginia.jpg"
+    },
+    {
+      "tipo": "fiore_o_frutto",
+      "file": "img/picea-abies-fiore_o_frutto.jpg",
+      "fonte": "Wikimedia Commons",
+      "autore": "AnRo0002",
+      "licenza": "CC0",
+      "url_originale": "https://commons.wikimedia.org/wiki/File:20180324Picea_abies3.jpg",
+      "titolo_originale": "20180324Picea abies3.jpg"
+    },
+    {
+      "tipo": "fiore_o_frutto",
+      "file": "img/picea-abies-fiore_o_frutto-2.jpg",
+      "fonte": "Wikimedia Commons",
+      "autore": "Famartin",
+      "licenza": "CC BY-SA 4.0",
+      "url_originale": "https://commons.wikimedia.org/wiki/File:2021-04-18_10_41_27_Immature_female_(seed)_cone_on_a_Norway_Spruce_along_Briargate_Court_in_the_Franklin_Farm_section_of_Oak_Hill,_Fairfax_County,_Virginia.jpg",
+      "titolo_originale": "2021-04-18 10 41 27 Immature female (seed) cone on a Norway Spruce along Briargate Court in the Franklin Farm section of Oak Hill, Fairfax County, Virginia.jpg"
+    },
+    {
+      "tipo": "gemme",
+      "file": "img/picea-abies-gemme.jpg",
+      "fonte": "Wikimedia Commons",
+      "autore": "Bjørn Erik Pedersen",
+      "licenza": "CC BY-SA 4.0",
+      "url_originale": "https://commons.wikimedia.org/wiki/File:Picea_abies_shoot_with_buds,_Sogndal,_Norway.jpg",
+      "titolo_originale": "Picea abies shoot with buds, Sogndal, Norway.jpg"
+    }
+  ],
+  "fonti": [
+    {
+      "titolo": "Picea abies – Wikipedia (it)",
+      "url": "https://it.wikipedia.org/wiki/Picea_abies"
+    },
+    {
+      "titolo": "Picea abies – Wikipedia (en)",
+      "url": "https://en.wikipedia.org/wiki/Picea_abies"
+    }
+  ]
+}

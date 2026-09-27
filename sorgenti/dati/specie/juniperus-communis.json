@@ -1,0 +1,180 @@
+{
+  "id": "juniperus-communis",
+  "nome_comune": "Ginepro comune",
+  "nome_scientifico": "Juniperus communis",
+  "famiglia": "Cupressaceae",
+  "genere": "Juniperus",
+  "sinonimi": [
+    "Ginepro"
+  ],
+  "nomi_locali": [],
+  "stato": "bozza",
+  "aggiornato": "2026-09-25",
+  "chiave": {
+    "gruppo": "conifera",
+    "persistenza": "sempreverde",
+    "foglia_tipo": "aghiforme",
+    "foglia_disposizione": "verticillata",
+    "foglia_margine": [
+      "intero"
+    ],
+    "foglia_forma": [
+      "aghi"
+    ],
+    "frutto": "galbulo",
+    "corteccia_texture": [
+      "fibrosa",
+      "desquamante"
+    ],
+    "habitat": [
+      "collinare",
+      "montano",
+      "subalpino",
+      "rupestre_arido"
+    ],
+    "altitudine_m": [
+      0,
+      2500
+    ],
+    "ramificazione": "non_accertata",
+    "ruolo_ecologico": [
+      "colonizzatrice"
+    ],
+    "luce": "eliofila"
+  },
+  "tratti_chiave": [
+    "Aghi pungenti a gruppi di tre, con una sola striscia bianca sulla faccia superiore",
+    "Bacche (galbuli) prima verdi poi blu-nere e brinate, sulle piante femminili",
+    "Di solito arbusto; in alta montagna forma prostrata che striscia sul terreno"
+  ],
+  "origine": {
+    "stato": "autoctona",
+    "note": ""
+  },
+  "foglie": {
+    "tipo": "aghiforme",
+    "disposizione": "a verticilli di tre",
+    "forma": "aghi di 1-2 cm, rigidi, molto pungenti",
+    "margine": "intero",
+    "venatura": "non visibile",
+    "colore_stagionale": {
+      "primavera_estate": "verde-grigio, con una banda bianca sopra",
+      "autunno": "invariato (sempreverde)"
+    },
+    "descrizione": ""
+  },
+  "corteccia": {
+    "colore": "bruno-rossastro",
+    "texture": "sottile, fibrosa, si sfalda in strisce",
+    "evoluzione_con_eta": "",
+    "descrizione": ""
+  },
+  "rami_e_portamento": {
+    "disposizione_rami": "rami fitti, spesso dalla base",
+    "angolo_di_crescita": "ascendenti o prostrati",
+    "forma_chioma": "colonnare, cespugliosa o prostrata",
+    "silhouette_invernale": "sempreverde; cespuglio grigio-verde, pungente",
+    "descrizione": "In pascoli e brughiere forma macchie sparse che il bestiame evita per gli aghi pungenti.",
+    "ramificazione": "Tipo di ramificazione: dato non accertato."
+  },
+  "gemme": {
+    "forma": "piccole, nude",
+    "colore": "verdi",
+    "disposizione": "all'apice dei rametti",
+    "descrizione": ""
+  },
+  "fiori_e_frutti": {
+    "tipo_fiore": "pianta dioica: coni maschili gialli piccoli; coni femminili verdi",
+    "periodo_fioritura": "marzo-maggio",
+    "tipo_frutto": "galbulo carnoso ('coccola') di 6-9 mm, verde poi blu-nero brinato",
+    "periodo_fruttificazione": "matura in 2-3 anni: sulla stessa pianta ci sono bacche verdi e blu",
+    "descrizione": ""
+  },
+  "dimensioni": {
+    "altezza_tipica_m": [
+      1,
+      5
+    ],
+    "altezza_max_m": 12,
+    "eta_massima_anni": null,
+    "note": "Età massima non accertata."
+  },
+  "habitat_e_distribuzione": {
+    "regioni_italia": [
+      "Tutta Italia, dalla collina all'alta montagna",
+      "Alpi: sottospecie nana prostrata oltre il limite del bosco"
+    ],
+    "altitudine": "0-2500 m",
+    "terreno_preferito": "povero, sassoso, acido o calcareo; ama la luce",
+    "descrizione": "Pascoli, brughiere, radure, boschi radi di pino e larice."
+  },
+  "ecologia": {
+    "descrizione": "Colonizzatrice di pascoli abbandonati e terreni poveri: protegge con gli aghi pungenti le giovani piante che crescono sotto, dagli animali al pascolo."
+  },
+  "stagionalita": {
+    "primavera": "Polline.",
+    "estate": "Bacche verdi e blu insieme.",
+    "autunno": "Bacche blu-nere mature.",
+    "inverno": "Sempreverde."
+  },
+  "specie_simili": [
+    {
+      "id_specie": "cupressus-sempervirens",
+      "come_distinguere": "Il cipresso ha foglie a squama, non pungenti, e frutti legnosi tondi."
+    },
+    {
+      "id_specie": "taxus-baccata",
+      "come_distinguere": "Il tasso ha aghi piatti e non pungenti, su due file, e bacche rosse."
+    }
+  ],
+  "commestibilita": {
+    "parti": "bacche mature (come spezia)",
+    "note": "Le bacche blu si usano come aromatica per selvaggina, crauti e marinate, e per aromatizzare il gin e le grappe.",
+    "avvertenze": "Usarne poche: in quantità irritano i reni; sconsigliate in gravidanza."
+  },
+  "tossicita": {
+    "livello": "bassa",
+    "parti": "bacche in quantità, olio essenziale",
+    "note": "Irritanti per i reni se consumate in quantità o come olio essenziale."
+  },
+  "curiosita_e_usi": "Il gin prende il nome dal ginepro (in olandese genever). Il suo fumo era usato per affumicare carni e speck.",
+  "immagini": [
+    {
+      "tipo": "silhouette",
+      "file": "img/juniperus-communis-silhouette.jpg",
+      "fonte": "Wikimedia Commons",
+      "autore": "Rasbak at Dutch Wikipedia",
+      "licenza": "CC BY-SA 3.0",
+      "url_originale": "https://commons.wikimedia.org/wiki/File:Jeneverbes.jpg",
+      "titolo_originale": "Jeneverbes.jpg"
+    },
+    {
+      "tipo": "foglia",
+      "file": "img/juniperus-communis-foglia.jpg",
+      "fonte": "Wikimedia Commons",
+      "autore": "Joanna Boisse",
+      "licenza": "CC BY-SA 4.0",
+      "url_originale": "https://commons.wikimedia.org/wiki/File:Atlas_roslin_pl_Ja%C5%82owiec_pospolity_11475_7239.jpg",
+      "titolo_originale": "Atlas roslin pl Jałowiec pospolity 11475 7239.jpg"
+    },
+    {
+      "tipo": "corteccia",
+      "file": "img/juniperus-communis-corteccia.jpg",
+      "fonte": "Wikimedia Commons",
+      "autore": "Wilhelm Zimmerling PAR",
+      "licenza": "CC BY-SA 4.0",
+      "url_originale": "https://commons.wikimedia.org/wiki/File:Ruhland,_Rosa-Luxemburg-Str._19,_Gew%C3%B6hnlicher_Wacholder,_Stamm_und_Rinde,_02.jpg",
+      "titolo_originale": "Ruhland, Rosa-Luxemburg-Str. 19, Gewöhnlicher Wacholder, Stamm und Rinde, 02.jpg"
+    }
+  ],
+  "fonti": [
+    {
+      "titolo": "Juniperus communis – Wikipedia (it)",
+      "url": "https://it.wikipedia.org/wiki/Juniperus_communis"
+    },
+    {
+      "titolo": "Juniperus communis – Wikipedia (en)",
+      "url": "https://en.wikipedia.org/wiki/Juniperus_communis"
+    }
+  ]
+}

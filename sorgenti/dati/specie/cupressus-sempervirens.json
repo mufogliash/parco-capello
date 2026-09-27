@@ -1,0 +1,193 @@
+{
+  "id": "cupressus-sempervirens",
+  "nome_comune": "Cipresso",
+  "nome_scientifico": "Cupressus sempervirens",
+  "famiglia": "Cupressaceae",
+  "genere": "Cupressus",
+  "sinonimi": [
+    "Cipresso comune",
+    "Cipresso italiano"
+  ],
+  "nomi_locali": [],
+  "stato": "bozza",
+  "aggiornato": "2026-09-25",
+  "chiave": {
+    "gruppo": "conifera",
+    "persistenza": "sempreverde",
+    "foglia_tipo": "squamiforme",
+    "foglia_disposizione": "opposta",
+    "foglia_margine": [
+      "intero"
+    ],
+    "foglia_forma": [
+      "squame"
+    ],
+    "frutto": "galbulo",
+    "corteccia_texture": [
+      "fibrosa"
+    ],
+    "habitat": [
+      "collinare",
+      "mediterraneo_costiero",
+      "urbano_parchi"
+    ],
+    "altitudine_m": [
+      0,
+      800
+    ],
+    "ramificazione": "non_accertata",
+    "ruolo_ecologico": [
+      "non_accertato"
+    ],
+    "luce": "eliofila"
+  },
+  "tratti_chiave": [
+    "Foglie a piccole squame strette sui rametti, disposte in tutte le direzioni",
+    "Frutti sferici e legnosi (2-4 cm) a squame poligonali, come un piccolo pallone",
+    "Di solito forma a colonna stretta, scura, inconfondibile"
+  ],
+  "origine": {
+    "stato": "archeofita",
+    "note": "Originario del Mediterraneo orientale; coltivato in Italia almeno dall'epoca etrusca e romana, oggi naturalizzato qua e là."
+  },
+  "foglie": {
+    "tipo": "squamiforme",
+    "disposizione": "opposta a coppie incrociate",
+    "forma": "squame di 0,5-1 mm, strettamente aderenti al rametto",
+    "margine": "intero",
+    "venatura": "non visibile",
+    "colore_stagionale": {
+      "primavera_estate": "verde scuro",
+      "autunno": "invariato (sempreverde)"
+    },
+    "descrizione": ""
+  },
+  "corteccia": {
+    "colore": "grigio-bruno",
+    "texture": "sottile, fibrosa, a strisce verticali",
+    "evoluzione_con_eta": "nei tronchi vecchi più grigia e solcata",
+    "descrizione": ""
+  },
+  "rami_e_portamento": {
+    "disposizione_rami": "rami eretti e stretti al tronco (forma a colonna) o aperti (forma espansa)",
+    "angolo_di_crescita": "molto ascendenti nella forma a colonna",
+    "forma_chioma": "colonnare stretta o, più di rado, ampia e irregolare",
+    "silhouette_invernale": "sempreverde; colonna scura e appuntita",
+    "descrizione": "La forma a colonna è la più piantata; quella con rami aperti è più simile alle piante selvatiche.",
+    "ramificazione": "Tipo di ramificazione: dato non accertato."
+  },
+  "gemme": {
+    "forma": "piccolissime, nascoste tra le squame",
+    "colore": "verdi",
+    "disposizione": "",
+    "descrizione": "Non visibili a occhio nudo."
+  },
+  "fiori_e_frutti": {
+    "tipo_fiore": "pianta monoica: coni maschili piccoli, gialli, all'apice dei rametti; coni femminili verdi, tondi",
+    "periodo_fioritura": "febbraio-aprile",
+    "tipo_frutto": "galbulo (piccola pigna tonda) di 2-4 cm, verde poi grigio-bruno, con 8-14 squame poligonali",
+    "periodo_fruttificazione": "matura nel secondo anno; si apre e libera semi piccoli",
+    "descrizione": ""
+  },
+  "dimensioni": {
+    "altezza_tipica_m": [
+      20,
+      30
+    ],
+    "altezza_max_m": 35,
+    "eta_massima_anni": null,
+    "note": "Età massima non accertata; esistono cipressi monumentali di molti secoli (stima indicativa)."
+  },
+  "habitat_e_distribuzione": {
+    "regioni_italia": [
+      "Tutta Italia: Toscana e Umbria soprattutto, colline, cimiteri, viali, ville",
+      "Nord: laghi, colline e parchi"
+    ],
+    "altitudine": "0-800 m",
+    "terreno_preferito": "ben drenato, anche povero e calcareo; resistente alla siccità",
+    "descrizione": "Specie coltivata, legata al paesaggio agricolo e ai viali."
+  },
+  "ecologia": {
+    "descrizione": "Molto resistente a siccità e vento; per questo è usato per frangivento. Ruolo nella successione: dato non accertato (specie coltivata)."
+  },
+  "stagionalita": {
+    "primavera": "Polline giallo in fine inverno.",
+    "estate": "Galbuli verdi.",
+    "autunno": "Galbuli grigi maturi.",
+    "inverno": "Sempreverde."
+  },
+  "specie_simili": [
+    {
+      "id_specie": "juniperus-communis",
+      "come_distinguere": "Il ginepro comune ha aghi pungenti a gruppi di tre e bacche blu-nere, e di solito è un arbusto."
+    }
+  ],
+  "commestibilita": {
+    "parti": "nessuna",
+    "note": "",
+    "avvertenze": ""
+  },
+  "tossicita": {
+    "livello": "bassa",
+    "parti": "galbuli, foglie",
+    "note": "Non si mangia; il polline è allergenico a fine inverno."
+  },
+  "curiosita_e_usi": "Il cipresso è legato ai cimiteri fin dall'antichità, perché sempreverde e longevo. I viali di cipressi toscani sono un paesaggio simbolo d'Italia. Il cancro del cipresso, una malattia fungina, ha ucciso molti esemplari dagli anni Cinquanta.",
+  "immagini": [
+    {
+      "tipo": "silhouette",
+      "file": "img/cupressus-sempervirens-silhouette.jpg",
+      "fonte": "Wikimedia Commons",
+      "autore": "sailko",
+      "licenza": "CC BY-SA 3.0",
+      "url_originale": "https://commons.wikimedia.org/wiki/File:Villa_cetinale,_parco,_via_dei_cipressi_00.JPG",
+      "titolo_originale": "Villa cetinale, parco, via dei cipressi 00.JPG"
+    },
+    {
+      "tipo": "silhouette",
+      "file": "img/cupressus-sempervirens-silhouette-2.jpg",
+      "fonte": "Wikimedia Commons",
+      "autore": "Cascafico",
+      "licenza": "CC0",
+      "url_originale": "https://commons.wikimedia.org/wiki/File:Cipresso_monumentale.jpg",
+      "titolo_originale": "Cipresso monumentale.jpg"
+    },
+    {
+      "tipo": "foglia",
+      "file": "img/cupressus-sempervirens-foglia.jpg",
+      "fonte": "Wikimedia Commons",
+      "autore": "Forest and Kim Starr",
+      "licenza": "CC BY 3.0 us",
+      "url_originale": "https://commons.wikimedia.org/wiki/File:Starr-080117-2021-Cupressus_sempervirens-leaves-Home_Depot_Nursery_Kahului-Maui_(24901615215).jpg",
+      "titolo_originale": "Starr-080117-2021-Cupressus sempervirens-leaves-Home Depot Nursery Kahului-Maui (24901615215).jpg"
+    },
+    {
+      "tipo": "corteccia",
+      "file": "img/cupressus-sempervirens-corteccia.jpg",
+      "fonte": "Wikimedia Commons",
+      "autore": "Spiritia",
+      "licenza": "CC BY-SA 4.0",
+      "url_originale": "https://commons.wikimedia.org/wiki/File:Cupressus_sempervirens_bark_4.jpg",
+      "titolo_originale": "Cupressus sempervirens bark 4.jpg"
+    },
+    {
+      "tipo": "fiore_o_frutto",
+      "file": "img/cupressus-sempervirens-fiore_o_frutto.jpg",
+      "fonte": "Wikimedia Commons",
+      "autore": "Philmarin",
+      "licenza": "CC BY-SA 4.0",
+      "url_originale": "https://commons.wikimedia.org/wiki/File:(ALB)_C._sempervirens_-_flow_male_-_1.jpg",
+      "titolo_originale": "(ALB) C. sempervirens - flow male - 1.jpg"
+    }
+  ],
+  "fonti": [
+    {
+      "titolo": "Cupressus sempervirens – Wikipedia (it)",
+      "url": "https://it.wikipedia.org/wiki/Cupressus_sempervirens"
+    },
+    {
+      "titolo": "Cupressus sempervirens – Wikipedia (en)",
+      "url": "https://en.wikipedia.org/wiki/Cupressus_sempervirens"
+    }
+  ]
+}

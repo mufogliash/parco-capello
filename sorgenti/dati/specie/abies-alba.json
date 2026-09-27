@@ -1,0 +1,205 @@
+{
+  "id": "abies-alba",
+  "nome_comune": "Abete bianco",
+  "nome_scientifico": "Abies alba",
+  "famiglia": "Pinaceae",
+  "genere": "Abies",
+  "sinonimi": [
+    "Abete comune"
+  ],
+  "nomi_locali": [],
+  "stato": "bozza",
+  "aggiornato": "2026-09-25",
+  "chiave": {
+    "gruppo": "conifera",
+    "persistenza": "sempreverde",
+    "foglia_tipo": "aghiforme",
+    "foglia_disposizione": "spiralata",
+    "foglia_margine": [
+      "intero"
+    ],
+    "foglia_forma": [
+      "aghi",
+      "lineare"
+    ],
+    "frutto": "cono",
+    "corteccia_texture": [
+      "liscia",
+      "a_placche"
+    ],
+    "habitat": [
+      "montano"
+    ],
+    "altitudine_m": [
+      600,
+      1900
+    ],
+    "ramificazione": "monopodiale",
+    "ruolo_ecologico": [
+      "climax"
+    ],
+    "luce": "sciafila"
+  },
+  "tratti_chiave": [
+    "Aghi piatti con la punta incavata e due strisce bianche sotto, disposti a pettine su due file",
+    "Pigne erette sui rami alti, che si sfaldano sull'albero: a terra non se ne trovano di intere",
+    "Corteccia grigio-argento, liscia da giovane"
+  ],
+  "origine": {
+    "stato": "autoctona",
+    "note": ""
+  },
+  "foglie": {
+    "tipo": "aghiforme",
+    "disposizione": "inseriti a spirale ma girati su due file ai lati del rametto (a pettine)",
+    "forma": "aghi piatti di 2-3 cm, punta smussata e incavata",
+    "margine": "intero",
+    "venatura": "una nervatura centrale; sotto due strisce bianche",
+    "colore_stagionale": {
+      "primavera_estate": "verde scuro lucido sopra, due bande bianche sotto",
+      "autunno": "invariato (sempreverde)"
+    },
+    "descrizione": "Staccando un ago rimane sul rametto una piccola cicatrice rotonda e piatta: il rametto resta liscio (nell'abete rosso invece è ruvido)."
+  },
+  "corteccia": {
+    "colore": "grigio-argento o grigio chiaro",
+    "texture": "liscia, con vescichette di resina da giovane; poi fessurata in piccole placche",
+    "evoluzione_con_eta": "resta chiara anche nei tronchi grandi",
+    "descrizione": "Il nome 'bianco' viene dalla corteccia chiara, molto diversa da quella bruno-rossa dell'abete rosso."
+  },
+  "rami_e_portamento": {
+    "disposizione_rami": "verticillata: rami in palchi regolari",
+    "angolo_di_crescita": "rami orizzontali, rigidi",
+    "forma_chioma": "conica regolare da giovane; negli alberi vecchi la cima si appiattisce 'a nido di cicogna'",
+    "silhouette_invernale": "sempreverde; sagoma scura con la cima piatta negli esemplari vecchi",
+    "descrizione": "Tollera l'ombra: i giovani abeti aspettano anche decenni sotto il bosco prima di crescere.",
+    "ramificazione": "Monopodiale, con palchi di rami annuali; i rametti laterali sono disposti in piano."
+  },
+  "gemme": {
+    "forma": "ovoidali, piccole (5 mm)",
+    "colore": "bruno-rossastre, poco o nulla resinose",
+    "disposizione": "all'apice dei rametti, una centrale e due-tre laterali",
+    "descrizione": ""
+  },
+  "fiori_e_frutti": {
+    "tipo_fiore": "pianta monoica: coni maschili gialli sotto i rametti; coni femminili verdi, eretti, solo in cima alla chioma",
+    "periodo_fioritura": "aprile-maggio",
+    "tipo_frutto": "pigna cilindrica di 10-15 cm, eretta, verde poi bruna, con brattee sporgenti ripiegate",
+    "periodo_fruttificazione": "settembre-ottobre dello stesso anno; si disfa sul ramo liberando semi e squame",
+    "descrizione": "Sui rami resta solo l'asse centrale della pigna, dritto come una candela."
+  },
+  "dimensioni": {
+    "altezza_tipica_m": [
+      30,
+      45
+    ],
+    "altezza_max_m": 60,
+    "eta_massima_anni": null,
+    "note": "Età massima non accertata (stima indicativa: alcuni secoli)."
+  },
+  "habitat_e_distribuzione": {
+    "regioni_italia": [
+      "Alpi, soprattutto versanti umidi e freschi",
+      "Appennino fino alla Calabria, spesso con il faggio"
+    ],
+    "altitudine": "circa 600-1900 m",
+    "terreno_preferito": "profondo e fresco, con buona umidità dell'aria",
+    "descrizione": "Forma abetine pure o boschi misti con faggio e abete rosso; ama climi umidi senza siccità estiva."
+  },
+  "ecologia": {
+    "descrizione": "Specie d'ombra e di bosco maturo: si rinnova sotto la copertura degli altri alberi ed è tipica delle foreste stabili di montagna."
+  },
+  "stagionalita": {
+    "primavera": "Getti nuovi verde chiaro.",
+    "estate": "Pigne erette in cima.",
+    "autunno": "Pigne che si disfano; squame a terra.",
+    "inverno": "Sagoma scura; corteccia chiara."
+  },
+  "specie_simili": [
+    {
+      "id_specie": "picea-abies",
+      "come_distinguere": "L'abete rosso ha aghi a sezione quadrata, pungenti, tutto intorno al rametto, pigne pendenti che cadono intere e corteccia bruno-rossa."
+    },
+    {
+      "id_specie": "taxus-baccata",
+      "come_distinguere": "Il tasso ha aghi appuntiti senza strisce bianche sotto, bacche rosse (arilli) e niente pigne."
+    }
+  ],
+  "commestibilita": {
+    "parti": "germogli giovani",
+    "note": "In alcune tradizioni alpine i getti primaverili si usano per sciroppi e liquori.",
+    "avvertenze": "Raccoglierne pochi, senza danneggiare le piante giovani."
+  },
+  "tossicita": {
+    "livello": "nessuna_nota",
+    "parti": "",
+    "note": "Nessuna tossicità nota."
+  },
+  "curiosita_e_usi": "Dal legno leggero e senza resina si ricavavano tavole di risonanza per strumenti. Le abetine di Vallombrosa e Camaldoli furono curate per secoli dai monaci.",
+  "immagini": [
+    {
+      "tipo": "silhouette",
+      "file": "img/abies-alba-silhouette.jpg",
+      "fonte": "Wikimedia Commons",
+      "autore": "Crusier",
+      "licenza": "CC BY-SA 3.0",
+      "url_originale": "https://commons.wikimedia.org/wiki/File:Abies_alba_Wis%C5%82a_1.jpg",
+      "titolo_originale": "Abies alba Wisła 1.jpg"
+    },
+    {
+      "tipo": "foglia",
+      "file": "img/abies-alba-foglia.jpg",
+      "fonte": "Wikimedia Commons",
+      "autore": "Radio Tonreg from Vienna, Austria",
+      "licenza": "CC BY 2.0",
+      "url_originale": "https://commons.wikimedia.org/wiki/File:Abies_alba_(8454369114).jpg",
+      "titolo_originale": "Abies alba (8454369114).jpg"
+    },
+    {
+      "tipo": "corteccia",
+      "file": "img/abies-alba-corteccia.jpg",
+      "fonte": "Wikimedia Commons",
+      "autore": "T. Kebert",
+      "licenza": "CC BY-SA 4.0",
+      "url_originale": "https://commons.wikimedia.org/wiki/File:Abies_alba_bark_TK_2021-05-15_1.jpg",
+      "titolo_originale": "Abies alba bark TK 2021-05-15 1.jpg"
+    },
+    {
+      "tipo": "fiore_o_frutto",
+      "file": "img/abies-alba-fiore_o_frutto.jpg",
+      "fonte": "Wikimedia Commons",
+      "autore": "Gmihail at Serbian Wikipedia",
+      "licenza": "CC BY-SA 3.0 rs",
+      "url_originale": "https://commons.wikimedia.org/wiki/File:Abies_alba_cones_Goc.jpg",
+      "titolo_originale": "Abies alba cones Goc.jpg"
+    },
+    {
+      "tipo": "dettaglio",
+      "file": "img/abies-alba-dettaglio.jpg",
+      "fonte": "Wikimedia Commons",
+      "autore": "Gerarcalis",
+      "licenza": "CC BY-SA 4.0",
+      "url_originale": "https://commons.wikimedia.org/wiki/File:Abies_alba_eix_pinya.jpg",
+      "titolo_originale": "Abies alba eix pinya.jpg"
+    },
+    {
+      "tipo": "gemme",
+      "file": "img/abies-alba-gemme.jpg",
+      "fonte": "Wikimedia Commons",
+      "autore": "Fr.Latreille",
+      "licenza": "CC BY-SA 3.0",
+      "url_originale": "https://commons.wikimedia.org/wiki/File:Pousses_de_sapin-58.JPG",
+      "titolo_originale": "Pousses de sapin-58.JPG"
+    }
+  ],
+  "fonti": [
+    {
+      "titolo": "Abies alba – Wikipedia (it)",
+      "url": "https://it.wikipedia.org/wiki/Abies_alba"
+    },
+    {
+      "titolo": "Abies alba – Wikipedia (en)",
+      "url": "https://en.wikipedia.org/wiki/Abies_alba"
+    }
+  ]
+}

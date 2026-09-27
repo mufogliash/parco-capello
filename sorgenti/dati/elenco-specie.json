@@ -328,7 +328,7 @@
       "nome_scientifico": "Pinus sylvestris",
       "gruppo": "conifera",
       "lotto": 5,
-      "stato": "pianificata"
+      "stato": "compilata"
     },
     {
       "id": "pinus-nigra",
@@ -336,7 +336,7 @@
       "nome_scientifico": "Pinus nigra",
       "gruppo": "conifera",
       "lotto": 5,
-      "stato": "pianificata"
+      "stato": "compilata"
     },
     {
       "id": "pinus-pinaster",
@@ -344,7 +344,7 @@
       "nome_scientifico": "Pinus pinaster",
       "gruppo": "conifera",
       "lotto": 5,
-      "stato": "pianificata"
+      "stato": "compilata"
     },
     {
       "id": "pinus-pinea",
@@ -360,7 +360,7 @@
       "nome_scientifico": "Abies alba",
       "gruppo": "conifera",
       "lotto": 5,
-      "stato": "pianificata"
+      "stato": "compilata"
     },
     {
       "id": "picea-abies",
@@ -368,7 +368,7 @@
       "nome_scientifico": "Picea abies",
       "gruppo": "conifera",
       "lotto": 5,
-      "stato": "pianificata"
+      "stato": "compilata"
     },
     {
       "id": "larix-decidua",
@@ -376,7 +376,7 @@
       "nome_scientifico": "Larix decidua",
       "gruppo": "conifera",
       "lotto": 5,
-      "stato": "pianificata"
+      "stato": "compilata"
     },
     {
       "id": "cupressus-sempervirens",
@@ -384,7 +384,7 @@
       "nome_scientifico": "Cupressus sempervirens",
       "gruppo": "conifera",
       "lotto": 5,
-      "stato": "pianificata"
+      "stato": "compilata"
     },
     {
       "id": "juniperus-communis",
@@ -392,7 +392,7 @@
       "nome_scientifico": "Juniperus communis",
       "gruppo": "conifera",
       "lotto": 5,
-      "stato": "pianificata"
+      "stato": "compilata"
     },
     {
       "id": "taxus-baccata",
@@ -400,7 +400,7 @@
       "nome_scientifico": "Taxus baccata",
       "gruppo": "conifera",
       "lotto": 5,
-      "stato": "pianificata"
+      "stato": "compilata"
     },
     {
       "id": "robinia-pseudoacacia",
