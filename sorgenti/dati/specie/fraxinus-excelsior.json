@@ -136,6 +136,14 @@
     {
       "id_specie": "sorbus-domestica",
       "come_distinguere": "Il sorbo domestico ha foglie composte alterne, gemme verdi appiccicose e frutti a piccola pera."
+    },
+    {
+      "id_specie": "robinia-pseudoacacia",
+      "come_distinguere": "La robinia ha foglie composte ma alterne, a margine liscio, e spine appaiate alla base."
+    },
+    {
+      "id_specie": "ailanthus-altissima",
+      "come_distinguere": "L'ailanto ha foglie composte alterne, lunghissime, con denti ghiandolari solo alla base delle foglioline."
     }
   ],
   "commestibilita": {

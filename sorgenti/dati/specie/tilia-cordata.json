@@ -128,6 +128,10 @@
     {
       "id_specie": "corylus-avellana",
       "come_distinguere": "Il nocciolo ha foglia tondeggiante ma pelosa e doppiamente seghettata, ed è un arbusto a molti fusti."
+    },
+    {
+      "id_specie": "cercis-siliquastrum",
+      "come_distinguere": "L'albero di Giuda ha foglie tonde a margine liscio, fiori rosa sui rami in aprile e baccelli piatti."
     }
   ],
   "commestibilita": {

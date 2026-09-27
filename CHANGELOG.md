@@ -15,6 +15,7 @@ Versioni: terza cifra = correzioni; seconda = funzioni o lotti nuovi; prima = ca
 - Lotto 3 — ramificazione: biancospino. Ruolo nel bosco: salice piangente, sorbo domestico, noce, gelso bianco.
   Età massima: pioppo bianco, pioppo nero, salice bianco, salice piangente, ciliegio, sorbo domestico,
   biancospino, noce, gelso bianco.
+- Lotto 6 — ramificazione: albero di Giuda. Ruolo nel bosco: albero di Giuda. Età massima: robinia, ailanto, albero di Giuda.
 - Lotto 5 — ramificazione: cipresso, ginepro, tasso. Ruolo nel bosco: cipresso, tasso. Età massima: tutte le conifere
   del lotto (per larice e tasso esistono esemplari stimati millenari, ma sono stime).
 - Lotto 4 — ramificazione: corbezzolo, alloro, olivo, carrubo. Ruolo nel bosco: tutte e 5 (sughera, corbezzolo, alloro,
@@ -28,12 +29,22 @@ Versioni: terza cifra = correzioni; seconda = funzioni o lotti nuovi; prima = ca
       Portamento estivo di pioppo tremolo e ciliegio (le candidate erano cultivar, altre specie o foto invernali).
 - [ ] Foto fornite dall'utente (v0.4.1, v0.7.1): indicare la fonte delle 8 foto della v0.4.1; foglia del noce e corteccia
       del salice bianco (v0.7.1) sono foto dell'utente.
-- [ ] Fase 2: lotto 6, poi le aggiunte proposte (lotto 7). Lotti 1-5 fatti.
+- [ ] Fase 2: le aggiunte proposte (lotto 7). Lotti 1-6 fatti.
 - [ ] Da valutare per il lotto 7: lauroceraso e oleandro, velenosi e facili da confondere con l'alloro.
 - [ ] Fase 3: organi corteccia, rami, radici, gemme, portamento; altri 8-10 segnali del paesaggio; disegni del glossario.
 - [ ] Da valutare dopo il test: modalità inverno nell'identificazione (gemme e sagome), confronto dalla sezione Organi.
 
 ---
+
+## 0.9.0 · 2026-09-27 · Lotto 6 (esotiche e invasive)
+
+- **3 nuove schede (bozza):** robinia, ailanto, albero di Giuda. Totale 52 specie: completati i lotti 1-6.
+- **5 curiosità** in più (totale 80).
+- Robinia con tossicità moderata (commestibili solo i fiori); ailanto con avvisi su linfa e polline.
+- Specie simili collegate: frassino maggiore ↔ robinia e ailanto, tiglio selvatico ↔ albero di Giuda.
+- **17 foto**: robinia in estate e in fiore; ailanto con le grandi cicatrici fogliari (utili in inverno) e i grappoli
+  di samare; albero di Giuda in fiore (sui colli Berici), i fiori sul tronco e i baccelli. Nessuna foto nuova utile
+  per le conifere del lotto 5.
 
 ## 0.8.0 · 2026-09-26 · Lotto 5 (conifere)
 

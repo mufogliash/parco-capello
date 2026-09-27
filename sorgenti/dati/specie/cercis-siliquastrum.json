@@ -1,0 +1,207 @@
+{
+  "id": "cercis-siliquastrum",
+  "nome_comune": "Albero di Giuda",
+  "nome_scientifico": "Cercis siliquastrum",
+  "famiglia": "Fabaceae",
+  "genere": "Cercis",
+  "sinonimi": [
+    "Siliquastro"
+  ],
+  "nomi_locali": [],
+  "stato": "bozza",
+  "aggiornato": "2026-09-25",
+  "chiave": {
+    "gruppo": "latifoglia",
+    "persistenza": "caduca",
+    "foglia_tipo": "semplice",
+    "foglia_disposizione": "alterna",
+    "foglia_margine": [
+      "intero"
+    ],
+    "foglia_forma": [
+      "orbicolare",
+      "cordata"
+    ],
+    "frutto": "legume",
+    "corteccia_texture": [
+      "fessurata"
+    ],
+    "habitat": [
+      "collinare",
+      "rupestre_arido",
+      "urbano_parchi",
+      "mediterraneo_costiero"
+    ],
+    "altitudine_m": [
+      0,
+      800
+    ],
+    "ramificazione": "non_accertata",
+    "ruolo_ecologico": [
+      "non_accertato"
+    ],
+    "luce": "eliofila"
+  },
+  "tratti_chiave": [
+    "Ad aprile si copre di fiori rosa-magenta prima delle foglie, anche direttamente sul tronco e sui rami vecchi",
+    "Foglie tonde, a cuore alla base, con margine liscio",
+    "Baccelli piatti bruno-violacei che restano appesi a lungo, anche in inverno"
+  ],
+  "origine": {
+    "stato": "archeofita",
+    "note": "Originario del Mediterraneo orientale; coltivato da secoli in Italia e naturalizzato qua e là su versanti caldi e sassosi."
+  },
+  "foglie": {
+    "tipo": "semplice",
+    "disposizione": "alterna",
+    "forma": "quasi tonda (reniforme), 6-10 cm, a cuore alla base e arrotondata o smarginata in punta",
+    "margine": "intero",
+    "venatura": "palmata: 5-7 nervature partono dalla base",
+    "colore_stagionale": {
+      "primavera_estate": "verde-bluastra opaca sopra, glauca sotto",
+      "autunno": "giallo"
+    },
+    "descrizione": ""
+  },
+  "corteccia": {
+    "colore": "bruno scuro o nerastro",
+    "texture": "finemente fessurata in piccole placche",
+    "evoluzione_con_eta": "",
+    "descrizione": "Sui tronchi e sui rami vecchi restano i cuscinetti da cui spuntano i fiori ogni anno."
+  },
+  "rami_e_portamento": {
+    "disposizione_rami": "alterna; spesso più fusti",
+    "angolo_di_crescita": "rami ascendenti, un po' tortuosi",
+    "forma_chioma": "ampia, irregolare, arrotondata",
+    "silhouette_invernale": "spoglio: piccolo albero a più fusti, spesso con baccelli secchi appesi",
+    "descrizione": "Di solito piccolo albero o grande arbusto.",
+    "ramificazione": "Tipo di ramificazione: dato non accertato."
+  },
+  "gemme": {
+    "forma": "piccole, appuntite, appressate al ramo",
+    "colore": "bruno-rossastre",
+    "disposizione": "alterne; quelle a fiore a gruppetti sui rami vecchi",
+    "descrizione": ""
+  },
+  "fiori_e_frutti": {
+    "tipo_fiore": "fiori a farfalla rosa-magenta, in mazzetti su rami, rami vecchi e tronco",
+    "periodo_fioritura": "aprile, prima delle foglie",
+    "tipo_frutto": "legume piatto di 6-10 cm, prima verde-rossastro poi bruno",
+    "periodo_fruttificazione": "estate; i baccelli restano sulla pianta fino all'inverno e oltre",
+    "descrizione": ""
+  },
+  "dimensioni": {
+    "altezza_tipica_m": [
+      4,
+      10
+    ],
+    "altezza_max_m": 15,
+    "eta_massima_anni": null,
+    "note": "Età massima non accertata."
+  },
+  "habitat_e_distribuzione": {
+    "regioni_italia": [
+      "Tutta Italia, piantato in parchi, viali e giardini",
+      "Naturalizzato su pendii caldi e calcarei, soprattutto al Centro-Sud; al Nord soprattutto coltivato"
+    ],
+    "altitudine": "0-800 m",
+    "terreno_preferito": "calcareo, sassoso, ben drenato; resiste alla siccità",
+    "descrizione": "Ama il caldo e la luce; teme i ristagni d'acqua."
+  },
+  "ecologia": {
+    "descrizione": "Specie di luce e di clima caldo; non ha il comportamento aggressivo della robinia e dell'ailanto. Ruolo nella successione: dato non accertato."
+  },
+  "stagionalita": {
+    "primavera": "Fioritura rosa-magenta su rami e tronco, prima delle foglie.",
+    "estate": "Foglie tonde; baccelli verdi-rossastri.",
+    "autunno": "Foglie gialle; baccelli bruni.",
+    "inverno": "Baccelli secchi appesi ai rami spogli."
+  },
+  "specie_simili": [
+    {
+      "id_specie": "ceratonia-siliqua",
+      "come_distinguere": "Il carrubo, della stessa famiglia, è sempreverde, con foglie composte e baccelli molto più grandi e spessi."
+    },
+    {
+      "id_specie": "tilia-cordata",
+      "come_distinguere": "Il tiglio selvatico ha foglie a cuore ma seghettate, asimmetriche alla base, e frutti tondi appesi a una brattea."
+    }
+  ],
+  "commestibilita": {
+    "parti": "fiori",
+    "note": "I fiori, dal sapore acidulo, si possono aggiungere crudi alle insalate o conservare in aceto come i capperi.",
+    "avvertenze": ""
+  },
+  "tossicita": {
+    "livello": "nessuna_nota",
+    "parti": "",
+    "note": "Nessuna tossicità nota per l'uso dei fiori."
+  },
+  "curiosita_e_usi": "Il nome ricorda la leggenda secondo cui Giuda si sarebbe impiccato a questo albero; più probabilmente viene da 'albero della Giudea', la regione da cui proviene. La fioritura che nasce direttamente dal tronco si chiama cauliflora.",
+  "immagini": [
+    {
+      "tipo": "silhouette",
+      "file": "img/cercis-siliquastrum-silhouette.jpg",
+      "fonte": "Wikimedia Commons",
+      "autore": "Claudio Gioseffi",
+      "licenza": "CC BY-SA 4.0",
+      "url_originale": "https://commons.wikimedia.org/wiki/File:Mossano_Valle_Molini_11.jpg",
+      "titolo_originale": "Mossano Valle Molini 11.jpg"
+    },
+    {
+      "tipo": "silhouette",
+      "file": "img/cercis-siliquastrum-silhouette-2.jpg",
+      "fonte": "Wikimedia Commons",
+      "autore": "Calistemon",
+      "licenza": "CC BY-SA 4.0",
+      "url_originale": "https://commons.wikimedia.org/wiki/File:Cercis_siliquastrum_in_Golden_Valley_Tree_Park,_May_2022_01.jpg",
+      "titolo_originale": "Cercis siliquastrum in Golden Valley Tree Park, May 2022 01.jpg"
+    },
+    {
+      "tipo": "foglia",
+      "file": "img/cercis-siliquastrum-foglia.jpg",
+      "fonte": "Wikimedia Commons",
+      "autore": "Didier Descouens",
+      "licenza": "CC BY-SA 4.0",
+      "url_originale": "https://commons.wikimedia.org/wiki/File:(MHNT)_Cercis_siliquastrum_-_foliage_-_Jardin_Botanique_Henri_GAUSSEN.jpg",
+      "titolo_originale": "(MHNT) Cercis siliquastrum - foliage - Jardin Botanique Henri GAUSSEN.jpg"
+    },
+    {
+      "tipo": "corteccia",
+      "file": "img/cercis-siliquastrum-corteccia.jpg",
+      "fonte": "Wikimedia Commons",
+      "autore": "Fraxinus",
+      "licenza": "Public domain",
+      "url_originale": "https://commons.wikimedia.org/wiki/File:Albero_di_Giuda_-_corteccia.jpg",
+      "titolo_originale": "Albero di Giuda - corteccia.jpg"
+    },
+    {
+      "tipo": "fiore_o_frutto",
+      "file": "img/cercis-siliquastrum-fiore_o_frutto.jpg",
+      "fonte": "Wikimedia Commons",
+      "autore": "Didier Descouens",
+      "licenza": "CC BY-SA 4.0",
+      "url_originale": "https://commons.wikimedia.org/wiki/File:(MHNT)_Cercis_siliquastrum_-_Cauliflory_-_Jardin_Botanique_Henri_GAUSSEN.jpg",
+      "titolo_originale": "(MHNT) Cercis siliquastrum - Cauliflory - Jardin Botanique Henri GAUSSEN.jpg"
+    },
+    {
+      "tipo": "fiore_o_frutto",
+      "file": "img/cercis-siliquastrum-fiore_o_frutto-2.jpg",
+      "fonte": "Wikimedia Commons",
+      "autore": "AnRo0002",
+      "licenza": "CC0",
+      "url_originale": "https://commons.wikimedia.org/wiki/File:20171019Cercis_siliquastrum5.jpg",
+      "titolo_originale": "20171019Cercis siliquastrum5.jpg"
+    }
+  ],
+  "fonti": [
+    {
+      "titolo": "Cercis siliquastrum – Wikipedia (it)",
+      "url": "https://it.wikipedia.org/wiki/Cercis_siliquastrum"
+    },
+    {
+      "titolo": "Cercis siliquastrum – Wikipedia (en)",
+      "url": "https://en.wikipedia.org/wiki/Cercis_siliquastrum"
+    }
+  ]
+}

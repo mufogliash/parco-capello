@@ -408,7 +408,7 @@
       "nome_scientifico": "Robinia pseudoacacia",
       "gruppo": "latifoglia",
       "lotto": 6,
-      "stato": "pianificata"
+      "stato": "compilata"
     },
     {
       "id": "ailanthus-altissima",
@@ -416,7 +416,7 @@
       "nome_scientifico": "Ailanthus altissima",
       "gruppo": "latifoglia",
       "lotto": 6,
-      "stato": "pianificata"
+      "stato": "compilata"
     },
     {
       "id": "cercis-siliquastrum",
@@ -424,7 +424,7 @@
       "nome_scientifico": "Cercis siliquastrum",
       "gruppo": "latifoglia",
       "lotto": 6,
-      "stato": "pianificata"
+      "stato": "compilata"
     },
     {
       "id": "pinus-halepensis",

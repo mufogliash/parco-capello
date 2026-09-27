@@ -1,0 +1,210 @@
+{
+  "id": "robinia-pseudoacacia",
+  "nome_comune": "Robinia",
+  "nome_scientifico": "Robinia pseudoacacia",
+  "famiglia": "Fabaceae",
+  "genere": "Robinia",
+  "sinonimi": [
+    "Acacia (impropriamente)",
+    "Gaggia"
+  ],
+  "nomi_locali": [],
+  "stato": "bozza",
+  "aggiornato": "2026-09-25",
+  "chiave": {
+    "gruppo": "latifoglia",
+    "persistenza": "caduca",
+    "foglia_tipo": "composta_pennata",
+    "foglia_disposizione": "alterna",
+    "foglia_margine": [
+      "intero"
+    ],
+    "foglia_forma": [
+      "ellittica",
+      "ovata"
+    ],
+    "frutto": "legume",
+    "corteccia_texture": [
+      "fessurata"
+    ],
+    "habitat": [
+      "planiziale",
+      "collinare",
+      "ripariale_umido",
+      "urbano_parchi"
+    ],
+    "altitudine_m": [
+      0,
+      1200
+    ],
+    "ramificazione": "simpodiale",
+    "ruolo_ecologico": [
+      "pioniera",
+      "colonizzatrice"
+    ],
+    "luce": "eliofila"
+  },
+  "tratti_chiave": [
+    "Foglie composte da 9-19 foglioline ovali a margine liscio, con una fogliolina in punta",
+    "Due spine appaiate alla base di ogni foglia sui rami giovani",
+    "Grappoli penduli di fiori bianchi profumatissimi a maggio; baccelli piatti bruni che restano in inverno",
+    "Corteccia grigio-bruna con creste spesse intrecciate a rete"
+  ],
+  "origine": {
+    "stato": "invasiva",
+    "note": "Originaria del Nord America orientale; introdotta in Europa all'inizio del Seicento e poi piantata ovunque per consolidare scarpate e produrre legna. Oggi è una delle specie invasive più diffuse d'Italia."
+  },
+  "foglie": {
+    "tipo": "composta pennata (imparipennata)",
+    "disposizione": "alterna",
+    "forma": "15-30 cm, con 9-19 foglioline ellittiche di 2-5 cm",
+    "margine": "intero",
+    "venatura": "pennata in ogni fogliolina",
+    "colore_stagionale": {
+      "primavera_estate": "verde chiaro, un po' bluastro sotto; le foglioline si ripiegano di notte",
+      "autunno": "giallo pallido, cadono presto"
+    },
+    "descrizione": "Alla base del picciolo le stipole sono trasformate in due spine robuste, lunghe fino a 2-3 cm."
+  },
+  "corteccia": {
+    "colore": "grigio-bruno",
+    "texture": "profondamente fessurata, con creste spesse che si intrecciano a rete",
+    "evoluzione_con_eta": "si fessura già sui tronchi giovani",
+    "descrizione": "Le creste intrecciate sono un buon carattere invernale insieme alle spine e ai baccelli."
+  },
+  "rami_e_portamento": {
+    "disposizione_rami": "alterna; rami a zig-zag con spine",
+    "angolo_di_crescita": "rami irregolari, contorti",
+    "forma_chioma": "irregolare, rada e leggera",
+    "silhouette_invernale": "spoglio: rami contorti a zig-zag, spinosi, spesso con baccelli secchi appesi",
+    "descrizione": "Emette moltissimi polloni dalle radici: tagliarla la fa ricacciare ancora più fitta.",
+    "ramificazione": "Simpodiale: non ha una vera gemma terminale; ogni anno la crescita riparte da una gemma laterale."
+  },
+  "gemme": {
+    "forma": "piccolissime, nascoste sotto la cicatrice della foglia",
+    "colore": "non visibili",
+    "disposizione": "alterne, tra le due spine",
+    "descrizione": "In inverno sembrano mancare: si vedono solo le cicatrici fogliari affiancate dalle spine."
+  },
+  "fiori_e_frutti": {
+    "tipo_fiore": "fiori bianchi a farfalla, profumati, in grappoli penduli di 10-20 cm",
+    "periodo_fioritura": "maggio",
+    "tipo_frutto": "legume piatto di 5-10 cm, bruno-rossiccio, con 4-10 semi",
+    "periodo_fruttificazione": "settembre-ottobre; i baccelli restano sui rami in inverno",
+    "descrizione": "È un'ottima pianta per le api: il 'miele di acacia' viene dai suoi fiori."
+  },
+  "dimensioni": {
+    "altezza_tipica_m": [
+      15,
+      25
+    ],
+    "altezza_max_m": 30,
+    "eta_massima_anni": null,
+    "note": "Età massima non accertata; di vita relativamente breve (stima indicativa: circa un secolo)."
+  },
+  "habitat_e_distribuzione": {
+    "regioni_italia": [
+      "Tutta Italia, soprattutto Pianura Padana, colline e fondovalle del Nord",
+      "Massicciate, scarpate, rive, boschi degradati, incolti"
+    ],
+    "altitudine": "0-1200 m",
+    "terreno_preferito": "qualsiasi, anche povero; fissa l'azoto grazie ai batteri delle radici",
+    "descrizione": "Forma boschi quasi puri (robinieti) al posto di querceti e boschi ripariali."
+  },
+  "ecologia": {
+    "descrizione": "Pioniera invasiva: colonizza velocemente terreni nudi e boschi tagliati; arricchisce il suolo di azoto, favorendo ortiche e rovi a scapito della flora del bosco. Soffre l'ombra: dove il bosco si chiude, col tempo lascia spazio ad altre specie."
+  },
+  "stagionalita": {
+    "primavera": "Grappoli di fiori bianchi profumati (maggio).",
+    "estate": "Foglie verde chiaro, leggere.",
+    "autunno": "Foglie gialle; baccelli bruni.",
+    "inverno": "Rami spinosi a zig-zag con baccelli appesi; corteccia a rete."
+  },
+  "specie_simili": [
+    {
+      "id_specie": "ailanthus-altissima",
+      "come_distinguere": "L'ailanto ha foglie molto più grandi, con 11-41 foglioline con 1-4 denti alla base, odore sgradevole, niente spine e corteccia liscia."
+    },
+    {
+      "id_specie": "fraxinus-excelsior",
+      "come_distinguere": "Il frassino maggiore ha foglie composte opposte, seghettate, gemme nere e nessuna spina."
+    }
+  ],
+  "commestibilita": {
+    "parti": "fiori",
+    "note": "I grappoli di fiori si mangiano fritti in pastella (frittelle di fiori di acacia) o in sciroppi.",
+    "avvertenze": "Solo i fiori: semi, corteccia e foglie sono tossici."
+  },
+  "tossicita": {
+    "livello": "moderata",
+    "parti": "corteccia, semi, foglie, radici",
+    "note": "Contengono proteine tossiche (lectine): pericolose soprattutto per cavalli e bambini che masticano la corteccia o i semi."
+  },
+  "curiosita_e_usi": "Il nome ricorda Jean Robin, giardiniere del re di Francia, che la coltivò per primo a Parigi. Il suo legno, durissimo e resistente all'umidità, è ottimo per pali di vigneti e legna da ardere.",
+  "immagini": [
+    {
+      "tipo": "silhouette",
+      "file": "img/robinia-pseudoacacia-silhouette.jpg",
+      "fonte": "Wikimedia Commons",
+      "autore": "Humphrey Bolton",
+      "licenza": "CC BY-SA 2.0",
+      "url_originale": "https://commons.wikimedia.org/wiki/File:False_Acacia_trees,_Parsonage_Lane,_Brighouse_-_geograph.org.uk_-_6518983.jpg",
+      "titolo_originale": "False Acacia trees, Parsonage Lane, Brighouse - geograph.org.uk - 6518983.jpg"
+    },
+    {
+      "tipo": "silhouette",
+      "file": "img/robinia-pseudoacacia-silhouette-2.jpg",
+      "fonte": "Wikimedia Commons",
+      "autore": "Crusier",
+      "licenza": "CC BY 3.0",
+      "url_originale": "https://commons.wikimedia.org/wiki/File:Robinia_pseudoacacia_Bielsko-Bia%C5%82a.JPG",
+      "titolo_originale": "Robinia pseudoacacia Bielsko-Biała.JPG"
+    },
+    {
+      "tipo": "foglia",
+      "file": "img/robinia-pseudoacacia-foglia.jpg",
+      "fonte": "Wikimedia Commons",
+      "autore": "AnRo0002",
+      "licenza": "CC0",
+      "url_originale": "https://commons.wikimedia.org/wiki/File:20200525Robinia_pseudoacacia3.jpg",
+      "titolo_originale": "20200525Robinia pseudoacacia3.jpg"
+    },
+    {
+      "tipo": "corteccia",
+      "file": "img/robinia-pseudoacacia-corteccia.jpg",
+      "fonte": "Wikimedia Commons",
+      "autore": "AnRo0002",
+      "licenza": "CC0",
+      "url_originale": "https://commons.wikimedia.org/wiki/File:20160117Robinia_pseudoacacia2.jpg",
+      "titolo_originale": "20160117Robinia pseudoacacia2.jpg"
+    },
+    {
+      "tipo": "fiore_o_frutto",
+      "file": "img/robinia-pseudoacacia-fiore_o_frutto.jpg",
+      "fonte": "Wikimedia Commons",
+      "autore": "AnRo0002",
+      "licenza": "CC0",
+      "url_originale": "https://commons.wikimedia.org/wiki/File:20180511Robinia_pseudoacacia2.jpg",
+      "titolo_originale": "20180511Robinia pseudoacacia2.jpg"
+    },
+    {
+      "tipo": "gemme",
+      "file": "img/robinia-pseudoacacia-gemme.jpg",
+      "fonte": "Wikimedia Commons",
+      "autore": "AnRo0002",
+      "licenza": "CC0",
+      "url_originale": "https://commons.wikimedia.org/wiki/File:20200417Robinia_pseudoacacia1.jpg",
+      "titolo_originale": "20200417Robinia pseudoacacia1.jpg"
+    }
+  ],
+  "fonti": [
+    {
+      "titolo": "Robinia pseudoacacia – Wikipedia (it)",
+      "url": "https://it.wikipedia.org/wiki/Robinia_pseudoacacia"
+    },
+    {
+      "titolo": "Robinia pseudoacacia – Wikipedia (en)",
+      "url": "https://en.wikipedia.org/wiki/Robinia_pseudoacacia"
+    }
+  ]
+}

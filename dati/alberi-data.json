@@ -1023,6 +1023,416 @@
    ]
   },
   {
+   "id": "ailanthus-altissima",
+   "nome_comune": "Ailanto",
+   "nome_scientifico": "Ailanthus altissima",
+   "famiglia": "Simaroubaceae",
+   "genere": "Ailanthus",
+   "sinonimi": [
+    "Albero del paradiso"
+   ],
+   "nomi_locali": [],
+   "stato": "bozza",
+   "aggiornato": "2026-09-25",
+   "chiave": {
+    "gruppo": "latifoglia",
+    "persistenza": "caduca",
+    "foglia_tipo": "composta_pennata",
+    "foglia_disposizione": "alterna",
+    "foglia_margine": [
+     "intero",
+     "dentato"
+    ],
+    "foglia_forma": [
+     "lanceolata"
+    ],
+    "frutto": "samara",
+    "corteccia_texture": [
+     "liscia"
+    ],
+    "habitat": [
+     "planiziale",
+     "collinare",
+     "urbano_parchi",
+     "rupestre_arido"
+    ],
+    "altitudine_m": [
+     0,
+     1000
+    ],
+    "ramificazione": "simpodiale",
+    "ruolo_ecologico": [
+     "pioniera",
+     "colonizzatrice"
+    ],
+    "luce": "eliofila"
+   },
+   "tratti_chiave": [
+    "Foglie enormi (40-90 cm), composte da 11-41 foglioline, ognuna con 1-4 denti alla base",
+    "Foglie stropicciate con odore sgradevole, come di arachidi rancide",
+    "Corteccia grigia e liscia con sottili strisce chiare; grappoli di frutti alati rosso-bruni in estate"
+   ],
+   "origine": {
+    "stato": "invasiva",
+    "note": "Originario della Cina; introdotto in Italia nel Settecento e diffuso nell'Ottocento anche per allevare un baco da seta. Oggi è tra le specie invasive più problematiche."
+   },
+   "foglie": {
+    "tipo": "composta pennata",
+    "disposizione": "alterna",
+    "forma": "40-90 cm, con 11-41 foglioline lanceolate di 7-15 cm",
+    "margine": "intero, con 1-4 denti alla base di ogni fogliolina, ciascuno con una ghiandola scura sotto",
+    "venatura": "pennata",
+    "colore_stagionale": {
+     "primavera_estate": "verde scuro sopra, più chiaro sotto; le foglie giovani sono rossastre",
+     "autunno": "giallo"
+    },
+    "descrizione": "I denti ghiandolari alla base delle foglioline lo distinguono da noce, frassino e sommacco."
+   },
+   "corteccia": {
+    "colore": "grigio chiaro",
+    "texture": "liscia, con sottili strisce verticali più chiare (come la buccia di un melone)",
+    "evoluzione_con_eta": "resta abbastanza liscia a lungo",
+    "descrizione": ""
+   },
+   "rami_e_portamento": {
+    "disposizione_rami": "alterna; rami grossi, poco ramificati, con midollo largo",
+    "angolo_di_crescita": "rami ascendenti",
+    "forma_chioma": "ampia e rada, a ombrello",
+    "silhouette_invernale": "spoglio: pochi rami grossi e tozzi con grandi cicatrici fogliari a forma di cuore o scudo",
+    "descrizione": "Cresce velocissimo (anche 2-3 m l'anno da giovane) e produce moltissimi polloni dalle radici.",
+    "ramificazione": "Simpodiale: manca la gemma terminale vera."
+   },
+   "gemme": {
+    "forma": "piccole, emisferiche",
+    "colore": "bruno-rossastre, pelose",
+    "disposizione": "alterne, sopra grandi cicatrici fogliari",
+    "descrizione": "Le cicatrici fogliari sono molto più grandi delle gemme, con tanti puntini (tracce dei vasi) sul bordo."
+   },
+   "fiori_e_frutti": {
+    "tipo_fiore": "fiori piccoli giallo-verdastri in grandi pannocchie; piante maschili e femminili separate; i fiori maschili hanno odore sgradevole",
+    "periodo_fioritura": "giugno-luglio",
+    "tipo_frutto": "samara allungata e ritorta di 3-5 cm con il seme al centro, verde poi rosso-bruna, in grandi grappoli",
+    "periodo_fruttificazione": "agosto-ottobre; restano sull'albero in inverno",
+    "descrizione": "Una sola pianta femminile può produrre centinaia di migliaia di semi all'anno, portati dal vento."
+   },
+   "dimensioni": {
+    "altezza_tipica_m": [
+     15,
+     20
+    ],
+    "altezza_max_m": 30,
+    "eta_massima_anni": null,
+    "note": "Età massima non accertata; di vita breve (stima indicativa: 50-100 anni)."
+   },
+   "habitat_e_distribuzione": {
+    "regioni_italia": [
+     "Tutta Italia: città, massicciate ferroviarie, argini, muri, cave, incolti, margini di bosco",
+     "Anche aree protette del Sud e delle isole"
+    ],
+    "altitudine": "0-1000 m",
+    "terreno_preferito": "qualsiasi, anche povero, arido e inquinato",
+    "descrizione": "Tollera siccità, inquinamento e sale: cresce perfino nelle crepe di muri e marciapiedi."
+   },
+   "ecologia": {
+    "descrizione": "Pioniera invasiva: le radici rilasciano sostanze che ostacolano la crescita di altre piante; si propaga per seme e per polloni radicali, rendendo difficilissima l'eliminazione. Soffre solo l'ombra fitta."
+   },
+   "stagionalita": {
+    "primavera": "Foglie giovani rossastre.",
+    "estate": "Fioritura con odore sgradevole; frutti verdi.",
+    "autunno": "Grappoli di samare rosso-brune.",
+    "inverno": "Rami tozzi con grandi cicatrici; samare secche appese."
+   },
+   "specie_simili": [
+    {
+     "id_specie": "robinia-pseudoacacia",
+     "come_distinguere": "La robinia ha foglie più piccole con foglioline ovali a margine liscio, spine appaiate e corteccia a creste intrecciate."
+    },
+    {
+     "id_specie": "juglans-regia",
+     "come_distinguere": "Il noce ha solo 5-9 foglioline grandi, senza denti alla base, con odore aromatico gradevole."
+    },
+    {
+     "id_specie": "fraxinus-excelsior",
+     "come_distinguere": "Il frassino maggiore ha foglie opposte, seghettate lungo tutto il margine, e gemme nere."
+    }
+   ],
+   "commestibilita": {
+    "parti": "nessuna",
+    "note": "",
+    "avvertenze": ""
+   },
+   "tossicita": {
+    "livello": "bassa",
+    "parti": "linfa, foglie, corteccia; polline",
+    "note": "La linfa può irritare la pelle; il polline è allergenico; le foglie sono molto amare."
+   },
+   "curiosita_e_usi": "In Italia fu diffuso anche per allevare la 'sfinge dell'ailanto', una farfalla il cui bruco produce seta, come alternativa al baco da seta del gelso.",
+   "immagini": [
+    {
+     "tipo": "silhouette",
+     "file": "img/ailanthus-altissima-silhouette.jpg",
+     "fonte": "Wikimedia Commons",
+     "autore": "Darkone ( talk · contribs )",
+     "licenza": "CC BY-SA 2.5",
+     "url_originale": "https://commons.wikimedia.org/wiki/File:G%C3%B6tterbaum_(Ailanthus_altissima).jpg",
+     "titolo_originale": "Götterbaum (Ailanthus altissima).jpg"
+    },
+    {
+     "tipo": "foglia",
+     "file": "img/ailanthus-altissima-foglia.jpg",
+     "fonte": "Wikimedia Commons",
+     "autore": "Ewen Cameron",
+     "licenza": "CC BY 4.0",
+     "url_originale": "https://commons.wikimedia.org/wiki/File:Ailanthus_altissima_(Mill.)_Swingle_(AM_AK320605).jpg",
+     "titolo_originale": "Ailanthus altissima (Mill.) Swingle (AM AK320605).jpg"
+    },
+    {
+     "tipo": "fiore_o_frutto",
+     "file": "img/ailanthus-altissima-fiore_o_frutto.jpg",
+     "fonte": "Wikimedia Commons",
+     "autore": "AnRo0002",
+     "licenza": "CC0",
+     "url_originale": "https://commons.wikimedia.org/wiki/File:20120814Goetterbaum_Hockenheim05.jpg",
+     "titolo_originale": "20120814Goetterbaum Hockenheim05.jpg"
+    },
+    {
+     "tipo": "corteccia",
+     "file": "img/ailanthus-altissima-corteccia.jpg",
+     "fonte": "Wikimedia Commons",
+     "autore": "Philmarin",
+     "licenza": "CC BY-SA 4.0",
+     "url_originale": "https://commons.wikimedia.org/wiki/File:A._altissima_-_bark-_1.jpg",
+     "titolo_originale": "A. altissima - bark- 1.jpg"
+    },
+    {
+     "tipo": "gemme",
+     "file": "img/ailanthus-altissima-gemme.jpg",
+     "fonte": "Wikimedia Commons",
+     "autore": "AnRo0002",
+     "licenza": "CC0",
+     "url_originale": "https://commons.wikimedia.org/wiki/File:20150224Ailanthus_altissima2.jpg",
+     "titolo_originale": "20150224Ailanthus altissima2.jpg"
+    }
+   ],
+   "fonti": [
+    {
+     "titolo": "Ailanthus altissima – Wikipedia (it)",
+     "url": "https://it.wikipedia.org/wiki/Ailanthus_altissima"
+    },
+    {
+     "titolo": "Ailanthus altissima – Wikipedia (en)",
+     "url": "https://en.wikipedia.org/wiki/Ailanthus_altissima"
+    }
+   ]
+  },
+  {
+   "id": "cercis-siliquastrum",
+   "nome_comune": "Albero di Giuda",
+   "nome_scientifico": "Cercis siliquastrum",
+   "famiglia": "Fabaceae",
+   "genere": "Cercis",
+   "sinonimi": [
+    "Siliquastro"
+   ],
+   "nomi_locali": [],
+   "stato": "bozza",
+   "aggiornato": "2026-09-25",
+   "chiave": {
+    "gruppo": "latifoglia",
+    "persistenza": "caduca",
+    "foglia_tipo": "semplice",
+    "foglia_disposizione": "alterna",
+    "foglia_margine": [
+     "intero"
+    ],
+    "foglia_forma": [
+     "orbicolare",
+     "cordata"
+    ],
+    "frutto": "legume",
+    "corteccia_texture": [
+     "fessurata"
+    ],
+    "habitat": [
+     "collinare",
+     "rupestre_arido",
+     "urbano_parchi",
+     "mediterraneo_costiero"
+    ],
+    "altitudine_m": [
+     0,
+     800
+    ],
+    "ramificazione": "non_accertata",
+    "ruolo_ecologico": [
+     "non_accertato"
+    ],
+    "luce": "eliofila"
+   },
+   "tratti_chiave": [
+    "Ad aprile si copre di fiori rosa-magenta prima delle foglie, anche direttamente sul tronco e sui rami vecchi",
+    "Foglie tonde, a cuore alla base, con margine liscio",
+    "Baccelli piatti bruno-violacei che restano appesi a lungo, anche in inverno"
+   ],
+   "origine": {
+    "stato": "archeofita",
+    "note": "Originario del Mediterraneo orientale; coltivato da secoli in Italia e naturalizzato qua e là su versanti caldi e sassosi."
+   },
+   "foglie": {
+    "tipo": "semplice",
+    "disposizione": "alterna",
+    "forma": "quasi tonda (reniforme), 6-10 cm, a cuore alla base e arrotondata o smarginata in punta",
+    "margine": "intero",
+    "venatura": "palmata: 5-7 nervature partono dalla base",
+    "colore_stagionale": {
+     "primavera_estate": "verde-bluastra opaca sopra, glauca sotto",
+     "autunno": "giallo"
+    },
+    "descrizione": ""
+   },
+   "corteccia": {
+    "colore": "bruno scuro o nerastro",
+    "texture": "finemente fessurata in piccole placche",
+    "evoluzione_con_eta": "",
+    "descrizione": "Sui tronchi e sui rami vecchi restano i cuscinetti da cui spuntano i fiori ogni anno."
+   },
+   "rami_e_portamento": {
+    "disposizione_rami": "alterna; spesso più fusti",
+    "angolo_di_crescita": "rami ascendenti, un po' tortuosi",
+    "forma_chioma": "ampia, irregolare, arrotondata",
+    "silhouette_invernale": "spoglio: piccolo albero a più fusti, spesso con baccelli secchi appesi",
+    "descrizione": "Di solito piccolo albero o grande arbusto.",
+    "ramificazione": "Tipo di ramificazione: dato non accertato."
+   },
+   "gemme": {
+    "forma": "piccole, appuntite, appressate al ramo",
+    "colore": "bruno-rossastre",
+    "disposizione": "alterne; quelle a fiore a gruppetti sui rami vecchi",
+    "descrizione": ""
+   },
+   "fiori_e_frutti": {
+    "tipo_fiore": "fiori a farfalla rosa-magenta, in mazzetti su rami, rami vecchi e tronco",
+    "periodo_fioritura": "aprile, prima delle foglie",
+    "tipo_frutto": "legume piatto di 6-10 cm, prima verde-rossastro poi bruno",
+    "periodo_fruttificazione": "estate; i baccelli restano sulla pianta fino all'inverno e oltre",
+    "descrizione": ""
+   },
+   "dimensioni": {
+    "altezza_tipica_m": [
+     4,
+     10
+    ],
+    "altezza_max_m": 15,
+    "eta_massima_anni": null,
+    "note": "Età massima non accertata."
+   },
+   "habitat_e_distribuzione": {
+    "regioni_italia": [
+     "Tutta Italia, piantato in parchi, viali e giardini",
+     "Naturalizzato su pendii caldi e calcarei, soprattutto al Centro-Sud; al Nord soprattutto coltivato"
+    ],
+    "altitudine": "0-800 m",
+    "terreno_preferito": "calcareo, sassoso, ben drenato; resiste alla siccità",
+    "descrizione": "Ama il caldo e la luce; teme i ristagni d'acqua."
+   },
+   "ecologia": {
+    "descrizione": "Specie di luce e di clima caldo; non ha il comportamento aggressivo della robinia e dell'ailanto. Ruolo nella successione: dato non accertato."
+   },
+   "stagionalita": {
+    "primavera": "Fioritura rosa-magenta su rami e tronco, prima delle foglie.",
+    "estate": "Foglie tonde; baccelli verdi-rossastri.",
+    "autunno": "Foglie gialle; baccelli bruni.",
+    "inverno": "Baccelli secchi appesi ai rami spogli."
+   },
+   "specie_simili": [
+    {
+     "id_specie": "ceratonia-siliqua",
+     "come_distinguere": "Il carrubo, della stessa famiglia, è sempreverde, con foglie composte e baccelli molto più grandi e spessi."
+    },
+    {
+     "id_specie": "tilia-cordata",
+     "come_distinguere": "Il tiglio selvatico ha foglie a cuore ma seghettate, asimmetriche alla base, e frutti tondi appesi a una brattea."
+    }
+   ],
+   "commestibilita": {
+    "parti": "fiori",
+    "note": "I fiori, dal sapore acidulo, si possono aggiungere crudi alle insalate o conservare in aceto come i capperi.",
+    "avvertenze": ""
+   },
+   "tossicita": {
+    "livello": "nessuna_nota",
+    "parti": "",
+    "note": "Nessuna tossicità nota per l'uso dei fiori."
+   },
+   "curiosita_e_usi": "Il nome ricorda la leggenda secondo cui Giuda si sarebbe impiccato a questo albero; più probabilmente viene da 'albero della Giudea', la regione da cui proviene. La fioritura che nasce direttamente dal tronco si chiama cauliflora.",
+   "immagini": [
+    {
+     "tipo": "silhouette",
+     "file": "img/cercis-siliquastrum-silhouette.jpg",
+     "fonte": "Wikimedia Commons",
+     "autore": "Claudio Gioseffi",
+     "licenza": "CC BY-SA 4.0",
+     "url_originale": "https://commons.wikimedia.org/wiki/File:Mossano_Valle_Molini_11.jpg",
+     "titolo_originale": "Mossano Valle Molini 11.jpg"
+    },
+    {
+     "tipo": "silhouette",
+     "file": "img/cercis-siliquastrum-silhouette-2.jpg",
+     "fonte": "Wikimedia Commons",
+     "autore": "Calistemon",
+     "licenza": "CC BY-SA 4.0",
+     "url_originale": "https://commons.wikimedia.org/wiki/File:Cercis_siliquastrum_in_Golden_Valley_Tree_Park,_May_2022_01.jpg",
+     "titolo_originale": "Cercis siliquastrum in Golden Valley Tree Park, May 2022 01.jpg"
+    },
+    {
+     "tipo": "foglia",
+     "file": "img/cercis-siliquastrum-foglia.jpg",
+     "fonte": "Wikimedia Commons",
+     "autore": "Didier Descouens",
+     "licenza": "CC BY-SA 4.0",
+     "url_originale": "https://commons.wikimedia.org/wiki/File:(MHNT)_Cercis_siliquastrum_-_foliage_-_Jardin_Botanique_Henri_GAUSSEN.jpg",
+     "titolo_originale": "(MHNT) Cercis siliquastrum - foliage - Jardin Botanique Henri GAUSSEN.jpg"
+    },
+    {
+     "tipo": "fiore_o_frutto",
+     "file": "img/cercis-siliquastrum-fiore_o_frutto.jpg",
+     "fonte": "Wikimedia Commons",
+     "autore": "Didier Descouens",
+     "licenza": "CC BY-SA 4.0",
+     "url_originale": "https://commons.wikimedia.org/wiki/File:(MHNT)_Cercis_siliquastrum_-_Cauliflory_-_Jardin_Botanique_Henri_GAUSSEN.jpg",
+     "titolo_originale": "(MHNT) Cercis siliquastrum - Cauliflory - Jardin Botanique Henri GAUSSEN.jpg"
+    },
+    {
+     "tipo": "fiore_o_frutto",
+     "file": "img/cercis-siliquastrum-fiore_o_frutto-2.jpg",
+     "fonte": "Wikimedia Commons",
+     "autore": "AnRo0002",
+     "licenza": "CC0",
+     "url_originale": "https://commons.wikimedia.org/wiki/File:20171019Cercis_siliquastrum5.jpg",
+     "titolo_originale": "20171019Cercis siliquastrum5.jpg"
+    },
+    {
+     "tipo": "corteccia",
+     "file": "img/cercis-siliquastrum-corteccia.jpg",
+     "fonte": "Wikimedia Commons",
+     "autore": "Fraxinus",
+     "licenza": "Public domain",
+     "url_originale": "https://commons.wikimedia.org/wiki/File:Albero_di_Giuda_-_corteccia.jpg",
+     "titolo_originale": "Albero di Giuda - corteccia.jpg"
+    }
+   ],
+   "fonti": [
+    {
+     "titolo": "Cercis siliquastrum – Wikipedia (it)",
+     "url": "https://it.wikipedia.org/wiki/Cercis_siliquastrum"
+    },
+    {
+     "titolo": "Cercis siliquastrum – Wikipedia (en)",
+     "url": "https://en.wikipedia.org/wiki/Cercis_siliquastrum"
+    }
+   ]
+  },
+  {
    "id": "laurus-nobilis",
    "nome_comune": "Alloro",
    "nome_scientifico": "Laurus nobilis",
@@ -3957,6 +4367,14 @@
     {
      "id_specie": "sorbus-domestica",
      "come_distinguere": "Il sorbo domestico ha foglie composte alterne, gemme verdi appiccicose e frutti a piccola pera."
+    },
+    {
+     "id_specie": "robinia-pseudoacacia",
+     "come_distinguere": "La robinia ha foglie composte ma alterne, a margine liscio, e spine appaiate alla base."
+    },
+    {
+     "id_specie": "ailanthus-altissima",
+     "come_distinguere": "L'ailanto ha foglie composte alterne, lunghissime, con denti ghiandolari solo alla base delle foglioline."
     }
    ],
    "commestibilita": {
@@ -7747,6 +8165,216 @@
    ]
   },
   {
+   "id": "robinia-pseudoacacia",
+   "nome_comune": "Robinia",
+   "nome_scientifico": "Robinia pseudoacacia",
+   "famiglia": "Fabaceae",
+   "genere": "Robinia",
+   "sinonimi": [
+    "Acacia (impropriamente)",
+    "Gaggia"
+   ],
+   "nomi_locali": [],
+   "stato": "bozza",
+   "aggiornato": "2026-09-25",
+   "chiave": {
+    "gruppo": "latifoglia",
+    "persistenza": "caduca",
+    "foglia_tipo": "composta_pennata",
+    "foglia_disposizione": "alterna",
+    "foglia_margine": [
+     "intero"
+    ],
+    "foglia_forma": [
+     "ellittica",
+     "ovata"
+    ],
+    "frutto": "legume",
+    "corteccia_texture": [
+     "fessurata"
+    ],
+    "habitat": [
+     "planiziale",
+     "collinare",
+     "ripariale_umido",
+     "urbano_parchi"
+    ],
+    "altitudine_m": [
+     0,
+     1200
+    ],
+    "ramificazione": "simpodiale",
+    "ruolo_ecologico": [
+     "pioniera",
+     "colonizzatrice"
+    ],
+    "luce": "eliofila"
+   },
+   "tratti_chiave": [
+    "Foglie composte da 9-19 foglioline ovali a margine liscio, con una fogliolina in punta",
+    "Due spine appaiate alla base di ogni foglia sui rami giovani",
+    "Grappoli penduli di fiori bianchi profumatissimi a maggio; baccelli piatti bruni che restano in inverno",
+    "Corteccia grigio-bruna con creste spesse intrecciate a rete"
+   ],
+   "origine": {
+    "stato": "invasiva",
+    "note": "Originaria del Nord America orientale; introdotta in Europa all'inizio del Seicento e poi piantata ovunque per consolidare scarpate e produrre legna. Oggi è una delle specie invasive più diffuse d'Italia."
+   },
+   "foglie": {
+    "tipo": "composta pennata (imparipennata)",
+    "disposizione": "alterna",
+    "forma": "15-30 cm, con 9-19 foglioline ellittiche di 2-5 cm",
+    "margine": "intero",
+    "venatura": "pennata in ogni fogliolina",
+    "colore_stagionale": {
+     "primavera_estate": "verde chiaro, un po' bluastro sotto; le foglioline si ripiegano di notte",
+     "autunno": "giallo pallido, cadono presto"
+    },
+    "descrizione": "Alla base del picciolo le stipole sono trasformate in due spine robuste, lunghe fino a 2-3 cm."
+   },
+   "corteccia": {
+    "colore": "grigio-bruno",
+    "texture": "profondamente fessurata, con creste spesse che si intrecciano a rete",
+    "evoluzione_con_eta": "si fessura già sui tronchi giovani",
+    "descrizione": "Le creste intrecciate sono un buon carattere invernale insieme alle spine e ai baccelli."
+   },
+   "rami_e_portamento": {
+    "disposizione_rami": "alterna; rami a zig-zag con spine",
+    "angolo_di_crescita": "rami irregolari, contorti",
+    "forma_chioma": "irregolare, rada e leggera",
+    "silhouette_invernale": "spoglio: rami contorti a zig-zag, spinosi, spesso con baccelli secchi appesi",
+    "descrizione": "Emette moltissimi polloni dalle radici: tagliarla la fa ricacciare ancora più fitta.",
+    "ramificazione": "Simpodiale: non ha una vera gemma terminale; ogni anno la crescita riparte da una gemma laterale."
+   },
+   "gemme": {
+    "forma": "piccolissime, nascoste sotto la cicatrice della foglia",
+    "colore": "non visibili",
+    "disposizione": "alterne, tra le due spine",
+    "descrizione": "In inverno sembrano mancare: si vedono solo le cicatrici fogliari affiancate dalle spine."
+   },
+   "fiori_e_frutti": {
+    "tipo_fiore": "fiori bianchi a farfalla, profumati, in grappoli penduli di 10-20 cm",
+    "periodo_fioritura": "maggio",
+    "tipo_frutto": "legume piatto di 5-10 cm, bruno-rossiccio, con 4-10 semi",
+    "periodo_fruttificazione": "settembre-ottobre; i baccelli restano sui rami in inverno",
+    "descrizione": "È un'ottima pianta per le api: il 'miele di acacia' viene dai suoi fiori."
+   },
+   "dimensioni": {
+    "altezza_tipica_m": [
+     15,
+     25
+    ],
+    "altezza_max_m": 30,
+    "eta_massima_anni": null,
+    "note": "Età massima non accertata; di vita relativamente breve (stima indicativa: circa un secolo)."
+   },
+   "habitat_e_distribuzione": {
+    "regioni_italia": [
+     "Tutta Italia, soprattutto Pianura Padana, colline e fondovalle del Nord",
+     "Massicciate, scarpate, rive, boschi degradati, incolti"
+    ],
+    "altitudine": "0-1200 m",
+    "terreno_preferito": "qualsiasi, anche povero; fissa l'azoto grazie ai batteri delle radici",
+    "descrizione": "Forma boschi quasi puri (robinieti) al posto di querceti e boschi ripariali."
+   },
+   "ecologia": {
+    "descrizione": "Pioniera invasiva: colonizza velocemente terreni nudi e boschi tagliati; arricchisce il suolo di azoto, favorendo ortiche e rovi a scapito della flora del bosco. Soffre l'ombra: dove il bosco si chiude, col tempo lascia spazio ad altre specie."
+   },
+   "stagionalita": {
+    "primavera": "Grappoli di fiori bianchi profumati (maggio).",
+    "estate": "Foglie verde chiaro, leggere.",
+    "autunno": "Foglie gialle; baccelli bruni.",
+    "inverno": "Rami spinosi a zig-zag con baccelli appesi; corteccia a rete."
+   },
+   "specie_simili": [
+    {
+     "id_specie": "ailanthus-altissima",
+     "come_distinguere": "L'ailanto ha foglie molto più grandi, con 11-41 foglioline con 1-4 denti alla base, odore sgradevole, niente spine e corteccia liscia."
+    },
+    {
+     "id_specie": "fraxinus-excelsior",
+     "come_distinguere": "Il frassino maggiore ha foglie composte opposte, seghettate, gemme nere e nessuna spina."
+    }
+   ],
+   "commestibilita": {
+    "parti": "fiori",
+    "note": "I grappoli di fiori si mangiano fritti in pastella (frittelle di fiori di acacia) o in sciroppi.",
+    "avvertenze": "Solo i fiori: semi, corteccia e foglie sono tossici."
+   },
+   "tossicita": {
+    "livello": "moderata",
+    "parti": "corteccia, semi, foglie, radici",
+    "note": "Contengono proteine tossiche (lectine): pericolose soprattutto per cavalli e bambini che masticano la corteccia o i semi."
+   },
+   "curiosita_e_usi": "Il nome ricorda Jean Robin, giardiniere del re di Francia, che la coltivò per primo a Parigi. Il suo legno, durissimo e resistente all'umidità, è ottimo per pali di vigneti e legna da ardere.",
+   "immagini": [
+    {
+     "tipo": "silhouette",
+     "file": "img/robinia-pseudoacacia-silhouette.jpg",
+     "fonte": "Wikimedia Commons",
+     "autore": "Humphrey Bolton",
+     "licenza": "CC BY-SA 2.0",
+     "url_originale": "https://commons.wikimedia.org/wiki/File:False_Acacia_trees,_Parsonage_Lane,_Brighouse_-_geograph.org.uk_-_6518983.jpg",
+     "titolo_originale": "False Acacia trees, Parsonage Lane, Brighouse - geograph.org.uk - 6518983.jpg"
+    },
+    {
+     "tipo": "silhouette",
+     "file": "img/robinia-pseudoacacia-silhouette-2.jpg",
+     "fonte": "Wikimedia Commons",
+     "autore": "Crusier",
+     "licenza": "CC BY 3.0",
+     "url_originale": "https://commons.wikimedia.org/wiki/File:Robinia_pseudoacacia_Bielsko-Bia%C5%82a.JPG",
+     "titolo_originale": "Robinia pseudoacacia Bielsko-Biała.JPG"
+    },
+    {
+     "tipo": "foglia",
+     "file": "img/robinia-pseudoacacia-foglia.jpg",
+     "fonte": "Wikimedia Commons",
+     "autore": "AnRo0002",
+     "licenza": "CC0",
+     "url_originale": "https://commons.wikimedia.org/wiki/File:20200525Robinia_pseudoacacia3.jpg",
+     "titolo_originale": "20200525Robinia pseudoacacia3.jpg"
+    },
+    {
+     "tipo": "fiore_o_frutto",
+     "file": "img/robinia-pseudoacacia-fiore_o_frutto.jpg",
+     "fonte": "Wikimedia Commons",
+     "autore": "AnRo0002",
+     "licenza": "CC0",
+     "url_originale": "https://commons.wikimedia.org/wiki/File:20180511Robinia_pseudoacacia2.jpg",
+     "titolo_originale": "20180511Robinia pseudoacacia2.jpg"
+    },
+    {
+     "tipo": "corteccia",
+     "file": "img/robinia-pseudoacacia-corteccia.jpg",
+     "fonte": "Wikimedia Commons",
+     "autore": "AnRo0002",
+     "licenza": "CC0",
+     "url_originale": "https://commons.wikimedia.org/wiki/File:20160117Robinia_pseudoacacia2.jpg",
+     "titolo_originale": "20160117Robinia pseudoacacia2.jpg"
+    },
+    {
+     "tipo": "gemme",
+     "file": "img/robinia-pseudoacacia-gemme.jpg",
+     "fonte": "Wikimedia Commons",
+     "autore": "AnRo0002",
+     "licenza": "CC0",
+     "url_originale": "https://commons.wikimedia.org/wiki/File:20200417Robinia_pseudoacacia1.jpg",
+     "titolo_originale": "20200417Robinia pseudoacacia1.jpg"
+    }
+   ],
+   "fonti": [
+    {
+     "titolo": "Robinia pseudoacacia – Wikipedia (it)",
+     "url": "https://it.wikipedia.org/wiki/Robinia_pseudoacacia"
+    },
+    {
+     "titolo": "Robinia pseudoacacia – Wikipedia (en)",
+     "url": "https://en.wikipedia.org/wiki/Robinia_pseudoacacia"
+    }
+   ]
+  },
+  {
    "id": "quercus-petraea",
    "nome_comune": "Rovere",
    "nome_scientifico": "Quercus petraea",
@@ -9716,6 +10344,10 @@
     {
      "id_specie": "corylus-avellana",
      "come_distinguere": "Il nocciolo ha foglia tondeggiante ma pelosa e doppiamente seghettata, ed è un arbusto a molti fusti."
+    },
+    {
+     "id_specie": "cercis-siliquastrum",
+     "come_distinguere": "L'albero di Giuda ha foglie tonde a margine liscio, fiori rosa sui rami in aprile e baccelli piatti."
     }
    ],
    "commestibilita": {
@@ -10610,6 +11242,43 @@
    "specie": [
     "pinus-nigra"
    ]
+  },
+  {
+   "id": "c076",
+   "testo": "Quelle che in Italia chiamiamo 'acacie' sono quasi sempre robinie: le vere acacie sono piante di climi caldi, come la mimosa.",
+   "specie": [
+    "robinia-pseudoacacia"
+   ]
+  },
+  {
+   "id": "c077",
+   "testo": "Le frittelle di 'fiori di acacia' si fanno con i grappoli bianchi della robinia, a maggio: solo i fiori, perché semi e corteccia sono tossici.",
+   "specie": [
+    "robinia-pseudoacacia"
+   ],
+   "stagione": "primavera"
+  },
+  {
+   "id": "c078",
+   "testo": "L'ailanto cresce anche nelle crepe dei marciapiedi e sui tetti: una sola pianta femminile può produrre centinaia di migliaia di semi all'anno.",
+   "specie": [
+    "ailanthus-altissima"
+   ]
+  },
+  {
+   "id": "c079",
+   "testo": "Tagliare un ailanto senza togliere le radici lo moltiplica: dalla ceppaia e dalle radici spuntano decine di nuovi polloni.",
+   "specie": [
+    "ailanthus-altissima"
+   ]
+  },
+  {
+   "id": "c080",
+   "testo": "L'albero di Giuda fiorisce direttamente sul tronco e sui rami vecchi, prima di mettere le foglie.",
+   "specie": [
+    "cercis-siliquastrum"
+   ],
+   "stagione": "primavera"
   }
  ],
  "elenco_specie": [
@@ -11011,7 +11680,7 @@
    "nome_scientifico": "Robinia pseudoacacia",
    "gruppo": "latifoglia",
    "lotto": 6,
-   "stato": "pianificata"
+   "stato": "compilata"
   },
   {
    "id": "ailanthus-altissima",
@@ -11019,7 +11688,7 @@
    "nome_scientifico": "Ailanthus altissima",
    "gruppo": "latifoglia",
    "lotto": 6,
-   "stato": "pianificata"
+   "stato": "compilata"
   },
   {
    "id": "cercis-siliquastrum",
@@ -11027,7 +11696,7 @@
    "nome_scientifico": "Cercis siliquastrum",
    "gruppo": "latifoglia",
    "lotto": 6,
-   "stato": "pianificata"
+   "stato": "compilata"
   },
   {
    "id": "pinus-halepensis",

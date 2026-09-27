@@ -488,6 +488,43 @@
       "specie": [
         "pinus-nigra"
       ]
+    },
+    {
+      "id": "c076",
+      "testo": "Quelle che in Italia chiamiamo 'acacie' sono quasi sempre robinie: le vere acacie sono piante di climi caldi, come la mimosa.",
+      "specie": [
+        "robinia-pseudoacacia"
+      ]
+    },
+    {
+      "id": "c077",
+      "testo": "Le frittelle di 'fiori di acacia' si fanno con i grappoli bianchi della robinia, a maggio: solo i fiori, perché semi e corteccia sono tossici.",
+      "specie": [
+        "robinia-pseudoacacia"
+      ],
+      "stagione": "primavera"
+    },
+    {
+      "id": "c078",
+      "testo": "L'ailanto cresce anche nelle crepe dei marciapiedi e sui tetti: una sola pianta femminile può produrre centinaia di migliaia di semi all'anno.",
+      "specie": [
+        "ailanthus-altissima"
+      ]
+    },
+    {
+      "id": "c079",
+      "testo": "Tagliare un ailanto senza togliere le radici lo moltiplica: dalla ceppaia e dalle radici spuntano decine di nuovi polloni.",
+      "specie": [
+        "ailanthus-altissima"
+      ]
+    },
+    {
+      "id": "c080",
+      "testo": "L'albero di Giuda fiorisce direttamente sul tronco e sui rami vecchi, prima di mettere le foglie.",
+      "specie": [
+        "cercis-siliquastrum"
+      ],
+      "stagione": "primavera"
     }
   ]
 }
